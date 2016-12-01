@@ -1,0 +1,411 @@
+---
+fr:
+  2fa:
+    5strike:
+      return: Retour à la page d'accueil
+      subtitle: Merde, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir essayer ouvrir une session encore.
+      title: Règle de Cinq Grèves
+    cta: C'est moi, laisser moi entrer!
+    error: "<strong>Kinky Opérateur:</strong> Doh&hellip; le code de vérification au dessus semble incorrect. S'il vous plaît vérifier que le numéro au dessus égale ce que vous recevez par nous et essayer encore."
+    label: Code d'identification
+    page_title: 2-Factor Authentification
+    subtitle: 2-Factor moi bébé!
+    title: Code Secret
+  about:
+    contact_info: Contact Info
+    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
+    europe: Europe
+    got_question: Got a question? Need help?
+    north_america: North America
+    one_love: One love, one life, and a whole lot of kink.
+    snail_mail: Snail Mail
+    sub_header: Not to be confused with the Spartans.
+    title: We. Are. FetLife!
+  ad_stats:
+    actions:
+      delete: Effacer
+      duplicate: Dupliquer
+      edit: Modifier
+      pause: Pause
+      start: Démarrer
+      unpause: Unpause
+    actions_literal: Actions
+    active_ads: Annonces Actives
+    ad_new:
+      cta: Télécharger Nouvelle Annonce
+      labels:
+        line1: Ligne 1
+        line2: Ligne 2
+        line3: Ligne 3
+      placeholders:
+        line1: Bijoux Insérables
+        line2: Lui rappeler toute la journée
+        line3: ce qui attend plus tard
+      subtitle: Facile comme 1, 2… 69.
+      title: Nouvelle Annonce
+    ads: Annonces
+    avg_ctr: Avg CTR
+    best: Meilleur
+    campaign_edit:
+      cta: Mettre à jour la Campagne
+      labels:
+        company_name: Nom de la Compagnie
+        member_id: member_id
+        slots_purchased: Emplacements Achetés
+      page_title: Modifier la Campagne
+      subtitle: Septembre 2016
+      title: Mettre à jour la Campagne
+    campaign_new:
+      cta: Nouvelle Campagne
+      subtitle: Septembre 2016
+      title: Nouvelle Campagne
+    campaigns: Campagnes
+    clicks: Clicks
+    ctr: CTR
+    edit: modifier
+    impressions: Impressions
+    last_updated: Statistiques mise à jour
+    name: Nom
+    new_ad: "+ nouvelle annonce"
+    new_campaign: "+ nouvelle campagne"
+    overview: Aperçu
+    press_start: Pousser "Demarrer" dès que prêt.
+    slots: Emplacements
+    subtitle: Contrôle au sol à Major Tom.
+    title: Statistiques d'annonces
+    update_every: Mettre à jour chaque 15 minutes
+    view: vue
+    worst: Pire
+  feed:
+    comment: Commentaire
+    comments_count:
+      one: 1 Commentaire
+      other: "%{number} Commentaires"
+    love: Aimer
+    loved_hover: Heart Breaker! :-(
+    loves_count:
+      one: 1 Amour
+      other: "%{number} Amours"
+    title: Feed d' activité
+  following:
+    follow: Follow
+    following: Following
+  footer:
+    about: Sur
+    help: Aide
+  forgot_password:
+    email:
+      cta: Envoi moi un Email avec Instructions
+      error_forgot_email: Je pense que vous avez oublié quelque chose… votre addresse email! :-p
+      error_invalid_email: Cela ne resemble pas a une valide addresse email. S'il vous plait remise le et re-soumettre.
+      error_quota: Nous ne pouvons envoyer deux emails par heure à n'importe quel addresse email. S'il vous plait revérifier que votre email n'a pas fini dans votre filtre spam. Si vous pouvez pas trouver n'importe quoi dans votre filtre spam je recommande utiliser l'un de l'autre méthodes pour revenir à votre compte.
+      placeholder: Addresse Email
+      step1:
+        page_title: Reinitialiser le mot de passe via Email
+        subtitle: Laissez-moi vous aider avec ça.
+        title: Oublié le mot de passe?
+      step2:
+        page_title: Vous "Pourriez" avoir du courrier
+        subtitle: S'il existe un profil associé avec cette email <strong>%{given_email}</strong> alors nous vous avons envoyé des instructions comment reinitialisé votre mot de passe.
+        title: Vous &ldquo;Pourriez&rdquo; Avoir du Courrier!
+      update_email: mettre à jour l'addresse email
+      warning: "<strong>Surgeon Generals Warning:</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une addresse email existe dans notre basse de donnés ou pas. Si vous n'obtenez pas de courriel de nous, il est probable qu'on n'as pas un compte associé avec cette addresse email."
+    mobile:
+      cta: Envoyé-moi un message texte
+      error_country_code: "<strong>Kinky Opérateur:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour L'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
+      error_quota: "<strong>Kinky Opérateur:</strong> Merde, nous pouvons seulement essayer envoyé jusqu'à 3 messages textes chaque 24 heures à n'importe quel numéro mobile. Si le numéro existe dans notre basse de donnés ou pas."
+      pro_tip: "<strong>Pro Tip?:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour L'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
+      step1:
+        page_title: Réinitialiser le mot de passe via Message Texte
+        subtitle: Laissez-moi vous aider avec ça.
+        title: Oublié Password?
+      step2:
+        cta: Vérifier Que Vous Êtes &#8482;
+        error_code_match: "<strong>Kinky Opérateur:</strong> Code Vérification que vous avez entré est incorrect. Vérifier que le numéro au dessus égale ce que vous recevez par nous et essayer encore. C'est un enregistrement."
+        inexisting_number: Si après deux minutes vous ne recevez pas une message texte de nous, c'est probablement parce que nous n'avons pas un profil attaché à votre numéro. Nous vous recommandons soit <a href="%{forgot_password_email_path}">essayez de réinitialiser votre mot de passe utilisant un autre méthode</a> ou <a href="%{signup_path}">installer un nouveau profil sur FetLife</a>.
+        label: Code de Vérification
+        page_title: Entrez le Code de Vérification
+        placeholder: 6-Chiffres Code de Vérification
+        subtitle: Nous &ldquo;pourrions&rdquo; vous envoyer une message texte.
+        title: Entrez le Code Verification Code
+      warning: "<strong>Surgeon Generals Warning:</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro mobile existe dans notre basse de donnés ou pas. Si vous n'obtenez pas un message texte de nous, c'est probablement parce que on n'as pas un compte associé avec ce numéro."
+    next_step: L'Étape suivante
+    return_to_login: retour à login
+    tab_email: Email
+    tab_mobile: Mobile
+  guidelines:
+    last_updated: 'Last Updated:'
+    sub_header: Follow your gut, it always nose.
+    subnav:
+      community: Community
+      community_short: Community
+      content: Content
+      content_short: Content
+      group_leader: Group Leader
+      group_leader_short: Group Leader
+    title: Guidelines
+  invite_a_friend:
+    cancel_button: annuler
+    cta: Invite un Ami à joindre FetLife
+    error: Nous avons des problèmes envoyez une invitation au addresse email çi-dessus. Nous recommandons vous vérifiez l'orthographe ou essayez un autre.
+    invitations_accepted: Invitations Accepté
+    invitations_sent: Invitations Envoyé
+    labels:
+      friends_email: Addresse Email d'Amis
+    next_step: étape suivante
+    return_to_feed: retour à feed
+    subtitle_step1:
+      one: Vous avez 1 invite qui reste.
+      other: Vous avez %{number} invites qui reste.
+    subtitle_step2: Nous avons envoyé une invitation de vous à <strong>%{email}</strong>.
+    title_step1: Invite un Ami
+    title_step2: Invitation envoyé
+    view_invitations: regarder votre invitations
+  landing_page:
+    footer: "<strong>%{member_count} Membres</strong> partages <strong>%{picture_count} photos</strong> et <strong>%{video_count} videos</strong>, participant à <strong>%{discussion_count} discussions</strong> dans <strong>%{group_count} groupes</strong>, allons <strong>%{event_count} évènements à venir</strong> et en train de lire <strong>%{post_count} postes blog</strong>. <em>Kinky paradis!</em>"
+    login_button: Login à FetLife
+    signup_button: Signer à FetLife
+    subtitle: Comme Facebook, mais organisé par des kinksters comme toi et moi. On pense c'est plus amusant comme ça. N'est-ce pas?
+    title: FetLife est le Réseau Social pour le BDSM, Fétiche & Kinky Communauté.
+  legalese:
+    subnav:
+      2257_exempt: 2257 Exempt
+      2257_exempt_short: '2257'
+      privacy: Privacy Policy
+      privacy_short: Privacy
+      terms: Terms of Use
+      terms_short: Terms
+    subtitle: Playing a lawyer on the interweb since '69.
+    title: Legalese
+  login:
+    button: Login à FetLife
+    error_flash: S'il vous plaît contacte <a href="mailto:support@fetlife.com">support@fetlife.com</a> que nous puissions vous aider rentrer encore.
+    error_login_blank: Login can't be blank
+    error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
+    error_password_blank: Password can't be blank
+    forgot_info: Oublié votre information login?
+    labels:
+      nickname: Nickname ou Email
+      password: Mot de passe
+      remember_me: Souviens-toi de moi, je reviendrai.
+    not_a_member: Pas encore un membre? Signer à FetLife
+    subtitle: Tu nous as manqué… beaucoup!
+    title: Bienvenue à la Maison
+  logout:
+    subtitle: Assurez-vous de revenir et nous voir bientôt.
+    title: Tu nous as manqué!
+  member_stats:
+    pics:
+      one: photo
+      other: photos
+    posts:
+      one: post
+      other: postes
+    vids:
+      one: vidéo
+      other: vidéos
+  nav:
+    events: Évènements
+    fetishes: Fétiches
+    groups: Groupes
+    home: Maison
+    places: Endroits
+    search_placeholder: Chercher...
+  page_break:
+    of: de
+  profile:
+    about_title: Liste d'amis
+    pictures_title: Photos
+    videos_title: Vidéos
+  promote_following:
+    button: Tourner Suivir Ouvert
+    ps: P.S. Vous pouvez tourner suivir à fermé à n'importe quel moment.
+    skip: Ne pas allumer Suivir pour moi.
+    subtitle: Séparé votre ami de votre suivants.
+    title: Introduisant Suivir
+  recommendations:
+    title: Recommendations
+  reset_password:
+    cta: Réinitialiser Mon Mot de Passe
+    footnote: "<strong>Pro Tip:</strong> Rapelles toi votre mot de passe."
+    label_enter: Nouveau Mot de Passe
+    label_re_enter: Re-Entrer votre Nouveau Mot de Passe
+    subtitle: Pas trop court, pas trop longue, juste le…
+    title: Réinitialiser le Mot de passe
+  select_language:
+    button: Changer votre Langue par Défaut
+    language_name: Français
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    title: Choisir Votre Langue
+  settings_account:
+    2fa_cta: Allumer 2-Factor Authentication
+    2fa_label: 2-Factor Authentication
+    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Vous pouvez <a href="#">deactivate</a> ou <a href="#">delete</a> votre compte si vous voulez vraiment mais trois sur quatre Papes fortement le décourage.
+    current_password_label: Mot de Passe Courant
+    email_cta: Mettre à jour l'Addresse Email
+    email_label: Email
+    email_placeholder: Addresse Email
+    language_cta: Mettre à jour la Langue Défaut
+    language_notice: FetLife n'est pas encore entièrment disponible en langues autre que Anglais. Si vous changez les paramètres içi, pas tout le website sera traduit.
+    new_password_label: Nouveau Mot de Passe
+    nickname_cta: Changer Nickname
+    nickname_label: 'Changer votre nickname de "JohnBaku" à:'
+    nickname_notice: "<strong>Pro Tip:</strong> Mesure deux fois, couper une fois. Vous ne pouvez changer votre nickname une fois chaque 28 journée. Pas de reprise."
+    nickname_placeholder: Nouveau Nickname
+    page_title: Changer Mot de Passe - Paramètres
+    password_cta: Réinitialiser Mot de Passe
+    repeat_password_label: Répéter Mot de Passe
+    subtitle: Pousser pas le gros rouge boutton.
+    title: Paramètres du compte
+  settings_notifications:
+    cta: Mettre à jour la Langue Défaut
+    language_label: Langue
+    notice: FetLife n'est pas encore pleinement disponible en langues autre que Anglais. Si vous changez les paramètres içi, pas tout le website sera traduit.
+    page_title: Langue - Paramètres
+    subtitle: Quelle est votre langue préférée?
+    title: Langue
+  settings_privacy:
+    blocked_list_subtitle: Pour ceux sur votre liste coquin.
+    blocked_list_title: Liste Bloqué
+    cb_feed: Permettre aux non-amis me suivre sur leur feed d'activité.
+    cb_fp: Permettre aux postes non-privé apparaître sur Fresh&Pervy.
+    cb_kp: Permettre aux postes non-privé apparaître sur Kinky&Popular.
+    content_privacy: Confidentialité de Contenu
+    cta: Enregistrer Paramètres de Confidentialité
+    following: Suivir
+    page_title: Paramètres de confidentialité
+    subtitle: Servi le façon dont vous l'aimez.
+    title: Confidentialité
+    warning: "<strong>Extrêmement Important</strong>: Fermer suivir cessera de suivre tout le monde qui vous suit actuellement. Pas de reprise. Sérieusement."
+  settings_profile:
+    about_you_label: Au Propos de Vous
+    add_website: "+ ajouter un autre website"
+    cta: Mettre à jour Votre Profil
+    dob_label: Date de Naissance
+    location_label: Location
+    looking_for_label: À la recherche de
+    page_title: Mettre à jour Profil
+    subtitle: Augmentation personnelle est une bonne chose.
+    title: Votre Profil
+    websites_label: Websites
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Mettre à jour l' Addresse Email
+    email_label: Mettre à jour l'Addresse Email
+    email_placeholder: Addresse Email
+    page_title: Mettre à jour l'Addresse Email - Paramètres
+    subtitle: Au cas où vous oublieriez votre mot de passe.
+    title: Mettre à jour l'Addresse Email
+  sidebar:
+    about_fetlife: À Propos de  Fetlife
+    ad_stats: Statistiques d' Annonces
+    advertising: Publicité
+    bug_bounty: Prime pour Bug
+    caretaking: Caretaking
+    close: fermer
+    edit_profile: Modifier Profil
+    edit_settings: Modifier Paramètres
+    events: Événements
+    fetishes: Fétiches
+    following: Suivir
+    fp: Fresh & Pervy
+    funny_quote: Si vous ne pouvez pas lire ceci ... vous avez probablement besoin de lunettes! - John 4:69
+    gift_support: Faites cadeau le Support de FetLife
+    groups: Groupes
+    guidelines: Lignes Directrices
+    home: Maison
+    invite_a_friend: Invite un Ami (%{count})
+    kp: Kinky & Popular
+    legalese: Légal
+    log_out: Déconnecter
+    need_help: Besoin d'Aide?
+    open_source: Open Source
+    places: Endroits
+    recommendations: Recommendations
+    upload_picture: Télécharger Photos
+    upload_video: Télécharger Vidéo
+    view_friends: Voir Amis
+    whats_new: Quoi de Neuf
+    write_post: Écrire Poste
+  signup:
+    almost_there: Presque Là!
+    error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d'informations.
+    error_birthdate: Date de naissance est requis.
+    error_email: Nous avons des problèmes avec le traitement de l'addresse email au dessus. Nous recommandons vous verifiez l'orthographie ou essayer un autre.
+    error_nickname: Le Nickname est déjà pris.
+    footnote: En cliquant sur le bouton au dessus vous acceptez de respecter et suivre notre <a href="%{guidelines_path}">Lignes Directrices Communautaires</a> et <a href="%{tou_path}">Conditions d'Utilisation</a>&hellip; Pas de reprise.
+    label:
+      birthdate: Date de Naissance
+      email: Addresse Email
+      location: Location
+      nickname: Nickname
+      password: Mot de Passe
+    page_title: Joindre
+    subtitle: Parle-nous un peu de toi.
+    title: Bienvenue à la Maison
+  signup_avatar:
+    pro_tip: '<strong>Pro Tip</strong>: Si vous êtes timide et préfèrent ne pas montrer votre visage, n''hésite pas à devenir créatif et montrer un coté différent de vous! Ou si vous préférez, vous pouvez <a href="%{next_step_path}">sauter cette étape</a> pour maintenant.'
+    say_cheese: Dites Cheese!
+    subtitle: Personnes avec avatars avont 69x plus de plaisir!
+    title: Télécharger un Avatar
+  signup_five_strikes:
+    page_title: Règles de Cinq Grèves
+    return_to_front: retour à la page d'accueil
+    subtitle_error: Merde, des raisons de sécurité, vous devrez attendre deux heures avant d'être capable de essayer de vous inscrire à nouveau.
+    title: Règles de Cinq Grèves
+  signup_follow:
+    follow: Suivre
+    next_step: L'Étape Suivante
+    subtitle: Suivre des kinksters qui pique votre intérêt.
+    title: Quelqu'un attire votre attention?
+  signup_phone:
+    cta: Envoyez Moi le Code de Vérification
+    error_cant_send: "<strong>Kinky Opérateur:</strong> Nous avons des problèmes envoyer un message texte. Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour l'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc. et que vous n'essayez pas de envoyer un message texte à votre ligne fixe."
+    error_quota: "<strong>Kinky Opérateur:</strong> Nous ne pouvons pas envoyer plus de 3 messages textes au même numéro dans une période de 24 heures. S'il vous plaît réessayer plus tard."
+    explanation: Nous savons que c'est beaucoup à demander, mais pour maintenir une communauté santé et vibran, nous devons vérifier tout le monde avant de se joindre. Quelque chose que nous pensons que vous appréceriez  quand vous êtes de l'autre côté.
+    label: Numéro de téléphone portable
+    page_title: Envoyer le Code de Vérification
+    pro_tip: "<strong>Pro Tip:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour l 'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
+    subtitle: Pour une fois un message texte anonyme.
+    title: Temps de Vérification!
+  signup_verify:
+    cta: Complèter Inscription & Vérification
+    incorrect_code: "<strong>Kinky Opérateur:</strong> Doh&hellip; le code de vérification que vous avez entré semble incorrect. S'il vous plaît veuillez vérifier que le numéro ci-dessus correspond à ce que vous avez reçu de nous et essayez à nouveau."
+    label: Code de Vérification
+    notice: Nous avons envoyeé le code de vérification à <strong>%{phone_number}</strong>. Si après quelques minutes vous ne recevez pas un message texte de nous, <a href="%{back_path}">Mettre à jour votre numéro et nous vous envoyons un nouveau code de vérification</a>.
+    notice_error: "<strong>P.S.</strong> Enchanté de vous rencontrer!"
+    page_title: Entrez le Code de Vérification
+    placeholder: 6-Chiffres Code de Vérification
+    subtitle: Ce n'était pas si douloureux?!?!
+    subtitle_error: Ce n'était pas si douloureux?!?!<br>Peut-être nous avons parlé trop tôt! :-/
+    title: Dernière Étape
+  subnav:
+    feed:
+      activity_feed: Feed d'Activité
+      activity_feed_short: Maison
+      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
+      fp_short: Fresh
+      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
+      kp_short: Popular
+    profile:
+      about: À propos de moi
+      about_short: À propos
+      latest: Dernière Activité
+      latest_short: Dernier
+      pictures: Photos
+      pictures_short: Pics
+      videos: Vidéos
+      videos_short: Vids
+      writings: Écrits
+      writings_short: Écrits
+    settings:
+      account: Compte
+      account_short: Compte
+      notifications: Notifications
+      notifications_short: Notifications
+      privacy: Confidentialité
+      privacy_short: Confidentialité
+      profile: Profil
+      profile_short: Profil
+      support: Support
+      support_short: Support

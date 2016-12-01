@@ -1,0 +1,411 @@
+---
+es:
+  2fa:
+    5strike:
+      return: volver a la portada
+      subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar conectarse de nuevo.
+      title: Regla Cinco Huelgas
+    cta: Soy yo, ¡déjame entrar!
+    error: "<strong>Kinky Operador:</strong> Doh&hellip; el código de verificación de arriba parece errado. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
+    label: Código de autenticación
+    page_title: Autenticación de 2-Factores
+    subtitle: "¡2-Factores me bebé!"
+    title: Código Secreto
+  about:
+    contact_info: Datos de contacto
+    email_us: Envíenos un correo electrónico a <a href="mailto:support@fetlife.com">support@fetlife.com</a> y nos pondremos en contacto con usted!
+    europe: Europa
+    got_question: ¿Tiene alguna pregunta? ¿Necesitas ayuda?
+    north_america: Norteamérica
+    one_love: Un amor, una vida, y un montón de kink.
+    snail_mail: Correo postal
+    sub_header: No debe confundirse con los espartanos.
+    title: Nosotros. Somos. ¡FetLife!
+  ad_stats:
+    actions:
+      delete: Borrar
+      duplicate: Duplicar
+      edit: Editar
+      pause: Pausa
+      start: Comenzar
+      unpause: Reanudar
+    actions_literal: Acciones
+    active_ads: Anuncios activos
+    ad_new:
+      cta: Sube Nuevo Anuncio
+      labels:
+        line1: Línea 1
+        line2: Línea 2
+        line3: Línea 3
+      placeholders:
+        line1: Joyería Insertable
+        line2: Recordarla todo el día
+        line3: lo que le espera para más adelante
+      subtitle: Tan fácil como 1, 2 ... 69.
+      title: Nuevo Anuncio
+    ads: Anuncios
+    avg_ctr: Promedio CTR
+    best: Mejor
+    campaign_edit:
+      cta: Actualizar campaña
+      labels:
+        company_name: Nombre de Empresa
+        member_id: Identificación de miembro
+        slots_purchased: Ranuras Compradas
+      page_title: Modificación de la Campaña
+      subtitle: Septiembre del 2016
+      title: Actualizar campaña
+    campaign_new:
+      cta: Nueva campaña
+      subtitle: Septiembre del 2016
+      title: Nueva campaña
+    campaigns: Campañas
+    clicks: Clics
+    ctr: CTR
+    edit: editar
+    impressions: Impresiones
+    last_updated: Última actualización de las estadísticas
+    name: Nombre
+    new_ad: "+ nuevo anuncio"
+    new_campaign: "+ Nueva campaña"
+    overview: Visión de conjunto
+    press_start: Pulse el botón "Inicio" cuando listo.
+    slots: Ranuras
+    subtitle: Sala de control a Comandante Tom.
+    title: Estadísticas de anuncios
+    update_every: Actualizar cada 15 minutos
+    view: ver
+    worst: Peor
+  feed:
+    comment: Comentario
+    comments_count:
+      one: 1 Comentario
+      other: "%{number} Comentarios"
+    love: Amor
+    loved_hover: "¡Rompecorazones! :-("
+    loves_count:
+      one: Un Amor
+      other: "%{number} Amas"
+    title: Alimentador de Actividad
+  following:
+    follow: Follow
+    following: Following
+  footer:
+    about: Acerca de
+    help: Ayuda
+  forgot_password:
+    email:
+      cta: Envíame un correo electrónico con instrucciones
+      error_forgot_email: Creo que se le olvidó algo... ¡su dirección de correo electrónico! :-p
+      error_invalid_email: Eso no se ve como una dirección de correo electrónico válida. ¿Le importa revisarlo y volver a enviar por favor?
+      error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendo el uso de uno de los otros métodos anteriores para volver a su cuenta.
+      placeholder: Dirección de correo electrónico
+      step1:
+        page_title: Restablecer Contraseña por Correo Electrónico
+        subtitle: Dejame ayudarle con eso.
+        title: "¿Se le olvidó su contraseña?"
+      step2:
+        page_title: Ud. “PODRÍA” Tener Correo
+        subtitle: Si existe un perfil asociado al correo electrónico <strong>%{given_email}</strong> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
+        title: "¡Ud. & ldquo; Podría& rdquo; Tener Correo!"
+      update_email: Actualiza la dirección de correo electrónico
+      warning: "<strong>Cirujano Generales Advertencia:</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si ud. no recibe un correo electrónico de nosotros, es más probable porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
+    mobile:
+      cta: Envíame un Mensaje de Texto
+      error_country_code: "<strong>Kinky Operador:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
+      error_quota: "<strong>Kinky Operador:</strong> Mecachis, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Si el número existe en nuestra base de datos o no."
+      pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
+      step1:
+        page_title: Restablecer Contraseña a través de Mensajes de Texto
+        subtitle: Dejame ayudarle con eso.
+        title: "¿Se le olvidó su contraseña?"
+      step2:
+        cta: Verificar que Usted es Usted &#8482;
+        error_code_match: "<strong>Kinky Operador:</strong> Código de verificación que ha introducido es incorrecto. Compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo. Esta es una grabación."
+        inexisting_number: Si después de un par de minutos no recibe un mensaje de texto de nosotros, entonces es probable porque no tenemos un perfil conectado a su número. Recomendamos que sea <a href="%{forgot_password_email_path}"> intente reinicializar su contraseña utilizando otro método </a> o <a href="%{signup_path}">configurar un nuevo perfil en FetLife </a>.
+        label: Código de Verificación
+        page_title: Introducir el Código Verificación
+        placeholder: 6-Dígitos del Código de Verificación
+        subtitle: Nosotros &ldquo;podríamos&rdquo; haberle enviado un mensaje de texto.
+        title: Ingrese el código de verificación
+      warning: "<strong>Cirujano Generales Advertencia:</strong> Por razones de seguridad, no podemos decir si existe un número móvil en nuestra base de datos o no. Si no recibe un mensaje de texto de nosotros, es más probable porque no tenemos una cuenta asociada a ese número."
+    next_step: próximo paso
+    return_to_login: volver a inicio
+    tab_email: Correo electrónico
+    tab_mobile: Móvil
+  guidelines:
+    last_updated: 'Última actualización:'
+    sub_header: Seguí tus agallas…
+    subnav:
+      community: Comunidad
+      community_short: Comunidad
+      content: Contenido
+      content_short: Contenido
+      group_leader: Lider de Grupo
+      group_leader_short: Lider de Grupo
+    title: Directrices
+  invite_a_friend:
+    cancel_button: cancelar
+    cta: Invitar a un Amigo a Unirse a FetLife
+    error: Estamos teniendo problemas para enviar una invitación a la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o intente una diferente.
+    invitations_accepted: Invitaciones Aceptadas
+    invitations_sent: Invitaciones Enviados
+    labels:
+      friends_email: Dirección de Correo Electrónico de un Amigo
+    next_step: próximo paso
+    return_to_feed: volver a alimentar
+    subtitle_step1:
+      one: Tiene 1 invitación restante.
+      other: Tiene %{number} invitaciones restante.
+    subtitle_step2: Hemos enviado una invitación de ud. a <strong>%{email}</strong>.
+    title_step1: Invita a un Amigo
+    title_step2: Invitación Enviada
+    view_invitations: ver sus invitaciones
+  landing_page:
+    footer: "<strong>%{member_count} Miembros</strong> están compartiendo <strong>%{picture_count}fotos</strong> y <strong>%{video_count} vídeos</strong>, que participan en  <strong>%{discussion_count}</strong> discusiones en <strong>%{group_count} grupos</strong>, van a <strong>%{event_count} próximos eventos</strong> y leyendo <strong>%{post_count} entradas de blogs</strong>. <em>¡Kinky cielo!</em>"
+    login_button: Inicia sesión a FetLife
+    signup_button: Inscripción a FetLife
+    subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que es más divertido de esa manera. ¿Verdad?
+    title: FetLife es la Red Social para la comunidad BDSM, Fetiche y Kinky.
+  legalese:
+    subnav:
+      2257_exempt: 2257 Exempt
+      2257_exempt_short: '2257'
+      privacy: Política de privacidad
+      privacy_short: Privacidad
+      terms: Términos de Uso
+      terms_short: Uso
+    subtitle: Jugando un abogado en el interweb desde '69.
+    title: Legalidades
+  login:
+    button: Inicia sesión a FetLife
+    error_flash: Por favor, póngase en contacto con <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que podamos ayudarle a volver.
+    error_login_blank: El acceso no puede estar en blanco.
+    error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que ingresasle su apodo y su contraseña correctamente? (Las contraseñas son SensIblEs a las mAyúsCuLas)
+    error_password_blank: Las contraseñas no pueden estar en blanco.
+    forgot_info: "¿Ha olvidado su información de acceso?"
+    labels:
+      nickname: Apodo o Correo Electrónico
+      password: Contraseña
+      remember_me: Acuérdale de mí, vuelvo enseguida.
+    not_a_member: "¿No eres miembro todavía? Inscripción a FetLife"
+    subtitle: Le hemos perdido... ¡a lo grande!
+    title: Bienvenido a Casa
+  logout:
+    subtitle: Asegúrese de volver a vernos pronto.
+    title: “¡Le echaremos de menos!"
+  member_stats:
+    pics:
+      one: foto
+      other: fotos
+    posts:
+      one: mensaje
+      other: mensajes
+    vids:
+      one: vid
+      other: vids
+  nav:
+    events: Eventos
+    fetishes: Fetiches
+    groups: Grupos
+    home: Casa
+    places: Lugares
+    search_placeholder: Buscar...
+  page_break:
+    of: de
+  profile:
+    about_title: Lista de Amigos
+    pictures_title: Imágenes
+    videos_title: Vídeos
+  promote_following:
+    button: Encender el Siguiendo
+    ps: PD Se puede desactivar Siguiendo en cualquier momento.
+    skip: No gire el siguiendo para mí
+    subtitle: Separar sus amigos de sus seguidores.
+    title: Introduciendo Siguiendo
+  recommendations:
+    title: Recomendaciones
+  reset_password:
+    cta: Restablecer mi contraseña
+    footnote: "<strong>Sugerencia Pro:</strong> Recuerde su contraseña."
+    label_enter: Nueva Contraseña
+    label_re_enter: Reingrese en Nueva Contraseña
+    subtitle: No demasiado corto, no demasiado largo, sólo el...
+    title: Restablecer la contraseña
+  select_language:
+    button: Cambiar Idioma por Defecto
+    language_name: Inglés
+    sub_header: "¡Hi, hallo, olá, bonjour, ciao, ahoj, opa!"
+    title: Seleccione el idioma
+  settings_account:
+    2fa_cta: Activar 2-factor de autenticación
+    2fa_label: 2-Factor de autenticación
+    anti_pro_tip: <strong>”Contra-Pro” Consejo:</strong> Puede <a href="#">desactivar</a> o <a href="#">eliminar</a> su cuenta si realmente quieren, pero tres de cada cuatro Papas altamente desalentarlo.
+    current_password_label: Contraseña Actual
+    email_cta: Actualiza la Dirección de Correo Electrónico
+    email_label: Correo Electrónico
+    email_placeholder: Dirección de Correo Electrónico
+    language_cta: Actualiza Idioma por Defecto
+    language_notice: FetLife aún no está totalmente disponible en idiomas distintos del Inglés. Si cambia la configuración aquí, no todos de la páginas web se traducirán.
+    new_password_label: Nueva Contraseña
+    nickname_cta: Cambiar Apodo
+    nickname_label: 'Cambia su apodo de "JohnBaku" a:'
+    nickname_notice: "<strong>Sugerencia Pro:</strong> Mida dos veces, corte una vez. Sólo puede cambiar su apodo de una vez cada 28 días. Sin espaldas tomar."
+    nickname_placeholder: Nueva Apodo
+    page_title: Cambiar contraseña - Configuración
+    password_cta: Actualiza Contraseña
+    repeat_password_label: Repite la Contraseña
+    subtitle: No presione el botón rojo grande.
+    title: Configuraciones de la Cuenta
+  settings_notifications:
+    cta: Actualiza Idioma por Defecto
+    language_label: Idioma
+    notice: FetLife aún no está totalmente disponible en idiomas distintos del Inglés. Si cambia la configuración aquí, no todos de la página web se traducirán.
+    page_title: Ajustes de idioma
+    subtitle: "¿Cuál es su idioma preferido?"
+    title: Idioma
+  settings_privacy:
+    blocked_list_subtitle: Para aquellos en su lista negra.
+    blocked_list_title: Lista Bloqueada
+    cb_feed: Permitir a los no amigos me siguen en su alimentador de actividad.
+    cb_fp: Permitir que mis mensajes no privados aparezcan en Fresco&Pervertido.
+    cb_kp: Permitir que mis mensajes no privados aparezcan en Kinky&Popular.
+    content_privacy: Contenido de Privacidad
+    cta: Guardar la Configuración de Privacidad
+    following: Siguiendo
+    page_title: Configuración de Privacidad
+    subtitle: Servido a la manera que le guste.
+    title: Privacidad
+    warning: "<strong>Extremadamente Importante</strong>: Apagar siguiendo será dejar de seguir todos los que actualmente se interesa por Ud. Sin espaldas tomar. Seriamente."
+  settings_profile:
+    about_you_label: Acerca de Ud.
+    add_website: "+ Añadir otra sitio web"
+    cta: Actualiza su Perfil
+    dob_label: Fecha de Nacimiento
+    location_label: Ubicación
+    looking_for_label: Buscando
+    page_title: Actualiza Perfil
+    subtitle: El crecimiento personal es una buena cosa.
+    title: Su Perfil
+    websites_label: Sitios Web
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Actualiza la Dirección de Correo Electrónico
+    email_label: Actualiza la Dirección de Correo Electrónico
+    email_placeholder: Dirección de Correo Electrónico
+    page_title: Actualización de Dirección de Correo Electrónico - Configuración
+    subtitle: Sólo en caso de que olvide su contraseña.
+    title: Actualiza la Dirección de Correo Electrónico
+  sidebar:
+    about_fetlife: Sobre FetLife
+    ad_stats: Estadísticas de Anuncios
+    advertising: PAnuncios
+    bug_bounty: Recompensa para un Error de Programación
+    caretaking: Cuidadores
+    close: cerca
+    edit_profile: Editar Perfil
+    edit_settings: Editar Configuración
+    events: Eventos
+    fetishes: Fetiches
+    following: Siguiendo
+    fp: Fresco & Pervertido
+    funny_quote: Si no puede leer esto ... ¡es probable que necesite gafas! - Juan 4:69
+    gift_support: Regalo de Apoyo a la FetLife
+    groups: Grupos
+    guidelines: Directrices
+    home: Casa
+    invite_a_friend: Invitar a un Amigo (%{count})
+    kp: Kinky & Popular
+    legalese: Leguleyos
+    log_out: Cerrar sesión
+    need_help: "¿Necesitas ayuda?"
+    open_source: Código Abierto
+    places: Lugares
+    recommendations: Recomendaciones
+    upload_picture: Subir Foto
+    upload_video: Subir Vídeo
+    view_friends: Ver Amigos
+    whats_new: Qué hay de Nuevo
+    write_post: Escribir publicación
+  signup:
+    almost_there: "¡Casi Allí!"
+    error_bar: Dallas, tenemos un problema. Desplazarse hacia abajo para obtener más información.
+    error_birthdate: Se requiere fecha de nacimiento.
+    error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o intente una diferente.
+    error_nickname: El apodo ya está tomada.
+    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestra <a href="%{guidelines_path}"> Normas de la comunidad</a> y <a href="%{tou_path}"> Términos de Uso</a> & hellip; sin espaldas tomar.
+    label:
+      birthdate: Fecha de Nacimiento
+      email: Dirección de Correo Electrónico
+      location: Ubicación
+      nickname: Apodo
+      password: Contraseña
+    page_title: Unirse
+    subtitle: Cuéntanos un poco sobre Ud.
+    title: Bienvenido a casa
+  signup_avatar:
+    pro_tip: '<strong>Sugerencia Pro</strong>: Si eres tímido y prefiere no mostrar su cara, ¡no dude en ser creativo y mostrar un lado diferente de Ud.! O si lo prefiere, puede <a href="%{next_step_path}">omitir este paso</a> por ahora.'
+    say_cheese: "¡Decir queso!"
+    subtitle: "¡Las personas con avatares tienen 69x más divertido!"
+    title: Sube un Avatar
+  signup_five_strikes:
+    page_title: Regla Cinco Huelga
+    return_to_front: regresar a la portada
+    subtitle_error: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar acceder de nuevo.
+    title: Regla Cinco Huelga
+  signup_follow:
+    follow: Seguir
+    next_step: Próximo Paso
+    subtitle: Siga kinksters que despierten su interés.
+    title: "¿Cualquier persona que se llama la atención?"
+  signup_phone:
+    cta: Enviarme un Código de Verificación
+    error_cant_send: "<strong>Kinky Operador:</strong> Tenemos problemas que el envío de un mensaje de texto. Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., y que se no estamos tratando de enviar un mensaje de texto a su teléfono fijo."
+    error_quota: "<strong>Kinky Operador:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
+    explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar todo el mundo antes de se unen. Algo que creemos que podrá apreciar una vez que están en el otro lado.
+    label: Número del Teléfono Móvil
+    page_title: Envíe el Código de Verificación
+    pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
+    subtitle: Mensaje de texto anónimo de una sola vez.
+    title: "¡Tiempo de Verificación!"
+  signup_verify:
+    cta: Inscripción y Verificación Completa
+    incorrect_code: "<strong>Kinky Operador:</strong> Doh&hellip; el código de verificación que ha introducido parece fuera. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
+    label: Código de Verificación
+    notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a href="%{back_path}"> actualizar su número y le enviaremos un nuevo código de verificación </a>.
+    notice_error: "<strong>P.S.</strong> ¡Encantado de conocerle!"
+    page_title: Ingrese el Código de Verificación
+    placeholder: 6-Dígitos del Código de Verificación
+    subtitle: Eso no fue tan doloroso fue?!?!
+    subtitle_error: Eso no fue tan doloroso fue?!?! <br> ¡Tal vez hablamos demasiado pronto! :-/
+    title: Último Paso
+  subnav:
+    feed:
+      activity_feed: Alimentador de actividad
+      activity_feed_short: Casa
+      fp: Fresh <span class="a-ampersand">&amp;</span>Pervy
+      fp_short: Fresco
+      kp: Kinky <span class="a-ampersand">&amp;</span>Popular
+      kp_short: Popular
+    profile:
+      about: Sobre Mi
+      about_short: Acerca de
+      latest: Actividad más Reciente
+      latest_short: Último
+      pictures: Imágenes
+      pictures_short: Fotos
+      videos: Vídeos
+      videos_short: Vids
+      writings: Escritos
+      writings_short: Escritos
+    settings:
+      account: Cuenta
+      account_short: Cuenta
+      notifications: Notificaciones
+      notifications_short: Notificaciones
+      privacy: Intimidad
+      privacy_short: Intimidad
+      profile: Perfil
+      profile_short: Perfil
+      support: Apoyo
+      support_short: Apoyo
