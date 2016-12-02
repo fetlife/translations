@@ -228,7 +228,7 @@ de:
   reset_password:
     cta: Setze mein Passwort zurück
     error_confirmation_match: Die Passwort Wiederholung stimmt nicht mit dem Passwort überein
-    error_password_range: Das Passwort ist zu kurz (minimal 4 Buchstaben)
+    error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
     footnote: "<strong>Profi-Tipp:</strong> Vergiss Dein Passwort nicht."
@@ -336,15 +336,26 @@ de:
     almost_there: Fast geschafft!
     error_bar: Dallas, wir haben ein Problem. Scrolle nach unten für mehr Informationen.
     error_birthdate: Das Geburtsdatum ist erforderlich.
+    error_birthdate_too_old: Du bist zu alt.
+    error_birthdate_too_young: Du bist nicht alt genug (Du musst mindestens 18 Jahre alt sein).
+    error_city_missing: Die Stadt muss gewählt werden.
+    error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
     error_nickname: Der Name ist schon vergeben.
+    error_nickname_required: Der Name ist erforderlich.
+    error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
+    error_password_required: Das Password ist erforderlich.
+    error_state_missing: Die Provinz muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
     label:
       birthdate: Geburtsdatum
+      city: Stadt
+      country: Land
       email: E-Mail Adresse
       location: Ort
       nickname: Name
       password: Passwort
+      state: Staat/Provinz
     page_title: Mitglied werden
     subtitle: Erzähl uns ein bisschen über Dich.
     title: Willkommen Zuhause

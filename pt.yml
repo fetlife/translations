@@ -336,15 +336,26 @@ pt:
     almost_there: Quase Lá!
     error_bar: Dallas, temos um problema. Role para baixo para saber mais.
     error_birthdate: Data nascimento é obrigatória.
+    error_birthdate_too_old: You are too old.
+    error_birthdate_too_young: You are is not old enough (you need to be at least 18 years old).
+    error_city_missing: City has to be selected
+    error_country_missing: Country has to be selected
     error_email: Estamos tendo problemas em acessar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou use um diferente.
     error_nickname: O apelido já está em uso.
+    error_nickname_required: Nickname is required.
+    error_password_range: Password needs to be between 4 and 50 characters
+    error_password_required: Password is required
+    error_state_missing: State/Province has to be selected
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a href="%{guidelines_path}">Orientações de Comunidade</a> e <a href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
     label:
       birthdate: Data de Nascimento
+      city: City
+      country: Country
       email: Endereço de Email
       location: Localidade
       nickname: Apelido
       password: Senha
+      state: State/Province
     page_title: Cadastrar
     subtitle: Conte-nos um pouco sobre você.
     title: Boas Vindas
