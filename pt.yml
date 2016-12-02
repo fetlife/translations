@@ -227,9 +227,13 @@ pt:
     title: Recomendações
   reset_password:
     cta: Redefinir Senha
+    error_confirmation_match: Password confirmation doesn't match Password
+    error_password_range: Password is too short (minimum is 4 characters)
+    error_token_invalid: Reset password token is invalid
     footnote: "<strong>Dica:</strong> Lembre-se de sua senha."
     label_enter: Nova Senha
     label_re_enter: Re-Insira sua Senha
+    status_flash_success: Your password has been changed successfully.
     subtitle: Não muito curta, não muito longa, só…
     title: Redefinir Senha
   select_language:
