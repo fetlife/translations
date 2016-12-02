@@ -12,15 +12,15 @@ fr:
     subtitle: 2-Factor moi bébé!
     title: Code Secret
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
+    contact_info: Informations de contact
+    email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous reviendrons vers vous vite!
     europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
-    one_love: One love, one life, and a whole lot of kink.
+    got_question: As-tu une question? Besoin d'aide?
+    north_america: Amérique du Nord
+    one_love: Un amour, une vie, et beaucoup de kink!
     snail_mail: Snail Mail
-    sub_header: Not to be confused with the Spartans.
-    title: We. Are. FetLife!
+    sub_header: Ne pas confondre avec les Spartans
+    title: Nous. Sommes. FetLife!
   ad_stats:
     actions:
       delete: Effacer
@@ -88,8 +88,8 @@ fr:
       other: "%{number} Amours"
     title: Feed d' activité
   following:
-    follow: Follow
-    following: Following
+    follow: Suivre
+    following: Suivir
   footer:
     about: Sur
     help: Aide
@@ -134,16 +134,16 @@ fr:
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
-    last_updated: 'Last Updated:'
-    sub_header: Follow your gut, it always nose.
+    last_updated: 'Mise à jour Récente:'
+    sub_header: Suivez votre intestin, il sait toujours.
     subnav:
-      community: Community
-      community_short: Community
-      content: Content
-      content_short: Content
-      group_leader: Group Leader
-      group_leader_short: Group Leader
-    title: Guidelines
+      community: Communauté
+      community_short: Communauté
+      content: Contenu
+      content_short: Contenu
+      group_leader: Chef de Groupe
+      group_leader_short: Chef de Groupe
+    title: Lignes Directrices
   invite_a_friend:
     cancel_button: annuler
     cta: Invite un Ami à joindre FetLife
@@ -171,18 +171,18 @@ fr:
     subnav:
       2257_exempt: 2257 Exempt
       2257_exempt_short: '2257'
-      privacy: Privacy Policy
-      privacy_short: Privacy
-      terms: Terms of Use
-      terms_short: Terms
-    subtitle: Playing a lawyer on the interweb since '69.
-    title: Legalese
+      privacy: Politique de Confidentialité
+      privacy_short: Confidentialité
+      terms: Conditions d'utilisation
+      terms_short: Conditions
+    subtitle: Jouer un avocat sur le interweb depuis '69.
+    title: Légal
   login:
     button: Login à FetLife
     error_flash: S'il vous plaît contacte <a href="mailto:support@fetlife.com">support@fetlife.com</a> que nous puissions vous aider rentrer encore.
-    error_login_blank: Login can't be blank
-    error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
-    error_password_blank: Password can't be blank
+    error_login_blank: Login ne peut être vide
+    error_not_found: Hmmm, nous n'avons pas pu vous trouver. Es-tu sûr que tu es entré votre nickname et mot de passe correctement? (Mot de passe sont sensible aux MajuScUles et MinuSculEs)
+    error_password_blank: Le mot de passe ne peut pas être vide
     forgot_info: Oublié votre information login?
     labels:
       nickname: Nickname ou Email
@@ -208,7 +208,7 @@ fr:
     events: Évènements
     fetishes: Fétiches
     groups: Groupes
-    home: Maison
+    home: Home
     places: Endroits
     search_placeholder: Chercher...
   page_break:
