@@ -229,6 +229,7 @@ de:
     cta: Setze mein Passwort zurück
     error_confirmation_match: Die Passwort Wiederholung stimmt nicht mit dem Passwort überein
     error_password_range: Das Passwort ist zu kurz (minimal 4 Buchstaben)
+    error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
     footnote: "<strong>Profi-Tipp:</strong> Vergiss Dein Passwort nicht."
     label_enter: Neues Passwort

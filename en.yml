@@ -229,6 +229,7 @@ en:
     cta: Reset My Password
     error_confirmation_match: Password confirmation doesn't match Password
     error_password_range: Password is too short (minimum is 4 characters)
+    error_token_expired: Reset password token has expired, please request a new one
     error_token_invalid: Reset password token is invalid
     footnote: "<strong>Pro Tip:</strong> Remember your password."
     label_enter: New Password
