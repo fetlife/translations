@@ -15,7 +15,7 @@ es:
     contact_info: Datos de contacto
     email_us: Envíenos un correo electrónico a <a href="mailto:support@fetlife.com">support@fetlife.com</a> y nos pondremos en contacto con usted!
     europe: Europa
-    got_question: ¿Tiene alguna pregunta? ¿Necesitas ayuda?
+    got_question: "¿Tiene alguna pregunta? ¿Necesitas ayuda?"
     north_america: Norteamérica
     one_love: Un amor, una vida, y un montón de kink.
     snail_mail: Correo postal
@@ -229,6 +229,7 @@ es:
     cta: Restablecer mi contraseña
     error_confirmation_match: Password confirmation doesn't match Password
     error_password_range: Password is too short (minimum is 4 characters)
+    error_token_expired: Reset password token has expired, please request a new one
     error_token_invalid: Reset password token is invalid
     footnote: "<strong>Sugerencia Pro:</strong> Recuerde su contraseña."
     label_enter: Nueva Contraseña
