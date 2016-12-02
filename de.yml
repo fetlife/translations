@@ -227,9 +227,13 @@ de:
     title: Empfehlungen
   reset_password:
     cta: Setze mein Passwort zurück
+    error_confirmation_match: Die Passwort Wiederholung stimmt nicht mit dem Passwort überein
+    error_password_range: Das Passwort ist zu kurz (minimal 4 Buchstaben)
+    error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
     footnote: "<strong>Profi-Tipp:</strong> Vergiss Dein Passwort nicht."
     label_enter: Neues Passwort
     label_re_enter: Neues Passwort nochmal eingeben
+    status_flash_success: Dein Passwort wurde erfolgreich zurückgesetzt.
     subtitle: Nicht zu kurz, nicht zu lang, gerade richtig…
     title: Passwort zurücksetzen
   select_language:

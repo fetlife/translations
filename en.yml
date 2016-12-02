@@ -227,9 +227,13 @@ en:
     title: Recommendations
   reset_password:
     cta: Reset My Password
+    error_confirmation_match: Password confirmation doesn't match Password
+    error_password_range: Password is too short (minimum is 4 characters)
+    error_token_invalid: Reset password token is invalid
     footnote: "<strong>Pro Tip:</strong> Remember your password."
     label_enter: New Password
     label_re_enter: Re-Enter New Password
+    status_flash_success: Your password has been changed successfully.
     subtitle: Not too short, not too long, just the…
     title: Reset Password
   select_language:

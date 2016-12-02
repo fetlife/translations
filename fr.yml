@@ -227,9 +227,13 @@ fr:
     title: Recommendations
   reset_password:
     cta: Réinitialiser Mon Mot de Passe
+    error_confirmation_match: Password confirmation doesn't match Password
+    error_password_range: Password is too short (minimum is 4 characters)
+    error_token_invalid: Reset password token is invalid
     footnote: "<strong>Pro Tip:</strong> Rapelles toi votre mot de passe."
     label_enter: Nouveau Mot de Passe
     label_re_enter: Re-Entrer votre Nouveau Mot de Passe
+    status_flash_success: Your password has been changed successfully.
     subtitle: Pas trop court, pas trop longue, juste le…
     title: Réinitialiser le Mot de passe
   select_language:
