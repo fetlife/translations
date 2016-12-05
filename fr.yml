@@ -111,6 +111,10 @@ fr:
       update_email: mettre à jour l'addresse email
       warning: "<strong>Surgeon Generals Warning:</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une addresse email existe dans notre basse de donnés ou pas. Si vous n'obtenez pas de courriel de nous, il est probable qu'on n'as pas un compte associé avec cette addresse email."
     mobile:
+      5strike:
+        return: return to front page
+        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
+        title: Five Strike Rule
       cta: Envoyé-moi un message texte
       error_country_code: "<strong>Kinky Opérateur:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour L'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
       error_quota: "<strong>Kinky Opérateur:</strong> Merde, nous pouvons seulement essayer envoyé jusqu'à 3 messages textes chaque 24 heures à n'importe quel numéro mobile. Si le numéro existe dans notre basse de donnés ou pas."

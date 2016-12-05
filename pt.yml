@@ -111,6 +111,10 @@ pt:
       update_email: atualize seu endereço de e-mail
       warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos dizer se um determinado e-mail existe em nossa base de dados ou não. Se você não receber um e-mail da gente, é provável que não haja uma conta vinculada àquele endereço de e-mail."
     mobile:
+      5strike:
+        return: return to front page
+        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
+        title: Five Strike Rule
       cta: Enviar mensagem de texto
       error_country_code: "<strong>Operador Pervertido:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
       error_quota: "<strong>Operador Pervertido:</strong> Putz, nós só podemos enviar 3 mensagens de texto a cada 24 horas para cada número de telefone. Exista o número em nossa base de dados ou não."

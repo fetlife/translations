@@ -111,6 +111,10 @@ es:
       update_email: Actualiza la dirección de correo electrónico
       warning: "<strong>Cirujano Generales Advertencia:</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si ud. no recibe un correo electrónico de nosotros, es más probable porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
     mobile:
+      5strike:
+        return: return to front page
+        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
+        title: Five Strike Rule
       cta: Envíame un Mensaje de Texto
       error_country_code: "<strong>Kinky Operador:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       error_quota: "<strong>Kinky Operador:</strong> Mecachis, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Si el número existe en nuestra base de datos o no."

@@ -111,6 +111,10 @@ de:
       update_email: Aktualisiere die E-Mail Adresse
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail Adresse haben."
     mobile:
+      5strike:
+        return: zurück zur Startseite
+        subtitle: Mist, aus Sicherheitsgründen wirst Du zwei Stunden warten müssen, bevor Du es nochmal versuchen kannst.
+        title: Fünfter Streich Regel
       cta: Sende mir eine SMS
       error_country_code: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw."
       error_quota: "<strong>Kinky Operator:</strong> Mist, wir können nur bis zu drei SMS alle 24 Stunden an eine Handy Nummer schicken. Egal ob die Nummer in unserer Datenbank existiert oder nicht."

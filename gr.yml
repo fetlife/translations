@@ -111,6 +111,10 @@ gr:
       update_email: ενημέρωση διεύθυνση email
       warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν μια διεύθυνση email υπάρχει στο database η οχι. Αν δεν λάβατε email απο μας, είναι πολύ πιθανό δεν έχουμε λογαριασμό με αυτή τη διεύθυνση email."
     mobile:
+      5strike:
+        return: return to front page
+        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
+        title: Five Strike Rule
       cta: Στείλε μου "Text Message"?
       error_country_code: "<strong>Kinky Χειριστής:</strong> Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, kτλ."
       error_quota: "<strong>Kinky Χειριστής:</strong> Μπορούμε μόνο να προσπαθήσουμε να στείλουμε μέχρι 3 text messages κάθε 24 ώρες σε ένα κινητό αριθμό. Αν ο αριθμός υπάρχει στο database ή οχι."
