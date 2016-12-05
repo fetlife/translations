@@ -73,7 +73,7 @@ de:
     slots: Anzeigenplätze
     subtitle: Ground control to Major Tom.
     title: Anzeigen Statistik
-    update_every: Alle 15 Minuten aktualisieren
+    updated_every: Alle 15 Minuten aktualisieren
     view: zeige
     worst: Schlechteste
   feed:
@@ -196,6 +196,7 @@ de:
     subtitle: Wir haben Dich vermisst… ja, voll!
     title: Willkommen zu Hause
   logout:
+    log_in: log back in
     subtitle: Komm ja wieder und triff uns bald.
     title: Wir werden Dich vermissen!
   member_stats:

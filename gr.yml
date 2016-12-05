@@ -73,7 +73,7 @@ gr:
     slots: Σχισμές
     subtitle: Ελέγχου επί του εδάφους στο Major Tom.
     title: Στατιστικά Διαφήμισης
-    update_every: ενημέρωση κάθε 15 λεπτά
+    updated_every: ενημέρωση κάθε 15 λεπτά
     view: άποψη
     worst: Χειρότερος
   feed:
@@ -196,6 +196,7 @@ gr:
     subtitle: Μας λείψατε… Πολύ!
     title: Καλωσόρισες σπίτι
   logout:
+    log_in: log back in
     subtitle: Φροντίστε να έρθετε πίσω και να μας δείτε σύντομα.
     title: Θα μας λείψεις!
   member_stats:
