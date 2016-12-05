@@ -73,7 +73,7 @@ fr:
     slots: Emplacements
     subtitle: Contrôle au sol à Major Tom.
     title: Statistiques d'annonces
-    update_every: Mettre à jour chaque 15 minutes
+    updated_every: Mettre à jour chaque 15 minutes
     view: vue
     worst: Pire
   feed:
@@ -196,6 +196,7 @@ fr:
     subtitle: Tu nous as manqué… beaucoup!
     title: Bienvenue à la Maison
   logout:
+    log_in: log back in
     subtitle: Assurez-vous de revenir et nous voir bientôt.
     title: Tu nous as manqué!
   member_stats:

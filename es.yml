@@ -73,7 +73,7 @@ es:
     slots: Ranuras
     subtitle: Sala de control a Comandante Tom.
     title: Estadísticas de anuncios
-    update_every: Actualizar cada 15 minutos
+    updated_every: Actualizar cada 15 minutos
     view: ver
     worst: Peor
   feed:
@@ -196,6 +196,7 @@ es:
     subtitle: Le hemos perdido... ¡a lo grande!
     title: Bienvenido a Casa
   logout:
+    log_in: volver a entrar
     subtitle: Asegúrese de volver a vernos pronto.
     title: “¡Le echaremos de menos!"
   member_stats:
@@ -243,7 +244,7 @@ es:
     title: Restablecer la contraseña
   select_language:
     button: Cambiar Idioma por Defecto
-    language_name: Inglés
+    language_name: Español
     sub_header: "¡Hi, hallo, olá, bonjour, ciao, ahoj, opa!"
     title: Seleccione el idioma
   settings_account:

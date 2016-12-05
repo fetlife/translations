@@ -64,7 +64,7 @@ pt:
     ctr: CTR
     edit: editar
     impressions: Impressões
-    last_updated: Estatíscas atualizadas em
+    last_updated: Estatísticas atualizadas em
     name: Nome
     new_ad: "+ novo anúncio"
     new_campaign: "+ nova campanha"
@@ -73,7 +73,7 @@ pt:
     slots: Espaços
     subtitle: Ground control to Major Tom.
     title: Estatísticas de Anúncios
-    update_every: Atualizado a cada 15 minutos
+    updated_every: Atualizado a cada 15 minutos
     view: ver
     worst: Pior
   feed:
@@ -196,6 +196,7 @@ pt:
     subtitle: Sentimos sua falta… muito mesmo!
     title: Boas vindas
   logout:
+    log_in: entrar novamente
     subtitle: Volte sempre.
     title: Sentiremos sua falta!
   member_stats:
