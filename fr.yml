@@ -232,14 +232,14 @@ fr:
     title: Recommendations
   reset_password:
     cta: Réinitialiser Mon Mot de Passe
-    error_confirmation_match: Password confirmation doesn't match Password
-    error_password_range: Password is too short (minimum is 4 characters)
-    error_token_expired: Reset password token has expired, please request a new one
-    error_token_invalid: Reset password token is invalid
+    error_confirmation_match: Confirmation de mot de passe ne correspond pas avec le mot de passe
+    error_password_range: Mot de passe est trop court (minimum 4 charactères)
+    error_token_expired: Réinitialiser de mot de passe est expiré, veuillez en demander une nouvelle
+    error_token_invalid: Réinitialiser de mot de passe est invalide
     footnote: "<strong>Pro Tip:</strong> Rapelles toi votre mot de passe."
     label_enter: Nouveau Mot de Passe
     label_re_enter: Re-Entrer votre Nouveau Mot de Passe
-    status_flash_success: Your password has been changed successfully.
+    status_flash_success: Votre mot de passe a été modifié avec succès.
     subtitle: Pas trop court, pas trop longue, juste le…
     title: Réinitialiser le Mot de passe
   select_language:
@@ -341,21 +341,21 @@ fr:
     almost_there: Presque Là!
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d'informations.
     error_birthdate: Date de naissance est requis.
-    error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: You are is not old enough (you need to be at least 18 years old).
-    error_city_missing: City has to be selected
-    error_country_missing: Country has to be selected
+    error_birthdate_too_old: Tu es trop vieux.
+    error_birthdate_too_young: Vous n'êtes pas assez vieux (vous devez avoir au moins 18 ans).
+    error_city_missing: Ville doit être sélectionnée
+    error_country_missing: Pays doit être sélectionnée
     error_email: Nous avons des problèmes avec le traitement de l'addresse email au dessus. Nous recommandons vous verifiez l'orthographie ou essayer un autre.
     error_nickname: Le Nickname est déjà pris.
-    error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 4 and 50 characters
-    error_password_required: Password is required
-    error_state_missing: State/Province has to be selected
+    error_nickname_required: Nickname est obligatoire.
+    error_password_range: Mot de Passe doit être entre 4 et 50 charactères
+    error_password_required: Mot de Passe est obligatoire
+    error_state_missing: Etat/Province doit être sélectionnée
     footnote: En cliquant sur le bouton au dessus vous acceptez de respecter et suivre notre <a href="%{guidelines_path}">Lignes Directrices Communautaires</a> et <a href="%{tou_path}">Conditions d'Utilisation</a>&hellip; Pas de reprise.
     label:
       birthdate: Date de Naissance
-      city: City
-      country: Country
+      city: Ville
+      country: Pays
       email: Addresse Email
       location: Location
       nickname: Nickname
