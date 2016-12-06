@@ -112,8 +112,8 @@ gr:
       warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν μια διεύθυνση email υπάρχει στο database η οχι. Αν δεν λάβατε email απο μας, είναι πολύ πιθανό δεν έχουμε λογαριασμό με αυτή τη διεύθυνση email."
     mobile:
       5strike:
-        return: return to front page
-        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
+        return: επιστρέψτε στιν αρχική σελίδα
+        subtitle: Για λόγους ασφάλειας, θα πρέπει να περιμένετε δυο ώρες πριν μπορείτε να κάνετε login ξανά.
         title: Five Strike Rule
       cta: Στείλε μου "Text Message"?
       error_country_code: "<strong>Kinky Χειριστής:</strong> Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, kτλ."
@@ -196,7 +196,7 @@ gr:
     subtitle: Μας λείψατε… Πολύ!
     title: Καλωσόρισες σπίτι
   logout:
-    log_in: log back in
+    log_in: συνδεθείτε ξανά
     subtitle: Φροντίστε να έρθετε πίσω και να μας δείτε σύντομα.
     title: Θα μας λείψεις!
   member_stats:
