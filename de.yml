@@ -12,12 +12,12 @@ de:
     subtitle: 2-Faktor mich, Baby!
     title: Geheime Nummer
   about:
-    contact_info: Kontakt Information
+    contact_info: Kontakt
     email_us: Schreibe uns eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> und wir werden Dir schnell antworten!
     europe: Europa
     got_question: Hast Du eine Frage? Brauchst Du Hilfe?
     north_america: Nordamerika
-    one_love: Eine Liebe, eine Leben, und jede Menge Kink.
+    one_love: Friede, Freude, und jede Menge Kink.
     snail_mail: Schneckenpost
     sub_header: Nicht zu verwechseln mit den Spartanern.
     title: Wir. Sind. FetLife!
@@ -179,7 +179,7 @@ de:
       privacy_short: Privat
       terms: Nutzungsbedingungen
       terms_short: Bedingungen
-    subtitle: Seit '69 den Anwalt des Internetz spielen.
+    subtitle: Wir spielen Anwalt im Internetz seit ´69.
     title: Juristenlatein
   login:
     button: Einloggen bei FetLife
@@ -196,7 +196,7 @@ de:
     subtitle: Wir haben Dich vermisst… ja, voll!
     title: Willkommen zu Hause
   logout:
-    log_in: Logge Dich wieder ein
+    log_in: Melde Dich wieder an
     subtitle: Komm ja wieder und triff uns bald.
     title: Wir werden Dich vermissen!
   member_stats:
