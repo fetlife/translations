@@ -12,15 +12,15 @@ de:
     subtitle: 2-Faktor mich, Baby!
     title: Geheime Nummer
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
-    europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
-    one_love: One love, one life, and a whole lot of kink.
-    snail_mail: Snail Mail
-    sub_header: Not to be confused with the Spartans.
-    title: We. Are. FetLife!
+    contact_info: Kontakt Information
+    email_us: Schreibe uns eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> und wir werden Dir schnell antworten!
+    europe: Europa
+    got_question: Hast Du eine Frage? Brauchst Du Hilfe?
+    north_america: Nordamerika
+    one_love: Eine Liebe, eine Leben, und jede Menge Kink.
+    snail_mail: Schneckenpost
+    sub_header: Nicht zu verwechseln mit den Spartanern.
+    title: Wir. Sind. FetLife!
   ad_stats:
     actions:
       delete: Löschen
@@ -88,8 +88,8 @@ de:
       other: "%{number} Herzen"
     title: Aktivitätschronik
   following:
-    follow: Follow
-    following: Following
+    follow: Folge
+    following: Ich Folge
   footer:
     about: Information
     help: Hilfe
@@ -139,15 +139,15 @@ de:
     tab_mobile: Handy
   guidelines:
     last_updated: 'Last Updated:'
-    sub_header: Follow your gut, it always nose.
+    sub_header: Folge Deinem Instinkt, das ist immer Nase.
     subnav:
-      community: Community
-      community_short: Community
-      content: Content
-      content_short: Content
-      group_leader: Group Leader
-      group_leader_short: Group Leader
-    title: Guidelines
+      community: Gemeinschaft
+      community_short: Gemeinschaft
+      content: Inhalt
+      content_short: Inhalt
+      group_leader: Gruppenleitung
+      group_leader_short: Gruppen
+    title: Richtlinien
   invite_a_friend:
     cancel_button: abbrechen
     cta: Lade einen Freund ein, Mitglied bei FetLife zu werden
@@ -175,12 +175,12 @@ de:
     subnav:
       2257_exempt: 2257 Exempt
       2257_exempt_short: '2257'
-      privacy: Privacy Policy
-      privacy_short: Privacy
-      terms: Terms of Use
-      terms_short: Terms
-    subtitle: Playing a lawyer on the interweb since '69.
-    title: Legalese
+      privacy: Privatsphäre
+      privacy_short: Privat
+      terms: Nutzungsbedingungen
+      terms_short: Bedingungen
+    subtitle: Seit '69 den Anwalt des Internetz spielen.
+    title: Juristenlatein
   login:
     button: Einloggen bei FetLife
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder rein zu kommen.
@@ -196,7 +196,7 @@ de:
     subtitle: Wir haben Dich vermisst… ja, voll!
     title: Willkommen zu Hause
   logout:
-    log_in: log back in
+    log_in: Logge Dich wieder ein
     subtitle: Komm ja wieder und triff uns bald.
     title: Wir werden Dich vermissen!
   member_stats:
