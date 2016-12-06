@@ -86,7 +86,7 @@ es:
     loves_count:
       one: Un Amor
       other: "%{number} Amas"
-    title: Alimentador de Actividad
+    title: Feed de Actividad
   following:
     follow: Sigue
     following: Siguiendo
@@ -277,7 +277,7 @@ es:
   settings_privacy:
     blocked_list_subtitle: Para aquellos en su lista negra.
     blocked_list_title: Lista Bloqueada
-    cb_feed: Permitir a los no amigos me siguen en su alimentador de actividad.
+    cb_feed: Permitir a los no amigos me siguen en su Feed de actividad.
     cb_fp: Permitir que mis mensajes no privados aparezcan en Fresco&Pervertido.
     cb_kp: Permitir que mis mensajes no privados aparezcan en Kinky&Popular.
     content_privacy: Contenido de Privacidad
@@ -310,7 +310,7 @@ es:
     about_fetlife: Sobre FetLife
     ad_stats: Estadísticas de Anuncios
     advertising: Anuncios
-    bug_bounty: Recompensa para un Error de Programación
+    bug_bounty: Bug Bounty
     caretaking: Cuidadores
     close: cerca
     edit_profile: Editar Perfil
@@ -402,7 +402,7 @@ es:
     title: Último Paso
   subnav:
     feed:
-      activity_feed: Alimentador de actividad
+      activity_feed: Feed de actividad
       activity_feed_short: Casa
       fp: Fresh <span class="a-ampersand">&amp;</span>Pervy
       fp_short: Fresco
