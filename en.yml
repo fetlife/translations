@@ -247,6 +247,7 @@ en:
     language_name: English
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
     title: Select Language
+    help_translate: Visit our <a href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
   settings_account:
     2fa_cta: Turn On 2-Factor Authentication
     2fa_label: 2-Factor Authentication
