@@ -5,7 +5,7 @@ de:
       return: zurück zur Startseite
       subtitle: Mist, aus Sicherheitsgründen wirst Du zwei Stunden warten müssen, bevor Du wieder versuchen kannst, Dich anzumelden.
       title: Fünfter Streich Regel
-    cta: Ich bin's, lass mich rein!
+    cta: Ich bin’s, lass mich rein!
     error: "<strong>Kinky Operator:</strong> Nein&hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
     label: Authentifizierungsnummer
     page_title: 2-Faktor-Authentifizierung
@@ -69,7 +69,7 @@ de:
     new_ad: "+ neue Anzeige"
     new_campaign: "+ neue Kampagne"
     overview: Überblick
-    press_start: Klicke "Start", wenn Du fertig bist.
+    press_start: Klicke „Start“, wenn Du fertig bist.
     slots: Anzeigenplätze
     subtitle: Ground control to Major Tom.
     title: Anzeigen Statistik
@@ -96,10 +96,10 @@ de:
   forgot_password:
     email:
       cta: Sende mir eine E-Mail mit Anweisungen
-      error_forgot_email: Ich glaube du hast etwas vergessen… Deine E-Mail Adresse! :-p
-      error_invalid_email: Das sieht nicht wie eine gültige E-Mail Adresse aus. Bitte überprüfe sie nochmal und sende es dann wieder ab.
-      error_quota: Wir können nur zwei E-Mails pro Stunde an eine E-Mail Adresse schicken. Bitte prüfe nochmal, ob unsere E-Mail nicht im Spamfilter gelandet ist. Wenn Du dort nichts findest, empfehle ich eine der anderen obigen Möglichkeiten zu nutzen, um wieder in Dein Mitgliedskonto zu kommen.
-      placeholder: E-Mail Adresse
+      error_forgot_email: Ich glaube du hast etwas vergessen… Deine E-Mail-Adresse! :-p
+      error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und sende es dann wieder ab.
+      error_quota: Wir können nur zwei E-Mails pro Stunde an eine E-Mail-Adresse schicken. Bitte prüfe nochmal, ob unsere E-Mail nicht im Spamfilter gelandet ist. Wenn Du dort nichts findest, empfehle ich eine der anderen obigen Möglichkeiten zu nutzen, um wieder in Dein Mitgliedskonto zu kommen.
+      placeholder: E-Mail-Adresse
       step1:
         page_title: Setze Dein Passwort via E-Mail zurück
         subtitle: Lass mich Dir damit helfen.
@@ -108,8 +108,8 @@ de:
         page_title: Du "KÖNNTEST" eine E-Mail haben
         subtitle: Wenn ein Mitgliedskonto mit der E-Mail <strong>%{given_email}</strong> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
         title: Du &ldquo;Könntest&rdquo; eine E-Mail Haben!
-      update_email: Aktualisiere die E-Mail Adresse
-      warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail Adresse haben."
+      update_email: Aktualisiere die E-Mail-Adresse
+      warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail-Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail-Adresse haben."
     mobile:
       5strike:
         return: zurück zur Startseite
@@ -138,7 +138,7 @@ de:
     tab_email: E-Mail
     tab_mobile: Handy
   guidelines:
-    last_updated: 'Last Updated:'
+    last_updated: 'Zuletzt aktualisiert:'
     sub_header: Folge Deinem Instinkt, der weiß es immer.
     subnav:
       community: Gemeinschaft
@@ -151,11 +151,11 @@ de:
   invite_a_friend:
     cancel_button: abbrechen
     cta: Lade einen Freund ein, Mitglied bei FetLife zu werden
-    error: Wir haben Probleme, die Einladungen an die obrige E-Mail Adresse zu schicken. Wir empfehlen, die Schreibweise zu korrigieren oder eine andere Adresse zu versuchen.
+    error: Wir haben Probleme, die Einladungen an die obrige E-Mail-Adresse zu schicken. Wir empfehlen, die Schreibweise zu korrigieren oder eine andere Adresse zu versuchen.
     invitations_accepted: Akzeptierte Einladungen
     invitations_sent: Versandte Einladungen
     labels:
-      friends_email: E-Mail Adresse des Freunds
+      friends_email: E-Mail-Adresse des Freunds
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
@@ -254,9 +254,9 @@ de:
     2fa_label: 2-Faktor Authentifizierung
     anti_pro_tip: <strong>Anti-Profi-Tipp:</strong> Du kannst Dein Mitgliedskontos <a href="#">deaktivieren</a> oder <a href="#">löschen</a> wenn Du das wirklich willst, aber drei von vier Päpsten raten dringend davon ab.
     current_password_label: Aktuelles Passwort
-    email_cta: Aktualisiere E-Mail Adresse
+    email_cta: Aktualisiere E-Mail-Adresse
     email_label: E-Mail
-    email_placeholder: E-Mail Adresse
+    email_placeholder: E-Mail-Adresse
     language_cta: Aktualisiere Sprachvoreinstellung
     language_notice: FetLife ist noch nicht vollständig in anderen Sprachen als Englisch verfügbar. Wenn Du diese Einstellung änderst, wird nicht die gesamte Seite übersetzt sein.
     new_password_label: Neues Passwort
@@ -302,12 +302,12 @@ de:
     websites_label: Web-Seiten
     websites_placeholder: https://fetlife.com
   settings_support:
-    cta: Aktualisiere E-Mail Adresse
-    email_label: Aktualisiere E-Mail Adresse
-    email_placeholder: E-Mail Adresse
-    page_title: Aktualisiere E-Mail Adresse - Einstellungen
+    cta: Aktualisiere E-Mail-Adresse
+    email_label: Aktualisiere E-Mail-Adresse
+    email_placeholder: E-Mail-Adresse
+    page_title: Aktualisiere E-Mail-Adresse - Einstellungen
     subtitle: Für den Fall, dass Du Dein Passwort vergisst.
-    title: Aktualisiere E-Mail Adresse
+    title: Aktualisiere E-Mail-Adresse
   sidebar:
     about_fetlife: Über FetLife
     ad_stats: Anzeigen Statistiken
@@ -347,7 +347,7 @@ de:
     error_birthdate_too_young: Du bist nicht alt genug (Du musst mindestens 18 Jahre alt sein).
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
-    error_email: Wir haben Probleme, die obige E-Mail Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
+    error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
     error_nickname: Der Name ist schon vergeben.
     error_nickname_required: Der Name ist erforderlich.
     error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
@@ -358,7 +358,7 @@ de:
       birthdate: Geburtsdatum
       city: Stadt
       country: Land
-      email: E-Mail Adresse
+      email: E-Mail-Adresse
       location: Ort
       nickname: Name
       password: Passwort
@@ -367,7 +367,7 @@ de:
     subtitle: Erzähl uns ein bisschen über Dich.
     title: Willkommen Zuhause
   signup_avatar:
-    pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und es bevorzugst, nicht Dein Gesicht zu zeigen, zögere nicht kreativ zu werden un eine andere Seite von Dir zu zeigen! Oder Du kannst auch, wenn Du das bevorzugst, <a href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
+    pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und es bevorzugst, nicht Dein Gesicht zu zeigen, zögere nicht kreativ zu werden und eine andere Seite von Dir zu zeigen! Oder Du kannst auch, wenn Du das bevorzugst, <a href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
     say_cheese: Bitte lächeln!
     subtitle: Leute mit Avataren haben 69 mal so viel Spaß!
     title: Lade einen Avatar hoch
