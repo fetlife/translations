@@ -348,10 +348,13 @@ de:
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
+    error_gender_required: Gender muss gewählt werden
     error_nickname: Der Name ist schon vergeben.
     error_nickname_required: Der Name ist erforderlich.
     error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
     error_password_required: Das Password ist erforderlich.
+    error_role_required: Die Rolle muss gewählt werden
+    error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden
     error_state_missing: Die Provinz muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
     label:
@@ -363,8 +366,8 @@ de:
       location: Ort
       nickname: Name
       password: Passwort
-      role: Role
-      sexual_orientation: Sexual Orientation
+      role: Rolle
+      sexual_orientation: Sexuelle Orientierung
       state: Staat/Provinz
     page_title: Mitglied werden
     subtitle: Erzähl uns ein bisschen über Dich.

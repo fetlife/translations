@@ -348,10 +348,13 @@ gr:
     error_city_missing: Πρέπει να επιλέξετε τη πόλη
     error_country_missing: Πρέπει να επιλέξετε τη χώρα
     error_email: Έχουμε πρόβλημα να επαξεργάσουμε αυτό το email. Συνιστούμε να κοιτάξετε την ορθογραφία η προσπαθήστε ένα άλλο διαφορετικό.
+    error_gender_required: Gender has to be selected
     error_nickname: Παρατσούκλι ήδη πιασμένο.
     error_nickname_required: Παρατσουκλι απαιτείται.
     error_password_range: Κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 50 χαρακτήρες
     error_password_required: Κωδικός πρόσβασης απαιτείται
+    error_role_required: Role has to be selected
+    error_sexual_orientation_required: Sexual Orientation has to be selected
     error_state_missing: Κράτος/Επαρχία πρέπει να επιλεγεί
     footnote: Με το κλικ του κουμπιού συμφωνείτε να σεβαστείτε και να παρακολουθήστε  <a href="%{guidelines_path}">"Community Guidelines"</a> και <a href="%{tou_path}">Όροι Χρήσης</a>…
     label:

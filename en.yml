@@ -348,10 +348,13 @@ en:
     error_city_missing: City has to be selected
     error_country_missing: Country has to be selected
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
+    error_gender_required: Gender has to be selected
     error_nickname: Nickname is already taken.
     error_nickname_required: Nickname is required.
     error_password_range: Password needs to be between 4 and 50 characters
     error_password_required: Password is required
+    error_role_required: Role has to be selected
+    error_sexual_orientation_required: Sexual Orientation has to be selected
     error_state_missing: State/Province has to be selected
     footnote: By clicking the button above you agree to respect and follow our <a href="%{guidelines_path}">Community Guidelines</a> and <a href="%{tou_path}">Terms of Use</a>&hellip; no take backs.
     label:
