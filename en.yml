@@ -359,9 +359,12 @@ en:
       city: City
       country: Country
       email: Email Address
+      gender: Gender
       location: Location
       nickname: Nickname
       password: Password
+      role: Role
+      sexual_orientation: Sexual Orientation
       state: State/Province
     page_title: Join
     subtitle: Tell us a little bit about yourself.

@@ -359,9 +359,12 @@ es:
       city: Ciudad
       country: País
       email: Dirección de Correo Electrónico
+      gender: Género
       location: Ubicación
       nickname: Apodo
       password: Contraseña
+      role: Papel
+      sexual_orientation: Orientación Sexual
       state: Estado/Provincia
     page_title: Unirse
     subtitle: Cuéntanos un poco sobre Ud.

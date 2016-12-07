@@ -359,9 +359,12 @@ pt:
       city: Cidade
       country: Country
       email: Endereço de Email
+      gender: Gênero
       location: Localidade
       nickname: Apelido
       password: Senha
+      role: Posição
+      sexual_orientation: Orientação Sexual
       state: Estado
     page_title: Cadastrar
     subtitle: Conte-nos um pouco sobre você.
