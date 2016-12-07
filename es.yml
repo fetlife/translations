@@ -6,10 +6,10 @@ es:
       subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar conectarse de nuevo.
       title: Regla Cinco Huelgas
     cta: Soy yo, ¡déjame entrar!
-    error: "<strong>Kinky Operador:</strong> Doh&hellip; el código de verificación de arriba parece errado. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
+    error: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación de arriba parece errado. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
     label: Código de autenticación
     page_title: Autenticación de 2-Factores
-    subtitle: "¡2-Factores me bebé!"
+    subtitle: "¡2-Factorizame bebé!"
     title: Código Secreto
   about:
     contact_info: Datos de contacto
@@ -26,13 +26,13 @@ es:
       delete: Borrar
       duplicate: Duplicar
       edit: Editar
-      pause: Pausa
+      pause: Pausar
       start: Comenzar
       unpause: Reanudar
     actions_literal: Acciones
     active_ads: Anuncios activos
     ad_new:
-      cta: Sube Nuevo Anuncio
+      cta: Sube Anuncio Nuevo
       labels:
         line1: Línea 1
         line2: Línea 2
@@ -42,7 +42,7 @@ es:
         line2: Recordarla todo el día
         line3: lo que le espera para más adelante
       subtitle: Tan fácil como 1, 2 ... 69.
-      title: Nuevo Anuncio
+      title: Anuncio Nuevo
     ads: Anuncios
     avg_ctr: Promedio CTR
     best: Mejor
@@ -56,9 +56,9 @@ es:
       subtitle: Septiembre del 2016
       title: Actualizar campaña
     campaign_new:
-      cta: Nueva campaña
+      cta: Campaña Nueva
       subtitle: Septiembre del 2016
-      title: Nueva campaña
+      title: Campaña Nueva
     campaigns: Campañas
     clicks: Clics
     ctr: CTR
@@ -66,8 +66,8 @@ es:
     impressions: Impresiones
     last_updated: Última actualización de las estadísticas
     name: Nombre
-    new_ad: "+ nuevo anuncio"
-    new_campaign: "+ Nueva campaña"
+    new_ad: "+ anuncio nuevo "
+    new_campaign: "+ Campaña Nueva "
     overview: Visión de conjunto
     press_start: Pulse el botón "Inicio" cuando listo.
     slots: Ranuras
@@ -86,10 +86,10 @@ es:
     loves_count:
       one: Un Amor
       other: "%{number} Amas"
-    title: Alimentador de Actividad
+    title: Feed de Actividad
   following:
-    follow: Follow
-    following: Following
+    follow: Sigue
+    following: Siguiendo
   footer:
     about: Acerca de
     help: Ayuda
@@ -103,13 +103,13 @@ es:
       step1:
         page_title: Restablecer Contraseña por Correo Electrónico
         subtitle: Dejame ayudarle con eso.
-        title: "¿Se le olvidó su contraseña?"
+        title: "¿Se le Olvidó su Contraseña?"
       step2:
         page_title: Ud. “PODRÍA” Tener Correo
         subtitle: Si existe un perfil asociado al correo electrónico <strong>%{given_email}</strong> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡Ud. & ldquo; Podría& rdquo; Tener Correo!"
       update_email: Actualiza la dirección de correo electrónico
-      warning: "<strong>Cirujano Generales Advertencia:</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si ud. no recibe un correo electrónico de nosotros, es más probable porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
+      warning: "<strong>Advertencia de General Cirujano :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
     mobile:
       5strike:
         return: volver a la portada
@@ -125,14 +125,14 @@ es:
         title: "¿Se le olvidó su contraseña?"
       step2:
         cta: Verificar que Usted es Usted &#8482;
-        error_code_match: "<strong>Kinky Operador:</strong> Código de verificación que ha introducido es incorrecto. Compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo. Esta es una grabación."
+        error_code_match: "<strong>Operador Kinky:</strong> Código de verificación que ha introducido es incorrecto. Compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo. Esta es una grabación."
         inexisting_number: Si después de un par de minutos no recibe un mensaje de texto de nosotros, entonces es probable porque no tenemos un perfil conectado a su número. Recomendamos que sea <a href="%{forgot_password_email_path}"> intente reinicializar su contraseña utilizando otro método </a> o <a href="%{signup_path}">configurar un nuevo perfil en FetLife </a>.
         label: Código de Verificación
-        page_title: Introducir el Código Verificación
+        page_title: Introducir el Código de Verificación
         placeholder: 6-Dígitos del Código de Verificación
         subtitle: Nosotros &ldquo;podríamos&rdquo; haberle enviado un mensaje de texto.
         title: Ingrese el código de verificación
-      warning: "<strong>Cirujano Generales Advertencia:</strong> Por razones de seguridad, no podemos decir si existe un número móvil en nuestra base de datos o no. Si no recibe un mensaje de texto de nosotros, es más probable porque no tenemos una cuenta asociada a ese número."
+      warning: "<strong>Advertencia de Cirujano Generales:</strong> Por razones de seguridad, no podemos decir si existe un número móvil en nuestra base de datos o no. Si no recibe un mensaje de texto de nosotros, es más probable porque no tenemos una cuenta asociada a ese número."
     next_step: próximo paso
     return_to_login: volver a inicio
     tab_email: Correo electrónico
@@ -160,7 +160,7 @@ es:
     return_to_feed: volver a alimentar
     subtitle_step1:
       one: Tiene 1 invitación restante.
-      other: Tiene %{number} invitaciones restante.
+      other: Tiene %{number} invitaciones restantes.
     subtitle_step2: Hemos enviado una invitación de ud. a <strong>%{email}</strong>.
     title_step1: Invita a un Amigo
     title_step2: Invitación Enviada
@@ -168,18 +168,18 @@ es:
   landing_page:
     footer: "<strong>%{member_count} Miembros</strong> están compartiendo <strong>%{picture_count}fotos</strong> y <strong>%{video_count} vídeos</strong>, que participan en  <strong>%{discussion_count}</strong> discusiones en <strong>%{group_count} grupos</strong>, van a <strong>%{event_count} próximos eventos</strong> y leyendo <strong>%{post_count} entradas de blogs</strong>. <em>¡Kinky cielo!</em>"
     login_button: Inicia sesión a FetLife
-    signup_button: Inscripción a FetLife
+    signup_button: Regístrate a FetLife
     subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que es más divertido de esa manera. ¿Verdad?
     title: FetLife es la Red Social para la comunidad BDSM, Fetiche y Kinky.
   legalese:
     subnav:
-      2257_exempt: 2257 Exempt
+      2257_exempt: Exento de 2257
       2257_exempt_short: '2257'
       privacy: Política de privacidad
       privacy_short: Privacidad
       terms: Términos de Uso
       terms_short: Uso
-    subtitle: Jugando un abogado en el interweb desde '69.
+    subtitle: Jugando como un abogado en el interweb desde '69.
     title: Legalidades
   login:
     button: Inicia sesión a FetLife
@@ -192,12 +192,12 @@ es:
       nickname: Apodo o Correo Electrónico
       password: Contraseña
       remember_me: Acuérdale de mí, vuelvo enseguida.
-    not_a_member: "¿No eres miembro todavía? Inscripción a FetLife"
-    subtitle: Le hemos perdido... ¡a lo grande!
+    not_a_member: "¿No eres miembro todavía? Regístrate a FetLife"
+    subtitle: Le hemos echado de menos... ¡a lo grande!
     title: Bienvenido a Casa
   logout:
     log_in: volver a entrar
-    subtitle: Asegúrese de volver a vernos pronto.
+    subtitle: Asegúrese de volver y vernos pronto.
     title: “¡Le echaremos de menos!"
   member_stats:
     pics:
@@ -211,6 +211,7 @@ es:
       other: vids
   nav:
     events: Eventos
+    explore: Explorar
     fetishes: Fetiches
     groups: Grupos
     home: Casa
@@ -232,25 +233,25 @@ es:
     title: Recomendaciones
   reset_password:
     cta: Restablecer mi contraseña
-    error_confirmation_match: Password confirmation doesn't match Password
-    error_password_range: Password is too short (minimum is 4 characters)
-    error_token_expired: Reset password token has expired, please request a new one
-    error_token_invalid: Reset password token is invalid
+    error_confirmation_match: Confirmación de contraseña no coincide con Contraseña
+    error_password_range: La contraseña es demasiado corta (el mínimo es de 4 caracteres)
+    error_token_expired: El token de contraseña de restablecimiento ha experiado, solicite uno nuevo
+    error_token_invalid: El token de contraseña de restablecimiento no es válido
     footnote: "<strong>Sugerencia Pro:</strong> Recuerde su contraseña."
     label_enter: Nueva Contraseña
     label_re_enter: Reingrese en Nueva Contraseña
-    status_flash_success: Your password has been changed successfully.
+    status_flash_success: Su contraseña ha sido cambiada con éxito.
     subtitle: No demasiado corto, no demasiado largo, sólo el...
     title: Restablecer la contraseña
   select_language:
     button: Cambiar Idioma por Defecto
     help_translate: Visit our <a href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
-    language_name: Español
+    language_name: Inglés
     sub_header: "¡Hi, hallo, olá, bonjour, ciao, ahoj, opa!"
-    title: Seleccione el idioma
+    title: Elige su Idioma
   settings_account:
-    2fa_cta: Activar 2-factor de autenticación
-    2fa_label: 2-Factor de autenticación
+    2fa_cta: Activar 2-factores de autenticación
+    2fa_label: 2-Factores de autenticación
     anti_pro_tip: <strong>”Contra-Pro” Consejo:</strong> Puede <a href="#">desactivar</a> o <a href="#">eliminar</a> su cuenta si realmente quieren, pero tres de cada cuatro Papas altamente desalentarlo.
     current_password_label: Contraseña Actual
     email_cta: Actualiza la Dirección de Correo Electrónico
@@ -278,7 +279,7 @@ es:
   settings_privacy:
     blocked_list_subtitle: Para aquellos en su lista negra.
     blocked_list_title: Lista Bloqueada
-    cb_feed: Permitir a los no amigos me siguen en su alimentador de actividad.
+    cb_feed: Permitir a los no amigos me siguen en su Feed de actividad.
     cb_fp: Permitir que mis mensajes no privados aparezcan en Fresco&Pervertido.
     cb_kp: Permitir que mis mensajes no privados aparezcan en Kinky&Popular.
     content_privacy: Contenido de Privacidad
@@ -310,8 +311,8 @@ es:
   sidebar:
     about_fetlife: Sobre FetLife
     ad_stats: Estadísticas de Anuncios
-    advertising: PAnuncios
-    bug_bounty: Recompensa para un Error de Programación
+    advertising: Anuncios
+    bug_bounty: Bug Bounty
     caretaking: Cuidadores
     close: cerca
     edit_profile: Editar Perfil
@@ -342,26 +343,26 @@ es:
     almost_there: "¡Casi Allí!"
     error_bar: Dallas, tenemos un problema. Desplazarse hacia abajo para obtener más información.
     error_birthdate: Se requiere fecha de nacimiento.
-    error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: You are is not old enough (you need to be at least 18 years old).
-    error_city_missing: City has to be selected
-    error_country_missing: Country has to be selected
+    error_birthdate_too_old: Ud. es demasiado viejo.
+    error_birthdate_too_young: Usted no es lo suficientemente mayor (tiene que tener al menos 18 años de edad).
+    error_city_missing: Tiene que seleccionar un Ciudad.
+    error_country_missing: Tiene que seleccionar un Pais.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o intente una diferente.
     error_nickname: El apodo ya está tomada.
-    error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 4 and 50 characters
-    error_password_required: Password is required
-    error_state_missing: State/Province has to be selected
+    error_nickname_required: Se requiere su apodo.
+    error_password_range: La contraseña debe tener entre 4 y 50 caracteres
+    error_password_required: Se requiere su contraseña.
+    error_state_missing: Estado/Provincia debe ser seleccionado
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestra <a href="%{guidelines_path}"> Normas de la comunidad</a> y <a href="%{tou_path}"> Términos de Uso</a> & hellip; sin espaldas tomar.
     label:
       birthdate: Fecha de Nacimiento
-      city: City
-      country: Country
+      city: Ciudad
+      country: País
       email: Dirección de Correo Electrónico
       location: Ubicación
       nickname: Apodo
       password: Contraseña
-      state: State/Province
+      state: Estado/Provincia
     page_title: Unirse
     subtitle: Cuéntanos un poco sobre Ud.
     title: Bienvenido a casa
@@ -379,7 +380,7 @@ es:
     follow: Seguir
     next_step: Próximo Paso
     subtitle: Siga kinksters que despierten su interés.
-    title: "¿Cualquier persona que se llama la atención?"
+    title: "¿Cualquier persona que se llama su atención?"
   signup_phone:
     cta: Enviarme un Código de Verificación
     error_cant_send: "<strong>Kinky Operador:</strong> Tenemos problemas que el envío de un mensaje de texto. Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., y que se no estamos tratando de enviar un mensaje de texto a su teléfono fijo."
@@ -391,8 +392,8 @@ es:
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Tiempo de Verificación!"
   signup_verify:
-    cta: Inscripción y Verificación Completa
-    incorrect_code: "<strong>Kinky Operador:</strong> Doh&hellip; el código de verificación que ha introducido parece fuera. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
+    cta: Completa la Registración y Verificación
+    incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece fuera. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelve a intentarlo."
     label: Código de Verificación
     notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a href="%{back_path}"> actualizar su número y le enviaremos un nuevo código de verificación </a>.
     notice_error: "<strong>P.S.</strong> ¡Encantado de conocerle!"
@@ -403,7 +404,7 @@ es:
     title: Último Paso
   subnav:
     feed:
-      activity_feed: Alimentador de actividad
+      activity_feed: Feed de actividad
       activity_feed_short: Casa
       fp: Fresh <span class="a-ampersand">&amp;</span>Pervy
       fp_short: Fresco
