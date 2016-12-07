@@ -359,12 +359,12 @@ gr:
       city: Πόλη
       country: Χώρα
       email: Διεύθυνση email
-      gender: Gender
+      gender: Γένος
       location: Τοποθεσία
       nickname: παρατσούκλι
       password: κωδικός
-      role: Role
-      sexual_orientation: Sexual Orientation
+      role: Ρόλος
+      sexual_orientation: Προσανατολισμό Σεξ
       state: Κράτος/Επαρχία
     page_title: συμμετοχή
     subtitle: Μίλησε μας για τον εαυτό σου.
