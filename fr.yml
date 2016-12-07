@@ -86,6 +86,10 @@ fr:
     loves_count:
       one: 1 Amour
       other: "%{number} Amours"
+    modal:
+      close: close
+      more: more
+      reply: Reply
     title: Feed d' activité
   following:
     follow: Suivre
