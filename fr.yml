@@ -245,7 +245,6 @@ fr:
     title: Réinitialiser le Mot de passe
   select_language:
     button: Changer votre Langue par Défaut
-    help_translate: Visit our <a href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
     language_name: Français
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
     title: Choisir Votre Langue
