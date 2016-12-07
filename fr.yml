@@ -359,13 +359,13 @@ fr:
       city: Ville
       country: Pays
       email: Addresse Email
-      gender: Gender
+      gender: Genre
       location: Location
       nickname: Nickname
       password: Mot de Passe
-      role: Role
-      sexual_orientation: Sexual Orientation
-      state: State/Province
+      role: Rôle
+      sexual_orientation: Orientation sexuelle
+      state: Etat/Province
     page_title: Joindre
     subtitle: Parle-nous un peu de toi.
     title: Bienvenue à la Maison
