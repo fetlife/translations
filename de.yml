@@ -87,9 +87,9 @@ de:
       one: 1 Herz
       other: "%{number} Herzen"
     modal:
-      close: close
-      more: more
-      reply: Reply
+      close: schließen
+      more: mehr
+      reply: Antworten
     title: Aktivitätschronik
   following:
     follow: Folge
