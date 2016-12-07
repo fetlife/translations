@@ -87,9 +87,9 @@ fr:
       one: 1 Amour
       other: "%{number} Amours"
     modal:
-      close: close
-      more: more
-      reply: Reply
+      close: fermer
+      more: plus
+      reply: répondre
     title: Feed d' activité
   following:
     follow: Suivre
@@ -352,13 +352,13 @@ fr:
     error_city_missing: Ville doit être sélectionnée
     error_country_missing: Pays doit être sélectionnée
     error_email: Nous avons des problèmes avec le traitement de l'addresse email au dessus. Nous recommandons vous verifiez l'orthographie ou essayer un autre.
-    error_gender_required: Gender has to be selected
+    error_gender_required: Genre doit être sélectionnée
     error_nickname: Le Nickname est déjà pris.
     error_nickname_required: Nickname est obligatoire.
     error_password_range: Mot de Passe doit être entre 4 et 50 charactères
     error_password_required: Mot de Passe est obligatoire
-    error_role_required: Role has to be selected
-    error_sexual_orientation_required: Sexual Orientation has to be selected
+    error_role_required: Rôle doit être sélectionnée
+    error_sexual_orientation_required: Orientation sexuelle doit être sélectionnée
     error_state_missing: Etat/Province doit être sélectionnée
     footnote: En cliquant sur le bouton au dessus vous acceptez de respecter et suivre notre <a href="%{guidelines_path}">Lignes Directrices Communautaires</a> et <a href="%{tou_path}">Conditions d'Utilisation</a>&hellip; Pas de reprise.
     label:
