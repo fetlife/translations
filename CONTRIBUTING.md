@@ -18,7 +18,7 @@ The best place to learn about GitHub is through the [GitHub Guides](https://guid
 
 You can help out in multiple ways, and you don't even need to be multilingual to do so:
 
-- [Report any grammatical issues] you come across in any language, including English, on FetLife.
+- [Report any grammatical issues](https://github.com/fetlife/translations/issues) you come across in any language, including English, on FetLife.
 - Submit improvements to our existing translations by clicking on the pencil in the right hand corner of every file.
 - Translate FetLife into a language you are well versed in creating a new file with the proper language code, copying the contents of en.yml into the new file, translating as many strings as you can, and finally submitting the translation in a pull request to us.   
 
@@ -26,8 +26,3 @@ You can help out in multiple ways, and you don't even need to be multilingual to
 ## Coding Conventions
 
 Please try to always write a clear log message for each of your commits. One-line messages are fine for small changes, but bigger changes should be a bit meatier.
-
-
-## Code of Conduct
-
-Be nice! And if you want to know what we mean by that, please read our [Project Contributor Code of Conduct](CODE_OF_CONDUCT.md).
