@@ -245,7 +245,7 @@ gr:
     title: Επαναφέρετε τον κωδικό πρόσβασης
   select_language:
     button: Αλλαγή Προεπιλεγμένη Γλώσσα
-    help_translate: Visit our <a href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
+    help_translate: Eπισκεφτείτε μας <a href="https://github.com/fetlife/translations">μεταφραστικό έργο</a> στο GitHub και βοηθήστε να γίνει το FetLife προσβάσιμo σε περισσότερους από τους kinky φίλους μας <span class="amp">&amp</span> κοινότητες.
     language_name: Ελληνικά
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
     title: Επιλέξτε Γλώσσα
