@@ -352,10 +352,13 @@ pt:
     error_city_missing: Escolha uma Cidade
     error_country_missing: Escolha um País
     error_email: Estamos tendo problemas em acessar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou use um diferente.
+    error_gender_required: Gender has to be selected
     error_nickname: O apelido já está em uso.
     error_nickname_required: Apelido é obrigatório.
     error_password_range: A senha precisa ter entre 4 e 50 caracteres
     error_password_required: Senha é obrigatória
+    error_role_required: Role has to be selected
+    error_sexual_orientation_required: Sexual Orientation has to be selected
     error_state_missing: Estado é obrigatório
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a href="%{guidelines_path}">Orientações de Comunidade</a> e <a href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
     label:
