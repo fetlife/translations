@@ -359,9 +359,12 @@ gr:
       city: Πόλη
       country: Χώρα
       email: Διεύθυνση email
+      gender: Gender
       location: Τοποθεσία
       nickname: παρατσούκλι
       password: κωδικός
+      role: Role
+      sexual_orientation: Sexual Orientation
       state: Κράτος/Επαρχία
     page_title: συμμετοχή
     subtitle: Μίλησε μας για τον εαυτό σου.

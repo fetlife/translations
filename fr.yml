@@ -359,9 +359,12 @@ fr:
       city: Ville
       country: Pays
       email: Addresse Email
+      gender: Gender
       location: Location
       nickname: Nickname
       password: Mot de Passe
+      role: Role
+      sexual_orientation: Sexual Orientation
       state: State/Province
     page_title: Joindre
     subtitle: Parle-nous un peu de toi.
