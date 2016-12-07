@@ -86,6 +86,10 @@ pt:
     loves_count:
       one: 1 Amor
       other: "%{number} Amores"
+    modal:
+      close: fechar
+      more: mais
+      reply: Responder
     title: Feed de Atividade
   following:
     follow: Seguir

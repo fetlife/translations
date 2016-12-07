@@ -86,6 +86,10 @@ de:
     loves_count:
       one: 1 Herz
       other: "%{number} Herzen"
+    modal:
+      close: close
+      more: more
+      reply: Reply
     title: Aktivitätschronik
   following:
     follow: Folge

@@ -86,6 +86,10 @@ es:
     loves_count:
       one: Un Amor
       other: "%{number} Amas"
+    modal:
+      close: cerrar
+      more: más
+      reply: Contestar
     title: Feed de Actividad
   following:
     follow: Sigue

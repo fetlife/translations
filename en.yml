@@ -86,6 +86,10 @@ en:
     loves_count:
       one: 1 Love
       other: "%{number} Loves"
+    modal:
+      close: close
+      more: more
+      reply: Reply
     title: Activity Feed
   following:
     follow: Follow

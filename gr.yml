@@ -86,6 +86,10 @@ gr:
     loves_count:
       one: 1 αγάπη
       other: "%{number} Αγάπες"
+    modal:
+      close: close
+      more: more
+      reply: Reply
     title: Feed
   following:
     follow: Ακολουθήστε
