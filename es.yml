@@ -245,7 +245,7 @@ es:
     title: Restablecer la contraseña
   select_language:
     button: Cambiar Idioma por Defecto
-    help_translate: Visit our <a href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
+    help_translate: Visite nuestro <a href="https://github.com/fetlife/translations">proyecto de traducción</a> en GitHub y ayude a que FetLife sea accesible a más de nuestros amigos <span class="amp">&amp</span> comunidades.
     language_name: Español
     sub_header: "¡Hi, hallo, olá, bonjour, ciao, ahoj, opa!"
     title: Elige su Idioma
