@@ -154,6 +154,7 @@ en:
     title: Guidelines
   invite_a_friend:
     cancel_button: cancel
+    cancel_notice: The invitation to %{email} has been canceled.
     cta: Invite a Friend to Join FetLife
     error: We're having problems sending an invite to the above email address. We recommend you verify the spelling or try a different one.
     invitations_accepted: Invitations Accepted
@@ -165,7 +166,7 @@ en:
     subtitle_step1:
       one: You have 1 invite left.
       other: You have %{number} invites left.
-    subtitle_step2: We've sent an invite from you to <strong>%{email}</strong>.
+    subtitle_step2: We've sent an invite from you to %{email}.
     title_step1: Invite a Friend
     title_step2: Invitation Sent
     view_invitations: view your invitations
@@ -189,6 +190,7 @@ en:
     button: Login to FetLife
     error_flash: Please contact <a href="mailto:support@fetlife.com">support@fetlife.com</a> so we can help you get back in.
     error_login_blank: Login can't be blank
+    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
     error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
     error_password_blank: Password can't be blank
     forgot_info: Forgot your login information?
@@ -334,10 +336,12 @@ en:
     kp: Kinky & Popular
     legalese: Legalese
     log_out: Log Out
+    loved_stuff: Stuff You Love
     need_help: Need Help?
     open_source: Open Source
     places: Places
     recommendations: Recommendations
+    support: Support FetLife
     upload_picture: Upload Picture
     upload_video: Upload Video
     view_friends: View Friends
@@ -375,6 +379,7 @@ en:
       state: State/Province
     page_title: Join
     subtitle: Tell us a little bit about yourself.
+    subtitle_invite: "%{name} invited you to join FetLife."
     title: Welcome Home
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a href="%{next_step_path}">skip this step</a> for now.'
