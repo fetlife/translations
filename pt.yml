@@ -154,7 +154,7 @@ pt:
     title: Orientações
   invite_a_friend:
     cancel_button: cancelar
-    cancel_notice: The invitation to %{email} has been canceled.
+    cancel_notice: O convite para %{email} foi cancelado.
     cta: Convide um amigo a entrar em FetLife
     error: Estamos tendo problemas em enviar um convite para o endereço de e-mail acima. Nós recomendamos que verifique se o digitou corretamente ou tente um endereço diferente.
     invitations_accepted: Convites Aceitos
@@ -190,7 +190,7 @@ pt:
     button: Acessar FetLife
     error_flash: Por favor contate <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que possamos te ajudar a acessar sua conta.
     error_login_blank: O login não pode ficar em branco.
-    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
+    error_not_authenticated: Desculpe, meu amigo, você não pode acessar essa página. Se você ainda não é um membro, vai levar menos de um minuto para se inscrever.
     error_not_found: Hmmm, não fomos capaz de encontrá-lo. Você tem certeza que inseriu seu apelido e senha corretamente? (Senhas diferenciam MaIúScUlAs-MiNúScUlAs)
     error_password_blank: A senha não pode ficar em branco.
     forgot_info: Esqueceu seus dados de acesso?
@@ -270,7 +270,7 @@ pt:
     nickname_label: 'Altere seu apelido de "JohnBaku" para:'
     nickname_notice: "<strong>Dica:</strong> Meça duas vezes antes de cortar. Você só pode alterar seu apelido uma vez a cada 28 dias. Sem exceções."
     nickname_placeholder: Novo Apelido
-    page_title: Alterar Senha - Settings
+    page_title: Alterar Senha - Configurações
     password_cta: Alterar Senha
     repeat_password_label: Repita a Nova Senha
     subtitle: Não aperte o grande botão vermelho.
@@ -336,12 +336,12 @@ pt:
     kp: Kinky & Popular
     legalese: Juridiquês
     log_out: Sair
-    loved_stuff: Stuff You Love
+    loved_stuff: Você Ama
     need_help: Precisa de Ajuda?
     open_source: Código Aberto
     places: Locais
     recommendations: Recomendações
-    support: Support FetLife
+    support: Apóie FetLife
     upload_picture: Enviar Foto
     upload_video: Enviar Vídeo
     view_friends: Ver Amigos
@@ -379,7 +379,7 @@ pt:
       state: Estado
     page_title: Cadastrar
     subtitle: Conte-nos um pouco sobre você.
-    subtitle_invite: "%{name} invited you to join FetLife."
+    subtitle_invite: "%{name} lhe convidou a participar do FetLife."
     title: Boas Vindas
   signup_avatar:
     pro_tip: '<strong>Dica</strong>: Se você for uma pessoa tímida, seja criativo e mostre um lado diferente! Ou, se preferir, você pode <a href="%{next_step_path}">pular esse passo</a> agora.'
