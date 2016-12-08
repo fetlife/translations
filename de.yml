@@ -154,6 +154,7 @@ de:
     title: Richtlinien
   invite_a_friend:
     cancel_button: abbrechen
+    cancel_notice: Die Einladung an %{email} wurde zurückgezogen.
     cta: Lade einen Freund ein, Mitglied bei FetLife zu werden
     error: Wir haben Probleme, die Einladungen an die obrige E-Mail-Adresse zu schicken. Wir empfehlen, die Schreibweise zu korrigieren oder eine andere Adresse zu versuchen.
     invitations_accepted: Akzeptierte Einladungen
@@ -165,7 +166,7 @@ de:
     subtitle_step1:
       one: Du hast noch 1 Einladung übrig.
       other: Du hast %{number} Einladungen übrig.
-    subtitle_step2: Wir haben eine Einladung von Dir an <strong>%{email}</strong> versandt.
+    subtitle_step2: Wir haben eine Einladung von Dir an %{email} versandt.
     title_step1: Lade einen Freund ein
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
@@ -189,6 +190,7 @@ de:
     button: Einloggen bei FetLife
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder rein zu kommen.
     error_login_blank: Der Name ist erforderlich
+    error_not_authenticated: Entschuldige, mein Freund, um zu dieser Seite zu gelangen, musst Du angemeldet sein. Wenn Du noch kein Mitglied bist, registriere Dich schnell.
     error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß- / KlEiNsChReIbUnG des Passworts.)
     error_password_blank: Das Passwort ist erforderlich
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
@@ -334,10 +336,12 @@ de:
     kp: Kinky & Beliebt
     legalese: Juristenlatein
     log_out: Ausloggen
+    loved_stuff: Von Dir Geherzt
     need_help: Brauchst Du Hilfe?
     open_source: Open Source
     places: Orte
     recommendations: Empfehlungen
+    support: Unterstütze FetLife
     upload_picture: Bild Hochladen
     upload_video: Video Hochladen
     view_friends: Freund_innen
@@ -375,6 +379,7 @@ de:
       state: Staat/Bundesland
     page_title: Mitglied werden
     subtitle: Erzähl uns ein bisschen über Dich.
+    subtitle_invite: "%{name} hat Dich eingeladen, Mitglied bei FetLife zu werden."
     title: Willkommen Zuhause
   signup_avatar:
     pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und es bevorzugst, nicht Dein Gesicht zu zeigen, zögere nicht kreativ zu werden und eine andere Seite von Dir zu zeigen! Oder Du kannst auch, wenn Du das bevorzugst, <a href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'

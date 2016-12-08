@@ -154,6 +154,7 @@ pt:
     title: Orientações
   invite_a_friend:
     cancel_button: cancelar
+    cancel_notice: The invitation to %{email} has been canceled.
     cta: Convide um amigo a entrar em FetLife
     error: Estamos tendo problemas em enviar um convite para o endereço de e-mail acima. Nós recomendamos que verifique se o digitou corretamente ou tente um endereço diferente.
     invitations_accepted: Convites Aceitos
@@ -165,7 +166,7 @@ pt:
     subtitle_step1:
       one: Você tem 1 convite restante.
       other: Você tem %{number} convites restantes.
-    subtitle_step2: Nós enviamos seu convite a <strong>%{email}</strong>.
+    subtitle_step2: Nós enviamos seu convite a %{email}.
     title_step1: Convide a um amigo
     title_step2: Convite Enviado
     view_invitations: veja seus convites
@@ -189,6 +190,7 @@ pt:
     button: Acessar FetLife
     error_flash: Por favor contate <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que possamos te ajudar a acessar sua conta.
     error_login_blank: O login não pode ficar em branco.
+    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
     error_not_found: Hmmm, não fomos capaz de encontrá-lo. Você tem certeza que inseriu seu apelido e senha corretamente? (Senhas diferenciam MaIúScUlAs-MiNúScUlAs)
     error_password_blank: A senha não pode ficar em branco.
     forgot_info: Esqueceu seus dados de acesso?
@@ -334,10 +336,12 @@ pt:
     kp: Kinky & Popular
     legalese: Juridiquês
     log_out: Sair
+    loved_stuff: Stuff You Love
     need_help: Precisa de Ajuda?
     open_source: Código Aberto
     places: Locais
     recommendations: Recomendações
+    support: Support FetLife
     upload_picture: Enviar Foto
     upload_video: Enviar Vídeo
     view_friends: Ver Amigos
@@ -375,6 +379,7 @@ pt:
       state: Estado
     page_title: Cadastrar
     subtitle: Conte-nos um pouco sobre você.
+    subtitle_invite: "%{name} invited you to join FetLife."
     title: Boas Vindas
   signup_avatar:
     pro_tip: '<strong>Dica</strong>: Se você for uma pessoa tímida, seja criativo e mostre um lado diferente! Ou, se preferir, você pode <a href="%{next_step_path}">pular esse passo</a> agora.'
