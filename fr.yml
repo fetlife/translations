@@ -2,15 +2,15 @@
 fr:
   2fa:
     5strike:
-      return: Retour à la page d'accueil
-      subtitle: Merde, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir essayer ouvrir une session encore.
-      title: Règle de Cinq Grèves
-    cta: C'est moi, laisser moi entrer!
-    error: "<strong>Kinky Opérateur:</strong> Doh&hellip; le code de vérification au dessus semble incorrect. S'il vous plaît vérifier que le numéro au dessus égale ce que vous recevez par nous et essayer encore."
-    label: Code d'identification
-    page_title: 2-Factor Authentification
-    subtitle: 2-Factor moi bébé!
-    title: Code Secret
+      return: Retour à la page d’accueil
+      subtitle: Merdre, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir ré-essayer d’ouvrir une session.
+      title: Règle des cinq essais
+    cta: C’est moi, laissez-moi entrer !
+    error: "<strong>Kinky Opérateur :</strong> Doh… le code de vérification ci-dessus semble incorrect. Vérifiez s’il vous plaît que le numéro ci-dessus est identique à celui que vous avez reçu de nous, et ré-essayez."
+    label: Code d’identification
+    page_title: Validation à 2 facteurs
+    subtitle: 2-factorise-moi bébé !
+    title: Code secret
   about:
     contact_info: Informations de contact
     email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous reviendrons vers vous vite!
