@@ -28,11 +28,11 @@ de:
       edit: Bearbeiten
       pause: Pausieren
       start: Start
-      unpause: Wieder starten
+      unpause: Wieder Starten
     actions_literal: Aktionen
     active_ads: Aktive Anzeigen
     ad_new:
-      cta: Neue Anzeige hochladen
+      cta: Neue Anzeige Hochladen
       labels:
         line1: Zeile 1
         line2: Zeile 2
@@ -47,14 +47,14 @@ de:
     avg_ctr: Durchschnittliche Klickrate
     best: Beste
     campaign_edit:
-      cta: Kampagne aktualisieren
+      cta: Kampagne Aktualisieren
       labels:
         company_name: Firmenname
         member_id: ID des Mitgliedskontos
         slots_purchased: Gekaufte Anzeigenplätze
       page_title: Editiere Kampagne
       subtitle: September 2016
-      title: Kampagne aktualisieren
+      title: Kampagne Aktualisieren
     campaign_new:
       cta: Neue Kampagne
       subtitle: September 2016
@@ -93,7 +93,7 @@ de:
     title: Aktivitäts-Chronik
   following:
     follow: Folge
-    following: Ich folge
+    following: Ich Folge
   footer:
     about: Information
     help: Hilfe
@@ -135,7 +135,7 @@ de:
         page_title: Verifikationszahl eingeben
         placeholder: sechsstellige Verifikationszahl
         subtitle: Wir &ldquo;könnten&rdquo; Dir eine SMS geschickt haben.
-        title: Verifikationsnummer eingeben
+        title: Verifikationsnummer Eingeben
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine Handy-Nummer in unserer Datenbank existiert oder nicht. Wenn Du keine SMS von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser Nummer haben."
     next_step: Nächster Schritt
     return_to_login: Zurück zur Anmeldung
@@ -228,7 +228,7 @@ de:
     pictures_title: Bilder
     videos_title: Videos
   promote_following:
-    button: Schalte Folgen an
+    button: Schalte Folgen An
     ps: P.S. Du kannst Folgen jeder Zeit abschalten.
     skip: Schalte Folgen für mich nicht an
     subtitle: Trenne Deine Freund_innen von Deinen Followern.
@@ -268,7 +268,7 @@ de:
     nickname_label: 'Ändere Deinen Namen von „JohnBaku“ nach:'
     nickname_notice: "<strong>Profi-Tipp:</strong> Denke zweimal nach, bevor Du Dich entscheidest. Du kannst Deinen Namen nur einmal alle 28 Tage ändern. Was gilt, das gilt."
     nickname_placeholder: Neuer Name
-    page_title: Passwort ändern - Einstellungen
+    page_title: Passwort Ändern - Einstellungen
     password_cta: Aktualisiere Passwort
     repeat_password_label: Wiederhole Passwort
     subtitle: Betätige nicht den großen roten Knopf.
@@ -300,7 +300,7 @@ de:
     dob_label: Geburtsdatum
     location_label: Ort
     looking_for_label: Auf der Suche nach
-    page_title: Profil aktualisieren
+    page_title: Profil Aktualisieren
     subtitle: Persönlichkeitswachstum ist was Gutes.
     title: Dein Profil
     websites_label: Web-Seiten
@@ -319,8 +319,8 @@ de:
     bug_bounty: Fehler-Prämie
     caretaking: Hausmeisterdienste
     close: schließen
-    edit_profile: Profil bearbeiten
-    edit_settings: Einstellungen bearbeiten
+    edit_profile: Profil Bearbeiten
+    edit_settings: Einstellungen Bearbeiten
     events: Veranstaltungen
     fetishes: Fetische
     following: Folgen
@@ -338,11 +338,11 @@ de:
     open_source: Open Source
     places: Orte
     recommendations: Empfehlungen
-    upload_picture: Bild hochladen
-    upload_video: Video hochladen
+    upload_picture: Bild Hochladen
+    upload_video: Video Hochladen
     view_friends: Freund_innen
-    whats_new: Was ist neu
-    write_post: Text hochladen
+    whats_new: Was ist Neu
+    write_post: Text Hochladen
   signup:
     almost_there: Fast geschafft!
     error_bar: Dallas, wir haben ein Problem. Scrolle für mehr Informationen nach unten.
@@ -375,7 +375,7 @@ de:
       state: Staat/Bundesland
     page_title: Mitglied werden
     subtitle: Erzähl uns ein bisschen über Dich.
-    title: Willkommen zuhause
+    title: Willkommen Zuhause
   signup_avatar:
     pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und es bevorzugst, nicht Dein Gesicht zu zeigen, zögere nicht kreativ zu werden und eine andere Seite von Dir zu zeigen! Oder Du kannst auch, wenn Du das bevorzugst, <a href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
     say_cheese: Bitte lächeln!
@@ -407,7 +407,7 @@ de:
     label: Verifikationsnummer
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
     notice_error: "<strong>P.S.</strong> Schön, Dich kennenzulernen!"
-    page_title: Verifikationsnummer eingeben
+    page_title: Verifikationsnummer Eingeben
     placeholder: sechsstellige Verifikationsnummer
     subtitle: Das hat doch gar nicht wehgetan, oder?!?!
     subtitle_error: Das hat doch gar nicht wehgetan, oder?!?!<br>Vielleicht waren wir etwas voreilig? :-/
