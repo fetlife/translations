@@ -4,9 +4,9 @@ de:
     5strike:
       return: zurück zur Startseite
       subtitle: Mist, aus Sicherheitsgründen wirst Du zwei Stunden warten müssen, bevor Du wieder versuchen kannst, Dich anzumelden.
-      title: Fünfter Streich Regel
+      title: Fünfter-Streich-Regel
     cta: Ich bin’s, lass mich rein!
-    error: "<strong>Kinky Operator:</strong> Nein&hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
+    error: "<strong>Kinky Operator:</strong> Nein &hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast, und versuche es nochmal."
     label: Authentifizierungsnummer
     page_title: 2-Faktor-Authentifizierung
     subtitle: 2-Faktor mich, Baby!
@@ -17,7 +17,7 @@ de:
     europe: Europa
     got_question: Hast Du eine Frage? Brauchst Du Hilfe?
     north_america: Nordamerika
-    one_love: Friede, Freude, und jede Menge Kink.
+    one_love: Friede, Freude und jede Menge Kink.
     snail_mail: Schneckenpost
     sub_header: Nicht zu verwechseln mit den Spartanern.
     title: Wir. Sind. FetLife!
@@ -41,7 +41,7 @@ de:
         line1: Einführbarer Schmuck
         line2: Erinnere sie den ganzen Tag
         line3: was später auf sie warten mag
-      subtitle: So einfach wie 1, 2… 69.
+      subtitle: So einfach wie 1, 2 … 69.
       title: Neue Anzeige
     ads: Anzeigen
     avg_ctr: Durchschnittliche Klickrate
@@ -72,7 +72,7 @@ de:
     press_start: Klicke „Start“, wenn Du fertig bist.
     slots: Anzeigenplätze
     subtitle: Ground control to Major Tom.
-    title: Anzeigen Statistik
+    title: Anzeigen-Statistik
     updated_every: Alle 15 Minuten aktualisieren
     view: zeige
     worst: Schlechteste
@@ -90,7 +90,7 @@ de:
       close: schließen
       more: mehr
       reply: Antworten
-    title: Aktivitätschronik
+    title: Aktivitäts-Chronik
   following:
     follow: Folge
     following: Ich Folge
@@ -100,7 +100,7 @@ de:
   forgot_password:
     email:
       cta: Sende mir eine E-Mail mit Anweisungen
-      error_forgot_email: Ich glaube du hast etwas vergessen… Deine E-Mail-Adresse! :-p
+      error_forgot_email: Ich glaube, du hast etwas vergessen … Deine E-Mail-Adresse! :-p
       error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und sende es dann wieder ab.
       error_quota: Wir können nur zwei E-Mails pro Stunde an eine E-Mail-Adresse schicken. Bitte prüfe nochmal, ob unsere E-Mail nicht im Spamfilter gelandet ist. Wenn Du dort nichts findest, empfehle ich eine der anderen obigen Möglichkeiten zu nutzen, um wieder in Dein Mitgliedskonto zu kommen.
       placeholder: E-Mail-Adresse
@@ -111,18 +111,18 @@ de:
       step2:
         page_title: Du "KÖNNTEST" eine E-Mail haben
         subtitle: Wenn ein Mitgliedskonto mit der E-Mail <strong>%{given_email}</strong> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
-        title: Du &ldquo;Könntest&rdquo; eine E-Mail Haben!
+        title: Du &ldquo;könntest&rdquo; eine E-Mail Haben!
       update_email: Aktualisiere die E-Mail-Adresse
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail-Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail-Adresse haben."
     mobile:
       5strike:
         return: zurück zur Startseite
         subtitle: Mist, aus Sicherheitsgründen wirst Du zwei Stunden warten müssen, bevor Du es nochmal versuchen kannst.
-        title: Fünfter Streich Regel
+        title: Fünfter-Streich-Regel
       cta: Sende mir eine SMS
-      error_country_code: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw."
-      error_quota: "<strong>Kinky Operator:</strong> Mist, wir können nur bis zu drei SMS alle 24 Stunden an eine Handy Nummer schicken. Egal ob die Nummer in unserer Datenbank existiert oder nicht."
-      pro_tip: "<strong>Profi-Tipp:</strong> Achte darauf, dass Du Deine Telefonnummer mit dem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw."
+      error_country_code: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich, usw."
+      error_quota: "<strong>Kinky Operator:</strong> Mist, wir können nur bis zu drei SMS alle 24 Stunden an eine Handy-Nummer schicken. Egal ob die Nummer in unserer Datenbank existiert oder nicht."
+      pro_tip: "<strong>Profi-Tipp:</strong> Achte darauf, dass Du Deine Telefonnummer mit dem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich, usw."
       step1:
         page_title: Setze Dein Passwort via SMS zurück
         subtitle: Lass mich Dir damit helfen.
@@ -159,7 +159,7 @@ de:
     invitations_accepted: Akzeptierte Einladungen
     invitations_sent: Versandte Einladungen
     labels:
-      friends_email: E-Mail-Adresse des Freunds
+      friends_email: E-Mail-Adresse des Freundes
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
@@ -170,11 +170,11 @@ de:
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
   landing_page:
-    footer: "<strong>%{member_count} Mitglieder</strong> teilen <strong>%{picture_count} Bilder</strong> und <strong>%{video_count} Videos</strong>, nehmen an <strong>%{discussion_count} Diskussionen</strong> in <strong>%{group_count} Gruppen</strong> teil, besuchen <strong>%{event_count} demnächst stattfindende Veranstaltungen</strong> und lesen <strong>%{post_count} blog posts</strong>. <em>Perverses Paradies!</em>"
+    footer: "<strong>%{member_count} Mitglieder</strong> teilen <strong>%{picture_count} Bilder</strong> und <strong>%{video_count} Videos</strong>, nehmen an <strong>%{discussion_count} Diskussionen</strong> in <strong>%{group_count} Gruppen</strong> teil, besuchen <strong>%{event_count} demnächst stattfindende Veranstaltungen</strong> und lesen <strong>%{post_count} Blog-Einträge</strong>. <em>Perverses Paradies!</em>"
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?
-    title: FetLife ist ein Soziales Netzwerk für BDSM, Fetisch & Sexy Gemeinschaft.
+    title: FetLife ist ein Soziales Netzwerk für BDSM, Fetisch & sexy Gemeinschaft.
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
@@ -183,7 +183,7 @@ de:
       privacy_short: Privat
       terms: Nutzungsbedingungen
       terms_short: Bedingungen
-    subtitle: Wir spielen Anwalt im Internetz seit ´69.
+    subtitle: Wir spielen Anwalt im Internetz seit '69.
     title: Juristenlatein
   login:
     button: Einloggen bei FetLife
@@ -197,11 +197,11 @@ de:
       password: Passwort
       remember_me: Vergiss mich nicht, ich komme wieder.
     not_a_member: Bist Du noch kein Mitglied? Registriere Dich bei FetLife
-    subtitle: Wir haben Dich vermisst… ja, voll!
+    subtitle: Wir haben Dich vermisst … ja, voll!
     title: Willkommen zu Hause
   logout:
     log_in: Melde Dich wieder an
-    subtitle: Komm ja wieder und triff uns bald.
+    subtitle: Komm' ja wieder und triff uns bald.
     title: Wir werden Dich vermissen!
   member_stats:
     pics:
@@ -220,7 +220,7 @@ de:
     groups: Gruppen
     home: Zuhause
     places: Orte
-    search_placeholder: Suche...
+    search_placeholder: Suche ...
   page_break:
     of: von
   profile:
@@ -230,14 +230,14 @@ de:
   promote_following:
     button: Schalte Folgen An
     ps: P.S. Du kannst Folgen jeder Zeit abschalten.
-    skip: Schalte Folgen nicht an für mich
+    skip: Schalte Folgen für mich nicht an
     subtitle: Trenne Deine Freund_innen von Deinen Followern.
-    title: Vorstellung des Konzepts "Folgen"
+    title: Vorstellung des Konzepts „Folgen“
   recommendations:
     title: Empfehlungen
   reset_password:
     cta: Setze mein Passwort zurück
-    error_confirmation_match: Die Passwort Wiederholung stimmt nicht mit dem Passwort überein
+    error_confirmation_match: Die Passwort-Wiederholung stimmt nicht mit dem Passwort überein
     error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
@@ -245,7 +245,7 @@ de:
     label_enter: Neues Passwort
     label_re_enter: Neues Passwort nochmal eingeben
     status_flash_success: Dein Passwort wurde erfolgreich zurückgesetzt.
-    subtitle: Nicht zu kurz, nicht zu lang, gerade richtig…
+    subtitle: Nicht zu kurz, nicht zu lang, gerade richtig …
     title: Passwort zurücksetzen
   select_language:
     button: Setze die Sprachvoreinstellung
@@ -254,8 +254,8 @@ de:
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
     title: Sprachwahl
   settings_account:
-    2fa_cta: Schalte 2-Faktor Authentifizierung an
-    2fa_label: 2-Faktor Authentifizierung
+    2fa_cta: Schalte 2-Faktor-Authentifizierung an
+    2fa_label: 2-Faktor-Authentifizierung
     anti_pro_tip: <strong>Anti-Profi-Tipp:</strong> Du kannst Dein Mitgliedskontos <a href="#">deaktivieren</a> oder <a href="#">löschen</a> wenn Du das wirklich willst, aber drei von vier Päpsten raten dringend davon ab.
     current_password_label: Aktuelles Passwort
     email_cta: Aktualisiere E-Mail-Adresse
@@ -265,7 +265,7 @@ de:
     language_notice: FetLife ist noch nicht vollständig in anderen Sprachen als Englisch verfügbar. Wenn Du diese Einstellung änderst, wird nicht die gesamte Seite übersetzt sein.
     new_password_label: Neues Passwort
     nickname_cta: Ändere den Namen
-    nickname_label: 'Ändere Deinen Namen von "JohnBaku" nach:'
+    nickname_label: 'Ändere Deinen Namen von „JohnBaku“ nach:'
     nickname_notice: "<strong>Profi-Tipp:</strong> Denke zweimal nach, bevor Du Dich entscheidest. Du kannst Deinen Namen nur einmal alle 28 Tage ändern. Was gilt, das gilt."
     nickname_placeholder: Neuer Name
     page_title: Passwort Ändern - Einstellungen
@@ -292,7 +292,7 @@ de:
     page_title: Einstellungen der Privatsphäre
     subtitle: Serviert wie Sie es wünschen.
     title: Privatsphäre
-    warning: "<strong>Sehr Wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt."
+    warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt."
   settings_profile:
     about_you_label: Über Dich
     add_website: "+ eine Web-Seite hinzufügen"
@@ -316,7 +316,7 @@ de:
     about_fetlife: Über FetLife
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
-    bug_bounty: Fehler Prämie
+    bug_bounty: Fehler-Prämie
     caretaking: Hausmeisterdienste
     close: schließen
     edit_profile: Profil Bearbeiten
@@ -325,8 +325,8 @@ de:
     fetishes: Fetische
     following: Folgen
     fp: Frisch & Pervers
-    funny_quote: Wenn Du das nicht lesen kannst ... brauchst Du vermutlich eine Brille! - John 4:69
-    gift_support: FetLife Unterstützung schenken
+    funny_quote: Wenn Du das nicht lesen kannst … brauchst Du vermutlich eine Brille! - John 4:69
+    gift_support: FetLife-Unterstützung schenken
     groups: Gruppen
     guidelines: Richtlinien
     home: Zuhause
@@ -345,7 +345,7 @@ de:
     write_post: Text Hochladen
   signup:
     almost_there: Fast geschafft!
-    error_bar: Dallas, wir haben ein Problem. Scrolle nach unten für mehr Informationen.
+    error_bar: Dallas, wir haben ein Problem. Scrolle für mehr Informationen nach unten.
     error_birthdate: Das Geburtsdatum ist erforderlich.
     error_birthdate_too_old: Du bist zu alt.
     error_birthdate_too_young: Du bist nicht alt genug (Du musst mindestens 18 Jahre alt sein).
@@ -359,7 +359,7 @@ de:
     error_password_required: Das Password ist erforderlich.
     error_role_required: Die Rolle muss gewählt werden
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden
-    error_state_missing: Die Provinz muss gewählt werden.
+    error_state_missing: Das Bundesland muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
     label:
       birthdate: Geburtsdatum
@@ -372,20 +372,20 @@ de:
       password: Passwort
       role: Rolle
       sexual_orientation: Sexuelle Orientierung
-      state: Staat/Provinz
+      state: Staat/Bundesland
     page_title: Mitglied werden
     subtitle: Erzähl uns ein bisschen über Dich.
     title: Willkommen Zuhause
   signup_avatar:
     pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und es bevorzugst, nicht Dein Gesicht zu zeigen, zögere nicht kreativ zu werden und eine andere Seite von Dir zu zeigen! Oder Du kannst auch, wenn Du das bevorzugst, <a href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
     say_cheese: Bitte lächeln!
-    subtitle: Leute mit Avataren haben 69 mal so viel Spaß!
+    subtitle: Leute mit Avataren haben 69-mal so viel Spaß!
     title: Lade einen Avatar hoch
   signup_five_strikes:
-    page_title: Fünfter Streich Regel
+    page_title: Fünfter-Streich-Regel
     return_to_front: zurück zur Startseite
     subtitle_error: Mist, aus Sicherheitsgründen wirst Du zwei Stunden warten müssen, bevor Du wieder versuchen kannst, Dich zu registrieren.
-    title: Fünfter Streich Regel
+    title: Fünfter-Streich-Regel
   signup_follow:
     follow: Folgen
     next_step: Nächster Schritt
@@ -393,17 +393,17 @@ de:
     title: Erregt jemand Deine Aufmerksamkeit?
   signup_phone:
     cta: Sende mir die Verifikationsnummer
-    error_cant_send: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw. Ferner, achte darauf, dass Du nicht versuchst, eine SMS an eine Festnetznummer zu schicken."
+    error_cant_send: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich, usw. Ferner, achte darauf, dass Du nicht versuchst, eine SMS an eine Festnetznummer zu schicken."
     error_quota: "<strong>Kinky Operator:</strong> Wir können nicht mehr als drei SMS innerhalb von 24 Stunden an eine Nummer schicken. Bitte versuche es später nochmal."
     explanation: Wir wissen, dass es viel verlangt ist, aber um eine gesunde und lebhafte Gemeinschaft zu erhalten, müssen wir alle neuen Mitglieder überprüfen. Wir denken, dass Du das schätzen wirst, sobald Du auf der anderen Seite bist.
-    label: Handy Nummer
+    label: Handynummer
     page_title: Verifikationsnummer zusenden
-    pro_tip: "<strong>Profi-Tipp:</strong> Achte darauf, dass Du Deine Telefonnummer mit dem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw."
+    pro_tip: "<strong>Profi-Tipp:</strong> Achte darauf, dass Du Deine Telefonnummer mit dem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich, usw."
     subtitle: Einmalige anonyme SMS.
     title: Verifikationszeit!
   signup_verify:
     cta: Schließe Registrierung & Verifikation ab
-    incorrect_code: "<strong>Kinky Operator:</strong> Nein&hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
+    incorrect_code: "<strong>Kinky Operator:</strong> Nein &hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
     label: Verifikationsnummer
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
     notice_error: "<strong>P.S.</strong> Schön, Dich kennenzulernen!"
