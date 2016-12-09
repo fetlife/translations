@@ -154,7 +154,7 @@ gr:
     title: Kατευθυντήριες Γραμμές
   invite_a_friend:
     cancel_button: ακυρώνω
-    cancel_notice: The invitation to %{email} has been canceled.
+    cancel_notice: H πρόσκληση στο %{email} ακυρώθηκε.
     cta: Καλώ ένα Φίλο να συμμετέχει στο FetLife
     error: Έχουμε προβλήματα στέλνοντας μια πρόσκληση σ'αυτή τη διεύθυνση email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε ένα άλλο.
     invitations_accepted: Πρόσκληση Αποδέκτηκε
@@ -189,9 +189,9 @@ gr:
   login:
     button: Σύνδεση στο FetLife
     error_flash: Παρακαλώ επικοινώνησε <a href="mailto:support@fetlife.com">support@fetlife.com</a> να σας βοηθήσουμε να ξανά μπείτε.
-    error_login_blank: Το Login δεν μπορεί ωα ειναι κενό
-    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
-    error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
+    error_login_blank: Το Login δεν μπορεί να είναι κενό
+    error_not_authenticated: Συγγνώμη φίλε μου, θα πρέπει να είστε συνδεδεμένοι για να φθάσετε σε αυτή τη σελίδα. Αν δεν είστε ήδη μέλος διαρκεί λιγότερο από ένα λεπτό να κάνετε sign-up.
+    error_not_found: Χmmm, δεν ήμασταν σε θέση να σας βρούμε. Είστε βέβαιοι ότι έχετε εισαγάγει το παρατσούκλι και τον κωδικό πρόσβασής σας σωστά? (Kωδικοί πρόσβασης είναι πεζών-κεφαλαίων)
     error_password_blank: Κωδικός πρόσβασης δεν μπορεί να είναι κενό
     forgot_info: Ξεχάσατε τις πληροφορίες για το login?
     labels:
@@ -336,12 +336,12 @@ gr:
     kp: Kinky & Δημοφιλής
     legalese: Νομικός
     log_out: Log Out
-    loved_stuff: Stuff You Love
+    loved_stuff: Πράγματα Που Αγαπάτε
     need_help: Χρειαζόσαστε βοήθεια?
     open_source: Ανοιχτή Πηγή
     places: Τοπία
     recommendations: Συστήσεις
-    support: Support FetLife
+    support: Υποστήριξετε το Fetlife
     upload_picture: Μεταφόρτωση Εικόνες
     upload_video: Μεταφόρτωση Βίντεο
     view_friends: Κοιτάξτε Φίλους
@@ -379,7 +379,7 @@ gr:
       state: Κράτος/Επαρχία
     page_title: συμμετοχή
     subtitle: Μίλησε μας για τον εαυτό σου.
-    subtitle_invite: "%{name} invited you to join FetLife."
+    subtitle_invite: "%{name} σας προσκάλεσε να συμμετάσχετε στο FetLife."
     title: Καλοσώρισες σπίτι
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: Αν είστε ντροπαλοί και δεν θέλετε να παρουσιάσετε το προσωπό σας, μη διστάσετε να είστε δημιουπγικοί και δείξτε μια άλλη πλευρά από σας! Ή αν προτιμάτε, μπορείτε <a href="%{next_step_path}">παραλείψετε αυτό το βήμα</a> για τώρα.'
