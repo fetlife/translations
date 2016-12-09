@@ -13,14 +13,14 @@ fr:
     title: Code secret
   about:
     contact_info: Informations de contact
-    email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous reviendrons vers vous vite!
+    email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous reviendrons très vite vers vous !
     europe: Europe
-    got_question: As-tu une question? Besoin d'aide?
+    got_question: As-tu une question ? Besoin d’aide ?
     north_america: Amérique du Nord
-    one_love: Un amour, une vie, et beaucoup de kink!
-    snail_mail: Snail Mail
-    sub_header: Ne pas confondre avec les Spartans
-    title: Nous. Sommes. FetLife!
+    one_love: Un amour, une vie, et beaucoup de kink !
+    snail_mail: Courrier papier
+    sub_header: À ne pas confondre avec les spartiates
+    title: Nous. Sommes. FetLife !
   ad_stats:
     actions:
       delete: Effacer
@@ -28,117 +28,117 @@ fr:
       edit: Modifier
       pause: Pause
       start: Démarrer
-      unpause: Unpause
+      unpause: Reprendre
     actions_literal: Actions
-    active_ads: Annonces Actives
+    active_ads: Annonces actives
     ad_new:
-      cta: Télécharger Nouvelle Annonce
+      cta: Envoyer une nouvelle annonce
       labels:
         line1: Ligne 1
         line2: Ligne 2
         line3: Ligne 3
       placeholders:
-        line1: Bijoux Insérables
+        line1: Bijoux insérables
         line2: Lui rappeler toute la journée
-        line3: ce qui attend plus tard
+        line3: ce qui l’attend plus tard
       subtitle: Facile comme 1, 2… 69.
-      title: Nouvelle Annonce
+      title: Nouvelle annonce
     ads: Annonces
-    avg_ctr: Avg CTR
+    avg_ctr: CTR moyen
     best: Meilleur
     campaign_edit:
-      cta: Mettre à jour la Campagne
+      cta: Mettre à jour la campagne
       labels:
-        company_name: Nom de la Compagnie
+        company_name: Nom de la compagnie
         member_id: member_id
-        slots_purchased: Emplacements Achetés
-      page_title: Modifier la Campagne
+        slots_purchased: Emplacements achetés
+      page_title: Modifier la campagne
       subtitle: Septembre 2016
-      title: Mettre à jour la Campagne
+      title: Mettre à jour la campagne
     campaign_new:
-      cta: Nouvelle Campagne
+      cta: Nouvelle campagne
       subtitle: Septembre 2016
-      title: Nouvelle Campagne
+      title: Nouvelle campagne
     campaigns: Campagnes
-    clicks: Clicks
+    clicks: Clics
     ctr: CTR
     edit: modifier
     impressions: Impressions
-    last_updated: Statistiques mise à jour
+    last_updated: Dernière mise à jour des statistiques
     name: Nom
     new_ad: "+ nouvelle annonce"
     new_campaign: "+ nouvelle campagne"
     overview: Aperçu
-    press_start: Pousser "Demarrer" dès que prêt.
+    press_start: Cliquer “Démarrer” dès que vous êtes prêt.
     slots: Emplacements
     subtitle: Contrôle au sol à Major Tom.
-    title: Statistiques d'annonces
-    updated_every: Mettre à jour chaque 15 minutes
+    title: Statistiques d’annonces
+    updated_every: Mises à jour toutes les 15 minutes
     view: vue
     worst: Pire
   feed:
     comment: Commentaire
     comments_count:
-      one: 1 Commentaire
-      other: "%{number} Commentaires"
+      one: 1 commentaire
+      other: "%{number} commentaires"
     love: Aimer
-    loved_hover: Heart Breaker! :-(
+    loved_hover: Bourreau des cœurs ! :-(
     loves_count:
-      one: 1 Amour
-      other: "%{number} Amours"
+      one: 1 amour
+      other: "%{number} amours"
     modal:
       close: fermer
       more: plus
-      reply: répondre
-    title: Feed d' activité
+      reply: Répondre
+    title: Fil d’activité
   following:
     follow: Suivre
-    following: Suivir
+    following: Suivi
   footer:
-    about: Sur
+    about: À propos
     help: Aide
   forgot_password:
     email:
-      cta: Envoi moi un Email avec Instructions
-      error_forgot_email: Je pense que vous avez oublié quelque chose… votre addresse email! :-p
-      error_invalid_email: Cela ne resemble pas a une valide addresse email. S'il vous plait remise le et re-soumettre.
-      error_quota: Nous ne pouvons envoyer deux emails par heure à n'importe quel addresse email. S'il vous plait revérifier que votre email n'a pas fini dans votre filtre spam. Si vous pouvez pas trouver n'importe quoi dans votre filtre spam je recommande utiliser l'un de l'autre méthodes pour revenir à votre compte.
-      placeholder: Addresse Email
+      cta: Envoie-moi un email avec instructions
+      error_forgot_email: Je crois que vous avez oublié quelque chose… votre addresse mail ! :-p
+      error_invalid_email: Ça ne ressemble pas à une addresse mail valide. Veuillez la relie et la re-soumettre.
+      error_quota: Nous ne pouvons envoyer que deux emails par heure à une même addresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre dossier spam je recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
+      placeholder: Addresse mail
       step1:
-        page_title: Reinitialiser le mot de passe via Email
+        page_title: Réinitialiser le mot de passe par mail
         subtitle: Laissez-moi vous aider avec ça.
-        title: Oublié le mot de passe?
+        title: Oublié votre mot de passe ?
       step2:
-        page_title: Vous "Pourriez" avoir du courrier
-        subtitle: S'il existe un profil associé avec cette email <strong>%{given_email}</strong> alors nous vous avons envoyé des instructions comment reinitialisé votre mot de passe.
-        title: Vous &ldquo;Pourriez&rdquo; Avoir du Courrier!
-      update_email: mettre à jour l'addresse email
-      warning: "<strong>Surgeon Generals Warning:</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une addresse email existe dans notre basse de donnés ou pas. Si vous n'obtenez pas de courriel de nous, il est probable qu'on n'as pas un compte associé avec cette addresse email."
+        page_title: Vous avez “PEUT-ËTRE” du courrier
+        subtitle: S’il existe un profil associé à cet email <strong>%{given_email}</strong>, alors nous vous avons envoyé des instructions pour reinitialiser votre mot de passe.
+        title: Vous avez “PEUT-ËTRE” du courrier !
+      update_email: mettre à jour l’addresse mail
+      warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une addresse mail existe ou non dans notre base de données. Si vous ne recevez pas de courriel de nous, il est probable que nous n’avons pas de compte associé à cette addresse mail."
     mobile:
       5strike:
-        return: Retour à la page d'accueil
-        subtitle: Merde, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir essayer ouvrir une session encore.
-        title: Five Strike Rule
-      cta: Envoyé-moi un message texte
-      error_country_code: "<strong>Kinky Opérateur:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour L'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
-      error_quota: "<strong>Kinky Opérateur:</strong> Merde, nous pouvons seulement essayer envoyé jusqu'à 3 messages textes chaque 24 heures à n'importe quel numéro mobile. Si le numéro existe dans notre basse de donnés ou pas."
-      pro_tip: "<strong>Pro Tip?:</strong> Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour L'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc."
+        return: Retour à la page d’accueil
+        subtitle: Merdre, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir ré-essayer d’ouvrir une session.
+        title: Règle des cinq essais
+      cta: Envoyez-moi un texto
+      error_country_code: "<strong>Opérateur Kinky :</strong> Assurez-vous de commencer votre numéro avec votre code de pays : +1 pour les États Unis et le Canada, +44 pour l’UK, +61 pour l’Australie, +31 pour les Pays-Bas, +49 pour l’Allemagne, +33 pour la France, etc."
+      error_quota: "<strong>Opérateur Kinky :</strong> Merdre, nous ne pouvons essayer d’envoyer que 3 textos par 24 heures à un même numéro mobile. Que le numéro existe dans notre base de données ou non."
+      pro_tip: "<strong>Astuce de pro :</strong> Assurez-vous de commencer votre numéro avec votre code de pays : +1 pour les États Unis et le Canada, +44 pour l’UK, +61 pour l’Australie, +31 pour les Pays-Bas, +49 pour l’Allemagne, +33 pour la France, etc."
       step1:
-        page_title: Réinitialiser le mot de passe via Message Texte
+        page_title: Réinitialiser le mot de passe via texto
         subtitle: Laissez-moi vous aider avec ça.
-        title: Oublié Password?
+        title: Oublié votre mot de passe ?
       step2:
-        cta: Vérifier Que Vous Êtes &#8482;
-        error_code_match: "<strong>Kinky Opérateur:</strong> Code Vérification que vous avez entré est incorrect. Vérifier que le numéro au dessus égale ce que vous recevez par nous et essayer encore. C'est un enregistrement."
-        inexisting_number: Si après deux minutes vous ne recevez pas une message texte de nous, c'est probablement parce que nous n'avons pas un profil attaché à votre numéro. Nous vous recommandons soit <a href="%{forgot_password_email_path}">essayez de réinitialiser votre mot de passe utilisant un autre méthode</a> ou <a href="%{signup_path}">installer un nouveau profil sur FetLife</a>.
-        label: Code de Vérification
-        page_title: Entrez le Code de Vérification
-        placeholder: 6-Chiffres Code de Vérification
-        subtitle: Nous &ldquo;pourrions&rdquo; vous envoyer une message texte.
-        title: Entrez le Code Verification Code
-      warning: "<strong>Surgeon Generals Warning:</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro mobile existe dans notre basse de donnés ou pas. Si vous n'obtenez pas un message texte de nous, c'est probablement parce que on n'as pas un compte associé avec ce numéro."
-    next_step: L'Étape suivante
-    return_to_login: retour à login
+        cta: Vérifier que vous êtes vous &#8482;
+        error_code_match: "<strong>Opérateur Kinky :</strong> Le code de vérification que vous avez entré est incorrect. Vérifiez que le numéro ci-dessus correspond à celui reçu de nous et ré-essayez. Ceci est un message enregistré."
+        inexisting_number: Si après deux minutes vous ne recevez pas un texto de nous, c’est probablement que nous n’avons pas de profil associé à votre numéro. Nous vous recommandons soit d’<a href="%{forgot_password_email_path}">essayez de réinitialiser votre mot de passe en utilisant un autre méthode</a>, soit de <a href="%{signup_path}">créer un nouveau profil sur FetLife</a>.
+        label: Code de vérification
+        page_title: Entrez le code de vérification
+        placeholder: code de vérification à 6 chiffres
+        subtitle: Nous vous avons “peut-être” envoyé un texto.
+        title: Entrez le code de vérification
+      warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro de mobile existe ou non dans notre base de données. Si vous ne recevez pas de texto de nous, il est probable que nous n’avons pas de compte associé à ce numéro de mobile."
+    next_step: étape suivante
+    return_to_login: retour au login
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
