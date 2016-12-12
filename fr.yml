@@ -142,50 +142,50 @@ fr:
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
-    last_updated: 'Mise à jour Récente:'
-    sub_header: Suivez votre intestin, il sait toujours.
+    last_updated: 'Dernière mise à jour :'
+    sub_header: Suivez votre instinct, il a toujours raison.
     subnav:
       community: Communauté
       community_short: Communauté
       content: Contenu
       content_short: Contenu
-      group_leader: Chef de Groupe
-      group_leader_short: Chef de Groupe
-    title: Lignes Directrices
+      group_leader: Chef de groupe
+      group_leader_short: Chef de groupe
+    title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler
-    cancel_notice: The invitation à %{email} a été annulée.
-    cta: Invite un Ami à joindre FetLife
-    error: Nous avons des problèmes envoyez une invitation au addresse email çi-dessus. Nous recommandons vous vérifiez l'orthographe ou essayez un autre.
-    invitations_accepted: Invitations Accepté
-    invitations_sent: Invitations Envoyé
+    cancel_notice: L’invitation à %{email} a été annulée.
+    cta: Invite un ami à rejoindre FetLife
+    error: Nous avons des problèmes à envoyer une invitation à l’addresse mail çi-dessus. Nous vous recommandons de vérifier sa justesse ou d’en essayez une autre.
+    invitations_accepted: Invitations acceptées
+    invitations_sent: Invitations envoyées
     labels:
-      friends_email: Addresse Email d'Amis
+      friends_email: Addresse mail de ton ami
     next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:
-      one: Vous avez 1 invite qui reste.
-      other: Vous avez %{number} invites qui reste.
-    subtitle_step2: Nous avons envoyé une invitation de vous à %{email}.
-    title_step1: Invite un Ami
-    title_step2: Invitation envoyé
-    view_invitations: regarder votre invitations
+      one: Vous avez 1 invitation restante.
+      other: Vous avez %{number} invitations restantes.
+    subtitle_step2: Nous avons envoyé une invitation de votre part à %{email}.
+    title_step1: Inviter un ami
+    title_step2: Invitation envoyée
+    view_invitations: voir vos invitations
   landing_page:
-    footer: "<strong>%{member_count} Membres</strong> partages <strong>%{picture_count} photos</strong> et <strong>%{video_count} videos</strong>, participant à <strong>%{discussion_count} discussions</strong> dans <strong>%{group_count} groupes</strong>, allons <strong>%{event_count} évènements à venir</strong> et en train de lire <strong>%{post_count} postes blog</strong>. <em>Kinky paradis!</em>"
-    login_button: Login à FetLife
-    signup_button: Signer à FetLife
-    subtitle: Comme Facebook, mais organisé par des kinksters comme toi et moi. On pense c'est plus amusant comme ça. N'est-ce pas?
-    title: FetLife est le Réseau Social pour le BDSM, Fétiche & Kinky Communauté.
+    footer: "<strong>%{member_count} Membres</strong> partagent <strong>%{picture_count} images</strong> et <strong>%{video_count} videos</strong>, participent à <strong>%{discussion_count} discussions</strong> dans <strong>%{group_count} groupes</strong>, vont à <strong>%{event_count} évènements à venir</strong> et lisent <strong>%{post_count} articles de blog</strong>. <em>Paradis kinky !</em>"
+    login_button: Se connecter à FetLife
+    signup_button: S’inscrire à FetLife
+    subtitle: Comme Facebook, mais géré par des kinksters comme toi et moi. On pense que c’est plus amusant comme ça. Pas toi ?
+    title: FetLife est le réseau social de la communauté BDSM, fétiche & kinky.
   legalese:
     subnav:
-      2257_exempt: 2257 Exempt
+      2257_exempt: Exemption 2257
       2257_exempt_short: '2257'
-      privacy: Politique de Confidentialité
+      privacy: Politique de confidentialité
       privacy_short: Confidentialité
-      terms: Conditions d'utilisation
+      terms: Conditions d’utilisation
       terms_short: Conditions
-    subtitle: Jouer un avocat sur le interweb depuis '69.
-    title: Légal
+    subtitle: On joue à l’avocat sur l’interweb depuis ’69.
+    title: Mentions légales
   login:
     button: Login à FetLife
     error_flash: S'il vous plaît contacte <a href="mailto:support@fetlife.com">support@fetlife.com</a> que nous puissions vous aider rentrer encore.
