@@ -80,6 +80,7 @@ sk:
     comment: Komentovať
     comments_count:
       one: 1 komentár
+      few: "%{number} komentáre"
       other: "%{number} komentárov"
     love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
@@ -93,7 +94,7 @@ sk:
     title: Novinky
   following:
     follow: Sledovať
-    following: Sledovaní
+    following: Sledovaný
   footer:
     about: O stránke
     help: Pomoc
@@ -165,6 +166,7 @@ sk:
     return_to_feed: späť na feed
     subtitle_step1:
       one: Ostáva ti 1 pozvánka.
+      few: Ostávajú ti %{number} pozvánky.
       other: Ostáva ti %{number} pozvánok.
     subtitle_step2: Poslali sme za Teba email na %{email}.
     title_step1: Pozvať priateľa
@@ -207,13 +209,16 @@ sk:
     title: Budeš nám chýbať!
   member_stats:
     pics:
-      one: obrázok
-      other: obrázkov
+      one: fotka
+      few: fotky
+      other: fotiek
     posts:
       one: príspevok
+      few: príspevky
       other: príspevkov
     vids:
       one: video
+      few: videá
       other: videii
   nav:
     events: Udalosti
@@ -227,7 +232,7 @@ sk:
     of: z
   profile:
     about_title: Zoznam priateľov
-    pictures_title: Obrázky
+    pictures_title: Fotky
     videos_title: Videá
   promote_following:
     button: Aktivovať sledovanie na mojom profile
@@ -342,7 +347,7 @@ sk:
     places: Miesta
     recommendations: Odporúčania
     support: Podpor FetLife
-    upload_picture: Nahraj obrázok
+    upload_picture: Nahraj fotku
     upload_video: Nahraj video
     view_friends: Zobraz priateľov
     whats_new: Čo nové?
