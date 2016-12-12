@@ -80,12 +80,12 @@ de:
     comment: Kommentar
     comments_count:
       one: 1 Kommentar
-      other: "%{number} Kommentare"
+      other: "%{count_with_delimiter} Kommentare"
     love: Liebe
     loved_hover: Herzbrecher! :-(
     loves_count:
       one: 1 Herz
-      other: "%{number} Herzen"
+      other: "%{count_with_delimiter} Herzen"
     modal:
       close: schließen
       more: mehr
@@ -165,7 +165,7 @@ de:
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
       one: Du hast noch 1 Einladung übrig.
-      other: Du hast %{number} Einladungen übrig.
+      other: Du hast %{count_with_delimiter} Einladungen übrig.
     subtitle_step2: Wir haben eine Einladung von Dir an %{email} versandt.
     title_step1: Lade einen Freund ein
     title_step2: Einladung versandt
@@ -208,13 +208,13 @@ de:
   member_stats:
     pics:
       one: 1 Bild
-      other: "%{count} Bilder"
+      other: "%{count_with_delimiter} Bilder"
     posts:
       one: 1 Text
-      other: "%{count} Texte"
+      other: "%{count_with_delimiter} Texte"
     vids:
       one: 1 Video
-      other: "%{count} Videos"
+      other: "%{count_with_delimiter} Videos"
   nav:
     events: Veranstaltungen
     explore: Entdecken

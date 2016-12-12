@@ -80,13 +80,13 @@ sk:
     comment: Komentovať
     comments_count:
       one: 1 komentár
-      few: "%{number} komentáre"
-      other: "%{number} komentárov"
+      few: "%{count_with_delimiter} komentáre"
+      other: "%{count_with_delimiter} komentárov"
     love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
     loves_count:
       one: 1 členovi sa to ľúbi
-      other: "%{number} členom sa to ľúbi"
+      other: "%{count_with_delimiter} členom sa to ľúbi"
     modal:
       close: zatvoriť
       more: viac
@@ -166,8 +166,8 @@ sk:
     return_to_feed: späť na feed
     subtitle_step1:
       one: Ostáva ti 1 pozvánka.
-      few: Ostávajú ti %{number} pozvánky.
-      other: Ostáva ti %{number} pozvánok.
+      few: Ostávajú ti %{count_with_delimiter} pozvánky.
+      other: Ostáva ti %{count_with_delimiter} pozvánok.
     subtitle_step2: Poslali sme za Teba email na %{email}.
     title_step1: Pozvať priateľa
     title_step2: Pozvánka odoslaná
@@ -210,16 +210,16 @@ sk:
   member_stats:
     pics:
       one: 1 fotka
-      few: "%{count} fotky"
-      other: "%{count} fotiek"
+      few: "%{count_with_delimiter} fotky"
+      other: "%{count_with_delimiter} fotiek"
     posts:
       one: 1 príspevok
-      few: "%{count} príspevky"
-      other: "%{count} príspevkov"
+      few: "%{count_with_delimiter} príspevky"
+      other: "%{count_with_delimiter} príspevkov"
     vids:
       one: 1 video
-      few: "%{count} videá"
-      other: "%{count} videii"
+      few: "%{count_with_delimiter} videá"
+      other: "%{count_with_delimiter} videii"
   nav:
     events: Udalosti
     explore: Objavuj

@@ -80,12 +80,12 @@ en:
     comment: Comment
     comments_count:
       one: 1 Comment
-      other: "%{number} Comments"
+      other: "%{count_with_delimiter} Comments"
     love: Love
     loved_hover: Heart Breaker! :-(
     loves_count:
       one: 1 Love
-      other: "%{number} Loves"
+      other: "%{count_with_delimiter} Loves"
     modal:
       close: close
       more: more
@@ -165,7 +165,7 @@ en:
     return_to_feed: return to feed
     subtitle_step1:
       one: You have 1 invite left.
-      other: You have %{number} invites left.
+      other: You have %{count_with_delimiter} invites left.
     subtitle_step2: We've sent an invite from you to %{email}.
     title_step1: Invite a Friend
     title_step2: Invitation Sent
@@ -208,13 +208,13 @@ en:
   member_stats:
     pics:
       one: 1 pic
-      other: "%{count} pics"
+      other: "%{count_with_delimiter} pics"
     posts:
       one: 1 post
-      other: "%{count} posts"
+      other: "%{count_with_delimiter} posts"
     vids:
       one: 1 vid
-      other: "%{count} vids"
+      other: "%{count_with_delimeter} vids"
   nav:
     events: Events
     explore: Explore

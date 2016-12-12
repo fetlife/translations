@@ -80,12 +80,12 @@ es:
     comment: Comentario
     comments_count:
       one: 1 Comentario
-      other: "%{number} Comentarios"
+      other: "%{count_with_delimiter} Comentarios"
     love: Amor
     loved_hover: "¡Rompecorazones! :-("
     loves_count:
       one: Un Amor
-      other: "%{number} Amas"
+      other: "%{count_with_delimiter} Amas"
     modal:
       close: cerrar
       more: más
@@ -165,7 +165,7 @@ es:
     return_to_feed: volver a alimentar
     subtitle_step1:
       one: Tiene 1 invitación restante.
-      other: Tiene %{number} invitaciones restantes.
+      other: Tiene %{count_with_delimiter} invitaciones restantes.
     subtitle_step2: Hemos enviado una invitación de ud. a %{email}.
     title_step1: Invita a un Amigo
     title_step2: Invitación Enviada
@@ -208,13 +208,13 @@ es:
   member_stats:
     pics:
       one: 1 foto
-      other: "%{count} fotos"
+      other: "%{count_with_delimiter} fotos"
     posts:
       one: 1 mensaje
-      other: "%{count} mensajes"
+      other: "%{count_with_delimiter} mensajes"
     vids:
       one: 1 vid
-      other: "%{count} vids"
+      other: "%{count_with_delimiter} vids"
   nav:
     events: Eventos
     explore: Explorar

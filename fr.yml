@@ -80,12 +80,12 @@ fr:
     comment: Commentaire
     comments_count:
       one: 1 commentaire
-      other: "%{number} commentaires"
+      other: "%{count_with_delimiter} commentaires"
     love: Aimer
     loved_hover: Bourreau des cœurs ! :-(
     loves_count:
       one: 1 amour
-      other: "%{number} amours"
+      other: "%{count_with_delimiter} amours"
     modal:
       close: fermer
       more: plus
@@ -165,7 +165,7 @@ fr:
     return_to_feed: retour à feed
     subtitle_step1:
       one: Vous avez 1 invitation restante.
-      other: Vous avez %{number} invitations restantes.
+      other: Vous avez %{count_with_delimiter} invitations restantes.
     subtitle_step2: Nous avons envoyé une invitation de votre part à %{email}.
     title_step1: Inviter un ami
     title_step2: Invitation envoyée
@@ -208,13 +208,13 @@ fr:
   member_stats:
     pics:
       one: 1 photo
-      other: "%{count} photos"
+      other: "%{count_with_delimiter} photos"
     posts:
       one: 1 post
-      other: "%{count} postes"
+      other: "%{count_with_delimiter} postes"
     vids:
       one: 1 vidéo
-      other: "%{count} vidéos"
+      other: "%{count_with_delimiter} vidéos"
   nav:
     events: Évènements
     explore: Explorer

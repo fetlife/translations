@@ -80,12 +80,12 @@ gr:
     comment: Σχόλιο
     comments_count:
       one: 1 σχόλιο
-      other: "%{number} Σχόλια"
+      other: "%{count_with_delimiter} Σχόλια"
     love: Aγaπώ
     loved_hover: Heart Breaker! :-(
     loves_count:
       one: 1 αγάπη
-      other: "%{number} Αγάπες"
+      other: "%{count_with_delimiter} Αγάπες"
     modal:
       close: κλειστό
       more: περισσότερο
@@ -165,7 +165,7 @@ gr:
     return_to_feed: επιστρέφω στο feed
     subtitle_step1:
       one: Έχετε 1 πρόσκληση που περισεύει.
-      other: Έχετε %{number} προσκλήσεις που περισεύουν.
+      other: Έχετε %{count_with_delimiter} προσκλήσεις που περισεύουν.
     subtitle_step2: Στείλαμε μια πρόσκληση απο εσένα στο %{email}.
     title_step1: Καλέστε ένα Φίλο
     title_step2: Πρόσκληση Στάλθηκε
@@ -208,13 +208,13 @@ gr:
   member_stats:
     pics:
       one: 1 εικόνα
-      other: "%{count} εικόνες"
+      other: "%{count_with_delimiter} εικόνες"
     posts:
       one: 1 γραπτό
-      other: "%{count} γραπτά"
+      other: "%{count_with_delimiter} γραπτά"
     vids:
       one: 1 βίντεο
-      other: "%{count} βίντεος"
+      other: "%{count_with_delimiter} βίντεος"
   nav:
     events: Εκδηλώσεις
     explore: εξερευνώ
