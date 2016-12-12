@@ -1,5 +1,5 @@
 ---
-fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/familiar, and formal/polite way to address to the user)! Mixing both is really odd…
+fr:
   2fa:
     5strike:
       return: Retour à la page d’accueil
@@ -84,7 +84,7 @@ fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/f
     love: Aimer
     loved_hover: Bourreau des cœurs ! :-(
     loves_count:
-      one: 1 amour  # 'amour' sounds odd in french… maybe 'cœur' (like 'coup de cœur')? 
+      one: 1 amour
       other: "%{number} amours"
     modal:
       close: fermer
@@ -143,7 +143,7 @@ fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/f
     tab_mobile: Mobile
   guidelines:
     last_updated: 'Dernière mise à jour :'
-    sub_header: Suivez votre instinct, il a toujours raison.  # No good way to translate the english pun here, imho.
+    sub_header: Suivez votre instinct, il a toujours raison.
     subnav:
       community: Communauté
       community_short: Communauté
@@ -151,7 +151,7 @@ fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/f
       content_short: Contenu
       group_leader: Chef de groupe
       group_leader_short: Chef de groupe
-    title: Lignes directrices  # Or simply 'Charte' ?
+    title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler
     cancel_notice: L’invitation à %{email} a été annulée.
@@ -162,7 +162,7 @@ fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/f
     labels:
       friends_email: Addresse mail de ton ami
     next_step: étape suivante
-    return_to_feed: retour à feed  # TODO How to translate 'feed'? 'Fil (d’activités)'?
+    return_to_feed: retour à feed
     subtitle_step1:
       one: Vous avez 1 invitation restante.
       other: Vous avez %{number} invitations restantes.
@@ -185,7 +185,7 @@ fr:  # XXX General TODO: choose between 'tu' and 'vous' (i.e. between informal/f
       terms: Conditions d’utilisation
       terms_short: Conditions
     subtitle: On joue à l’avocat sur l’interweb depuis ’69.
-    title: Mentions légales  # Bit formal compared to 'legalese', could also use 'Blabla légal'? Or, more pedant, 'Logorrhée légale'?
+    title: Mentions légales
   login:
     button: Login à FetLife
     error_flash: S'il vous plaît contacte <a href="mailto:support@fetlife.com">support@fetlife.com</a> que nous puissions vous aider rentrer encore.
