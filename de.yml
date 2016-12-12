@@ -207,14 +207,14 @@ de:
     title: Wir werden Dich vermissen!
   member_stats:
     pics:
-      one: Bild
-      other: Bilder
+      one: 1 Bild
+      other: "%{count} Bilder"
     posts:
-      one: Text
-      other: Texte
+      one: 1 Text
+      other: "%{count} Texte"
     vids:
-      one: Video
-      other: Videos
+      one: 1 Video
+      other: "%{count} Videos"
   nav:
     events: Veranstaltungen
     explore: Entdecken

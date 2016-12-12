@@ -207,14 +207,14 @@ es:
     title: “¡Le echaremos de menos!"
   member_stats:
     pics:
-      one: foto
-      other: fotos
+      one: 1 foto
+      other: "%{count} fotos"
     posts:
-      one: mensaje
-      other: mensajes
+      one: 1 mensaje
+      other: "%{count} mensajes"
     vids:
-      one: vid
-      other: vids
+      one: 1 vid
+      other: "%{count} vids"
   nav:
     events: Eventos
     explore: Explorar
