@@ -207,14 +207,14 @@ en:
     title: We'll Miss You!
   member_stats:
     pics:
-      one: pic
-      other: pics
+      one: 1 pic
+      other: "%{count} pics"
     posts:
-      one: post
-      other: posts
+      one: 1 post
+      other: "%{count} posts"
     vids:
-      one: vid
-      other: vids
+      one: 1 vid
+      other: "%{count} vids"
   nav:
     events: Events
     explore: Explore

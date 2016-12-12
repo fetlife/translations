@@ -207,14 +207,14 @@ pt:
     title: Sentiremos sua falta!
   member_stats:
     pics:
-      one: foto
-      other: fotos
+      one: 1 foto
+      other: "%{count} fotos"
     posts:
-      one: postagem
-      other: postagens
+      one: 1 postagem
+      other: "%{count} postagens"
     vids:
-      one: vídeo
-      other: vídeos
+      one: 1 vídeo
+      other: "%{count} vídeos"
   nav:
     events: Eventos
     explore: Explorar

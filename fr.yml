@@ -207,14 +207,14 @@ fr:
     title: Tu nous as manqué!
   member_stats:
     pics:
-      one: photo
-      other: photos
+      one: 1 photo
+      other: "%{count} photos"
     posts:
-      one: post
-      other: postes
+      one: 1 post
+      other: "%{count} postes"
     vids:
-      one: vidéo
-      other: vidéos
+      one: 1 vidéo
+      other: "%{count} vidéos"
   nav:
     events: Évènements
     explore: Explorer

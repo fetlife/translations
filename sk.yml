@@ -209,17 +209,17 @@ sk:
     title: Budeš nám chýbať!
   member_stats:
     pics:
-      one: fotka
-      few: fotky
-      other: fotiek
+      one: 1 fotka
+      few: "%{count} fotky"
+      other: "%{count} fotiek"
     posts:
-      one: príspevok
-      few: príspevky
-      other: príspevkov
+      one: 1 príspevok
+      few: "%{count} príspevky"
+      other: "%{count} príspevkov"
     vids:
-      one: video
-      few: videá
-      other: videii
+      one: 1 video
+      few: "%{count} videá"
+      other: "%{count} videii"
   nav:
     events: Udalosti
     explore: Objavuj

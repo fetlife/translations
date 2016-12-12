@@ -207,14 +207,14 @@ gr:
     title: Θα μας λείψεις!
   member_stats:
     pics:
-      one: εικόνα
-      other: εικόνες
+      one: 1 εικόνα
+      other: "%{count} εικόνες"
     posts:
-      one: γραπτό
-      other: γραπτά
+      one: 1 γραπτό
+      other: "%{count} γραπτά"
     vids:
-      one: βίντεο
-      other: βίντεος
+      one: 1 βίντεο
+      other: "%{count} βίντεος"
   nav:
     events: Εκδηλώσεις
     explore: εξερευνώ
