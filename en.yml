@@ -352,7 +352,7 @@ en:
     error_bar: Dallas, we have a problem. Scroll down for more info.
     error_birthdate: Date of birth is required.
     error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: You are is not old enough (you need to be at least 18 years old).
+    error_birthdate_too_young: You are not old enough (you need to be at least 18 years old).
     error_city_missing: City has to be selected
     error_country_missing: Country has to be selected
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
