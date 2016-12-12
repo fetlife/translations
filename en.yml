@@ -214,7 +214,7 @@ en:
       other: "%{count_with_delimiter} posts"
     vids:
       one: 1 vid
-      other: "%{count_with_delimeter} vids"
+      other: "%{count_with_delimiter} vids"
   nav:
     events: Events
     explore: Explore
