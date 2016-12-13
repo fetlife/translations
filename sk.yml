@@ -173,7 +173,7 @@ sk:
     title_step2: Pozvánka odoslaná
     view_invitations: Zobraziť pozvánky
   landing_page:
-    footer: "<strong>%{member_count} členov</strong> zdieľa <strong>%{picture_count} fotiek</strong> a <strong>%{video_count} videii</strong>, účastnia sa <strong>%{discussion_count} diskusiách</strong> v <strong>%{group_count} skupinách</strong>, idú na <strong>%{event_count} nadchádzajúcich udalostí</strong> a čítajú <strong>%{post_count} blogových príspevkov</strong>. <em>Nebo pre kinksterov!</em>"
+    footer: "<strong>%{member_count} členov</strong> zdieľa <strong>%{picture_count} fotiek</strong> a <strong>%{video_count} videii</strong>, účastnia sa v <strong>%{discussion_count} diskusiách</strong> v <strong>%{group_count} skupinách</strong>, idú na <strong>%{event_count} nadchádzajúcich udalostí</strong> a čítajú <strong>%{post_count} blog príspevkov</strong>. <em>Nebo pre kinksterov!</em>"
     login_button: Prihlásiť sa na FetLife
     signup_button: Registrovať sa na FetLife
     subtitle: Ako Facebook, ale plný kinksterov, ako si ty a my. Myslíme si, že je to viac zábavy touto cestou. Čo myslíš?.
