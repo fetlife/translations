@@ -4,12 +4,12 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 
 ### Languages FetLife is Currently Available In
 
-- [English](en.yml)
-- [French](fr.yml)
-- [Spanish](es.yml)
-- [German](de.yml)
-- [Greek](gr.yml)
-- [Portuguese](pt.yml)
+- [English](locales/en.yml)
+- [French](locales/fr.yml)
+- [Spanish](locales/es.yml)
+- [German](locales/de.yml)
+- [Greek](locales/gr.yml)
+- [Portuguese](locales/pt.yml)
 
 
 ### How You can Help Out
@@ -19,5 +19,5 @@ To learn how you can get involved, check out our [Contributing Guidelines](CONTR
 
 ## Frequently Asked Questions
 
-**Q. Why are only some pages in FetLife translated?**  
+**Q. Why are only some pages in FetLife translated?**
 We are only translating pages that have been redesigned and made mobile friendly. As we move pages to the new design we make them translatable.
