@@ -1,0 +1,23 @@
+# i18n-tasks finds and manages missing and unused translations: https://github.com/glebm/i18n-tasks
+# This file is based on https://github.com/glebm/i18n-tasks/blob/master/templates/config/i18n-tasks.yml
+
+# The "main" locale.
+base_locale: en
+
+# Read and write translations.
+data:
+  # Locale files or `File.find` patterns where translations are read from:
+  read:
+    - "{[!circleci],%{locale}}.yml"
+
+  # Locale files to write new keys to, based on a list of key pattern => file rules. Matched from top to bottom:
+  # `i18n-tasks normalize -p` will force move the keys according to these rules
+  write:
+    - "%{locale}.yml"
+
+  yaml:
+    write:
+      # do not wrap lines at 80 characters
+      line_width: -1
+
+
