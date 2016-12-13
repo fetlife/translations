@@ -1,3 +1,9 @@
 test:
   override:
     - bundle exec i18n-tasks missing
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./scripts/deploy.sh
