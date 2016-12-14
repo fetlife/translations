@@ -7,3 +7,7 @@ deployment:
     branch: master
     commands:
       - ./scripts/deploy.sh
+
+notify:
+  webhooks:
+    - url: https://fetlife-johnny5.herokuapp.com/circleci
