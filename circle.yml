@@ -1,6 +1,7 @@
 test:
   override:
     - bundle exec i18n-tasks missing
+    - bundle exec yaml-lint locales
 
 deployment:
   production:
@@ -8,14 +9,6 @@ deployment:
     commands:
       - ./scripts/deploy.sh
 
-dependencies:
-  post:
-    - gem install yaml-lint
-
 notify:
   webhooks:
     - url: https://fetlife-johnny5.herokuapp.com/circleci
-
-test:
- override:
-  - yaml-lint locales
