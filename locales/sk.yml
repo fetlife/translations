@@ -83,8 +83,8 @@ sk:
       one: 1 komentár
       other: "%{count_with_delimiter} komentárov"
     composer:
-      button: Say It
-      placeholder: What say you?
+      button: Zdielať
+      placeholder: Čo máš na mysli?
     love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
     loves_count:
