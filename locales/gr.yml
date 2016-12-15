@@ -81,6 +81,9 @@ gr:
     comments_count:
       one: 1 σχόλιο
       other: "%{count_with_delimiter} Σχόλια"
+    composer:
+      button: Say It
+      placeholder: What say you?
     love: Aγaπώ
     loved_hover: Heart Breaker! :-(
     loves_count:

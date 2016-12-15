@@ -81,6 +81,9 @@ fr:
     comments_count:
       one: 1 commentaire
       other: "%{count_with_delimiter} commentaires"
+    composer:
+      button: Say It
+      placeholder: What say you?
     love: Aimer
     loved_hover: Bourreau des cœurs ! :-(
     loves_count:

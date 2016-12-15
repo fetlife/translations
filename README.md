@@ -10,6 +10,7 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 - [German](locales/de.yml)
 - [Greek](locales/gr.yml)
 - [Portuguese](locales/pt.yml)
+- [Slovak](locales/sk.yml)
 
 
 ### How You can Help Out

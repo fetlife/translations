@@ -81,6 +81,9 @@ pt:
     comments_count:
       one: 1 Comentário
       other: "%{count_with_delimiter} Comentários"
+    composer:
+      button: Diga
+      placeholder: O que você me diz?
     love: Amar
     loved_hover: De partir o coração! :-(
     loves_count:
