@@ -83,7 +83,7 @@ es:
       other: "%{count_with_delimiter} Comentarios"
     composer:
       button: Dígalo
-      placeholder: Qué dice?
+      placeholder: ¿Qué dice?
     love: Amor
     loved_hover: "¡Rompecorazones! :-("
     loves_count:
