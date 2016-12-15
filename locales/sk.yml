@@ -79,9 +79,12 @@ sk:
   feed:
     comment: Komentovať
     comments_count:
-      one: 1 komentár
       few: "%{count_with_delimiter} komentáre"
+      one: 1 komentár
       other: "%{count_with_delimiter} komentárov"
+    composer:
+      button: Zdielať
+      placeholder: Čo máš na mysli?
     love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
     loves_count:
@@ -165,8 +168,8 @@ sk:
     next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
-      one: Ostáva ti 1 pozvánka.
       few: Ostávajú ti %{count_with_delimiter} pozvánky.
+      one: Ostáva ti 1 pozvánka.
       other: Ostáva ti %{count_with_delimiter} pozvánok.
     subtitle_step2: Poslali sme za Teba email na %{email}.
     title_step1: Pozvať priateľa
@@ -209,16 +212,16 @@ sk:
     title: Budeš nám chýbať!
   member_stats:
     pics:
-      one: 1 fotka
       few: "%{count_with_delimiter} fotky"
+      one: 1 fotka
       other: "%{count_with_delimiter} fotiek"
     posts:
-      one: 1 príspevok
       few: "%{count_with_delimiter} príspevky"
+      one: 1 príspevok
       other: "%{count_with_delimiter} príspevkov"
     vids:
-      one: 1 video
       few: "%{count_with_delimiter} videá"
+      one: 1 video
       other: "%{count_with_delimiter} videii"
   nav:
     events: Udalosti
@@ -384,7 +387,7 @@ sk:
       state: Kraj
     page_title: Pridaj sa k nám
     subtitle: Povedz nám niečo málo o sebe.
-    subtitle_invite: "Uživateľ %{name} ťa pozval na FetLife."
+    subtitle_invite: Uživateľ %{name} ťa pozval na FetLife.
     title: Vitaj doma
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
@@ -420,7 +423,6 @@ sk:
     page_title: Zadaj verfikačný kód
     placeholder: 6-miestny verfikačný kód
     subtitle: Nebolo to také bolestivé, že nie?!?!
-    subtitle_error: That wasn't so painful was it?!?!<br>Maybe we spoke too soon! :-/
     subtitle_error: Nebolo to také bolestivé, že nie?!?!<br>Možno sme to zariekli! :-/
     title: Posledný krok
   subnav:

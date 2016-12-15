@@ -81,6 +81,9 @@ en:
     comments_count:
       one: 1 Comment
       other: "%{count_with_delimiter} Comments"
+    composer:
+      button: Say It
+      placeholder: What say you?
     love: Love
     loved_hover: Heart Breaker! :-(
     loves_count:
