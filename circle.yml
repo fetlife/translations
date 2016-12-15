@@ -8,6 +8,14 @@ deployment:
     commands:
       - ./scripts/deploy.sh
 
+dependencies:
+  post:
+    - gem install yaml-lint
+
 notify:
   webhooks:
     - url: https://fetlife-johnny5.herokuapp.com/circleci
+
+test:
+ override:
+  - yaml-lint locales
