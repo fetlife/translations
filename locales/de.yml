@@ -82,8 +82,8 @@ de:
       one: 1 Kommentar
       other: "%{count_with_delimiter} Kommentare"
     composer:
-      button: Say It
-      placeholder: What say you?
+      button: Sag Was
+      placeholder: Was sagst Du?
     love: Liebe
     loved_hover: Herzbrecher! :-(
     loves_count:
