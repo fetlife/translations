@@ -370,10 +370,10 @@ sk:
     error_nickname_required: Prezývka je povinná
     error_password_range: Heslo musí mať 4 až 50 znakov
     error_password_required: Heslo je povinné
-    error_role_required: Rola musí byť vybratá
-    error_sexual_orientation_required: Sexuálna orientácia musí byť vybratá
-    error_state_missing: Kraj musí byť vybratý
-    footnote: Kliknutím na tlačidlo vyššie súhlasíš, že budeš rešpektovať a sledovať naše <a href="%{guidelines_path}">komunitné pravidlá</a> a <a href="%{tou_path}">podmienky používania</a>.
+    error_role_required: Rola je povinná
+    error_sexual_orientation_required: Sexuálna orientácia je povinná
+    error_state_missing: Kraj je povinný
+    footnote: Kliknutím na tlačidlo vyššie súhlasíš, že budeš rešpektovať naše <a href="%{guidelines_path}">komunitné pravidlá</a> a <a href="%{tou_path}">podmienky používania</a>.
     label:
       birthdate: Dátum narodenia
       city: Mesto
