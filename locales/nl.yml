@@ -1,0 +1,453 @@
+---
+nl:
+  2fa:
+    5strike:
+      return: terug naar de startpagina
+      subtitle: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+      title: Vijf slag regel
+    cta: Ik ben het, laat me binnen!
+    error: "<strong>Kinky Operator:</strong> Stop&hellip; de controle code hierboven is fout. Controleer alstublief het nummer met de gegevens die door ons zijn verstekt en probeer het opnieuw."
+    label: Verificatiecode
+    page_title: 2-stap verificatie
+    subtitle: 2-stap mij baby!
+    title: Geheime code
+  about:
+    contact_info: Contact informatie
+    email_us: stuur een email aan ons op <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij reageren als op een zweepslag.
+    europe: Europa
+    got_question: Heb je een vraag? heb je hulp nodig?
+    north_america: Noord Amerika
+    one_love: Een liefde, een leven, en heel veel kink.
+    snail_mail: Slakken post
+    sub_header: Niet te verwarren met de Spartanen.
+    title: Wij. Zijn. FetLife!
+  ad_stats:
+    actions:
+      delete: Verwijderen
+      duplicate: Vermenigvuldigen
+      edit: Aanpassen
+      pause: Pause
+      start: Start
+      unpause: Verder
+    actions_literal: Akties
+    active_ads: Actieve advertenties
+    ad_new:
+      cta: Nieuwe advertentie toevoegen
+      labels:
+        line1: Regel 1
+        line2: Regel 2
+        line3: Regel 3
+      placeholders:
+        line1: insteekjuwelen
+        line2: herinner haar de hele dag
+        line3: dit wacht voor later
+      subtitle: makkelijk als 1, 2… 69.
+      title: Nieuwe Advertentie
+    ads: Advertenties
+    avg_ctr: Gemiddelde klik snelheid
+    best: Beste
+    campaign_edit:
+      cta: Campagne bijwerken
+      labels:
+        company_name: Bedrijfsnaam
+        member_id: deelnemer_nummer
+        slots_purchased: aangeschafte advertenties
+      page_title: Campagne bewerken
+      subtitle: September 2016
+      title: Campagne bijwerken
+    campaign_new:
+      cta: Nieuwe campagne
+      subtitle: September 2016
+      title: Nieuwe campagne
+    campaigns: Campagnes
+    clicks: kliks
+    ctr: klik snelheid
+    edit: berwerken
+    impressions: Impressies
+    last_updated: Statistieken voor het laatst bijgewerkt
+    name: Naam
+    new_ad: "+ nieuwe advertentie"
+    new_campaign: "+ nieuwe campagne"
+    overview: Overzicht
+    press_start: Wanneer gereed druk "Start".
+    slots: advertentieplaatsen
+    subtitle: Ground control to Major Tom.
+    title: Advertentie statistieken
+    updated_every: Iedere 15 minuten bijgewerkt
+    view: bekijken
+    worst: Slechtste
+  feed:
+    comment: Opmerking
+    comments_count:
+      one: 1 opmerking
+      other: "%{count_with_delimiter} Opmerkingen"
+    composer:
+      button: Zeg het
+      placeholder: Wat zeg jij?
+    love: Snoepje
+    loved_hover: Harten breker! :-(
+    loves_count:
+      one: 1 Snoepje
+      other: "%{count_with_delimiter} Snoepjes"
+    modal:
+      close: sluiten
+      more: meer
+      reply: beantwoorden
+    title: Activiteiten overzicht
+  following:
+    follow: Volgen
+    following: ik volg
+  footer:
+    about: informatie over
+    help: Help
+  forgot_password:
+    email:
+      cta: Stuur mij een Email met instructies
+      error_forgot_email: Ik denk dat je iets bent vergeten… je email adres! :-p
+      error_invalid_email: Dat lijkt niet op een juist email adres. Graag even nakijken en opnieuw verzenden.
+      error_quota: We kunnen maar twee emails per uur sturen naar een email adres. COntroleer alsjeblieft even of onze email niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
+      placeholder: Email adres
+      step1:
+        page_title: Herstel wachtwoord via Email
+        subtitle: Laat me je hiermee helpen.
+        title: Wachtwoord vergeten?
+      step2:
+        page_title: Je "ZOU" een bericht kunnen hebben
+        subtitle: Wanneer er een profiel gekoppeld is met dit email adres <strong>%{given_email}</strong> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
+        title: Je hebt &ldquo;misschien&rdquo; een bericht!
+      update_email: email adres aanpassen
+      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je email adres al bestaat in onze database. Wanneer je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat email adres."
+    mobile:
+      5strike:
+        return: terug naar de startpagina
+        subtitle: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+        title: Vijf slag regel
+      cta: Stuur mij een SMS
+      error_country_code: "<strong>Kinky Operator:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+      error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Ongeacht of het bestaat in onze database."
+      pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+      step1:
+        page_title: Herstel je wachtwoord via SMS
+        subtitle: Laat me je daarbij helpen.
+        title: Wachtwoord vergeten?
+      step2:
+        cta: Bevestig dat jij jij bent &#8482;
+        error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
+        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben met jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">probeer je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">maak een nieuw profiel aan op FetLife</a>.
+        label: Controle Code
+        page_title: Controle Code invoeren
+        placeholder: 6-cijferige Controle Code
+        subtitle: We &ldquo;might&rdquo; hebben je zojuist een SMS gestuurd.
+        title: Controle Code invoeren
+      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat mobiele nummer."
+    next_step: volgende stap
+    return_to_login: terug naar aanmelden
+    tab_email: Email
+    tab_mobile: Mobiel
+  guidelines:
+    last_updated: 'Laatst bijgewerkt:'
+    sub_header: Volg je onderbuik, of je neus.
+    subnav:
+      community: Gemeenschap
+      community_short: Gemeenschap
+      content: Inhoud
+      content_short: Inhoud
+      group_leader: Groep Leider
+      group_leader_short: Groep Leider
+    title: Regels
+  invite_a_friend:
+    cancel_button: afbreken
+    cancel_notice: De uitnodiging van %{email} is afgebroken.
+    cta: Nodig een vriend uit om deel te nemen aan FetLife
+    error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande email adres. We adviseren om de spelling te conroleren of een andere te proberen.
+    invitations_accepted: Uitnodigingen geaccepteerd
+    invitations_sent: Uitnodigingen verstuurd
+    labels:
+      friends_email: Vriend's Email Adres
+    next_step: volgende stap
+    return_to_feed: terug naar activiteiten overzicht
+    subtitle_step1:
+      one: Je hebt nog 1 uitnodiging over.
+      other: Je hebt nog %{count_with_delimiter} uitnodigingen over.
+    subtitle_step2: We hebben je uitnodiging verstuurd aan %{email}.
+    title_step1: Nodig een vriend uit
+    title_step2: Uitnodiging verstuurd
+    view_invitations: Bekijk je uitnodigingen
+  landing_page:
+    footer: "<strong>%{member_count} Leden</strong> delen <strong>%{picture_count} foto's</strong> en <strong>%{video_count} filmpjes</strong>, nemen deel aan <strong>%{discussion_count} discussies</strong> in <strong>%{group_count} groepen</strong>, gaan naar <strong>%{event_count} aanstaande bijeenkomsten</strong>, en lezen <strong>%{post_count} blog berichten</strong>. <em>Kinky hemel!</em>"
+    login_button: Aanmelden bij FetLife
+    signup_button: Inschrijven bij FetLife
+    subtitle: Zoiets als Facebook, maar gemaakt door kinksters zoals jij en ik. Wij denken dat dat veel leuker is. Jij ook?
+    title: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
+  legalese:
+    subnav:
+      2257_exempt: 2257 vrijwaring
+      2257_exempt_short: '2257'
+      privacy: Geheimhoudings beleid
+      privacy_short: Geheimhouding
+      terms: Gebruiks voorwaarden
+      terms_short: Voorwaarden
+    subtitle: Speel als advocaat op het interweb sinds '69.
+    title: Legaliseren
+  login:
+    button: Aanmelden bij FetLife
+    error_flash: Neem alsjeblief contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.
+    error_login_blank: Aanmeldveld mag niet leeg zijn
+    error_not_authenticated: Sorry mijn vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
+    error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
+    error_password_blank: Wachtwoord mag niet leeg zijn
+    forgot_info: Je aanmeld gegevens vergeten?
+    labels:
+      nickname: Alias of Email
+      password: Wachtwoord
+      remember_me: Onthoud mij, ik kom zeker weer terug.
+    not_a_member: Nog geen deelnemer? Schrijf je nu in bij FetLife
+    subtitle: We hebben je heel erg gemist…!
+    title: Welkom thuis
+  logout:
+    log_in: Meld me weer aan
+    subtitle: Blijf regelmatig terug komen en mis niets.
+    title: We zullen je missen!
+  member_stats:
+    pics:
+      one: 1 foto
+      other: "%{count_with_delimiter} foto's"
+    posts:
+      one: 1 post
+      other: "%{count_with_delimiter} posts"
+    vids:
+      one: 1 film
+      other: "%{count_with_delimiter} filmpjes"
+  nav:
+    events: Bijeenkomsten
+    explore: Verkennen
+    fetishes: Fetishes
+    groups: Groepen
+    home: Thuis
+    places: Plaatsen
+    search_placeholder: Zoeken...
+  page_break:
+    of: van
+  profile:
+    about_title: Vrienden lijst
+    pictures_title: Foto's
+    videos_title: Filmpjes
+  promote_following:
+    button: Zet volgen aan
+    ps: P.S. Je kunt volgen ieder moment weer uitschakelen.
+    skip: Zet volgen niet aan voor mij
+    subtitle: Scheid je vrienden van je volgers.
+    title: Introduceer volgen
+  recommendations:
+    title: Aanbevelingen
+  reset_password:
+    cta: Herstel mijn wachtwoord
+    error_confirmation_match: Wachtwoord bevestiging is niet gelijk aan het wachtwoord
+    error_password_range: Wachtwoord is te kort (minimaal 4 karakters)
+    error_token_expired: Herstel wachtwoord token is verlopen, vraag een nieuwe aan
+    error_token_invalid: Herstel wachtwoord token is niet juist
+    footnote: "<strong>Pro Tip:</strong> Vergeet je wachtwoord niet."
+    label_enter: Nieuw wachtwoord
+    label_re_enter: Herhaal nieuw wachtwoord
+    status_flash_success: Je wachtwoord is zojuist succesvol gewijzigd.
+    subtitle: Niet te kort, niet te lang, precies goed…
+    title: Herstel wachtwoord
+  select_language:
+    button: Wijzig standaard taal
+    help_translate: Bezoek ons <a href="https://github.com/fetlife/translations">vertaal project</a> op GitHub en help mee FetLife toegangkelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
+    language_name: Nederlands
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    title: Selecteer taal
+  settings_account:
+    2fa_cta: Activeer 2-stap verificatie
+    2fa_label: 2-stap verificatie
+    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Je kunt je lidmaatschap <a href="#">deactiveren</a> of <a href="#">verwijderen</a> wanneer je echt wilt, maar drie van de vier Pausen raden dit ten zeerste af.
+    current_password_label: Huidig wachtwoord
+    email_cta: Email adres bijwerken
+    email_label: Email
+    email_placeholder: Email adres
+    language_cta: Standaard taal bijwerken
+    language_notice: FetLife is nog niet geheel beschikbaar in andere talen anders dan Engels. Wanneer je de instelling hier wijzigt, kan het zijn dat niet de gehele website vertaald wordt.
+    new_password_label: Nieuw wachtwoord
+    nickname_cta: Wijzig alias
+    nickname_label: 'Wijzig je alias van "JohnBaku" naar:'
+    nickname_notice: "<strong>Pro Tip:</strong> Meet twee keer en snij eenmaal. Je kunt je alias maar 1 maal in de 28 dagen wijzigen. Retouren uitgesloten."
+    nickname_placeholder: Nieuwe alias
+    page_title: Wijzig wachtwoord - instellingen
+    password_cta: Wachtwoord bijwerken
+    repeat_password_label: Herhaal wachtwoord
+    subtitle: Niet op de grote rode knop drukken.
+    title: Lidmaatschap instellingen
+  settings_notifications:
+    cta: Standaard taal bijwerken
+    language_label: Taal
+    notice: FetLife is nog niet geheel beschikbaar in andere talen anders dan Engels. Wanneer je de instelling hier wijzigt, kan het zijn dat niet de gehele website vertaald wordt.
+    page_title: Taal - Instellingen
+    subtitle: Wat is je taal voorkeur?
+    title: Taal
+  settings_privacy:
+    blocked_list_subtitle: Voor deelnemers op jouw straflijst.
+    blocked_list_title: Straflijst
+    cb_feed: Niet vrienden mogen mij volgen op hun activiteiten overzicht.
+    cb_fp: Mijn niet prive berichten mogen op Fresh&Pervy verschijnen.
+    cb_kp: Mijn niet prive berichten mogen op Kinky&Popular verschijnen.
+    content_privacy: Inhoud geheimhouding
+    cta: bewaar geheimhouding instellingen
+    following: Volgen
+    page_title: Geheimhouding instellingen
+    subtitle: Opgediend zoals jij het wenst.
+    title: Geheimhouding
+    warning: "<strong>Extreem Belangrijk</strong>: Het uitschakelen van volgen verwijderd iedereen uit jouw volg lijst die jouw momenteel volgt. Geen herstel mogelijk. Dat is geen geintje."
+  settings_profile:
+    about_you_label: Over jou
+    add_website: "+ voeg een andere website toe"
+    cta: Jouw profiel bijwerken
+    dob_label: Geboortedatum
+    location_label: Locatie
+    looking_for_label: Zoek naar
+    page_title: Profiel bijwerken
+    subtitle: Persoonlijke groei is een goede zaak.
+    title: Jouw Profiel
+    websites_label: Websites
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Email Adres bijwerken
+    email_label: Email Adres bijwerken
+    email_placeholder: Email Adres
+    page_title: Email Adres bijwerken - Instellingen
+    subtitle: Voor het geval je je wachtwoord mocht vergeten.
+    title: Email Adres bijwerken
+  sidebar:
+    about_fetlife: Over Fetlife
+    ad_stats: Advertentie Statistieken
+    advertising: Adverteren
+    bug_bounty: Fouten beloning
+    caretaking: Concierge
+    change_language: Wijzig taal    
+    close: sluiten
+    edit_profile: Profiel bewerken
+    edit_settings: Instellingen bewerken
+    events: Bijeenkomsten
+    fetishes: Fetishes
+    following: Volgen
+    fp: Fris & Pervy
+    funny_quote: Wanneer je dit niet kunt lezen ... heb je waarschijnlijk een bril nodig! - John 4:69
+    gift_support: Gift ter ondersteuning van FetLife
+    groups: Groepen
+    guidelines: Richtlijnen
+    home: Thuis
+    invite_a_friend: Nodig een vriend uit (%{count})
+    kp: Kinky & Populair
+    legalese: Juristen Latijn
+    log_out: Afmelden
+    loved_stuff: Snoepjes
+    need_help: Hulp nodig?
+    open_source: Open bron
+    places: Plaatsen
+    recommendations: Aanbevelingen
+    support: Ondersteun FetLife
+    upload_picture: Foto plaatsen
+    upload_video: Video plaatsen
+    view_friends: Vrienden bekijken
+    whats_new: Wat is nieuw
+    write_post: Schrijf bericht
+  signup:
+    almost_there: Bijna daar!
+    error_bar: Dallas, we hebben een probleem. Ga naar beneden voor meer informatie.
+    error_birthdate: Geboortedatum is vereist.
+    error_birthdate_too_old: Jij bent te oud.
+    error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
+    error_city_missing: Plaats moet geselecteerd zijn
+    error_country_missing: Land moet geselecteerd zijn
+    error_email: We hebben een probleem bij het verwerken van bovenstaand email adres. Controleer de spelling of probeer een andere.
+    error_gender_required: Geslacht moet geselecteerd zijn
+    error_nickname: Alias is al in gebruik.
+    error_nickname_required: Alias is verplicht.
+    error_password_range: Wachtwoord moet uit 4 tot 50 karakters bestaan
+    error_password_required: Wachtwoord is verplicht
+    error_role_required: Rol moet worden gekozen
+    error_sexual_orientation_required: Sexuele orientatie moet worden gekozen
+    error_state_missing: Provincie moet worden geselcteerd
+    footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; geen voorbehoud.
+    label:
+      birthdate: Geboortedatum
+      city: Plaats
+      country: Land
+      email: Email adres
+      gender: Geslacht
+      location: Locatie
+      nickname: Alias
+      password: Wachtwoord
+      role: Rol
+      sexual_orientation: Sexuele Orientatie
+      state: Provincie
+    page_title: Deelnemen
+    subtitle: Vertel ons een beetje over jezelf.
+    subtitle_invite: "%{name} nodigt jou om lid te worden van FetLife."
+    title: Welkom thuis
+  signup_avatar:
+    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graar je gezicht wil laten zien, aarzel dan niet om creatief te worden en een andere kant van jezelf te laten zien! Of wanneer je dat liever hebt, kun je <a href="%{next_step_path}">deze stap overslaan</a> voor nu.'
+    say_cheese: Effe lachen!
+    subtitle: Mensen met een avatar hebben 69x meer plezier!
+    title: Avatar toevoegen
+  signup_five_strikes:
+    page_title: Vijf Slag Regel
+    return_to_front: terug naar de start pagina
+    subtitle_error: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+    title: Vijf Slag Regel
+  signup_follow:
+    follow: Volg
+    next_step: Volgende Stap
+    subtitle: Volg kinksters die je interesse hebben gewekt.
+    title: Iemand die je is opgevallen?
+  signup_phone:
+    cta: Stuur me een controle code
+    error_cant_send: "<strong>Kinky Operator:</strong> We hebben een probleem met het sturen van een SMS bericht. Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc. en probeer geen SMS naar een vast nummer te sturen."
+    error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Probeer het later nog eens."
+    explanation: Het is misschien veel gevraagd, maar we willen een gezonde en levendige gemeenschap hebben, daarom controleren we iedereen voordat ze lid worden. Iets wat je waarschijnlijk wel waardeert wanneer je door het proces heen bent.
+    label: Mobiel nummer
+    page_title: Stuur controle code
+    pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+    subtitle: Eenmalig anoniem SMS bericht.
+    title: Controle Tijd!
+  signup_verify:
+    cta: Voltooi inschrijving & controle
+    incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alstublieft dat het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
+    label: Controle Code
+    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
+    notice_error: "<strong>P.S.</strong> Leuk je te ontmoeten!"
+    page_title: Voer de controle code in
+    placeholder: 6-cijferige controle code
+    subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
+    subtitle_error: Dat was nog niet zo pijnlijk, of wel?!?!<br>Misschien waren we iets te voorbarig! :-/
+    title: Laatste Stap
+  subnav:
+    feed:
+      activity_feed: Activiteiten geschiedenis
+      activity_feed_short: Thuis
+      fp: Fris<span class="a-ampersand">&amp;</span>Pervers
+      fp_short: Fris
+      kp: Kinky<span class="a-ampersand">&amp;</span>Populair
+      kp_short: Populair
+    profile:
+      about: Over mijzelf
+      about_short: Over
+      latest: Laatste activiteit
+      latest_short: Laatste
+      pictures: Foto's
+      pictures_short: Foto's
+      videos: Filmpjes
+      videos_short: Filmpjes
+      writings: Krabbels
+      writings_short: Krabbels
+    settings:
+      account: Account
+      account_short: Account
+      notifications: Meldingen
+      notifications_short: Meldingen
+      privacy: Geheimhouding
+      privacy_short: Geheimhouding
+      profile: Profiel
+      profile_short: Profiel
+      support: Ondersteuning
+      support_short: Ondersteuning
