@@ -190,31 +190,31 @@ fr:
     subtitle: On joue à l’avocat sur l’interweb depuis ’69.
     title: Mentions légales
   login:
-    button: Login à FetLife
-    error_flash: S'il vous plaît contacte <a href="mailto:support@fetlife.com">support@fetlife.com</a> que nous puissions vous aider rentrer encore.
-    error_login_blank: Login ne peut être vide
-    error_not_authenticated: Désolé mon ami, vous devez être connecté pour accéder à cette page. Si vous n'êtes pas déjà membre, il faut moins d'une minute pour vous inscrire.
-    error_not_found: Hmmm, nous n'avons pas pu vous trouver. Es-tu sûr que tu es entré votre nickname et mot de passe correctement? (Mot de passe sont sensible aux MajuScUles et MinuSculEs)
-    error_password_blank: Le mot de passe ne peut pas être vide
-    forgot_info: Oublié votre information login?
+    button: Connexion à FetLife
+    error_flash: Veuillez contacter <a href="mailto:support@fetlife.com">support@fetlife.com</a> afin que nous puissions vous aider à revenir.
+    error_login_blank: Le pseudo ne peut être vide
+    error_not_authenticated: Désolé mon ami.e, vous devez être connecté.e pour accéder à cette page. Si vous n’êtes pas déjà membre, il faut moins d’une minute pour vous inscrire.
+    error_not_found: Hmmm, nous n’avons pas pu vous trouver. Êtes-vous sûr.e que d’avoir tapé vos psuedo et mot de passe correctement ? (Les mots de passe sont SensIBlEs-à-lA-CassE)
+    error_password_blank: Le mot de passe ne peut être vide
+    forgot_info: Informations de connexion oubliées ?
     labels:
-      nickname: Nickname ou Email
+      nickname: Pseudo ou email
       password: Mot de passe
-      remember_me: Souviens-toi de moi, je reviendrai.
-    not_a_member: Pas encore un membre? Signer à FetLife
-    subtitle: Tu nous as manqué… beaucoup!
-    title: Bienvenue à la Maison
+      remember_me: Souvenez-vous de moi, je reviendrai.
+    not_a_member: Pas encore membre ? Inscrivez-vous à FetLife
+    subtitle: Vous nous avez manqué… beaucoup !
+    title: Bienvenue à la maison
   logout:
     log_in: Se reconnecter
-    subtitle: Assurez-vous de revenir et nous voir bientôt.
-    title: Tu nous as manqué!
+    subtitle: Revenez vite nous voir.
+    title: Vous nous avez manqué !
   member_stats:
     pics:
       one: 1 photo
       other: "%{count_with_delimiter} photos"
     posts:
-      one: 1 post
-      other: "%{count_with_delimiter} postes"
+      one: 1 article
+      other: "%{count_with_delimiter} articles"
     vids:
       one: 1 vidéo
       other: "%{count_with_delimiter} vidéos"
@@ -223,21 +223,21 @@ fr:
     explore: Explorer
     fetishes: Fétiches
     groups: Groupes
-    home: Home
+    home: Accueil
     places: Endroits
     search_placeholder: Chercher...
   page_break:
     of: de
   profile:
-    about_title: Liste d'amis
+    about_title: Liste d’ami.e.s
     pictures_title: Photos
     videos_title: Vidéos
   promote_following:
-    button: Tourner Suivir Ouvert
-    ps: P.S. Vous pouvez tourner suivir à fermé à n'importe quel moment.
-    skip: Ne pas allumer Suivir pour moi.
-    subtitle: Séparé votre ami de votre suivants.
-    title: Introduisant Suivir
+    button: Activer le suivi
+    ps: P.S. vous pouvez désactiver le suivi à n’importe quel moment.
+    skip: Ne pas activer le suivi pour moi.
+    subtitle: Séparer vos ami.e.s de vos suiveurs.
+    title: Introduction du suivi
   recommendations:
     title: Recommendations
   reset_password:
