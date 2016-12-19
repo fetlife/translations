@@ -6,7 +6,7 @@ nl:
       subtitle: Auw, vanwege veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
       title: Vijf slag regel
     cta: Ik ben het, laat me binnen!
-    error: "<strong>Kinky Operator:</strong> Stop&hellip; de controle code hierboven is fout. Controleer alstublief het nummer met de gegevens die door ons zijn verstekt en probeer het opnieuw."
+    error: "<strong>Kinky Operator:</strong> Stop&hellip; de controle code hierboven is fout. Controleer alsjeblieft het nummer met de gegevens die door ons zijn verstrekt en probeer het opnieuw."
     label: Verificatiecode
     page_title: 2-stap verificatie
     subtitle: 2-stap mij baby!
@@ -15,7 +15,7 @@ nl:
     contact_info: Contact informatie
     email_us: stuur een email aan ons op <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij reageren als op een zweepslag.
     europe: Europa
-    got_question: Heb je een vraag? heb je hulp nodig?
+    got_question: Heb je een vraag? Heb je hulp nodig?
     north_america: Noord Amerika
     one_love: Een liefde, een leven, en heel veel kink.
     snail_mail: Slakken post
@@ -38,9 +38,9 @@ nl:
         line2: Regel 2
         line3: Regel 3
       placeholders:
-        line1: insteekjuwelen
+        line1: juwelen
         line2: herinner haar de hele dag
-        line3: dit wacht voor later
+        line3: dit kan je later verwachten
       subtitle: makkelijk als 1, 2… 69.
       title: Nieuwe Advertentie
     ads: Advertenties
@@ -105,7 +105,7 @@ nl:
       cta: Stuur mij een Email met instructies
       error_forgot_email: Ik denk dat je iets bent vergeten… je email adres! :-p
       error_invalid_email: Dat lijkt niet op een juist email adres. Graag even nakijken en opnieuw verzenden.
-      error_quota: We kunnen maar twee emails per uur sturen naar een email adres. COntroleer alsjeblieft even of onze email niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
+      error_quota: We kunnen maar twee emails per uur sturen naar een email adres. Controleer alsjeblieft even of onze email niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
       placeholder: Email adres
       step1:
         page_title: Herstel wachtwoord via Email
@@ -133,13 +133,13 @@ nl:
       step2:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
-        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben met jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">probeer je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">maak een nieuw profiel aan op FetLife</a>.
+        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
         label: Controle Code
         page_title: Controle Code invoeren
         placeholder: 6-cijferige Controle Code
         subtitle: We &ldquo;might&rdquo; hebben je zojuist een SMS gestuurd.
         title: Controle Code invoeren
-      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat mobiele nummer."
+      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat mobiele nummer."
     next_step: volgende stap
     return_to_login: terug naar aanmelden
     tab_email: Email
@@ -297,7 +297,7 @@ nl:
     page_title: Geheimhouding instellingen
     subtitle: Opgediend zoals jij het wenst.
     title: Geheimhouding
-    warning: "<strong>Extreem Belangrijk</strong>: Het uitschakelen van volgen verwijderd iedereen uit jouw volg lijst die jouw momenteel volgt. Geen herstel mogelijk. Dat is geen geintje."
+    warning: "<strong>Extreem Belangrijk</strong>: Het uitschakelen van volgen verwijdert iedereen uit jouw volg lijst die jou momenteel volgt. Geen herstel mogelijk. Dat is geen geintje."
   settings_profile:
     about_you_label: Over jou
     add_website: "+ voeg een andere website toe"
@@ -321,7 +321,7 @@ nl:
     about_fetlife: Over Fetlife
     ad_stats: Advertentie Statistieken
     advertising: Adverteren
-    bug_bounty: Fouten beloning
+    bug_bounty: Bug beloning
     caretaking: Concierge
     change_language: Wijzig taal    
     close: sluiten
@@ -352,7 +352,7 @@ nl:
     whats_new: Wat is nieuw
     write_post: Schrijf bericht
   signup:
-    almost_there: Bijna daar!
+    almost_there: Bijna klaar!
     error_bar: Dallas, we hebben een probleem. Ga naar beneden voor meer informatie.
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
@@ -360,15 +360,15 @@ nl:
     error_city_missing: Plaats moet geselecteerd zijn
     error_country_missing: Land moet geselecteerd zijn
     error_email: We hebben een probleem bij het verwerken van bovenstaand email adres. Controleer de spelling of probeer een andere.
-    error_gender_required: Geslacht moet geselecteerd zijn
+    error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
     error_nickname_required: Alias is verplicht.
     error_password_range: Wachtwoord moet uit 4 tot 50 karakters bestaan
     error_password_required: Wachtwoord is verplicht
     error_role_required: Rol moet worden gekozen
     error_sexual_orientation_required: Sexuele orientatie moet worden gekozen
-    error_state_missing: Provincie moet worden geselcteerd
-    footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; geen voorbehoud.
+    error_state_missing: Provincie moet worden geselecteerd
+    footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
     label:
       birthdate: Geboortedatum
       city: Plaats
@@ -386,7 +386,7 @@ nl:
     subtitle_invite: "%{name} nodigt jou om lid te worden van FetLife."
     title: Welkom thuis
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, aarzel dan niet om creatief te worden en een andere kant van jezelf te laten zien! Of wanneer je dat liever hebt, kun je <a href="%{next_step_path}">deze stap overslaan</a> voor nu.'
+    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, wees dan creatief en laat een andere kant van jezelf zien! Of je kan <a href="%{next_step_path}">deze stap</a> voor nu overslaan als je dat liever hebt.'
     say_cheese: Effe lachen!
     subtitle: Mensen met een avatar hebben 69x meer plezier!
     title: Avatar toevoegen
@@ -412,7 +412,7 @@ nl:
     title: Controle Tijd!
   signup_verify:
     cta: Voltooi inschrijving & controle
-    incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alstublieft dat het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
+    incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
     label: Controle Code
     notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
     notice_error: "<strong>P.S.</strong> Leuk je te ontmoeten!"
