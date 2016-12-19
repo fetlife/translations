@@ -3,7 +3,7 @@ nl:
   2fa:
     5strike:
       return: terug naar de startpagina
-      subtitle: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+      subtitle: Auw, vanwege veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
       title: Vijf slag regel
     cta: Ik ben het, laat me binnen!
     error: "<strong>Kinky Operator:</strong> Stop&hellip; de controle code hierboven is fout. Controleer alstublief het nummer met de gegevens die door ons zijn verstekt en probeer het opnieuw."
@@ -120,7 +120,7 @@ nl:
     mobile:
       5strike:
         return: terug naar de startpagina
-        subtitle: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+        subtitle: Auw, vanwege veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
         title: Vijf slag regel
       cta: Stuur mij een SMS
       error_country_code: "<strong>Kinky Operator:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
@@ -392,8 +392,8 @@ nl:
     title: Avatar toevoegen
   signup_five_strikes:
     page_title: Vijf Slag Regel
-    return_to_front: terug naar de start pagina
-    subtitle_error: Auw, omwille van veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
+    return_to_front: terug naar de startpagina
+    subtitle_error: Auw, vanwege veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
     title: Vijf Slag Regel
   signup_follow:
     follow: Volg
