@@ -133,9 +133,9 @@ en:
       step2:
         cta: Verify You are You &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> Verification code you entered is incorrect. Verify that the number above matches what you received from us and please try again. This is a recording."
-        inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recomend you either <a href="%{forgot_password_email_path}">try reseting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
+        inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recommend you either <a href="%{forgot_password_email_path}">try resetting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
         label: Verification Code
-        page_title: Enter Verfication Code
+        page_title: Enter Verification Code
         placeholder: 6-Digit Verification Code
         subtitle: We &ldquo;might&rdquo; have just sent you a text message.
         title: Enter Verification Code
@@ -283,7 +283,7 @@ en:
     language_label: Language
     notice: FetLife isn’t yet fully available in languages other than English. If you change the setting here, not all of the website will be translated.
     page_title: Language - Settings
-    subtitle: What's your prefered language?
+    subtitle: What's your preferred language?
     title: Language
   settings_privacy:
     blocked_list_subtitle: For those on your naughty list.
