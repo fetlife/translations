@@ -1,1 +1,449 @@
----en:  2fa:    5strike:      return: Vissza a kezdooldalra      subtitle: Hoppá! Biztonsági okokból két órát várnod kell, mielott újra be tudsz lépni.      title: Az öt csapás szabálya    cta: Kis malac, kis malac, engedj be!    error: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesíto kód nem stimmel. Kérlek ellenorizd, hogy megegyezik-e azzal amit korábban küldtünk neked.”    label: Hitelesíto kód    page_title: Két lépcsos azonosítás    subtitle: Két lépcso? Az nekem is megy!    title: Titkos kód  about:    contact_info: Kapcsolati adatok    email_us: Küldj nekünk egy emailt a <a href="mailto:support@fetlife.com">support@fetlife.com</a> címre és mi válaszolunk, mielott annyit mondanál: "Fapapucs"! Najó, ilyen hamar azért nem ;)    europe: Európa    got_question: Kérdésed van? Segíthetünk?    north_america: Észak-Amerika    one_love: Egy élet, egy szerelem és rengeteg élvezet.    snail_mail: Csigalevél    sub_header: Nem összekeverendo a Spártaiakkal    title: Mi vagyunk a: FetLife!  ad_stats:    actions:      delete: Törlés      duplicate: Másolás      edit: Szerkesztés      pause: Szünet      start: Indítás      unpause: Folytatás    actions_literal: Muveletek    active_ads: Aktív hirdetések    ad_new:      cta: Új hirdetés feladása      labels:        line1: 1. sor        line2: 2. sor        line3: 3. sor      placeholders:        line1: Egy szép, új játékszer ajándékba        line2: és egész nap arra gondol        line3: milyen is lesz este használatba venni      subtitle: Könnyu, mint az 1 x 1 = 69      title: Új hirdetés    ads: Hirdetés    avg_ctr: Átlag CTR    best: Legjobb    campaign_edit:      cta: Reklámkampány frissítése      labels:        company_name: Cég név        member_id: azonosító        slots_purchased: Megvásárolt reklámhelyek      page_title: Reklámkampány szerkesztése      subtitle: 2016 Szeptember      title: Reklámkampány frissítése    campaign_new:      cta: Új reklámkampány       subtitle: 2016 Szeptember      title: Új reklámkampány    campaigns: reklámkampányok    clicks: Kattintások    ctr: CTR    edit: szerkesztés    impressions: Megjelenítések    last_updated: Utolsó frissítés idopontja    name: Név    new_ad: "+ új hírdetés"    new_campaign: "+ új kampány"    overview: Áttekintés    press_start: Nyomd meg az "Indítás" gombot, ha kész    slots: Reklám helyek    subtitle: A hírszerzés jelenti    title: Hirdetési statisztikák    updated_every: 15 percenként frissül    view: megtekintés    worst: Legrosszabb  feed:    comment: Hozzászólás    comments_count:      one: 1 hozzászólás      other: "%{count_with_delimiter} hozzászólás"    love: Love    loved_hover: Szívtipró! :-(    loves_count:      one: 1 Love      other: "%{count_with_delimiter} Love"    modal:      close: bezárás      more: továbbiak      reply: Válasz    title: Tevékenység napló  following:    follow: Követés    following: Követed  footer:    about: Leírás    help: Segítség  forgot_password:    email:      cta: Kérek egy emailt az instrukciókkal      error_forgot_email: Valami mintha kimaradt volna… Ah, igen: az email címed! :-p      error_invalid_email: Ez nem tunik egy valós email címnek. Megtennéd, hogy leellenorzöd.      error_quota: Naponta csak két emailt küldhetünk egy adott email címre. Megtennéd, hogy megnézed nem került-e a korábbi email a levélszemét mappádba? Ha nincs meg, kérlek válassz egy másikat a fenti lehetoségek közül, hogy hozzáférhess a fiókodhoz.      placeholder: Email cím      step1:        page_title: Jelszó helyreállítása emailen keresztül.        subtitle: Hadd segítsünk benne.        title: Elfelejtett jelszó?      step2:        page_title: Talán már meg is jött a leveled.        subtitle: Amennyiben tartozik hozzá felhasználó, elküldtünk egy emailt a megadott címre, amiben megtalálod a jelszó helyreállításához szükséges tennivalókat.        title: &ldquo;Talán&rdquo; már jött is egy leveled!      update_email: email cím frissítése      warning: "<strong>Egészségügyi figyelmeztetés:</strong> Biztonsági okokból nem árulhatjuk el, hogy létezik-e már felhasználói fiók a megadott email címhez. Ha nem kapsz tolünk emailt az könnyen lehet, hogy azért van, mert még nem regisztráltál ezzel az email címmel."    mobile:      5strike:        return: Vissza a kezdooldalra        subtitle: Hoppá! Biztonsági okokból két órát várnod kell, mielott újra be tudsz lépni.        title: Az öt csapás szabálya      cta: SMS-t kérek      error_country_code: "<strong>Kedvenc operátorod jelenti:</strong> Gyozodj meg róla, hogy a számod a megfelelo országhívó kóddal kezdodik a nemzetközi hívószám formátumnak megfeleloen. Magyarország esetén ez: +36. Ebben az esetben pedig az országon belül 06-os elohívó elhagyandó."      error_quota: "<strong>Kedvenc operátorod jelenti:</strong> Hoppá! 24 órán belül csupán 3 SMS-t tudunk küldeni egy adott telefonszámra, függetlenül attól, hogy már szerepel-e az adatbázisunkban, vagy sem"      pro_tip: "<strong>A profi tanácsa: </strong> Gyozodj meg róla, hogy a számod a megfelelo országhívó kóddal kezdodik a nemzetközi hívószám formátumnak megfeleloen. Magyarország esetén ez: +36. Ebben az esetben pedig az országon belül 06-os elohívó elhagyandó."      step1:        page_title: Jelszó helyreállítása SMS küldéssel        subtitle: Hadd segítsünk benne.        title: Elfelejtett jelszó?      step2:        cta: Bizonyítsd be, hogy te vagy te &#8482;        error_code_match: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesíto kód nem stimmel. Kérlek ellenorizd, hogy megegyezik-e azzal amit korábban küldtünk neked."        inexisting_number: Amennyiben néhány percen belül sem kapsz SMS-t, akkor feltehetoleg nem létezik felhasználói fiók az adott telefonszámhoz. Ez esetben próbáld meg <a href="%{forgot_password_email_path}">visszaállítani a jelszavadat egy másik módszerrel</a> vagy <a href="%{signup_path}">hozz létre egy új FetLife profilt</a>.        label: Hitelesító kód        page_title: Add meg a hitelesíto kódot        placeholder: 6 jegyu hitelesíto kód        subtitle: &ldquo;Talán&rdquo; már jött is egy üzeneted.        title: Add meg a hitelesíto kódot      warning: "<strong>Egészségügyi figyelmeztetés:</strong> Biztonsági okokból nem árulhatjuk el, hogy létezik-e már felhasználói fiók a megadott telefonszámhoz. Ha nem kapsz tolünk SMS-t az könnyen lehet, hogy azért van, mert még nem regisztráltál ezzel a telefonszámmal."    next_step: következo lépés    return_to_login: vissza a belépo oldalra    tab_email: Email    tab_mobile: Mobil  guidelines:    last_updated: 'Utolsó frissítés:'    sub_header: Hallgass a szívedre!.    subnav:      community: Közösség      community_short: Közösség      content: Tartalom      content_short: Tartalom      group_leader: Csoportgazda      group_leader_short: Csoportgazda    title: Irányelvekek  invite_a_friend:    cancel_button: visszavonás    cancel_notice: A(z) %{email} címre küldött meghívó visszavonva.    cta: Hívd meg egy barátodat, hogy o is csatlakozzon a FetLife közösséghez.    error: Akadt egy kis gondunk az email küldéssel a megadott címre. Kérlek ellenorizd, hogy jól írtad-e be, vagy adj meg egy másik címet!    invitations_accepted: Meghívás elfogadva.    invitations_sent: Meghívó kiküldve    labels:      friends_email: Az ismerosöd email címe    next_step: következo lépés    return_to_feed: vissza a kályhához    subtitle_step1:      one: 1 meghívód maradt.      other: %{count_with_delimiter} meghívód maradt.    subtitle_step2: Elküldtük a meghívód a megadott email címre: %{email}.    title_step1: Hívj meg egy ismerost.    title_step2: Meghívó elküldve    view_invitations: Meghívások megtekintése  landing_page:    footer: "Ebben a pillanatban <strong>%{member_count} felhasználó</strong> <strong>%{picture_count} képet</strong> és <strong>%{video_count} videót</strong> oszt meg, <strong>%{group_count} csoport</strong> <strong>%{discussion_count} beszélgetésében</strong> vesz részt, <strong>%{event_count} közelgo esemény</strong> iránt érdeklodik, és <strong>%{post_count} blog bejegyzés</strong> közül szemezget. <em>Ez itt kérem az extrém erotika fellegvára!</em>"    login_button: Belépés    signup_button: Regisztráció    subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)    title: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé  legalese:    subnav:      2257_exempt: 2257 Exempt      2257_exempt_short: '2257'      privacy: Adatvédelmi szabályzat      privacy_short: Adatvédelem      terms: Felhasználási feltételek      terms_short: Feltételek    subtitle: Ügyvédet játszva az interweb-en már '69 óta.    title: Legalizáció  login:    button: Belépés    error_flash: Lépj velünk kapcsolatba a <a href="mailto:support@fetlife.com">support@fetlife.com</a> email címen és segítünk újra hozzáférni a fiókodhoz.    error_login_blank: Meg kell adnod a felhasználó neved    error_not_authenticated: Bocs haver, de be kell lépned, hogy megnézhesd ezt az oldalt. Ha még nem vagy tag szánj rá egy percet a regisztrációra és már bent is vagy.    error_not_found: Hmmm, nem tunsz ismerosnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betu különbözo)    error_password_blank: Meg kell adnod a jelszavadat    forgot_info: Valamit elfelejtettél?    labels:      nickname: Felhasználónév vagy email cím      password: Jelszó      remember_me: Emlékezz rám! Visszatérek!    not_a_member: Még nem vagy felhasználó? Csatlakozz a FetLife közösséghez!    subtitle: Hiányoltunk... Mint mindig!    title: Isten hozott itthon!  logout:    log_in: lépj be újra    subtitle: Visszavárunk!    title: Hiányozni fogsz!  member_stats:    pics:      one: 1 kép      other: "%{count_with_delimiter} kép"    posts:      one: 1 bejegyzés      other: "%{count_with_delimiter} bejegyzés"    vids:      one: 1 videó      other: "%{count_with_delimiter} videó"  nav:    events: Események    explore: Felfedezés    fetishes: Fétisek    groups: Csoportok    home: Otthon    places: Helyek    search_placeholder: Keresés...  page_break:    of: /  profile:    about_title: Ismerosök    pictures_title: Képek    videos_title: Videók  promote_following:    button: Követés bekapcsolása    ps: U.I. A késobbiekben bármikor kikapcsolhatod a követést    skip: Engem márpedig ne kövessen senki    subtitle: Tegyél különbséget a barátok és a követok között    title: A követési funkció leírása  recommendations:    title: Javaslatok  reset_password:    cta: Jelszó visszaállítása    error_confirmation_match: A megerosíto jelszó nem egyezik az eredetivel    error_password_range: A jelszó túl rövid (használj legalább 4 karaktert)    error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!    error_token_invalid: A jelszó helyreállító kód nem érvényes    footnote: "<strong>A profi tanácsa:</strong> Vésd az eszedbe a jelszavad."    label_enter: Új jelszó    label_re_enter: Új jelszó még egyszer    status_flash_success: A jelszavad sikeresen megváltozott.    subtitle: Nem túl hosszú, nem túl rövid, csak pont... de hisz tudod ;)    title: Jelszó helyreállítása  select_language:    button: Nyelv megváltoztatása    help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetové tenni a FetLife-ot? Látogass el a <a href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!     language_name: Magyar    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!    title: Válasz nyelvet magadnak  settings_account:    2fa_cta: Két lépcsos azonosítás bekapcsolása    2fa_label: Két lépcsos azonosítás    anti_pro_tip: <strong>Egy kevésbé profi tanács:</strong> <a href="#">Szüneteltetheted</a> vagy <a href="#">törölheted</a> a felhasználói fiókodat, amennyiben tényleg ezt szeretnéd, de a mellékhatások tekintetében talán elobb kérdezd meg kezeloorvosod vagy gyógyszerészed.    current_password_label: Jelenlegi jelszó    email_cta: Update Email cím    email_label: Email    email_placeholder: Email cím    language_cta: Új alapértelmezett nyelv    language_notice: A FetLife fordítása még nem teljese. Ha megváltoztatod ezt a beállítást, az oldal bizonyos részei továbbra is angolul fognak megjelenni.    new_password_label: Új jelszó    nickname_cta: Felhasználónév    nickname_label: ' A felhasználónév megváltoztatása:'    nickname_notice: "<strong>A profi tanácsa:</strong> Mérd kétszer, Vágd egyszer. A felhasználó neveded csak 28 naponta változtathatod meg. Nincs kivétel."    nickname_placeholder: Új felahasználónév    page_title: Jelszó megváltoztatása - Beállítások    password_cta: Új jelszó    repeat_password_label: Új jelszó még egyszer    subtitle: Kérjük nyomja meg a piros gombot és nyugodjon békében.    title: Felhasználói beállítások  settings_notifications:    cta: Az alapértelmezett nyelv megváltoztatása    language_label: Nyelv    notice: A FetLife fordítása még nem teljese. Ha megváltoztatod ezt a beállítást, az oldal bizonyos részei továbbra is angolul fognak megjelenni.    page_title: Nyelv - Beállítások    subtitle: Kinek a nyelve áll hozzád a legközelebb? ;)    title: Nyelv  settings_privacy:    blocked_list_subtitle: Azok számára akiket nem kedvelsz annyira.    blocked_list_title: Letiltott felhasználók    cb_feed: Követés engedélyezése minden felhasználó számára.    cb_fp: A nyilvános bejegyzések megjelenhetnek a Fresh & Pervy oldalon.    cb_kp: A nyilvános bejegyzések megjelenhetnek a Kinky & Popular oldalon.    content_privacy: Tartalommal kapcsolatos adatvédelmi beállítások    cta: Adatvédelmi beállítások mentése    following: Követés    page_title: Adatvédelmi beállítások    subtitle: Cégünk mindig az Ön rendelkezére áll Asszonyom.    title: Adatvédelem    warning: "<strong>Figyelem</strong>:  A Követés letiltása nem visszavonható! Bárki aki most követ téged örökre elvesztheti a nyomodat. Nincs vissza út. "  settings_profile:    about_you_label: Leírás Rólad:    add_website: "+ további weboldal"    cta: Profil frissítése    dob_label: Születési ido    location_label: Hely    looking_for_label: Keresés    page_title: Profil frissítése    subtitle: A személyes fejlodés hasznos dolog.    title: Profil    websites_label: Honlap    websites_placeholder: https://fetlife.com  settings_support:    cta: Email cím frissítése    email_label: Email cím frissítése    email_placeholder: Email cím    page_title: Email cím frissítése - Beállítások    subtitle: Arra az esetre, ha elfelejtenéd a jelszavad.    title: Email cím frissítése  sidebar:    about_fetlife: Amit a Fetlife-ról tudni lehet    ad_stats: Hirdetési statisztikák    advertising: Hirdetés    bug_bounty: Hiba vadászat    caretaking: Ügyfélszolgálat    close: bezárás    edit_profile: Profil szerkesztése    edit_settings: Beállítások szerkesztése    events: Események    fetishes: Fétisek    following: Követés    fp: Fresh & Pervy    funny_quote: Ha ezt nem tudod elolvasni … talán nincs is ide írva! - János 4:69    gift_support: Adományozz FetLife támogatást    groups: Csoportok    guidelines: Irányelvek    home: Otthon    invite_a_friend: Ismeros meghívása (%{count})    kp: Kinky & Popular    legalese: Legalizáció    log_out: Kilépés    loved_stuff: Amiket szerettél    need_help: Segíthetünk?    open_source: Open Source    places: Helyek    recommendations: Javaslatok    support: Támogasd a FetLife-ot    upload_picture: Kép feltöltése    upload_video: Videó feltöltése    view_friends: Ismerosök    whats_new: Újdonságok    write_post: Bejegyzés közzététele  signup:    almost_there: Szinte kész!    error_bar: Van egy kis gond. Görgess lejjebb, hogy lásd mi is a probléma pontosan.    error_birthdate: A születési dátum fontos dolog.    error_birthdate_too_old: Sajnos túl idos vagy.    error_birthdate_too_young: Nem vagy elég idos ehhez (18 év a korhatár).    error_city_missing: A város megadása kötelezo    error_country_missing: Az ország megadása kötelezo    error_email: A megadott email cím nem tunik megfelelonek. Kérlek ellenoríid, hogy nem irtad-e el, esetleg adj meg egy másikat.    error_gender_required: Nem mondtál nemet. Márpedig a nemed fontos nekünk.    error_nickname: Az a felhasználó név már foglalt.    error_nickname_required: Felhasználó név nélkül nehézkes ;)    error_password_range: "A te jelszavad pedig légyen legalább 4 de nem több mint 50 karakter" - János 4:69    error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?    error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.    error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényezo    error_state_missing: A megye kiválasztása kötelezo.    footnote: A továbblépéssel elfogadod, hogy követed a <a href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.    label:      birthdate: Születési ido      city: Város      country: Ország      email: Email cím      gender: Nem      location: Hely      nickname: Felhasználónév      password: Jelszó      role: Szerepjáték preferencia      sexual_orientation: Szexuális beállítottság      state: Megye    page_title: Csatlakozás    subtitle: Mesélj egy kicsit magadról!    subtitle_invite: "%{name} meghívott, hogy csatlakozz a FetLife közösséghez."    title: Isten hozott itthon  signup_avatar:    pro_tip: '<strong>A profi tanácsa</strong>: Ha szégyenlos vagy és nem szeretnéd megmutatni az arcod, rajta! Légy kreatív és mutasd meg a sötét... mármint egy másik oldalad ;) De akár <a href="%{next_step_path}">ki is hagyhatod ezt a lépést</a>.'    say_cheese: Most repül a kis madár!    subtitle: A profilképpel rendelkezo felhasználók 69x boldogabbak!    title: Profil kép feltöltése  signup_five_strikes:    page_title: Az öt csapás szabálya    return_to_front: Visszatérés a kezdooldalra    subtitle_error: Hoppá! Biztonsági okokból két órát várnod kell, mielott újra be tudsz lépni.    title: Az öt csapás szabálya  signup_follow:    follow: Követés    next_step: Következo lépés    subtitle: Kövesd azokat akik felkeltették a figyelmedet!    title: Van aki elég izgalmas a számodra?  signup_phone:    cta: Ide nekem a hitelesíto kódot!    error_cant_send: "<strong>Kedvenc operátorod jelenti:</strong> Nem igazán sikerül elküldenünk az SMS-t. Gyozodj meg róla, hogy a számod a megfelelo országhívó kóddal kezdodik a nemzetközi hívószám formátumnak megfeleloen. Magyarország esetén ez: +36. Ebben az esetben pedig az országon belül 06-os elohívó elhagyandó. Valamint azt is érdemes észben tartani, hogy vonalas számra nem minden esetben lehet SMS-t küldeni."    error_quota: "<strong>Kedvenc operátorod jelenti:</strong> 24 órán belül legfeljebb háromszor tudunk SMS-t küldeni ugyanarra a számra. Kérlek próbáld meg késobb"    explanation: Tudjuk, hogy mindig kellemetlen megadni egy olyan személyes információt, mint a telefonszám. Ugyanakkor úgy gondoljuk, hogy ez egy fontos kelléke egy biztonságos és egészséges közösség fenntartásához. Ez pedig egy olyan dolog, ami a számodra is fontos lesz, ha már egyszer te is a része vagy.    label: Mobil szám    page_title: Hitelesíto kód küldése    pro_tip: "<strong>A profi tanácsa:</strong> Gyozodj meg róla, hogy a számod a megfelelo országhívó kóddal kezdodik a nemzetközi hívószám formátumnak megfeleloen. Magyarország esetén ez: +36. Ebben az esetben pedig az országon belül 06-os elohívó elhagyandó. Valamint azt is érdemes észben tartani, hogy vonalas számra nem minden esetben lehet SMS-t küldeni."    subtitle: Egyszeri anonim üzenet.    title: Hitelesítés  signup_verify:    cta: Regisztráció befejezése    incorrect_code:  "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesíto kód nem stimmel. Kérlek ellenorizd, hogy megegyezik-e azzal amit korábban küldtünk neked.”    label: Hitelesíto kód    notice: Elküldtük a hitelesíto kódot a következo számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tolünk, <a href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.    notice_error: "<strong>U.I.</strong> Isten hozott! ;)"    page_title: A hitelesíto kód megadása    placeholder: 6 jegyu hitelesíto kód    subtitle: Nem is volt annyira fájdalmas, igaz? ;)    subtitle_error: Nem is volt annyira fájdalmas, igaz? ;)<br>Talán nemsokára újra találkozunk! :-/    title: Utolsó lépés  subnav:    feed:      activity_feed: Tevékenység napló      activity_feed_short: Otthon      fp: Fresh & Pervy      fp_short: Friss      kp: Kinky & Popular      kp_short: Népszeru    profile:      about: Saját bemutatkozás      about_short: Bemutatkozás      latest: Legújabb tevékenységek      latest_short: Legújabb      pictures: Képek      pictures_short: Képek      videos: Videók      videos_short: Videók      writings: Írások      writings_short: Írások    settings:      account: Felhasználói fiók      account_short: Felhasználó      notifications: Értesítések      notifications_short: Értesítések      privacy: Adatvédelem      privacy_short: Adatvédelem      profile: Profil      profile_short: Profil      support: Támogatás      support_short: Támogatás
+---
+en:
+  2fa:
+    5strike:
+      return: Vissza a kezdooldalra
+      subtitle: HoppÃ¡! BiztonsÃ¡gi okokbÃ³l kÃ©t Ã³rÃ¡t vÃ¡rnod kell, mielott Ãºjra be tudsz lÃ©pni.
+      title: Az Ã¶t csapÃ¡s szabÃ¡lya
+    cta: Kis malac, kis malac, engedj be!
+    error: "<strong>Kedvenc operÃ¡torod jelenti:</strong> Ã–rdÃ¶g Ã©s pokol! A hitelesÃ­to kÃ³d nem stimmel. KÃ©rlek ellenorizd, hogy megegyezik-e azzal amit korÃ¡bban kÃ¼ldtÃ¼nk neked.Â”
+    label: HitelesÃ­to kÃ³d
+    page_title: KÃ©t lÃ©pcsos azonosÃ­tÃ¡s
+    subtitle: KÃ©t lÃ©pcso? Az nekem is megy!
+    title: Titkos kÃ³d
+  about:
+    contact_info: Kapcsolati adatok
+    email_us: KÃ¼ldj nekÃ¼nk egy emailt a <a href="mailto:support@fetlife.com">support@fetlife.com</a> cÃ­mre Ã©s mi vÃ¡laszolunk, mielott annyit mondanÃ¡l: "Fapapucs"! NajÃ³, ilyen hamar azÃ©rt nem ;)
+    europe: EurÃ³pa
+    got_question: KÃ©rdÃ©sed van? SegÃ­thetÃ¼nk?
+    north_america: Ã‰szak-Amerika
+    one_love: Egy Ã©let, egy szerelem Ã©s rengeteg Ã©lvezet.
+    snail_mail: CsigalevÃ©l
+    sub_header: Nem Ã¶sszekeverendo a SpÃ¡rtaiakkal
+    title: Mi vagyunk a: FetLife!
+  ad_stats:
+    actions:
+      delete: TÃ¶rlÃ©s
+      duplicate: MÃ¡solÃ¡s
+      edit: SzerkesztÃ©s
+      pause: SzÃ¼net
+      start: IndÃ­tÃ¡s
+      unpause: FolytatÃ¡s
+    actions_literal: Muveletek
+    active_ads: AktÃ­v hirdetÃ©sek
+    ad_new:
+      cta: Ãšj hirdetÃ©s feladÃ¡sa
+      labels:
+        line1: 1. sor
+        line2: 2. sor
+        line3: 3. sor
+      placeholders:
+        line1: Egy szÃ©p, Ãºj jÃ¡tÃ©kszer ajÃ¡ndÃ©kba
+        line2: Ã©s egÃ©sz nap arra gondol
+        line3: milyen is lesz este hasznÃ¡latba venni
+      subtitle: KÃ¶nnyu, mint az 1 x 1 = 69
+      title: Ãšj hirdetÃ©s
+    ads: HirdetÃ©s
+    avg_ctr: Ãtlag CTR
+    best: Legjobb
+    campaign_edit:
+      cta: ReklÃ¡mkampÃ¡ny frissÃ­tÃ©se
+      labels:
+        company_name: CÃ©g nÃ©v
+        member_id: azonosÃ­tÃ³
+        slots_purchased: MegvÃ¡sÃ¡rolt reklÃ¡mhelyek
+      page_title: ReklÃ¡mkampÃ¡ny szerkesztÃ©se
+      subtitle: 2016 Szeptember
+      title: ReklÃ¡mkampÃ¡ny frissÃ­tÃ©se
+    campaign_new:
+      cta: Ãšj reklÃ¡mkampÃ¡ny 
+      subtitle: 2016 Szeptember
+      title: Ãšj reklÃ¡mkampÃ¡ny
+    campaigns: reklÃ¡mkampÃ¡nyok
+    clicks: KattintÃ¡sok
+    ctr: CTR
+    edit: szerkesztÃ©s
+    impressions: MegjelenÃ­tÃ©sek
+    last_updated: UtolsÃ³ frissÃ­tÃ©s idopontja
+    name: NÃ©v
+    new_ad: "+ Ãºj hÃ­rdetÃ©s"
+    new_campaign: "+ Ãºj kampÃ¡ny"
+    overview: ÃttekintÃ©s
+    press_start: Nyomd meg az "IndÃ­tÃ¡s" gombot, ha kÃ©sz
+    slots: ReklÃ¡m helyek
+    subtitle: A hÃ­rszerzÃ©s jelenti
+    title: HirdetÃ©si statisztikÃ¡k
+    updated_every: 15 percenkÃ©nt frissÃ¼l
+    view: megtekintÃ©s
+    worst: Legrosszabb
+  feed:
+    comment: HozzÃ¡szÃ³lÃ¡s
+    comments_count:
+      one: 1 hozzÃ¡szÃ³lÃ¡s
+      other: "%{count_with_delimiter} hozzÃ¡szÃ³lÃ¡s"
+    love: Love
+    loved_hover: SzÃ­vtiprÃ³! :-(
+    loves_count:
+      one: 1 Love
+      other: "%{count_with_delimiter} Love"
+    modal:
+      close: bezÃ¡rÃ¡s
+      more: tovÃ¡bbiak
+      reply: VÃ¡lasz
+    title: TevÃ©kenysÃ©g naplÃ³
+  following:
+    follow: KÃ¶vetÃ©s
+    following: KÃ¶veted
+  footer:
+    about: LeÃ­rÃ¡s
+    help: SegÃ­tsÃ©g
+  forgot_password:
+    email:
+      cta: KÃ©rek egy emailt az instrukciÃ³kkal
+      error_forgot_email: Valami mintha kimaradt volnaÂ… Ah, igen: az email cÃ­med! :-p
+      error_invalid_email: Ez nem tunik egy valÃ³s email cÃ­mnek. MegtennÃ©d, hogy leellenorzÃ¶d.
+      error_quota: Naponta csak kÃ©t emailt kÃ¼ldhetÃ¼nk egy adott email cÃ­mre. MegtennÃ©d, hogy megnÃ©zed nem kerÃ¼lt-e a korÃ¡bbi email a levÃ©lszemÃ©t mappÃ¡dba? Ha nincs meg, kÃ©rlek vÃ¡lassz egy mÃ¡sikat a fenti lehetosÃ©gek kÃ¶zÃ¼l, hogy hozzÃ¡fÃ©rhess a fiÃ³kodhoz.
+      placeholder: Email cÃ­m
+      step1:
+        page_title: JelszÃ³ helyreÃ¡llÃ­tÃ¡sa emailen keresztÃ¼l.
+        subtitle: Hadd segÃ­tsÃ¼nk benne.
+        title: Elfelejtett jelszÃ³?
+      step2:
+        page_title: TalÃ¡n mÃ¡r meg is jÃ¶tt a leveled.
+        subtitle: Amennyiben tartozik hozzÃ¡ felhasznÃ¡lÃ³, elkÃ¼ldtÃ¼nk egy emailt a megadott cÃ­mre, amiben megtalÃ¡lod a jelszÃ³ helyreÃ¡llÃ­tÃ¡sÃ¡hoz szÃ¼ksÃ©ges tennivalÃ³kat.
+        title: &ldquo;TalÃ¡n&rdquo; mÃ¡r jÃ¶tt is egy leveled!
+      update_email: email cÃ­m frissÃ­tÃ©se
+      warning: "<strong>EgÃ©szsÃ©gÃ¼gyi figyelmeztetÃ©s:</strong> BiztonsÃ¡gi okokbÃ³l nem Ã¡rulhatjuk el, hogy lÃ©tezik-e mÃ¡r felhasznÃ¡lÃ³i fiÃ³k a megadott email cÃ­mhez. Ha nem kapsz tolÃ¼nk emailt az kÃ¶nnyen lehet, hogy azÃ©rt van, mert mÃ©g nem regisztrÃ¡ltÃ¡l ezzel az email cÃ­mmel."
+    mobile:
+      5strike:
+        return: Vissza a kezdooldalra
+        subtitle: HoppÃ¡! BiztonsÃ¡gi okokbÃ³l kÃ©t Ã³rÃ¡t vÃ¡rnod kell, mielott Ãºjra be tudsz lÃ©pni.
+        title: Az Ã¶t csapÃ¡s szabÃ¡lya
+      cta: SMS-t kÃ©rek
+      error_country_code: "<strong>Kedvenc operÃ¡torod jelenti:</strong> Gyozodj meg rÃ³la, hogy a szÃ¡mod a megfelelo orszÃ¡ghÃ­vÃ³ kÃ³ddal kezdodik a nemzetkÃ¶zi hÃ­vÃ³szÃ¡m formÃ¡tumnak megfeleloen. MagyarorszÃ¡g esetÃ©n ez: +36. Ebben az esetben pedig az orszÃ¡gon belÃ¼l 06-os elohÃ­vÃ³ elhagyandÃ³."
+      error_quota: "<strong>Kedvenc operÃ¡torod jelenti:</strong> HoppÃ¡! 24 Ã³rÃ¡n belÃ¼l csupÃ¡n 3 SMS-t tudunk kÃ¼ldeni egy adott telefonszÃ¡mra, fÃ¼ggetlenÃ¼l attÃ³l, hogy mÃ¡r szerepel-e az adatbÃ¡zisunkban, vagy sem"
+      pro_tip: "<strong>A profi tanÃ¡csa: </strong> Gyozodj meg rÃ³la, hogy a szÃ¡mod a megfelelo orszÃ¡ghÃ­vÃ³ kÃ³ddal kezdodik a nemzetkÃ¶zi hÃ­vÃ³szÃ¡m formÃ¡tumnak megfeleloen. MagyarorszÃ¡g esetÃ©n ez: +36. Ebben az esetben pedig az orszÃ¡gon belÃ¼l 06-os elohÃ­vÃ³ elhagyandÃ³."
+      step1:
+        page_title: JelszÃ³ helyreÃ¡llÃ­tÃ¡sa SMS kÃ¼ldÃ©ssel
+        subtitle: Hadd segÃ­tsÃ¼nk benne.
+        title: Elfelejtett jelszÃ³?
+      step2:
+        cta: BizonyÃ­tsd be, hogy te vagy te &#8482;
+        error_code_match: "<strong>Kedvenc operÃ¡torod jelenti:</strong> Ã–rdÃ¶g Ã©s pokol! A hitelesÃ­to kÃ³d nem stimmel. KÃ©rlek ellenorizd, hogy megegyezik-e azzal amit korÃ¡bban kÃ¼ldtÃ¼nk neked."
+        inexisting_number: Amennyiben nÃ©hÃ¡ny percen belÃ¼l sem kapsz SMS-t, akkor feltehetoleg nem lÃ©tezik felhasznÃ¡lÃ³i fiÃ³k az adott telefonszÃ¡mhoz. Ez esetben prÃ³bÃ¡ld meg <a href="%{forgot_password_email_path}">visszaÃ¡llÃ­tani a jelszavadat egy mÃ¡sik mÃ³dszerrel</a> vagy <a href="%{signup_path}">hozz lÃ©tre egy Ãºj FetLife profilt</a>.
+        label: HitelesÃ­tÃ³ kÃ³d
+        page_title: Add meg a hitelesÃ­to kÃ³dot
+        placeholder: 6 jegyu hitelesÃ­to kÃ³d
+        subtitle: &ldquo;TalÃ¡n&rdquo; mÃ¡r jÃ¶tt is egy Ã¼zeneted.
+        title: Add meg a hitelesÃ­to kÃ³dot
+      warning: "<strong>EgÃ©szsÃ©gÃ¼gyi figyelmeztetÃ©s:</strong> BiztonsÃ¡gi okokbÃ³l nem Ã¡rulhatjuk el, hogy lÃ©tezik-e mÃ¡r felhasznÃ¡lÃ³i fiÃ³k a megadott telefonszÃ¡mhoz. Ha nem kapsz tolÃ¼nk SMS-t az kÃ¶nnyen lehet, hogy azÃ©rt van, mert mÃ©g nem regisztrÃ¡ltÃ¡l ezzel a telefonszÃ¡mmal."
+    next_step: kÃ¶vetkezo lÃ©pÃ©s
+    return_to_login: vissza a belÃ©po oldalra
+    tab_email: Email
+    tab_mobile: Mobil
+  guidelines:
+    last_updated: 'UtolsÃ³ frissÃ­tÃ©s:'
+    sub_header: Hallgass a szÃ­vedre!.
+    subnav:
+      community: KÃ¶zÃ¶ssÃ©g
+      community_short: KÃ¶zÃ¶ssÃ©g
+      content: Tartalom
+      content_short: Tartalom
+      group_leader: Csoportgazda
+      group_leader_short: Csoportgazda
+    title: IrÃ¡nyelvekek
+  invite_a_friend:
+    cancel_button: visszavonÃ¡s
+    cancel_notice: A(z) %{email} cÃ­mre kÃ¼ldÃ¶tt meghÃ­vÃ³ visszavonva.
+    cta: HÃ­vd meg egy barÃ¡todat, hogy o is csatlakozzon a FetLife kÃ¶zÃ¶ssÃ©ghez.
+    error: Akadt egy kis gondunk az email kÃ¼ldÃ©ssel a megadott cÃ­mre. KÃ©rlek ellenorizd, hogy jÃ³l Ã­rtad-e be, vagy adj meg egy mÃ¡sik cÃ­met!
+    invitations_accepted: MeghÃ­vÃ¡s elfogadva.
+    invitations_sent: MeghÃ­vÃ³ kikÃ¼ldve
+    labels:
+      friends_email: Az ismerosÃ¶d email cÃ­me
+    next_step: kÃ¶vetkezo lÃ©pÃ©s
+    return_to_feed: vissza a kÃ¡lyhÃ¡hoz
+    subtitle_step1:
+      one: 1 meghÃ­vÃ³d maradt.
+      other: %{count_with_delimiter} meghÃ­vÃ³d maradt.
+    subtitle_step2: ElkÃ¼ldtÃ¼k a meghÃ­vÃ³d a megadott email cÃ­mre: %{email}.
+    title_step1: HÃ­vj meg egy ismerost.
+    title_step2: MeghÃ­vÃ³ elkÃ¼ldve
+    view_invitations: MeghÃ­vÃ¡sok megtekintÃ©se
+  landing_page:
+    footer: "Ebben a pillanatban <strong>%{member_count} felhasznÃ¡lÃ³</strong> <strong>%{picture_count} kÃ©pet</strong> Ã©s <strong>%{video_count} videÃ³t</strong> oszt meg, <strong>%{group_count} csoport</strong> <strong>%{discussion_count} beszÃ©lgetÃ©sÃ©ben</strong> vesz rÃ©szt, <strong>%{event_count} kÃ¶zelgo esemÃ©ny</strong> irÃ¡nt Ã©rdeklodik, Ã©s <strong>%{post_count} blog bejegyzÃ©s</strong> kÃ¶zÃ¼l szemezget. <em>Ez itt kÃ©rem az extrÃ©m erotika fellegvÃ¡ra!</em>"
+    login_button: BelÃ©pÃ©s
+    signup_button: RegisztrÃ¡ciÃ³
+    subtitle: Szinte mint a Facebook, csak "kissÃ©" nyitottabb gondolkodÃ¡sÃº tagokkal. De hÃ¡t Ã­gy az igazi, nemdebÃ¡r? ;)
+    title: A FetLife egy kÃ¶zÃ¶ssÃ©gi oldal azok szÃ¡mÃ¡ra, akik nyitottak a BDSM, a szexuÃ¡lis fÃ©tisek vagy egyÃ©b erotikus fantÃ¡ziÃ¡k felÃ©
+  legalese:
+    subnav:
+      2257_exempt: 2257 Exempt
+      2257_exempt_short: '2257'
+      privacy: AdatvÃ©delmi szabÃ¡lyzat
+      privacy_short: AdatvÃ©delem
+      terms: FelhasznÃ¡lÃ¡si feltÃ©telek
+      terms_short: FeltÃ©telek
+    subtitle: ÃœgyvÃ©det jÃ¡tszva az interweb-en mÃ¡r '69 Ã³ta.
+    title: LegalizÃ¡ciÃ³
+  login:
+    button: BelÃ©pÃ©s
+    error_flash: LÃ©pj velÃ¼nk kapcsolatba a <a href="mailto:support@fetlife.com">support@fetlife.com</a> email cÃ­men Ã©s segÃ­tÃ¼nk Ãºjra hozzÃ¡fÃ©rni a fiÃ³kodhoz.
+    error_login_blank: Meg kell adnod a felhasznÃ¡lÃ³ neved
+    error_not_authenticated: Bocs haver, de be kell lÃ©pned, hogy megnÃ©zhesd ezt az oldalt. Ha mÃ©g nem vagy tag szÃ¡nj rÃ¡ egy percet a regisztrÃ¡ciÃ³ra Ã©s mÃ¡r bent is vagy.
+    error_not_found: Hmmm, nem tunsz ismerosnek. Biztos hogy jÃ³l adtad meg a felhasznÃ¡lÃ³neved Ã©s a jelszavad? (Ne felejtsd: a kis Ã©s a nagy betu kÃ¼lÃ¶nbÃ¶zo)
+    error_password_blank: Meg kell adnod a jelszavadat
+    forgot_info: Valamit elfelejtettÃ©l?
+    labels:
+      nickname: FelhasznÃ¡lÃ³nÃ©v vagy email cÃ­m
+      password: JelszÃ³
+      remember_me: EmlÃ©kezz rÃ¡m! VisszatÃ©rek!
+    not_a_member: MÃ©g nem vagy felhasznÃ¡lÃ³? Csatlakozz a FetLife kÃ¶zÃ¶ssÃ©ghez!
+    subtitle: HiÃ¡nyoltunk... Mint mindig!
+    title: Isten hozott itthon!
+  logout:
+    log_in: lÃ©pj be Ãºjra
+    subtitle: VisszavÃ¡runk!
+    title: HiÃ¡nyozni fogsz!
+  member_stats:
+    pics:
+      one: 1 kÃ©p
+      other: "%{count_with_delimiter} kÃ©p"
+    posts:
+      one: 1 bejegyzÃ©s
+      other: "%{count_with_delimiter} bejegyzÃ©s"
+    vids:
+      one: 1 videÃ³
+      other: "%{count_with_delimiter} videÃ³"
+  nav:
+    events: EsemÃ©nyek
+    explore: FelfedezÃ©s
+    fetishes: FÃ©tisek
+    groups: Csoportok
+    home: Otthon
+    places: Helyek
+    search_placeholder: KeresÃ©s...
+  page_break:
+    of: /
+  profile:
+    about_title: IsmerosÃ¶k
+    pictures_title: KÃ©pek
+    videos_title: VideÃ³k
+  promote_following:
+    button: KÃ¶vetÃ©s bekapcsolÃ¡sa
+    ps: U.I. A kÃ©sobbiekben bÃ¡rmikor kikapcsolhatod a kÃ¶vetÃ©st
+    skip: Engem mÃ¡rpedig ne kÃ¶vessen senki
+    subtitle: TegyÃ©l kÃ¼lÃ¶nbsÃ©get a barÃ¡tok Ã©s a kÃ¶vetok kÃ¶zÃ¶tt
+    title: A kÃ¶vetÃ©si funkciÃ³ leÃ­rÃ¡sa
+  recommendations:
+    title: Javaslatok
+  reset_password:
+    cta: JelszÃ³ visszaÃ¡llÃ­tÃ¡sa
+    error_confirmation_match: A megerosÃ­to jelszÃ³ nem egyezik az eredetivel
+    error_password_range: A jelszÃ³ tÃºl rÃ¶vid (hasznÃ¡lj legalÃ¡bb 4 karaktert)
+    error_token_expired: A jelszÃ³ helyreÃ¡llÃ­tÃ³ kÃ³d Ã©rvÃ©nyessÃ©ge lejÃ¡rt, igÃ©nyelj Ãºjat!
+    error_token_invalid: A jelszÃ³ helyreÃ¡llÃ­tÃ³ kÃ³d nem Ã©rvÃ©nyes
+    footnote: "<strong>A profi tanÃ¡csa:</strong> VÃ©sd az eszedbe a jelszavad."
+    label_enter: Ãšj jelszÃ³
+    label_re_enter: Ãšj jelszÃ³ mÃ©g egyszer
+    status_flash_success: A jelszavad sikeresen megvÃ¡ltozott.
+    subtitle: Nem tÃºl hosszÃº, nem tÃºl rÃ¶vid, csak pont... de hisz tudod ;)
+    title: JelszÃ³ helyreÃ¡llÃ­tÃ¡sa
+  select_language:
+    button: Nyelv megvÃ¡ltoztatÃ¡sa
+    help_translate: HibÃ¡t talÃ¡ltÃ¡l a fordÃ­tÃ¡sban? Esetleg segÃ­tenÃ©l tovÃ¡bbi nyelveken is elÃ©rhetovÃ© tenni a FetLife-ot? LÃ¡togass el a <a href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> Ã©s jelezd nekÃ¼nk az Ã©szrevÃ©teled, vagy akÃ¡r vÃ¡ltoztasd meg sajÃ¡t magad! 
+    language_name: Magyar
+    sub_header: Hi, hallo, olÃ¡, bonjour, ciao, ahoj, opa, szia!
+    title: VÃ¡lasz nyelvet magadnak
+  settings_account:
+    2fa_cta: KÃ©t lÃ©pcsos azonosÃ­tÃ¡s bekapcsolÃ¡sa
+    2fa_label: KÃ©t lÃ©pcsos azonosÃ­tÃ¡s
+    anti_pro_tip: <strong>Egy kevÃ©sbÃ© profi tanÃ¡cs:</strong> <a href="#">SzÃ¼neteltetheted</a> vagy <a href="#">tÃ¶rÃ¶lheted</a> a felhasznÃ¡lÃ³i fiÃ³kodat, amennyiben tÃ©nyleg ezt szeretnÃ©d, de a mellÃ©khatÃ¡sok tekintetÃ©ben talÃ¡n elobb kÃ©rdezd meg kezeloorvosod vagy gyÃ³gyszerÃ©szed.
+    current_password_label: Jelenlegi jelszÃ³
+    email_cta: Update Email cÃ­m
+    email_label: Email
+    email_placeholder: Email cÃ­m
+    language_cta: Ãšj alapÃ©rtelmezett nyelv
+    language_notice: A FetLife fordÃ­tÃ¡sa mÃ©g nem teljese. Ha megvÃ¡ltoztatod ezt a beÃ¡llÃ­tÃ¡st, az oldal bizonyos rÃ©szei tovÃ¡bbra is angolul fognak megjelenni.
+    new_password_label: Ãšj jelszÃ³
+    nickname_cta: FelhasznÃ¡lÃ³nÃ©v
+    nickname_label: ' A felhasznÃ¡lÃ³nÃ©v megvÃ¡ltoztatÃ¡sa:'
+    nickname_notice: "<strong>A profi tanÃ¡csa:</strong> MÃ©rd kÃ©tszer, VÃ¡gd egyszer. A felhasznÃ¡lÃ³ neveded csak 28 naponta vÃ¡ltoztathatod meg. Nincs kivÃ©tel."
+    nickname_placeholder: Ãšj felahasznÃ¡lÃ³nÃ©v
+    page_title: JelszÃ³ megvÃ¡ltoztatÃ¡sa - BeÃ¡llÃ­tÃ¡sok
+    password_cta: Ãšj jelszÃ³
+    repeat_password_label: Ãšj jelszÃ³ mÃ©g egyszer
+    subtitle: KÃ©rjÃ¼k nyomja meg a piros gombot Ã©s nyugodjon bÃ©kÃ©ben.
+    title: FelhasznÃ¡lÃ³i beÃ¡llÃ­tÃ¡sok
+  settings_notifications:
+    cta: Az alapÃ©rtelmezett nyelv megvÃ¡ltoztatÃ¡sa
+    language_label: Nyelv
+    notice: A FetLife fordÃ­tÃ¡sa mÃ©g nem teljese. Ha megvÃ¡ltoztatod ezt a beÃ¡llÃ­tÃ¡st, az oldal bizonyos rÃ©szei tovÃ¡bbra is angolul fognak megjelenni.
+    page_title: Nyelv - BeÃ¡llÃ­tÃ¡sok
+    subtitle: Kinek a nyelve Ã¡ll hozzÃ¡d a legkÃ¶zelebb? ;)
+    title: Nyelv
+  settings_privacy:
+    blocked_list_subtitle: Azok szÃ¡mÃ¡ra akiket nem kedvelsz annyira.
+    blocked_list_title: Letiltott felhasznÃ¡lÃ³k
+    cb_feed: KÃ¶vetÃ©s engedÃ©lyezÃ©se minden felhasznÃ¡lÃ³ szÃ¡mÃ¡ra.
+    cb_fp: A nyilvÃ¡nos bejegyzÃ©sek megjelenhetnek a Fresh & Pervy oldalon.
+    cb_kp: A nyilvÃ¡nos bejegyzÃ©sek megjelenhetnek a Kinky & Popular oldalon.
+    content_privacy: Tartalommal kapcsolatos adatvÃ©delmi beÃ¡llÃ­tÃ¡sok
+    cta: AdatvÃ©delmi beÃ¡llÃ­tÃ¡sok mentÃ©se
+    following: KÃ¶vetÃ©s
+    page_title: AdatvÃ©delmi beÃ¡llÃ­tÃ¡sok
+    subtitle: CÃ©gÃ¼nk mindig az Ã–n rendelkezÃ©re Ã¡ll Asszonyom.
+    title: AdatvÃ©delem
+    warning: "<strong>Figyelem</strong>:  A KÃ¶vetÃ©s letiltÃ¡sa nem visszavonhatÃ³! BÃ¡rki aki most kÃ¶vet tÃ©ged Ã¶rÃ¶kre elvesztheti a nyomodat. Nincs vissza Ãºt. "
+  settings_profile:
+    about_you_label: LeÃ­rÃ¡s RÃ³lad:
+    add_website: "+ tovÃ¡bbi weboldal"
+    cta: Profil frissÃ­tÃ©se
+    dob_label: SzÃ¼letÃ©si ido
+    location_label: Hely
+    looking_for_label: KeresÃ©s
+    page_title: Profil frissÃ­tÃ©se
+    subtitle: A szemÃ©lyes fejlodÃ©s hasznos dolog.
+    title: Profil
+    websites_label: Honlap
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Email cÃ­m frissÃ­tÃ©se
+    email_label: Email cÃ­m frissÃ­tÃ©se
+    email_placeholder: Email cÃ­m
+    page_title: Email cÃ­m frissÃ­tÃ©se - BeÃ¡llÃ­tÃ¡sok
+    subtitle: Arra az esetre, ha elfelejtenÃ©d a jelszavad.
+    title: Email cÃ­m frissÃ­tÃ©se
+  sidebar:
+    about_fetlife: Amit a Fetlife-rÃ³l tudni lehet
+    ad_stats: HirdetÃ©si statisztikÃ¡k
+    advertising: HirdetÃ©s
+    bug_bounty: Hiba vadÃ¡szat
+    caretaking: ÃœgyfÃ©lszolgÃ¡lat
+    close: bezÃ¡rÃ¡s
+    edit_profile: Profil szerkesztÃ©se
+    edit_settings: BeÃ¡llÃ­tÃ¡sok szerkesztÃ©se
+    events: EsemÃ©nyek
+    fetishes: FÃ©tisek
+    following: KÃ¶vetÃ©s
+    fp: Fresh & Pervy
+    funny_quote: Ha ezt nem tudod elolvasni Â… talÃ¡n nincs is ide Ã­rva! - JÃ¡nos 4:69
+    gift_support: AdomÃ¡nyozz FetLife tÃ¡mogatÃ¡st
+    groups: Csoportok
+    guidelines: IrÃ¡nyelvek
+    home: Otthon
+    invite_a_friend: Ismeros meghÃ­vÃ¡sa (%{count})
+    kp: Kinky & Popular
+    legalese: LegalizÃ¡ciÃ³
+    log_out: KilÃ©pÃ©s
+    loved_stuff: Amiket szerettÃ©l
+    need_help: SegÃ­thetÃ¼nk?
+    open_source: Open Source
+    places: Helyek
+    recommendations: Javaslatok
+    support: TÃ¡mogasd a FetLife-ot
+    upload_picture: KÃ©p feltÃ¶ltÃ©se
+    upload_video: VideÃ³ feltÃ¶ltÃ©se
+    view_friends: IsmerosÃ¶k
+    whats_new: ÃšjdonsÃ¡gok
+    write_post: BejegyzÃ©s kÃ¶zzÃ©tÃ©tele
+  signup:
+    almost_there: Szinte kÃ©sz!
+    error_bar: Van egy kis gond. GÃ¶rgess lejjebb, hogy lÃ¡sd mi is a problÃ©ma pontosan.
+    error_birthdate: A szÃ¼letÃ©si dÃ¡tum fontos dolog.
+    error_birthdate_too_old: Sajnos tÃºl idos vagy.
+    error_birthdate_too_young: Nem vagy elÃ©g idos ehhez (18 Ã©v a korhatÃ¡r).
+    error_city_missing: A vÃ¡ros megadÃ¡sa kÃ¶telezo
+    error_country_missing: Az orszÃ¡g megadÃ¡sa kÃ¶telezo
+    error_email: A megadott email cÃ­m nem tunik megfelelonek. KÃ©rlek ellenorÃ­id, hogy nem irtad-e el, esetleg adj meg egy mÃ¡sikat.
+    error_gender_required: Nem mondtÃ¡l nemet. MÃ¡rpedig a nemed fontos nekÃ¼nk.
+    error_nickname: Az a felhasznÃ¡lÃ³ nÃ©v mÃ¡r foglalt.
+    error_nickname_required: FelhasznÃ¡lÃ³ nÃ©v nÃ©lkÃ¼l nehÃ©zkes ;)
+    error_password_range: "A te jelszavad pedig lÃ©gyen legalÃ¡bb 4 de nem tÃ¶bb mint 50 karakter" - JÃ¡nos 4:69
+    error_password_required: BiztonsÃ¡gi szÃ³ nÃ©lkÃ¼l nem lenne olyan biztonsÃ¡gos, ugye megÃ©rted?
+    error_role_required: Fontos hogy milyen preferenciÃ¡id vannak egy szerepjÃ¡tÃ©kban. MÃ¡r csak a fÃ©lreÃ©rtÃ©s elkerÃ¼lÃ©se vÃ©gett is.
+    error_sexual_orientation_required: A SzexuÃ¡lis beÃ¡llÃ­tottsÃ¡g nem egy elhanyagolhatÃ³ tÃ©nyezo
+    error_state_missing: A megye kivÃ¡lasztÃ¡sa kÃ¶telezo.
+    footnote: A tovÃ¡bblÃ©pÃ©ssel elfogadod, hogy kÃ¶veted a <a href="%{guidelines_path}">kÃ¶zÃ¶ssÃ©gi szabÃ¡lyzatot</a> Ã©s elfogadod a <a href="%{tou_path}">felhasznÃ¡lÃ¡si feltÃ©teleket</a>. MÃ©g most olvasd el, kÃ¼lÃ¶nben Ãºgy vesszÃ¼k, hogy megtetted.
+    label:
+      birthdate: SzÃ¼letÃ©si ido
+      city: VÃ¡ros
+      country: OrszÃ¡g
+      email: Email cÃ­m
+      gender: Nem
+      location: Hely
+      nickname: FelhasznÃ¡lÃ³nÃ©v
+      password: JelszÃ³
+      role: SzerepjÃ¡tÃ©k preferencia
+      sexual_orientation: SzexuÃ¡lis beÃ¡llÃ­tottsÃ¡g
+      state: Megye
+    page_title: CsatlakozÃ¡s
+    subtitle: MesÃ©lj egy kicsit magadrÃ³l!
+    subtitle_invite: "%{name} meghÃ­vott, hogy csatlakozz a FetLife kÃ¶zÃ¶ssÃ©ghez."
+    title: Isten hozott itthon
+  signup_avatar:
+    pro_tip: '<strong>A profi tanÃ¡csa</strong>: Ha szÃ©gyenlos vagy Ã©s nem szeretnÃ©d megmutatni az arcod, rajta! LÃ©gy kreatÃ­v Ã©s mutasd meg a sÃ¶tÃ©t... mÃ¡rmint egy mÃ¡sik oldalad ;) De akÃ¡r <a href="%{next_step_path}">ki is hagyhatod ezt a lÃ©pÃ©st</a>.'
+    say_cheese: Most repÃ¼l a kis madÃ¡r!
+    subtitle: A profilkÃ©ppel rendelkezo felhasznÃ¡lÃ³k 69x boldogabbak!
+    title: Profil kÃ©p feltÃ¶ltÃ©se
+  signup_five_strikes:
+    page_title: Az Ã¶t csapÃ¡s szabÃ¡lya
+    return_to_front: VisszatÃ©rÃ©s a kezdooldalra
+    subtitle_error: HoppÃ¡! BiztonsÃ¡gi okokbÃ³l kÃ©t Ã³rÃ¡t vÃ¡rnod kell, mielott Ãºjra be tudsz lÃ©pni.
+    title: Az Ã¶t csapÃ¡s szabÃ¡lya
+  signup_follow:
+    follow: KÃ¶vetÃ©s
+    next_step: KÃ¶vetkezo lÃ©pÃ©s
+    subtitle: KÃ¶vesd azokat akik felkeltettÃ©k a figyelmedet!
+    title: Van aki elÃ©g izgalmas a szÃ¡modra?
+  signup_phone:
+    cta: Ide nekem a hitelesÃ­to kÃ³dot!
+    error_cant_send: "<strong>Kedvenc operÃ¡torod jelenti:</strong> Nem igazÃ¡n sikerÃ¼l elkÃ¼ldenÃ¼nk az SMS-t. Gyozodj meg rÃ³la, hogy a szÃ¡mod a megfelelo orszÃ¡ghÃ­vÃ³ kÃ³ddal kezdodik a nemzetkÃ¶zi hÃ­vÃ³szÃ¡m formÃ¡tumnak megfeleloen. MagyarorszÃ¡g esetÃ©n ez: +36. Ebben az esetben pedig az orszÃ¡gon belÃ¼l 06-os elohÃ­vÃ³ elhagyandÃ³. Valamint azt is Ã©rdemes Ã©szben tartani, hogy vonalas szÃ¡mra nem minden esetben lehet SMS-t kÃ¼ldeni."
+    error_quota: "<strong>Kedvenc operÃ¡torod jelenti:</strong> 24 Ã³rÃ¡n belÃ¼l legfeljebb hÃ¡romszor tudunk SMS-t kÃ¼ldeni ugyanarra a szÃ¡mra. KÃ©rlek prÃ³bÃ¡ld meg kÃ©sobb"
+    explanation: Tudjuk, hogy mindig kellemetlen megadni egy olyan szemÃ©lyes informÃ¡ciÃ³t, mint a telefonszÃ¡m. Ugyanakkor Ãºgy gondoljuk, hogy ez egy fontos kellÃ©ke egy biztonsÃ¡gos Ã©s egÃ©szsÃ©ges kÃ¶zÃ¶ssÃ©g fenntartÃ¡sÃ¡hoz. Ez pedig egy olyan dolog, ami a szÃ¡modra is fontos lesz, ha mÃ¡r egyszer te is a rÃ©sze vagy.
+    label: Mobil szÃ¡m
+    page_title: HitelesÃ­to kÃ³d kÃ¼ldÃ©se
+    pro_tip: "<strong>A profi tanÃ¡csa:</strong> Gyozodj meg rÃ³la, hogy a szÃ¡mod a megfelelo orszÃ¡ghÃ­vÃ³ kÃ³ddal kezdodik a nemzetkÃ¶zi hÃ­vÃ³szÃ¡m formÃ¡tumnak megfeleloen. MagyarorszÃ¡g esetÃ©n ez: +36. Ebben az esetben pedig az orszÃ¡gon belÃ¼l 06-os elohÃ­vÃ³ elhagyandÃ³. Valamint azt is Ã©rdemes Ã©szben tartani, hogy vonalas szÃ¡mra nem minden esetben lehet SMS-t kÃ¼ldeni."
+    subtitle: Egyszeri anonim Ã¼zenet.
+    title: HitelesÃ­tÃ©s
+  signup_verify:
+    cta: RegisztrÃ¡ciÃ³ befejezÃ©se
+    incorrect_code:  "<strong>Kedvenc operÃ¡torod jelenti:</strong> Ã–rdÃ¶g Ã©s pokol! A hitelesÃ­to kÃ³d nem stimmel. KÃ©rlek ellenorizd, hogy megegyezik-e azzal amit korÃ¡bban kÃ¼ldtÃ¼nk neked.Â”
+    label: HitelesÃ­to kÃ³d
+    notice: ElkÃ¼ldtÃ¼k a hitelesÃ­to kÃ³dot a kÃ¶vetkezo szÃ¡mra: <strong>%{phone_number}</strong>. Ha nÃ©hÃ¡ny percen belÃ¼l sem kapsz SMS-t tolÃ¼nk, <a href="%{back_path}">frissÃ­tsd a szÃ¡mot Ã©s mi kÃ¼ldÃ¼nk egy Ãºjat</a>.
+    notice_error: "<strong>U.I.</strong> Isten hozott! ;)"
+    page_title: A hitelesÃ­to kÃ³d megadÃ¡sa
+    placeholder: 6 jegyu hitelesÃ­to kÃ³d
+    subtitle: Nem is volt annyira fÃ¡jdalmas, igaz? ;)
+    subtitle_error: Nem is volt annyira fÃ¡jdalmas, igaz? ;)<br>TalÃ¡n nemsokÃ¡ra Ãºjra talÃ¡lkozunk! :-/
+    title: UtolsÃ³ lÃ©pÃ©s
+  subnav:
+    feed:
+      activity_feed: TevÃ©kenysÃ©g naplÃ³
+      activity_feed_short: Otthon
+      fp: Fresh & Pervy
+      fp_short: Friss
+      kp: Kinky & Popular
+      kp_short: NÃ©pszeru
+    profile:
+      about: SajÃ¡t bemutatkozÃ¡s
+      about_short: BemutatkozÃ¡s
+      latest: LegÃºjabb tevÃ©kenysÃ©gek
+      latest_short: LegÃºjabb
+      pictures: KÃ©pek
+      pictures_short: KÃ©pek
+      videos: VideÃ³k
+      videos_short: VideÃ³k
+      writings: ÃrÃ¡sok
+      writings_short: ÃrÃ¡sok
+    settings:
+      account: FelhasznÃ¡lÃ³i fiÃ³k
+      account_short: FelhasznÃ¡lÃ³
+      notifications: Ã‰rtesÃ­tÃ©sek
+      notifications_short: Ã‰rtesÃ­tÃ©sek
+      privacy: AdatvÃ©delem
+      privacy_short: AdatvÃ©delem
+      profile: Profil
+      profile_short: Profil
+      support: TÃ¡mogatÃ¡s
+      support_short: TÃ¡mogatÃ¡s
