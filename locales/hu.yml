@@ -81,6 +81,9 @@ hu:
     comments_count:
       one: 1 hozzászólás
       other: "%{count_with_delimiter} hozzászólás"
+    composer:
+      button: Mondd
+      placeholder: Mit mondasz Te?
     love: Love
     loved_hover: Szívtipró! :-(
     loves_count:
