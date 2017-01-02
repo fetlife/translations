@@ -256,7 +256,7 @@ gr:
     button: Αλλαγή Προεπιλεγμένη Γλώσσα
     help_translate: Eπισκεφτείτε μας <a href="https://github.com/fetlife/translations">μεταφραστικό έργο</a> στο GitHub και βοηθήστε να γίνει το FetLife προσβάσιμo σε περισσότερους από τους kinky φίλους μας <span class="amp">&amp</span> κοινότητες.
     language_name: Ελληνικά
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Επιλέξτε Γλώσσα
   settings_account:
     2fa_cta: Ανάψτε 2-Factor Πιστοποίηση

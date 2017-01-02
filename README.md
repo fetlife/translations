@@ -1,18 +1,18 @@
-# Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+# Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
 
 With the help of the beautifully diverse community that makes up [Fetlife](https://fetlife.com/), we are working to make FetLife home to all kinksters, no matter where in the world they might be, and in the language they are most comfortable!
 
 ### Languages FetLife is Currently Available In
 
+- [Dutch](locales/nl.yml)
 - [English](locales/en.yml)
 - [French](locales/fr.yml)
-- [Spanish](locales/es.yml)
 - [German](locales/de.yml)
 - [Greek](locales/gr.yml)
+- [Hungarian](locales/hu.yml)
 - [Portuguese](locales/pt.yml)
 - [Slovak](locales/sk.yml)
-- [Dutch](locales/nl.yml)
-- [Hungarian](locales/hu.yml)
+- [Spanish](locales/es.yml)
 
 
 ### How You can Help Out
