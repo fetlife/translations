@@ -256,7 +256,7 @@ de:
     button: Setze die Sprachvoreinstellung
     help_translate: Besuche unser <a href="https://github.com/fetlife/translations">Übersetzungsprojekt</a> auf GitHub und hilf mit, den Zugang zu FetLife für weitere unserer kinky Freund_innen <span class="amp">&amp</span> Gemeinschaften zu erleichtern.
     language_name: Deutsch
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Sprachwahl
   settings_account:
     2fa_cta: Schalte 2-Faktor-Authentifizierung an
