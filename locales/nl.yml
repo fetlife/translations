@@ -256,7 +256,7 @@ nl:
     button: Wijzig standaard taal
     help_translate: Bezoek ons <a href="https://github.com/fetlife/translations">vertaal project</a> op GitHub en help mee FetLife toegangkelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
     language_name: Nederlands
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Selecteer taal
   settings_account:
     2fa_cta: Activeer 2-stap verificatie
