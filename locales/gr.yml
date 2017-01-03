@@ -2,79 +2,79 @@
 gr:
   2fa:
     5strike:
-      return: επιστρέψτε στιν αρχική σελίδα
-      subtitle: Για λόγους ασφάλειας, θα πρέπει να περιμένετε δυο ώρες πριν μπορείτε να κάνετε login ξανά.
+      return: επιστρέψτε στην αρχική σελίδα
+      subtitle: Για λόγους ασφαλείας, θα πρέπει να περιμένετε δύο ώρες πριν να μπορέσετε να συνδεθείτε ξανά.
       title: Five Strike Rule
-    cta: Εγώ είμαι, αφήστε με να μπώ!
-    error: "<strong>Kinky Χειριστής:</strong> Doh… ο κωδικός πιστοποίησης φαίνεται λάθος. Σας παρακαλώ βεβαιωθείτε οτι ο αριθμός ταιριάζει μ'αυτό που σας στείλαμε και προσπαθήστε ξανά."
-    label: κωδικός ταυτότητας
+    cta: Εγώ είμαι, αφήστε με να μπω!
+    error: "<strong>Kinky Χειριστής:</strong> Ωχ... ο κωδικός πιστοποίησης φαίνεται λάθος. Παρακαλώ βεβαιωθείτε ότι ο αριθμός ταιριάζει με αυτόν που σας στείλαμε και προσπαθήστε ξανά."
+    label: κωδικός πιστοποίησης
     page_title: 2-Factor πιστοποίηση
     subtitle: 2-Factor me baby!
     title: Μυστικός κωδικός
   about:
-    contact_info: Πληροφορίες Επαφής
-    email_us: Στείλτε μας email στο <a href="mailto:support@fetlife.com">support@fetlife.com</a> και εμείς θα επικοινωνήσουμε μαζί σας γρήγορα!
+    contact_info: Στοιχεία Επικοινωνίας
+    email_us: Στείλτε μας email στο <a href="mailto:support@fetlife.com">support@fetlife.com</a> και εμείς θα επικοινωνήσουμε μαζί σας σύντομα!
     europe: Ευρώπη
-    got_question: Έχετε μια ερώτηση? Χρειαζώσαστε βοήθια?
+    got_question: Έχετε κάποια ερώτηση; Χρειαζόσαστε βοήθεια;
     north_america: Βόρεια Αμερική
     one_love: Μία αγάπη, μία ζωή, και μπόλικο kink.
     snail_mail: Snail Mail
-    sub_header: Μην to μπερδεύεστε με τους Σπαρτιάτες.
-    title: Είμαστε.FetLife!
+    sub_header: Μην το μπερδεύετε με τους Σπαρτιάτες.
+    title: Είμαστε το FetLife!
   ad_stats:
     actions:
-      delete: διαγράφω
-      duplicate: αντιγράφω
-      edit: επεξεργασία
-      pause: παύση
-      start: αρχή
-      unpause: αναίρεση παύσης
+      delete: Διαγραφή
+      duplicate: Αντιγραφή
+      edit: Επεξεργασία
+      pause: Παύση
+      start: Αρχή
+      unpause: Αναίρεση παύσης
     actions_literal: Δράσεις
-    active_ads: ενεργές διαφημίσεις
+    active_ads: Ενεργές διαφημίσεις
     ad_new:
-      cta: φορτώστε νέα διαφήμιση
+      cta: Φορτώστε νέα διαφήμιση
       labels:
-        line1: γραμμή 1
-        line2: γραμμή 2
-        line3: γραμμή 3
+        line1: Γραμμή 1
+        line2: Γραμμή 2
+        line3: Γραμμή 3
       placeholders:
         line1: Εισαγόμενα κοσμήματα
-        line2: Υπενθυμήσου της όλη την ημέρα
-        line3: τι περιμένει για αργότερα
-      subtitle: Εύκολο σαν 1, 2… 69.
+        line2: Θυμήστε της όλη τη μέρα...
+        line3: τι την περιμένει αργότερα
+      subtitle: Εύκολο όπως το 1, 2… 69.
       title: Νέα διαφήμιση
     ads: Διαφημίσεις
     avg_ctr: Μέσο CTR
     best: Kαλύτερος
     campaign_edit:
-      cta: ενημέρωση εκστρατεία
+      cta: Ενημέρωση Καμπάνιας
       labels:
-        company_name: όνομα εταιρίας
+        company_name: Όνομα Εταιρίας
         member_id: member_id
-        slots_purchased: Αγορασμένες Σχισμές
-      page_title: επεξεργασία εκστρατεία
+        slots_purchased: Αγορασμένα Slots
+      page_title: Επεξεργασία Καμπάνιας
       subtitle: Σεπτέμβριος 2016
-      title: ενημέρωση εκστρατεία
+      title: Ενημέρωση Καμπάνιας
     campaign_new:
-      cta: Καινούρια εκστρατεία
+      cta: Καινούρια Καμπάνια
       subtitle: Σεπτέμβριος 2016
-      title: Καινούρια εκστρατεία
-    campaigns: Εκστρατείες
+      title: Καινούρια Καμπάνια
+    campaigns: Καμπάνιες
     clicks: Kλίκς
     ctr: CTR
-    edit: επεξεργασία
+    edit: Επεξεργασία
     impressions: Εντυπώσεις
-    last_updated: στατιστικά τελευταία ενημέρωση
+    last_updated: Τελευταία ενημέρωση στατιστικών
     name: Όνομα
     new_ad: "+ καινούρια διαφήμιση"
-    new_campaign: "+ καινούρια εκστρατεία"
+    new_campaign: "+ καινούρια καμπάνια"
     overview: Επισκόπηση
-    press_start: πατήστε "έναρξη" όταν είστε έτοιμοι
-    slots: Σχισμές
-    subtitle: Ελέγχου επί του εδάφους στο Major Tom.
+    press_start: Πατήστε "έναρξη" όταν είστε έτοιμοι
+    slots: Slots
+    subtitle: Ground control to Major Tom.
     title: Στατιστικά Διαφήμισης
-    updated_every: ενημέρωση κάθε 15 λεπτά
-    view: άποψη
+    updated_every: Ενημέρωση κάθε 15 λεπτά
+    view: Προβολή
     worst: Χειρότερος
   feed:
     comment: Σχόλιο
@@ -84,229 +84,229 @@ gr:
     composer:
       button: Πες Το
       placeholder: Tι Λέτε?
-    love: Aγaπώ
+    love: Aγαπώ
     loved_hover: Heart Breaker! :-(
     loves_count:
       one: 1 αγάπη
       other: "%{count_with_delimiter} Αγάπες"
     modal:
-      close: κλειστό
-      more: περισσότερο
+      close: Κλείσιμο
+      more: Περισσότερα
       reply: Aπάντηση
-    title: Feed
+    title: Ροή
   following:
     follow: Ακολουθήστε
     following: Ακολουθώ
   footer:
-    about: Περί
-    help: Βοήθια
+    about: Σχετικά
+    help: Βοήθεια
   forgot_password:
     email:
-      cta: στείλτε μου Email με οδηγίες
-      error_forgot_email: Νομίζω οτι έχετε ξεχάσει κάτι… τη διεύθυνση email! :-p
-      error_invalid_email: δεν μοιάζει με έγκυρο email. Σε παρακαλώ επανεξέτασε και να υποβάλεται εκ νέου.
-      error_quota: μπορούμε μόνο να στείλουμε δύο emails ανά ώρα σε μια συγκεκριμένη διεύθυνση email. Σε παρακαλώ κοιτάξτε οτι το email μας δεν βρέθηκε στο φίλτρο σπαμ. Αν δεν μπορείτε να το βρείτε στο φίλτρο σπαμ, συνιστούμε χρησιμοποιόντας μια απο τις άλλες μεθόδους να ξανά μπείτε στο λογαριασμό σας.
-      placeholder: διεύθυνση Email
+      cta: Στείλτε μου Email με οδηγίες
+      error_forgot_email: Νομίζω ότι έχετε ξεχάσει κάτι… τη διεύθυνση email! :-p
+      error_invalid_email: Δεν μοιάζει με έγκυρο email. Παρακαλώ ελέγξτε ξανά και υποβάλετε εκ νέου.
+      error_quota: Μπορούμε να στείλουμε μόνο δύο emails ανά ώρα σε μία συγκεκριμένη διεύθυνση email. Παρακαλώ βεβαιωθείτε ότι το email μας δεν βρέθηκε στον φάκελο της ανεπιθύμητης αλληλογραφίας. Αν δεν μπορείτε να το βρείτε σε αυτό τον φάκελο, συνιστούμε να χρησιμοποιήσετε μία από τις άλλες μεθόδους για να ξαναμπείτε στο λογαριασμό σας.
+      placeholder: Διεύθυνση Email
       step1:
-        page_title: Επαναφέρετε τον κωδικό via Email
+        page_title: Επαναφέρετε τον κωδικό μέσω Email
         subtitle: Επιτρέψτε μου να σας βοηθήσω με αυτό.
-        title: Ξεχάσατε τον κωδικό πρόσβασης?
+        title: Ξεχάσατε τον κωδικό πρόσβασης;
       step2:
         page_title: '"Μπορεί" να εχέτε αλληλογραφία'
-        subtitle: Αν υπάρχει προφίλ που σχετίζεται με αυτό το email <strong>%{given_email}</strong> τότε σας έχουμε στείλει οδηγίες πώς να επαναφέρετε τον κωδικό πρόσβασης.
+        subtitle: Αν υπάρχει προφίλ συνδεδεμένο με αυτό το email <strong>%{given_email}</strong> τότε σας έχουμε στείλει οδηγίες για το πώς να επαναφέρετε τον κωδικό πρόσβασης.
         title: '"Μπορεί" να έχετε Αλληλογραφία!'
-      update_email: ενημέρωση διεύθυνση email
-      warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν μια διεύθυνση email υπάρχει στο database η οχι. Αν δεν λάβατε email απο μας, είναι πολύ πιθανό δεν έχουμε λογαριασμό με αυτή τη διεύθυνση email."
+      update_email: Ενημέρωση διεύθυνσης email
+      warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν μια διεύθυνση email υπάρχει στη βάση δεδομένων μας ή όχι. Αν δεν λάβατε email από εμάς, είναι πολύ πιθανό να μην έχουμε λογαριασμό συνδεδεμένο με αυτή τη διεύθυνση email."
     mobile:
       5strike:
-        return: επιστρέψτε στιν αρχική σελίδα
-        subtitle: Για λόγους ασφάλειας, θα πρέπει να περιμένετε δυο ώρες πριν μπορείτε να κάνετε login ξανά.
+        return: Επιστρέψτε στην αρχική σελίδα
+        subtitle: Για λόγους ασφαλείας, θα πρέπει να περιμένετε δύο ώρες πριν να μπορέσετε να συνδεθείτε ξανά.
         title: Five Strike Rule
-      cta: Στείλε μου "Text Message"?
-      error_country_code: "<strong>Kinky Χειριστής:</strong> Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, kτλ."
-      error_quota: "<strong>Kinky Χειριστής:</strong> Μπορούμε μόνο να προσπαθήσουμε να στείλουμε μέχρι 3 text messages κάθε 24 ώρες σε ένα κινητό αριθμό. Αν ο αριθμός υπάρχει στο database ή οχι."
+      cta: Στείλε μου "Μήνυμα Κειμένου"?
+      error_country_code: "<strong>Kinky Χειριστής:</strong> Βεβαιωθείτε ότι αρχίσατε την εισαγωγή του αριθμού σας με τον κωδικό της χώρας σας: +1 για την Αμερική και τον Καναδά, +44 για το Ηνωμένο Βασίλειο, +61 για την Αυστραλία, +31 για την Ολλανδία, +49 για την Γερμανία, +33 για την Γαλλία, κτλ."
+      error_quota: "<strong>Kinky Χειριστής:</strong> Μπορούμε μόνο να προσπαθήσουμε να στείλουμε μέχρι 3 μηνύματα κειμένου κάθε 24 ώρες σε έναν αριθμό κινητού τηλεφώνου. Αν ο αριθμός υπάρχει στο database ή οχι."
       pro_tip: "<strong>Pro Tip:</strong> Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, κτλ."
       step1:
-        page_title: Eπαναφέρετε τον κωδικό via Text Message
+        page_title: Eπαναφέρετε τον κωδικό μέσω μηνύματος κειμένου
         subtitle: Επιτρέψτε μου να σας βοηθήσω με αυτό.
         title: Ξεχάσατε τον κωδικό πρόσβασης?
       step2:
-        cta: Επαληθεύω ποιός είμαι™
-        error_code_match: "<strong>Kinky Χειριστής:</strong> Ο κωδικός επαλήθευσης που εισαγάγατε είναι λάθος. Βεβαιωθείτε ο αριθμός απο πάνω είναι ο ίδιος αριθμός από μας και παρακαλώ προσπαθήστε ξανά. Αυτό είναι μια καταγραφή."
-        inexisting_number: Αν μετά απο δύο λεπτά δεν λάβατε text message απο μας, ο λόγος είναι δεν έχουμε προφίλ που προσδένει με τον αριθμό σας. Σας προτείνουμε είτε <a href="%{forgot_password_email_path}">Δοκιμάστε να επαναφέρετε τον κωδικό πρόσβασης χρησιμοποιόντας άλλο μέθοδο</a> ή <a href="%{signup_path}">δημιουργήσετε ένα νέο προφίλ επάνω στο FetLife</a>.
-        label: Κωδικό Επιβεβαίωσης
-        page_title: Βάλτε κωδικό επιβεβαίωσης
-        placeholder: 6-Digit Κωδικό Επιβεβαίωσης
-        subtitle: '"Μπορεί" να σας στείλαμε text message.'
-        title: Βάλτε Κωδικό Επιβεβαίωσης
-      warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν ένα αριθμό απο κινητό υπάρχει στο database ή οχι. Αν δεν λάβατε ένα text message από μας, είναι πολύ πιθανό δεν έχουμε λογαριασμό που προσδένει με αυτό τον αριθμό."
+        cta: Επαληθεύστε το ποιος είστε
+        error_code_match: "<strong>ΣαςKinky Χειριστής:</strong> Ο κωδικός επαλήθευσης που εισαγάγατε είναι λάθος. Βεβαιωθείτε ότι ο αριθμός που εισάγατε είναι ο ίδιος αριθμός που λάβατε από μας και παρακαλώ προσπαθήστε ξανά. Αυτό είναι μια καταγραφή."
+        inexisting_number: Αν μετά από δύο λεπτά δεν λάβετε μήνυμα από εμάς, ο λόγος είναι ότι δεν έχουμε προφίλ συνδεδεμένο με τον αριθμό σας. Σας προτείνουμε να δοκιμάσετε είτε την <a href="%{forgot_password_email_path}">Επαναφορά του κωδικό πρόσβασης χρησιμοποιόντας άλλη μέθοδο</a> είτε την <a href="%{signup_path}"> δημιουργία νέου προφίλ στο FetLife</a>.
+        label: Κωδικός Επιβεβαίωσης
+        page_title: Εισάγετε κωδικό επιβεβαίωσης
+        placeholder: 6-ψήφιος Κωδικός Επιβεβαίωσης
+        subtitle: '"Μπορεί" να σας στείλαμε μήνυμα κειμένου.'
+        title: Εισάγετε τον Κωδικό Επιβεβαίωσης
+      warning: "<strong>Surgeon Generals Warning:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν ένας αριθμός κινητού τηλεφώνου υπάρχει στη βάση δεδομένων μας ή όχι Αν δεν λάβατε μήνυμα κειμένου από εμάς, είναι πολύ πιθανό να μην έχουμε λογαριασμό συνδεδεμένο με αυτό τον αριθμό."
     next_step: επόμενο βήμα
-    return_to_login: επιστρέφω στο login
+    return_to_login: επιστροφή στη σελίδα σύνδεσης
     tab_email: Email
-    tab_mobile: κινητό
+    tab_mobile: Κινητό
   guidelines:
     last_updated: 'Πρόσφατη Ενημέρωση:'
-    sub_header: Aκολουθήστε το εντερό σας, γνωρίζει πάντα.
+    sub_header: Follow your gut, it always nose.
     subnav:
       community: Κοινότητα
       community_short: Κοινότητα
       content: Περιεχόμενα
       content_short: Περιεχόμενα
-      group_leader: Αρχηγός Ομίλου
-      group_leader_short: Αρχηγός Ομίλου
+      group_leader: Αρχηγός Ομάδας
+      group_leader_short: Αρχηγός Ομάδας
     title: Kατευθυντήριες Γραμμές
   invite_a_friend:
-    cancel_button: ακυρώνω
+    cancel_button: ακύρωση
     cancel_notice: H πρόσκληση στο %{email} ακυρώθηκε.
-    cta: Καλώ ένα Φίλο να συμμετέχει στο FetLife
-    error: Έχουμε προβλήματα στέλνοντας μια πρόσκληση σ'αυτή τη διεύθυνση email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε ένα άλλο.
+    cta: Προσκαλέστε ένα φίλο στο FetLife
+    error: Αντιμετωπίσαμε προβλήματα με την αποστολή πρόσκλησης σε αυτή τη διεύθυνση email. Συνιστούμε να ελέγξετε την ορθογραφία ή να δοκιμάσετε κάποια άλλη διέυθυνση email.
     invitations_accepted: Πρόσκληση Αποδέκτηκε
     invitations_sent: Πρόσκληση Στάλθηκε
     labels:
-      friends_email: Διεύθυνση Email του φίλου
+      friends_email: Διεύθυνση Email φίλου
     next_step: επόμενο βήμα
-    return_to_feed: επιστρέφω στο feed
+    return_to_feed: επιστροφή στη ροή
     subtitle_step1:
-      one: Έχετε 1 πρόσκληση που περισεύει.
-      other: Έχετε %{count_with_delimiter} προσκλήσεις που περισεύουν.
-    subtitle_step2: Στείλαμε μια πρόσκληση απο εσένα στο %{email}.
+      one: Σας έχει απομείνει 1 πρόσκληση.
+      other: Σας έχουν απομέινει %{count_with_delimiter} προσκλήσεις.
+    subtitle_step2: Στείλαμε μια πρόσκληση από εσάς στο %{email}.
     title_step1: Καλέστε ένα Φίλο
     title_step2: Πρόσκληση Στάλθηκε
-    view_invitations: Κοιτάξτε τις προσκλήσεις σας
+    view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    footer: "<strong>%{member_count} Μέλοι</strong>  μοιράζουν <strong>%{picture_count} εικόνες</strong> και <strong>%{video_count} βιντεο</strong>, συμμετέχουν σε <strong>%{discussion_count} συζητήσεις</strong> σε <strong>%{group_count} όμιλοι</strong>, πηγαίνουν σε <strong>%{event_count} επερχόμενες εκδηλώσεις</strong> και διαβάζουν <strong>%{post_count} blog posts</strong>. <em>Kinky παράδεισος!</em>"
+    footer: "<strong>%{member_count} Τα μέλη</strong>  μοιράζονται <strong>%{picture_count} εικόνες</strong> και <strong>%{video_count} βίντεο</strong>, συμμετέχουν σε <strong>%{discussion_count} συζητήσεις</strong> σε <strong>%{group_count} ομάδες</strong>, πηγαίνουν σε <strong>%{event_count} επερχόμενες εκδηλώσεις</strong> και διαβάζουν <strong>%{post_count} blog posts</strong>. <em>Kinky παράδεισος!</em>"
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
-    subtitle: Σαν το Facebook, αλλά οργανωμένο απο kinksters σαν εσένα και εμένα. Πιστεύουμε έχει ποιο πολύ κέφι έτσι. Δεν νομίζετε?
-    title: FetLife είναι το Κοινωνικό Δίκτυο για το BDSM, Φετίχ & Kinky Κοινότητα.
+    subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
+    title: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
   legalese:
     subnav:
       2257_exempt: 2257 Εξαίρεση
       2257_exempt_short: '2257'
-      privacy: πολιτική Προστασίας Προσωπικών Δεδομένων
-      privacy_short: Μυστικότητα
+      privacy: Πολιτική Προστασίας Προσωπικών Δεδομένων
+      privacy_short: Ιδιωτικότητα
       terms: Όροι χρήσης
       terms_short: Όροι
-    subtitle: Παριστάνοντας ένα δικηγορο στο internet aπο το '69.
+    subtitle: Παριστάνοντας ένα δικηγορο στο internet από το '69.
     title: Νομικός
   login:
     button: Σύνδεση στο FetLife
-    error_flash: Παρακαλώ επικοινώνησε <a href="mailto:support@fetlife.com">support@fetlife.com</a> να σας βοηθήσουμε να ξανά μπείτε.
+    error_flash: Παρακαλώ επικοινωνωνήστε με το <a href="mailto:support@fetlife.com">support@fetlife.com</a> για να σας βοηθήσουμε να ξανά μπείτε.
     error_login_blank: Το Login δεν μπορεί να είναι κενό
-    error_not_authenticated: Συγγνώμη φίλε μου, θα πρέπει να είστε συνδεδεμένοι για να φθάσετε σε αυτή τη σελίδα. Αν δεν είστε ήδη μέλος διαρκεί λιγότερο από ένα λεπτό να κάνετε sign-up.
-    error_not_found: Χmmm, δεν ήμασταν σε θέση να σας βρούμε. Είστε βέβαιοι ότι έχετε εισαγάγει το παρατσούκλι και τον κωδικό πρόσβασής σας σωστά? (Kωδικοί πρόσβασης είναι πεζών-κεφαλαίων)
-    error_password_blank: Κωδικός πρόσβασης δεν μπορεί να είναι κενό
-    forgot_info: Ξεχάσατε τις πληροφορίες για το login?
+    error_not_authenticated: Συγγνώμη, θα πρέπει να είστε συνδεδεμένοι για να φθάσετε σε αυτή τη σελίδα. Αν δεν είστε ήδη μέλος χρειάζεται λιγότερο από ένα λεπτό να κάνετε εγγραφή.
+    error_not_found: Χμμμ, δεν ήμασταν σε θέση να σας βρούμε. Είστε βέβαιοι ότι έχετε εισαγάγει το ψευδώνυμο και τον κωδικό πρόσβασής σας σωστά? (Οι κωδικοί πρόσβασης διακρίνουν πεζά-ΚΕΦΑΛΑΊΑ)
+    error_password_blank: Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός
+    forgot_info: Ξεχάσατε τα στοιχεία σύνδεσης?
     labels:
-      nickname: Παρατσούκλι ή Email
+      nickname: Ψευδώνυμο ή Email
       password: Κωδικός Πρόσβασης
-      remember_me: Θυμήσου με, θα επιστρέψω.
-    not_a_member: Δεν είστε μέλος ακόμα? Εγγραφή στο FetLife
+      remember_me: Να με θυμάστε, θα επιστρέψω.
+    not_a_member: Δεν είστε ακόμη μέλος; Εγγραφείτε στο FetLife
     subtitle: Μας λείψατε… Πολύ!
     title: Καλωσόρισες σπίτι
   logout:
     log_in: συνδεθείτε ξανά
     subtitle: Φροντίστε να έρθετε πίσω και να μας δείτε σύντομα.
-    title: Θα μας λείψεις!
+    title: Θα μας λείψετε!
   member_stats:
     pics:
       one: 1 εικόνα
       other: "%{count_with_delimiter} εικόνες"
     posts:
-      one: 1 γραπτό
-      other: "%{count_with_delimiter} γραπτά"
+      one: 1 δημοσίευση
+      other: "%{count_with_delimiter} δημοσιεύσεις"
     vids:
       one: 1 βίντεο
-      other: "%{count_with_delimiter} βίντεος"
+      other: "%{count_with_delimiter} βίντεο"
   nav:
     events: Εκδηλώσεις
-    explore: εξερευνώ
+    explore: Εξερεύνηση
     fetishes: Φετίχ
-    groups: Όμιλος
-    home: Σπίτι
-    places: Τοπία
-    search_placeholder: Ερευνώ...
+    groups: Ομάδες
+    home: Αρχική σελίδα
+    places: Μέρη
+    search_placeholder: Αναζήτηση...
   page_break:
     of: of
   profile:
     about_title: Λίστα φίλων
-    pictures_title: εικόνες
-    videos_title: βίντεος
+    pictures_title: Εικόνες
+    videos_title: Βίντεο
   promote_following:
-    button: Ανάβω Παρακολούθηση
-    ps: P.S. Μπορείτε να κλείσετε Παρακολούθηση όποτε θέλετε.
-    skip: Μην ανάψετε ακολούθηση για μένα
-    subtitle: Ξεχωρίστε τους φίλους σας απο τους aκόλουθους.
+    button: Ενεργοποίηση Παρακολούθησης
+    ps: P.S. Μπορείτε να κλείσετε την Παρακολούθηση όποτε θέλετε.
+    skip: Μην ενεργοποιήσετε την παρακολούθηση για μένα
+    subtitle: Ξεχωρίστε τους φίλους σας απο τους ακόλουθούς σας.
     title: Παρουσιάζουμαι Ακολουθώ
   recommendations:
-    title: Συστάσεις
+    title: Προτάσεις
   reset_password:
     cta: Επαναφέρετε τον κωδικό πρόσβασης
     error_confirmation_match: Ο κωδικός επιβεβαίωσης δεν ταιριάζει με τον κωδικό πρόσβασης
-    error_password_range: Ο κωδικός πρόσβασης είναι πολύ κοντός (τουλάχιστον 4 χαρακτήρες)
-    error_token_expired: O χρονος να επαναφέρετε τον κωδικό πρόσβασής εχει λήξει, παρακαλούμε να ζητήσετε ένα νέο
+    error_password_range: Ο κωδικός πρόσβασης είναι πολύ μικρός (τουλάχιστον 4 χαρακτήρες)
+    error_token_expired: O χρόνος επαναφοράς του κωδικού πρόσβασης έχει λήξει, παρακαλούμε ζητήσετε ένα νέο
     error_token_invalid: O κωδικός επαναφοράς είναι άκυρος
-    footnote: "<strong>Pro Tip:</strong> Θυμήσου τον κωδικό πρόσβασεις σας."
-    label_enter: Καινούριο κωδικός πρόσβασης
-    label_re_enter: Ξανά εισάγω τον καινούριο κωδικός πρόσβασης
+    footnote: "<strong>Pro Tip:</strong> Θυμηθείτε τον κωδικό πρόσβασής σας."
+    label_enter: Νέος κωδικός πρόσβασης
+    label_re_enter: Εισάγετε ξανά τον νέο κωδικό πρόσβασης
     status_flash_success: Ο κωδικός προσβασής έχει αλλάξει με επιτυχία.
-    subtitle: Οχι πολύ κοντό, οχι πολύ μακρύ, ακριβώς…
+    subtitle: Όχι πολύ μικρός, ούτε πολύ μεγάλος, ακριβώς όπως πρέπει…
     title: Επαναφέρετε τον κωδικό πρόσβασης
   select_language:
-    button: Αλλαγή Προεπιλεγμένη Γλώσσα
-    help_translate: Eπισκεφτείτε μας <a href="https://github.com/fetlife/translations">μεταφραστικό έργο</a> στο GitHub και βοηθήστε να γίνει το FetLife προσβάσιμo σε περισσότερους από τους kinky φίλους μας <span class="amp">&amp</span> κοινότητες.
+    button: Αλλαγή Προεπιλεγμένης Γλώσσας
+    help_translate: Eπισκεφτείτε το <a href="https://github.com/fetlife/translations">μεταφραστικό έργο</a> μας στο GitHub και βοηθήστε να γίνει το FetLife προσβάσιμo σε περισσότερους από τους kinky φίλους μας <span class="amp">&amp</span> κοινότητες.
     language_name: Ελληνικά
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Επιλέξτε Γλώσσα
   settings_account:
-    2fa_cta: Ανάψτε 2-Factor Πιστοποίηση
+    2fa_cta: Ενεργοποιήστε 2-Factor Πιστοποίηση
     2fa_label: 2-Factor Πιστοποίηση
-    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Μπορείτε <a href="#">deactivate</a> ή <a href="#">delete</a> το λογαπιασμό σας αν θέλετε αλλά τρείς στους τέσσερες παππάδες διαφωνούν.
-    current_password_label: Σύγχρονος Κωδικός Πρόσβασεις
-    email_cta: Εκσυγχρόνισε την διεύθυνση email
+    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Μπορείτε να κάνετε <a href="#">Απενεργοποίηση</a> ή <a href="#">Διαγραφή</a> του λογαριασμού σας αν θέλετε, αλλά τρεις στους τέσσερες Πάπες διαφωνούν.
+    current_password_label: Τρέχων Κωδικός Πρόσβασης
+    email_cta: Ενημέρωση της διεύθυνσης email
     email_label: Email
-    email_placeholder: διεύθυνση Email
+    email_placeholder: Διεύθυνση Email
     language_cta: Εκσυγχρόνισε Προεπιλεγμένη Γλώσσα
-    language_notice: FetLife δεν είναι διαθέσιμος πλήρως σε γλώσσες εκτός τα Αγγλικά. Αν αλλάξετε τη ρύθμιση εδώ, όχι όλο το website θα μεταφραστεί.
-    new_password_label: Καινούριο κωδικός πρόσβασεις
-    nickname_cta: Αλλάξτε Παρατσούκλι
-    nickname_label: 'Αλλάξτε το παρατσούκλι σας απο "JohnBaku" σε:'
-    nickname_notice: "<strong>Pro Tip:</strong> Μετρήστε δύο φορές, κόψτε μια φορά. Μπορείτε να αλλάξετε το παρατσούκλι σας μια κάθε 28 ημέρες."
-    nickname_placeholder: Καινούριο Παρατσούκλι
-    page_title: Αλλάξτε τον κωδικό πρόσβασεις - Ρυθμίσεις
+    language_notice: Το FetLife δεν είναι πλήρως διαθέσιμο σε γλώσσες εκτός της Αγγλικής. Αν αλλάξετε τη ρύθμιση εδώ, δεν θα μεταφραστεί ολόκληρη η ιστοσελίδα.
+    new_password_label: Νέος κωδικός πρόσβασης
+    nickname_cta: Αλλάξτε ψευδώνυμο
+    nickname_label: 'Αλλάξτε το ψευδώνυμό σας απο "JohnBaku" σε:'
+    nickname_notice: "<strong>Pro Tip:</strong> Μετρήστε δύο φορές, κόψτε μια φορά. Μπορείτε να αλλάξετε το ψευδώνυμό σας μια φορά κάθε 28 ημέρες."
+    nickname_placeholder: Νέο Ψευδώνυμό
+    page_title: Αλλάξτε τον κωδικό πρόσβασης - Ρυθμίσεις
     password_cta: Επαναφέρετε τον κωδικό πρόσβασης
-    repeat_password_label: Επαναλαμβάνω τον κωδικό πρόσβασης
-    subtitle: Μην πιέζετε το μεγάλο κόκκινο κουμπί.
+    repeat_password_label: Επαναλάβετε τον κωδικό πρόσβασης
+    subtitle: Μην πατήσετε το μεγάλο κόκκινο κουμπί.
     title: Ρυθμίσεις Λογαριασμού
   settings_notifications:
-    cta: Εκσυγχρόνισε Προεπιλεγμένη Γλώσσα
+    cta: Ενημέρωση Προεπιλεγμένης Γλώσσας
     language_label: Γλώσσα
-    notice: FetLife δεν είναι διαθέσιμος πλήρως σε γλώσσες εκτός τα Αγγλικά. Αν αλλάξετε τη ρύθμιση εδώ, όχι όλο το website θα μεταφραστεί.
+    notice: Το FetLife δεν είναι πλήρως διαθέσιμο σε γλώσσες εκτός της Αγγλικής. Αν αλλάξετε τη ρύθμιση εδώ, δεν θα μεταφραστεί ολόκληρη η ιστοσελίδα.
     page_title: Γλώσσα - Ρυθμίσεις
-    subtitle: Ποιά γλώσσα προτιμάτε?
+    subtitle: Ποιά γλώσσα προτιμάτε;
     title: Γλώσσα
   settings_privacy:
-    blocked_list_subtitle: Για αυτούς στη κακιά σας λίστα.
-    blocked_list_title: Blocked Λίστα
-    cb_feed: Επιτρέψτε τους μη-φίλους να σας παρακολουθήσουν στο Feed Δραστηριότητας τους.
+    blocked_list_subtitle: Για αυτούς στη λίστα των άτακτων.
+    blocked_list_title: Λίστα Αποκλεισμού
+    cb_feed: Επιτρέψτε στους μη-φίλους να σας ακολουθούν στη Ροή Δραστηριότητάς τους.
     cb_fp: Επιτρέψτε τους μη-φίλους posts να εμφανιστούν στο Fresh&Pervy.
     cb_kp: Επιτρεψτε τους μη-φίλους posts να εμφανιστούν στο Kinky&Popular.
-    content_privacy: Περιεχόμενο Μυστικότητας
-    cta: Αποθηκεύσετε Ρυθμίσεις Μυστικότητας
+    content_privacy: Ιδιωτικότητα Περιεχομένου
+    cta: Αποθήκευση Ρυθμίσεων Ιδιωτικότητας
     following: Παρακολούθηση
-    page_title: Ρυθμίσεις μυστικότητας
-    subtitle: Σερβίρεται με τον τρόπο που σας αρέσει.
-    title: Μυστικότητα
-    warning: "<strong>Extremely Important</strong>: Κλείνοντας παρακολούθηση θα καταργήσει όλους που σε παρακολουθούν στο παρόν. Σοβαρά."
+    page_title: Ρυθμίσεις Ιδιωτικότητας
+    subtitle: Σερβίρεται όπως σας αρέσει.
+    title: Ιδιωτικότητα
+    warning: "<strong>Εξαιρετικά Σημαντικό</strong>: Απενεργοποιώντας την παρακολούθηση θα διαγράψετε όλους σας ακολουθούν αυτή τη στιγμή. Σοβαρά."
   settings_profile:
     about_you_label: Σχετικά με σένα
     add_website: "+ προσθέστε ένα άλλο website"
     cta: Update Το προφίλ σας
     dob_label: Ημερομηνία Γέννησης
     location_label: Τοποθεσία
-    looking_for_label: Ψάχνω
-    page_title: Επαναφέρετε προφίλ
-    subtitle: Προσωπική ανάπτυξη είναι καλό πράγμα.
+    looking_for_label: Ψάχνω για
+    page_title: Ενημέρωση του προφίλ
+    subtitle: Η Προσωπική ανάπτυξη είναι καλό πράγμα.
     title: Το Προφίλ σας
     websites_label: Websites
     websites_placeholder: https://fetlife.com
@@ -319,135 +319,135 @@ gr:
     title: Επαναφέρετε τη διεύθυνση email
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
-    ad_stats: Διαφήμιση Στατιστικές
+    ad_stats: Στατιστικά Διαφημίσεων 
     advertising: Διαφήμιση
-    bug_bounty: Γενναιοδωρία για Bug
+    bug_bounty: Αμοιβές για Bugs
     caretaking: Caretaking
-    change_language: Άλλαξε Γλώσσα
-    close: κλειστό
-    edit_profile: Εκδίδω Προφίλ
-    edit_settings: Εκδίδω Ρυθμίσεις
+    change_language: Αλλαγή Γλώσσας
+    close: Κλείσιμο
+    edit_profile: Επεξεργασία Προφίλ
+    edit_settings: Επεξεργασία Ρυθμίσεων
     events: Εκδηλώσεις
     fetishes: Φετίχ
     following: Παρακολούθηση
-    fp: Φρεσκο & Pervy
-    funny_quote: Αν δεν μπορείτε να διαβάσετε αυτό ... χρειαζόσαστε γυαλιά! - Γιάννη 4:69
-    gift_support: Δωρήστε το Support απο FetLife
-    groups: Όμιλος
-    guidelines: Κατευθήντηριες γραμμές
-    home: Σπίτι
-    invite_a_friend: Καλέστε ένα Φίλο (%{count})
-    kp: Kinky & Δημοφιλής
-    legalese: Νομικός
-    log_out: Log Out
+    fp: Fresh & Pervy
+    funny_quote: Αν δεν μπορείτε να διαβάσετε αυτό ... χρειαζόσαστε γυαλιά! - Ιωάννης 4:69
+    gift_support: Κάντε δώρο FetLife Support
+    groups: Ομάδες
+    guidelines: Κατευθυντήριες γραμμές
+    home: Αρχική
+    invite_a_friend: Προσκαλέστε ένα Φίλο (%{count})
+    kp: Kinky & Popular
+    legalese: Νομικά
+    log_out: Αποσύνδεση
     loved_stuff: Πράγματα Που Αγαπάτε
-    need_help: Χρειαζόσαστε βοήθεια?
-    open_source: Ανοιχτή Πηγή
-    places: Τοπία
-    recommendations: Συστήσεις
-    support: Υποστήριξετε το Fetlife
-    upload_picture: Μεταφόρτωση Εικόνες
+    need_help: Χρειάζεστε βοήθεια?
+    open_source: Open Source
+    places: Μέρη
+    recommendations: Προτάσεις
+    support: Υποστηρίξτε το Fetlife
+    upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
-    view_friends: Κοιτάξτε Φίλους
-    whats_new: Τι είναι Καινούριο
-    write_post: Γράψτε Post
+    view_friends: Προβολή Φίλων
+    whats_new: Τι νέο υπάρχει
+    write_post: Δημιουργία Post
   signup:
-    almost_there: Σχεδόν Εκεί!
-    error_bar: Dallas, έχουμε πρόβλημα. Μετακινηθείτε προς τα κάτω για παραπάνω πληροφωρίες.
-    error_birthdate: Ημερομηνία γέννησης απαιτείται.
+    almost_there: Σχεδόν τελειώσατε!
+    error_bar: Dallas, έχουμε πρόβλημα. Μετακινηθείτε προς τα κάτω για παραπάνω πληροφορίες.
+    error_birthdate: Απαιτείται ημερομηνία γέννησης.
     error_birthdate_too_old: Eίστε πολύ μεγάλος.
-    error_birthdate_too_young: δεν είστε αρκετά μεγάλος (πρέπει να είστε τουλάχιστον 18 χρονών).
-    error_city_missing: Πρέπει να επιλέξετε τη πόλη
-    error_country_missing: Πρέπει να επιλέξετε τη χώρα
-    error_email: Έχουμε πρόβλημα να επαξεργάσουμε αυτό το email. Συνιστούμε να κοιτάξετε την ορθογραφία η προσπαθήστε ένα άλλο διαφορετικό.
+    error_birthdate_too_young: Δεν είστε αρκετά μεγάλος (πρέπει να είστε τουλάχιστον 18 χρονών).
+    error_city_missing: Πρέπει να επιλέξετε πόλη
+    error_country_missing: Πρέπει να επιλέξετε χώρα
+    error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
-    error_nickname: Παρατσούκλι ήδη πιασμένο.
-    error_nickname_required: Παρατσουκλι απαιτείται.
-    error_password_range: Κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 50 χαρακτήρες
-    error_password_required: Κωδικός πρόσβασης απαιτείται
+    error_nickname: Το ψευδώνυμο χρησιμοποιείτε ήδη.
+    error_nickname_required: Απαιτείται ψευδώνυμο.
+    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 50 χαρακτήρων
+    error_password_required: Απαιτείται κωδικός πρόσβασης 
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
-    error_sexual_orientation_required: Πρέπει να επιλέξετε τo Προσανατολισμό Σεξ
-    error_state_missing: Κράτος/Επαρχία πρέπει να επιλεγεί
-    footnote: Με το κλικ του κουμπιού συμφωνείτε να σεβαστείτε και να παρακολουθήστε  <a href="%{guidelines_path}">"Community Guidelines"</a> και <a href="%{tou_path}">Όροι Χρήσης</a>…
+    error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό
+    error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία
+    footnote: Κάνοντας κλικ στο κουμπί συμφωνείτε να σέβεστε και να ακολουθείτε τους <a href="%{guidelines_path}">"Κανόνες Κοινότητας"</a> και τους <a href="%{tou_path}">Όρους Χρήσης</a>…
     label:
-      birthdate: Υμερομηνία Γέννησης
+      birthdate: Ημερομηνία Γέννησης
       city: Πόλη
       country: Χώρα
       email: Διεύθυνση email
       gender: Γένος
       location: Τοποθεσία
-      nickname: παρατσούκλι
-      password: κωδικός
+      nickname: Ψευδώνυμο
+      password: Κωδικός
       role: Ρόλος
-      sexual_orientation: Προσανατολισμό Σεξ
+      sexual_orientation: Σεξουαλικός Προσανατολισμός
       state: Κράτος/Επαρχία
     page_title: συμμετοχή
-    subtitle: Μίλησε μας για τον εαυτό σου.
+    subtitle: Πείτε μας για τον εαυτό σου.
     subtitle_invite: "%{name} σας προσκάλεσε να συμμετάσχετε στο FetLife."
     title: Καλοσώρισες σπίτι
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Αν είστε ντροπαλοί και δεν θέλετε να παρουσιάσετε το προσωπό σας, μη διστάσετε να είστε δημιουπγικοί και δείξτε μια άλλη πλευρά από σας! Ή αν προτιμάτε, μπορείτε <a href="%{next_step_path}">παραλείψετε αυτό το βήμα</a> για τώρα.'
+    pro_tip: '<strong>Pro Tip</strong>: Αν είστε ντροπαλοί και δεν θέλετε να δείξετε το προσωπό σας, μη διστάσετε να είστε δημιουργικοί και δείξτε μια άλλη πλευρά του εαυτού σας! Ή, αν προτιμάτε, μπορείτε να <a href="%{next_step_path}">παραλείψετε αυτό το βήμα</a> για τώρα.'
     say_cheese: Χαμογελάστε!
-    subtitle: Ανθρώποι με avatars έχουν 69x παραπάνω κέφι!
-    title: ανεβάσετε ένα avatar
+    subtitle: Χρήστες με avatars περνάνε 69x καλύτερα!
+    title: Ανεβάστε ένα avatar
   signup_five_strikes:
     page_title: Five Strike Rule
-    return_to_front: επιστρέψετε στην αρχική σελίδα
-    subtitle_error: Για λόγους ασφάλειας, θα πρέπει να περιμένετε δύο ώρες πριν μπορείτε να ξανά εγγραφείτε.
+    return_to_front: Επιστρέψετε στην αρχική σελίδα
+    subtitle_error: Για λόγους ασφάλειας, θα πρέπει να περιμένετε δύο ώρες πριν να μπορέσετε να εγγραφείτε ξανά.
     title: Five Strike Rule
   signup_follow:
     follow: Ακολουθήστε
-    next_step: επόμενο βήμα
-    subtitle: Ακολουθήστε kinksters που έχουν ενδιαφέρον.
-    title: Κάποιος πιάνει το μάτι σας?
+    next_step: Επόμενο βήμα
+    subtitle: Ακολουθήστε kinksters που σας κίνησαν το ενδιαφέρον.
+    title: Σας τράβηξε κάποιος την προσοχή;
   signup_phone:
-    cta: στείλε μου τον κωδικό επιβεβαίωσης
-    error_cant_send: "<strong>Kinky Χειριστής:</strong> Έχουμε πρόβλημα στέλνοντας text message σε σας. Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, κτλ. και δεν προσπαθείτε να στείλετε text message από τηλέφονο σπιτιού."
-    error_quota: "<strong>Kinky Χειριστής:</strong> Δεν μπορούμε να στείλουμε παραπάνω από 3 text messages στον ίδιο αριθμό σε 24 ώρες. Σε παρακαλώ ξανά προσπαθήστε αργότερα."
-    explanation: Ξέρουμε είναι πολλά να ρωτίσουμε, αλλα να διατηρήσουμε μια υγιή και ζωντανή κοινότητα, πρέπει να επιβεβαιώσουμε τον κάθε άνθρωπο πριν γίνουν μέλοι. Κάτι που πιστεύουμε θα εκτιμήσετε πάρα πολύ.
-    label: Αριθμό Κινητό Τηλεφώνου
-    page_title: στείλετε κωδικός επιβεβαίωσης
-    pro_tip: "<strong>Pro Tip:</strong> Βεβαιώσου να αρχίσετε τον αριθμό σας με τον κωδικό της χώρας σας: +1 για την Αμερική και Καναδά, +44 για το UK, +61 για Αυστραλία, +31 για Ολλανδία, +49 για Γερμανία, +33 για Γαλλία, κτλ."
-    subtitle: Μια φορά ανώνυμο text message.
+    cta: Στείλτε μου τον κωδικό επιβεβαίωσης
+    error_cant_send: "<strong>Kinky Χειριστής:</strong> Αντιμετωπίσαμε πρόβλημα με την αποστολή μηνύματος κειμένου.  και ότι δεν προσπαθείτε να στείλετε μήνυμα από σταθερό."
+    error_quota: "<strong>Kinky Χειριστής:</strong> Δεν μπορούμε να στείλουμε περισσότερα από 3 μηνύματα κειμένου στον ίδιο αριθμό σε ένα 24ωρο. Παρακαλώ προσπαθήστε ξανά αργότερα."
+    explanation: Ξέρουμε ότι είναι πολλά αυτά που ζητάμε, αλλά για να διατηρήσουμε μια υγιή και ζωντανή κοινότητα, πρέπει να επιβεβαιώσουμε τον κάθε άνθρωπο πριν γίνει μέλος. Κάτι που πιστεύουμε ότι θα εκτιμήσετε πάρα πολύ.
+    label: Αριθμός Κινητού Τηλεφώνου
+    page_title: Στείλτε τον κωδικό επιβεβαίωσης
+    pro_tip: "<strong>Pro Tip:</strong> Βεβαιωθείτε ότι αρχίσατε την εισαγωγή του αριθμού σας με τον κωδικό της χώρας σας: +1 για την Αμερική και τον Καναδά, +44 για το Ηνωμένο Βασίλειο, +61 για την Αυστραλία, +31 για την Ολλανδία, +49 για την Γερμανία, +33 για την Γαλλία, κτλ."
+    subtitle: Ανώνυμο μήνυμα κειμένου μίας φοράς.
     title: Ώρα για πιστοποιήση!
   signup_verify:
-    cta: Συμπληρώστε Εγγραφή & Πιστοποίηση
-    incorrect_code: "<strong>Kinky Χειριστής:</strong> Doh… ο κωδικός πιστοποίησης που βάλατε φαίνεται λάθος. Σε παρακαλώ βεβαιωθείτε ο αριθμός απο πάνω είναι ο ίδιος αριθμός που λάβατε από μας και προσπαθήστε ξανά."
-    label: κωδικός επιβεβαίωσης
-    notice: Στείλαμε τον κωδικό πιστοποίησης στο <strong>%{phone_number}</strong>. Αν μετά απο δύο λεπτά δεν έχετε λαμβάνει ένα text message από μας, <a href="%{back_path}">επαναφέρετε τον αριθμό σας και θα σου στείλουμε καινούριο κωδικό πιστοποίησης</a>.
-    notice_error: "<strong>P.S.</strong> Χάρηκα για τη γνωριμία!"
-    page_title: βάλτε κωδικός επιβεβαίωσης
-    placeholder: 6-Digit κωδικός επιβεβαίωσης
-    subtitle: Αυτο δεν ήταν και πολύ οδηνυρό?!?!
-    subtitle_error: Αυτο δεν ήταν και πολύ οδηνυρό?!?!<br>Μήπως μιλήσαμε γρήγορα! :-/
-    title: τελευταίο βήμα
+    cta: Συμπληρώστε την Εγγραφή & Πιστοποίηση
+    incorrect_code: "<strong>Kinky Χειριστής:</strong> Ωχ... ο κωδικός πιστοποίησης φαίνεται λάθος. Παρακαλώ βεβαιωθείτε ότι ο αριθμός ταιριάζει με αυτόν που σας στείλαμε και προσπαθήστε ξανά."
+    label: Κωδικός πιστοποίησης
+    notice: Στείλαμε τον κωδικό πιστοποίησης στο <strong>%{phone_number}</strong>. Αν μετά από δύο λεπτά δεν έχετε λάβει μήνυμα κειμένου από εμάς, <a href="%{back_path}">ενημερώστε τον αριθμό σας και θα σας στείλουμε νέο κωδικό πιστοποίησης</a>.
+    notice_error: "<strong>Υ.Γ.</strong> Χάρηκα για τη γνωριμία!"
+    page_title: Εισάγετε τον κωδικό πιστοποίησης
+    placeholder: Εξαψήφιος κωδικός πιστοποίησης
+    subtitle: Αυτό δεν πόνεσε και πολύ?!?!
+    subtitle_error: Αυτο δεν πόνεσε και πολύ?!?!<br>Ίσως μιλήσαμε πολυ νωρίς! :-/
+    title: Τελευταίο βήμα
   subnav:
     feed:
-      activity_feed: Feed Δραστηριοτητας
-      activity_feed_short: Σπίτι
+      activity_feed: Ροή Δραστηριότητας
+      activity_feed_short: Αρχική
       fp: Φρέσκο<span class="a-ampersand">&</span>Pervy
       fp_short: Φρέσκο
       kp: Kinky<span class="a-ampersand">&</span>Δημοφιλής
       kp_short: δημοφιλής
     profile:
-      about: σχετικά με μένα
-      about_short: σχετικά
-      latest: τελευταία δραστηριότητα
-      latest_short: τελευταία
-      pictures: εικόνες
+      about: Σχετικά με εμένα
+      about_short: Σχετικά
+      latest: Τελευταία δραστηριότητα
+      latest_short: Τελευταία
+      pictures: Εικόνες
       pictures_short: Pics
       videos: βίντεο
       videos_short: βιντ
-      writings: γραπτά
-      writings_short: γραπτά
+      writings: Γραπτά
+      writings_short: Γραπτά
     settings:
-      account: λογαριασμός
-      account_short: λογαριασμός
-      notifications: ειδοπιοίσεις
-      notifications_short: ειδοπιοίσεις
-      privacy: μυστικότητα
-      privacy_short: μυστικότητα
-      profile: προφίλ
-      profile_short: προφίλ
-      support: υποστήριξη
-      support_short: υποστήριξη
+      account: Λογαριασμός
+      account_short: Λογαριασμός
+      notifications: Ειδοποιήσεις
+      notifications_short: Ειδοποιήσεις
+      privacy: Ιδιωτικότητα
+      privacy_short: Ιδιωτικότητα
+      profile: Προφίλ
+      profile_short: Προφίλ
+      support: Υποστήριξη
+      support_short: Υποστήριξη
