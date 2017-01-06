@@ -241,49 +241,49 @@ fr:
   recommendations:
     title: Recommendations
   reset_password:
-    cta: Réinitialiser Mon Mot de Passe
-    error_confirmation_match: Confirmation de mot de passe ne correspond pas avec le mot de passe
-    error_password_range: Mot de passe est trop court (minimum 4 charactères)
-    error_token_expired: Réinitialiser de mot de passe est expiré, veuillez en demander une nouvelle
-    error_token_invalid: Réinitialiser de mot de passe est invalide
-    footnote: "<strong>Pro Tip:</strong> Rapelles toi votre mot de passe."
-    label_enter: Nouveau Mot de Passe
-    label_re_enter: Re-Entrer votre Nouveau Mot de Passe
+    cta: Réinitialiser mon mot de passe
+    error_confirmation_match: Le mot de passe de confirmation ne correspond pas au mot de passe
+    error_password_range: Le mot de passe est trop court (minimum 4 charactères)
+    error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
+    error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
+    footnote: "<strong>Astuce de pro :</strong> Rapellez-vous de votre mot de passe."
+    label_enter: Nouveau mot de passe
+    label_re_enter: Re-tapez votre nouveau mot de passe
     status_flash_success: Votre mot de passe a été modifié avec succès.
-    subtitle: Pas trop court, pas trop longue, juste le…
-    title: Réinitialiser le Mot de passe
+    subtitle: Ni trop court, ni trop long, juste la…
+    title: Réinitialiser le mot de passe
   select_language:
-    button: Changer votre Langue par Défaut
-    help_translate: Visitez notre <a href="https://github.com/fetlife/translations">projet de traduction</a> sur GitHub et aider à faire FetLife accessible à plus de nos kinky amis <span class="amp">&amp</span> communautés.
+    button: Changer la langue par défaut
+    help_translate: Visitez notre <a href="https://github.com/fetlife/translations">projet de traduction</a> sur GitHub et aidez à rendre FetLife accessible à plus de nos amis <span class="amp">&amp</span> communautés kinky.
     language_name: Français
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
-    title: Choisir Votre Langue
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia !
+    title: Choisir votre langue
   settings_account:
-    2fa_cta: Allumer 2-Factor Authentication
-    2fa_label: 2-Factor Authentication
-    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Vous pouvez <a href="#">deactivate</a> ou <a href="#">delete</a> votre compte si vous voulez vraiment mais trois sur quatre Papes fortement le décourage.
-    current_password_label: Mot de Passe Courant
-    email_cta: Mettre à jour l'Addresse Email
+    2fa_cta: Activer l’authentification à 2 facteurs
+    2fa_label: Authentication à 2 facteurs
+    anti_pro_tip: <strong>Astuce contre-pro :</strong> Vous pouvez <a href="#">désactiver</a> ou <a href="#">supprimer</a> votre compte si vous le voulez vraiment, mais trois Papes sur quatre le déconseillent fortement.
+    current_password_label: Mot de passe actuel
+    email_cta: Mettre à jour l’addresse mail
     email_label: Email
-    email_placeholder: Addresse Email
-    language_cta: Mettre à jour la Langue Défaut
-    language_notice: FetLife n'est pas encore entièrment disponible en langues autre que Anglais. Si vous changez les paramètres içi, pas tout le website sera traduit.
-    new_password_label: Nouveau Mot de Passe
-    nickname_cta: Changer Nickname
-    nickname_label: 'Changer votre nickname de "JohnBaku" à:'
-    nickname_notice: "<strong>Pro Tip:</strong> Mesure deux fois, couper une fois. Vous ne pouvez changer votre nickname une fois chaque 28 journée. Pas de reprise."
-    nickname_placeholder: Nouveau Nickname
-    page_title: Changer Mot de Passe - Paramètres
-    password_cta: Réinitialiser Mot de Passe
-    repeat_password_label: Répéter Mot de Passe
-    subtitle: Pousser pas le gros rouge boutton.
+    email_placeholder: Addresse mail
+    language_cta: Mettre à jour la langue par défaut
+    language_notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
+    new_password_label: Nouveau mot de passe
+    nickname_cta: Changer le pseudo
+    nickname_label: 'Changer votre pseudo de “JohnBaku” en :'
+    nickname_notice: "<strong>Astuce de pro :</strong> Mesurez deux fois avant de couper. Vous ne pouvez changer votre pseudo q’une fois tous les 28 jours. Pas de reprise."
+    nickname_placeholder: Nouveau pseudo
+    page_title: Changer de mot de passe – Paramètres
+    password_cta: Mettre à jour le mot de passe
+    repeat_password_label: Répétez le mot de passe
+    subtitle: Ne pas presser le gros rouge boutton.
     title: Paramètres du compte
   settings_notifications:
-    cta: Mettre à jour la Langue Défaut
+    cta: Mettre à jour la langue par défaut
     language_label: Langue
-    notice: FetLife n'est pas encore pleinement disponible en langues autre que Anglais. Si vous changez les paramètres içi, pas tout le website sera traduit.
-    page_title: Langue - Paramètres
-    subtitle: Quelle est votre langue préférée?
+    language_notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
+    page_title: Langue – Paramètres
+    subtitle: Quelle est votre langue préférée ?
     title: Langue
   settings_privacy:
     blocked_list_subtitle: Pour ceux sur votre liste coquin.
