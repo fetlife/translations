@@ -281,7 +281,7 @@ fr:
   settings_notifications:
     cta: Mettre à jour la langue par défaut
     language_label: Langue
-    language_notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
+    notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
     page_title: Langue – Paramètres
     subtitle: Quelle est votre langue préférée ?
     title: Langue
