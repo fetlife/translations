@@ -402,6 +402,7 @@ de:
     title: Erregt jemand Deine Aufmerksamkeit?
   signup_phone:
     cta: Sende mir die Verifikationsnummer
+    error_blocked: "<strong>Kinky Operator:</strong> Leider erlauben wir es zur Zeit nicht, sich mit einer %{carrier_name} Nummer anzumelden."
     error_cant_send: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Länderkode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich, usw. Ferner, achte darauf, dass Du nicht versuchst, eine SMS an eine Festnetznummer zu schicken."
     error_quota: "<strong>Kinky Operator:</strong> Wir können nicht mehr als drei SMS innerhalb von 24 Stunden an eine Nummer schicken. Bitte versuche es später nochmal."
     explanation: Wir wissen, dass es viel verlangt ist, aber um eine gesunde und lebhafte Gemeinschaft zu erhalten, müssen wir alle neuen Mitglieder überprüfen. Wir denken, dass Du das schätzen wirst, sobald Du auf der anderen Seite bist.
