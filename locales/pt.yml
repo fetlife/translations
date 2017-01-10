@@ -402,6 +402,7 @@ pt:
     title: Alguém te chama a atenção?
   signup_phone:
     cta: Envie-me meu código de configuração
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Operador Pervertido:</strong> Estamos tendo problemas em lhe enviar uma mensagem de texto. <strong>Dica:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
     error_quota: "<strong>Operador Pervertido:</strong> Não podemos enviar mais de três mesanges a um determinado número."
     explanation: Nós sabemos que é pedir demais, mas para manter um comunidade saudável, nós precisamos verificar todos antes que entrem. Isso é algo que achamos que vai gostar quando estiver do outro lado.

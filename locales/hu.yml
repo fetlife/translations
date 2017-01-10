@@ -20,7 +20,7 @@ hu:
     one_love: Egy élet, egy szerelem és rengeteg élvezet.
     snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
-    title: "Mi vagyunk a: FetLife!"
+    title: 'Mi vagyunk a: FetLife!'
   ad_stats:
     actions:
       delete: Törlés
@@ -103,7 +103,7 @@ hu:
   forgot_password:
     email:
       cta: Kérek egy emailt az instrukciókkal
-      error_forgot_email: "Valami mintha kimaradt volna. Ah, igen: az email címed! :-p"
+      error_forgot_email: 'Valami mintha kimaradt volna. Ah, igen: az email címed! :-p'
       error_invalid_email: Ez nem tűnik egy valós email címnek. Megtennéd, hogy leellenorzöd.
       error_quota: Naponta csak két emailt küldhetünk egy adott email címre. Megtennéd, hogy megnézed nem került-e a korábbi email a levélszemét mappádba? Ha nincs meg, kérlek válassz egy másikat a fenti lehetőségek közül, hogy hozzáférhess a fiókodhoz.
       placeholder: Email cím
@@ -169,32 +169,32 @@ hu:
     subtitle_step1:
       one: 1 meghívód maradt.
       other: "%{count_with_delimiter} meghívód maradt."
-    subtitle_step2: "Elküldtük a meghívód a megadott email címre: %{email}."
+    subtitle_step2: 'Elküldtük a meghívód a megadott email címre: %{email}.'
     title_step1: Hívj meg egy ismerőst.
     title_step2: Meghívó elküldve
     view_invitations: Meghívások megtekintése
   landing_page:
-    footer: "Ebben a pillanatban <strong>%{member_count} felhasználó</strong> <strong>%{picture_count} képet</strong> és <strong>%{video_count} videót</strong> oszt meg, <strong>%{group_count} csoport</strong> <strong>%{discussion_count} beszélgetésében</strong> vesz részt, <strong>%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong>%{post_count} blog bejegyzés</strong> közül szemezget. <em>Ez itt kérem az extrém erotika fellegvára!</em>"
+    footer: Ebben a pillanatban <strong>%{member_count} felhasználó</strong> <strong>%{picture_count} képet</strong> és <strong>%{video_count} videót</strong> oszt meg, <strong>%{group_count} csoport</strong> <strong>%{discussion_count} beszélgetésében</strong> vesz részt, <strong>%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong>%{post_count} blog bejegyzés</strong> közül szemezget. <em>Ez itt kérem az extrém erotika fellegvára!</em>
     login_button: Belépés
     signup_button: Regisztráció
-    subtitle: 'Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)'
+    subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)
     title: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: "2257"
+      2257_exempt_short: '2257'
       privacy: Adatvédelmi szabályzat
       privacy_short: Adatvédelem
       terms: Felhasználási feltételek
       terms_short: Feltételek
-    subtitle: "Ügyvédet játszva az interweb-en már '69 óta."
+    subtitle: Ügyvédet játszva az interweb-en már '69 óta.
     title: Legalizáció
   login:
     button: Belépés
     error_flash: Lépj velünk kapcsolatba a <a href="mailto:support@fetlife.com">support@fetlife.com</a> email címen és segítünk újra hozzáférni a fiókodhoz.
     error_login_blank: Meg kell adnod a felhasználó neved
     error_not_authenticated: Bocs haver, de be kell lépned, hogy megnézhesd ezt az oldalt. Ha még nem vagy tag szánj rá egy percet a regisztrációra és már bent is vagy.
-    error_not_found: "Hmmm, nem tűnsz ismerősnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betű különböző)"
+    error_not_found: 'Hmmm, nem tűnsz ismerősnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betű különböző)'
     error_password_blank: Meg kell adnod a jelszavadat
     forgot_info: Valamit elfelejtettél?
     labels:
@@ -227,7 +227,7 @@ hu:
     places: Helyek
     search_placeholder: Keresés...
   page_break:
-    of: /
+    of: "/"
   profile:
     about_title: Ismerősök
     pictures_title: Képek
@@ -270,7 +270,7 @@ hu:
     language_notice: A FetLife fordítása még nem teljese. Ha megváltoztatod ezt a beállítást, az oldal bizonyos részei továbbra is angolul fognak megjelenni.
     new_password_label: Új jelszó
     nickname_cta: Felhasználónév
-    nickname_label: ' A felhasználónév megváltoztatása:'
+    nickname_label: " A felhasználónév megváltoztatása:"
     nickname_notice: "<strong>A profi tanácsa:</strong> Mérd kétszer, Vágd egyszer. A felhasználó nevedet csak 28 naponta változtathatod meg. Nincs kivétel."
     nickname_placeholder: Új felahasználónév
     page_title: Jelszó megváltoztatása - Beállítások
@@ -299,7 +299,7 @@ hu:
     title: Adatvédelem
     warning: "<strong>Figyelem</strong>:  A Követés letiltása nem visszavonható! Bárki aki most követ téged örökre elvesztheti a nyomodat. Nincs vissza út."
   settings_profile:
-    about_you_label: "Leírás Rólad:"
+    about_you_label: 'Leírás Rólad:'
     add_website: "+ további weboldal"
     cta: Profil frissítése
     dob_label: Születési idő
@@ -363,7 +363,7 @@ hu:
     error_gender_required: Nem mondtál nemet. Márpedig a nemed fontos nekünk.
     error_nickname: Az a felhasználó név már foglalt.
     error_nickname_required: Felhasználó név nélkül nehézkes ;)
-    error_password_range: "A te jelszavad pedig légyen legalább 4 de nem több mint 50 karakter - János 4:69"
+    error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 50 karakter - János 4:69
     error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező
@@ -402,6 +402,7 @@ hu:
     title: Van aki elég izgalmas a számodra?
   signup_phone:
     cta: Ide nekem a hitelesítő kódot!
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kedvenc operátorod jelenti:</strong> Nem igazán sikerül elküldenünk az SMS-t. Győződj meg róla, hogy a számod a megfelelő országhívó kóddal kezdődik a nemzetközi hívószám formátumnak megfelelően. Magyarország esetén ez: +36. Ebben az esetben pedig az országon belül 06-os előhívó elhagyandó. Valamint azt is érdemes észben tartani, hogy vonalas számra nem minden esetben lehet SMS-t küldeni."
     error_quota: "<strong>Kedvenc operátorod jelenti:</strong> 24 órán belül legfeljebb háromszor tudunk SMS-t küldeni ugyanarra a számra. Kérlek próbáld meg később"
     explanation: Tudjuk, hogy mindig kellemetlen megadni egy olyan személyes információt, mint a telefonszám. Ugyanakkor úgy gondoljuk, hogy ez egy fontos kelléke egy biztonságos és egészséges közösség fenntartásához. Ez pedig egy olyan dolog, ami a számodra is fontos lesz, ha már egyszer te is a része vagy.
@@ -412,7 +413,7 @@ hu:
     title: Hitelesítés
   signup_verify:
     cta: Regisztráció befejezése
-    incorrect_code:  "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
+    incorrect_code: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
     label: Hitelesítő kód
     notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
     notice_error: "<strong>U.I.</strong> Isten hozott! ;)"

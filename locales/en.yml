@@ -402,6 +402,7 @@ en:
     title: Anyone Catch Your Eye?
   signup_phone:
     cta: Send Me Verification Code
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Operator:</strong> We're having problems sending you a text message. Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc. and that you are not trying to send a text message to your landline."
     error_quota: "<strong>Kinky Operator:</strong> We can't send more than 3 text messages to the same number in a 24 hour period. Please try again later."
     explanation: We know it's a lot to ask, but to maintain a healthy and vibrant community, we need to verify everyone before they join. Something we think you will appreciate once you are on the other side.
