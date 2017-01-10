@@ -407,6 +407,7 @@ sk:
     title: Zaujal ťa niekto?
   signup_phone:
     cta: Pošli mi verifikačný kód
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Operátor:</strong> Máme problémy s odosielaním SMS na zadané čislo. Prosíme ťa skontroluj, že číslo začína kódom krajiny: +421 pre Slovenko, +420 pre Českú Republiku, atď."
     error_quota: "<strong>Kinky Operátor:</strong> Nemôžeme ti poslať viac ako 3 SMS na jedno číslo v rámci 24 hodín. Prosíme skús znovu neskôr."
     explanation: Vieme, že žiadať o tvoje číslo je priveľa, ale pre to, aby sme sme udržali zdravú a energickú komunitu, potrebujeme verifikovať každého predtým, ako sa k nám pridajú. Sme si istý, že to neskôr oceníš.

@@ -402,6 +402,7 @@ fr:
     title: Quelqu'un attire votre attention?
   signup_phone:
     cta: Envoyez Moi le Code de Vérification
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Opérateur:</strong> Nous avons des problèmes envoyer un message texte. Assurez-vous de commencer votre numéro avec votre code de pays: +1 pour l'États Unis et Canada, +44 pour le UK, +61 pour Australie, +31 pour Pays-Bas, +49 pour Allemagne, +33 pour France, etc. et que vous n'essayez pas de envoyer un message texte à votre ligne fixe."
     error_quota: "<strong>Kinky Opérateur:</strong> Nous ne pouvons pas envoyer plus de 3 messages textes au même numéro dans une période de 24 heures. S'il vous plaît réessayer plus tard."
     explanation: Nous savons que c'est beaucoup à demander, mais pour maintenir une communauté santé et vibran, nous devons vérifier tout le monde avant de se joindre. Quelque chose que nous pensons que vous appréceriez  quand vous êtes de l'autre côté.

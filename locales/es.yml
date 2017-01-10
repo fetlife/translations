@@ -83,7 +83,7 @@ es:
       other: "%{count_with_delimiter} Comentarios"
     composer:
       button: Dígalo
-      placeholder: ¿Qué dice?
+      placeholder: "¿Qué dice?"
     love: Amor
     loved_hover: "¡Rompecorazones! :-("
     loves_count:
@@ -402,6 +402,7 @@ es:
     title: "¿Cualquier persona que se llama su atención?"
   signup_phone:
     cta: Enviarme un Código de Verificación
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Operador:</strong> Tenemos problemas que el envío de un mensaje de texto. Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., y que se no estamos tratando de enviar un mensaje de texto a su teléfono fijo."
     error_quota: "<strong>Kinky Operador:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
     explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar todo el mundo antes de se unen. Algo que creemos que podrá apreciar una vez que están en el otro lado.

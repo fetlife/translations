@@ -319,7 +319,7 @@ gr:
     title: Επαναφέρετε τη διεύθυνση email
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
-    ad_stats: Στατιστικά Διαφημίσεων 
+    ad_stats: Στατιστικά Διαφημίσεων
     advertising: Διαφήμιση
     bug_bounty: Αμοιβές για Bugs
     caretaking: Caretaking
@@ -364,7 +364,7 @@ gr:
     error_nickname: Το ψευδώνυμο χρησιμοποιείτε ήδη.
     error_nickname_required: Απαιτείται ψευδώνυμο.
     error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 50 χαρακτήρων
-    error_password_required: Απαιτείται κωδικός πρόσβασης 
+    error_password_required: Απαιτείται κωδικός πρόσβασης
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
     error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό
     error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία
@@ -402,6 +402,7 @@ gr:
     title: Σας τράβηξε κάποιος την προσοχή;
   signup_phone:
     cta: Στείλτε μου τον κωδικό επιβεβαίωσης
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Χειριστής:</strong> Αντιμετωπίσαμε πρόβλημα με την αποστολή μηνύματος κειμένου.  και ότι δεν προσπαθείτε να στείλετε μήνυμα από σταθερό."
     error_quota: "<strong>Kinky Χειριστής:</strong> Δεν μπορούμε να στείλουμε περισσότερα από 3 μηνύματα κειμένου στον ίδιο αριθμό σε ένα 24ωρο. Παρακαλώ προσπαθήστε ξανά αργότερα."
     explanation: Ξέρουμε ότι είναι πολλά αυτά που ζητάμε, αλλά για να διατηρήσουμε μια υγιή και ζωντανή κοινότητα, πρέπει να επιβεβαιώσουμε τον κάθε άνθρωπο πριν γίνει μέλος. Κάτι που πιστεύουμε ότι θα εκτιμήσετε πάρα πολύ.
