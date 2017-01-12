@@ -189,6 +189,9 @@ gr:
       terms_short: Όροι
     subtitle: Παριστάνοντας ένα δικηγορο στο internet από το '69.
     title: Νομικός
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Σύνδεση στο FetLife
     error_flash: Παρακαλώ επικοινωνωνήστε με το <a href="mailto:support@fetlife.com">support@fetlife.com</a> για να σας βοηθήσουμε να ξανά μπείτε.

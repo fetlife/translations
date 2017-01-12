@@ -189,6 +189,9 @@ nl:
       terms_short: Voorwaarden
     subtitle: Speel als advocaat op het interweb sinds '69.
     title: Legaliseren
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Aanmelden bij FetLife
     error_flash: Neem alsjeblief contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.

@@ -189,6 +189,9 @@ de:
       terms_short: Bedingungen
     subtitle: Wir spielen Anwalt im Internetz seit '69.
     title: Juristenlatein
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Einloggen bei FetLife
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder rein zu kommen.

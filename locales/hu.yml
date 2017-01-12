@@ -189,6 +189,9 @@ hu:
       terms_short: Feltételek
     subtitle: Ügyvédet játszva az interweb-en már '69 óta.
     title: Legalizáció
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Belépés
     error_flash: Lépj velünk kapcsolatba a <a href="mailto:support@fetlife.com">support@fetlife.com</a> email címen és segítünk újra hozzáférni a fiókodhoz.
