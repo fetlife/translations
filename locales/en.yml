@@ -1,5 +1,8 @@
 ---
 en:
+  lockout:
+    title: Security, Security, Security!
+    subtitle: You've tripped our security system.
   2fa:
     5strike:
       return: return to front page
