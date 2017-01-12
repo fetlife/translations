@@ -26,3 +26,12 @@ You can help out in multiple ways, and you don't even need to be multilingual to
 ## Coding Conventions
 
 Please try to always write a clear log message for each of your commits. One-line messages are fine for small changes, but bigger changes should be a bit meatier.
+
+
+## Helpful Commands
+
+To add missing keys to all translation files:
+
+```
+i18n-tasks add-missing
+```
