@@ -189,6 +189,9 @@ en:
       terms_short: Terms
     subtitle: Playing a lawyer on the interweb since '69.
     title: Legalese
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Login to FetLife
     error_flash: Please contact <a href="mailto:support@fetlife.com">support@fetlife.com</a> so we can help you get back in.

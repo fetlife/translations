@@ -191,6 +191,9 @@ sk:
       terms_short: Podmienky
     subtitle: Hráme sa na právnikov na interwebe od '69.
     title: Legislatíva
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Prihlásiť sa na FetLife
     error_flash: Prosím kontaktuj <a href="mailto:support@fetlife.com">support@fetlife.com</a>, aby sme ti čím skôr pomohli sa dostat späť.

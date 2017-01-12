@@ -189,6 +189,9 @@ pt:
       terms_short: Termos
     subtitle: Brincando de advogado nas internetes desde '69.
     title: Juridiquês
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Acessar FetLife
     error_flash: Por favor contate <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que possamos te ajudar a acessar sua conta.

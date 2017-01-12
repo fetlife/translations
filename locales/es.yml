@@ -189,6 +189,9 @@ es:
       terms_short: Uso
     subtitle: Jugando como un abogado en el interweb desde '69.
     title: Legalidades
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Inicia sesión a FetLife
     error_flash: Por favor, póngase en contacto con <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que podamos ayudarle a volver.

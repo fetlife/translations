@@ -189,6 +189,9 @@ fr:
       terms_short: Conditions
     subtitle: On joue à l’avocat sur l’interweb depuis ’69.
     title: Blabla légal
+  lockout:
+    subtitle: You've tripped our security system.
+    title: Security, Security, Security!
   login:
     button: Connexion à FetLife
     error_flash: Veuillez contacter <a href="mailto:support@fetlife.com">support@fetlife.com</a> afin que nous puissions vous aider à revenir.
