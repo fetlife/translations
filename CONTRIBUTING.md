@@ -35,3 +35,9 @@ To add missing keys to all translation files:
 ```
 i18n-tasks add-missing
 ```
+
+To order the keys:
+
+```
+i18n-tasks normalize
+```
