@@ -1,0 +1,457 @@
+---
+bg:
+  2fa:
+    5strike:
+      return: връщане към главната страница
+      subtitle: Хм, от съображения за сигурност ще трябва да изчакате два часа преди да влезете отново.
+      title: Втори жълт картон
+    cta: Аз съм, пуснете ме да вляза!
+    error: "<strong>Извратения оператор:</strong> Ъ&hellip; горният код за потвърждение не изглежда наред. Моля, уверете се че горното число съответства на това което сте получили от нас и опитайте пак."
+    label: Код за удостоверяване
+    page_title: Двустепенно удостоверяване
+    subtitle: 2-Factor me baby!
+    title: Таен код
+  about:
+    contact_info: Данни за връзка
+    email_us: Пишете ни на <a href="mailto:support@fetlife.com">support@fetlife.com</a> и ще ви отговорим до една наносекунда!
+    europe: Европа
+    got_question: Имате въпрос? Трябва ви помощ?
+    north_america: Северна Америка
+    one_love: Една любов, един живот, и много извращения.
+    snail_mail: Поща
+    sub_header: Не ни бъркайте със спартанците.
+    title: Ние. Сме. FetLife!
+  ad_stats:
+    actions:
+      delete: Изтрий
+      duplicate: Копирай
+      edit: Промени
+      pause: Паузирай
+      start: Започни
+      unpause: Продължи
+    actions_literal: Действия
+    active_ads: Активни реклами
+    ad_new:
+      cta: Качи нова реклама
+      labels:
+        line1: Ред 1
+        line2: Ред 2
+        line3: Ред 3
+      placeholders:
+        line1: Бижутерия за вътрешна употреба
+        line2: Напомняй и през целия ден
+        line3: какво я чака после
+      subtitle: Лесно като 1, 2… 69.
+      title: Нова реклама
+    ads: Реклами
+    avg_ctr: Средна честота на кликване
+    best: Най-добро
+    campaign_edit:
+      cta: Промени кампанията
+      labels:
+        company_name: Име на фирмата
+        member_id: member_id
+        slots_purchased: Закупени места
+      page_title: Промени кампанията
+      subtitle: Септември 2016
+      title: Промени кампанията
+    campaign_new:
+      cta: Нова кампания
+      subtitle: Септември 2016
+      title: Нова кампания
+    campaigns: Рекламни кампании
+    clicks: Кликвания
+    ctr: Честота на кликване
+    edit: промени
+    impressions: Виждания
+    last_updated: Статистиката е последно обновена на
+    name: Име
+    new_ad: "+ нова реклама"
+    new_campaign: "+ нова кампания"
+    overview: Преглед
+    press_start: Натиснете "Започни" когато сте готови.
+    slots: Места
+    subtitle: Майор Том, говори "Наземен контрол".
+    title: Рекламна статистика
+    updated_every: Обновява се на всеки 15 минути
+    view: виж
+    worst: Най-лошо
+  feed:
+    comment: Коментирай
+    comments_count:
+      one: 1 коментар
+      other: "%{count_with_delimiter} коментара"
+    composer:
+      button: Кажи го
+      placeholder: Какво казваш?
+    love: Харесай
+    loved_hover: Сърцеразбивач! :-(
+    loves_count:
+      one: 1 харесване
+      other: "%{count_with_delimiter} харесвания"
+    modal:
+      close: затвори
+      more: още
+      reply: Отговори
+    title: Activity Feed
+  following:
+    follow: Follow
+    following: Following
+  footer:
+    about: Информация
+    help: Помощ
+  forgot_password:
+    email:
+      cta: Пратете ми имейл с указания
+      error_forgot_email: Мисля че забрави нещо… имейл адреса си! :-p
+      error_invalid_email: Това не прилича на валиден имейл адрес. Прегледайте го и го изпратете отново, моля.
+      error_quota: Можем да изпращаме само два имейла на час към даден имейл адрес. Моля проверете дали имейла ни не е попаднал в спам папката ви. Ако не намирате нищо в спам папката препоръчваме ви да използвате някой от другите методи да се върнете в профила си.
+      placeholder: Имейл адрес
+      step1:
+        page_title: Смени паролата по имейл
+        subtitle: Нека ти помогна с това.
+        title: Забрави паролата?
+      step2:
+        page_title: "\"МОЖЕ БИ\" имате поща"
+        subtitle: Ако профил с имейл <strong>%{given_email}</strong> съществува, значи сме ви изпратили инструкции как да смените паролата си.
+        title: "\"МОЖЕ БИ\" имате поща!"
+      update_email: промени имейл адреса
+      warning: "<strong>Министъра на здравеопазването:</strong> От съображения за сигурност не можем да ви кажем дали даден имейл адрес е базата ни от данни. Ако не получите имейл от нас най-вероятно е защото нямаме профил с този имейл адрес."
+    mobile:
+      5strike:
+        return: връщане към главната страница
+        subtitle: Хм, от съображения за сигурност ще трябва да изчакате два часа преди да влезете отново.
+        title: Втори жълт картон
+      cta: Пратете ми SMS
+      error_country_code: "<strong>Извратения оператор:</strong> Уверете се че номера ви започва с кода на вашата държава: +1 ,за САЩ и Канада, +44 за Великобритания, +61 за Австралия, +31 за Холандия, +49 за Германия, +33 за Франция, и т.н."
+      error_quota: "<strong>Извратения оператор:</strong> Хм, можем да изпратим не повече от 3 SMS-а към даден мобилен номер за 24 часа. Без значение дали е в базата ни от данни или не."
+      pro_tip: "<strong>Pro Tip:</strong> Уверете се че номера ви започва с кода на вашата държава: +1 ,за САЩ и Канада, +44 за Великобритания, +61 за Австралия, +31 за Холандия, +49 за Германия, +33 за Франция, и т.н."
+      step1:
+        page_title: Смени паролата по SMS
+        subtitle: Нека ти помогна с това.
+        title: Забрави паролата?
+      step2:
+        cta: Потвърдете че сте вие &#8482;
+        error_code_match: "<strong>Извратения оператор:</strong> Кодът за потвърждение който въведохте е неверен. Уверете се че горното число съответства на това което сте получили от нас и опитайте пак. Това е запис."
+        inexisting_number: Ако до няколко минути не получите SMS от нас, сигурно е защото нямаме профил с този номер. Предлагаме ви или <a href="%{forgot_password_email_path}">да опитате да смените паролата си по друг начин</a> или <a href="%{signup_path}">да откриете нов профил във FetLife</a>.
+        label: Код за потвърждение
+        page_title: Въведете код за потвърждение
+        placeholder: 6-цифрен код за потвърждение
+        subtitle: We &ldquo;might&rdquo; have just sent you a text message.
+        title: Въведете код за потвърждение
+      warning: "<strong>Министъра на здравеопазването:</strong> От съображения за сигурност не можем да ви кажем дали даден имейл адрес е базата ни от данни. Ако не получите имейл от нас най-вероятно е защото нямаме профил с този имейл адрес."
+    next_step: следваща стъпка
+    return_to_login: връщане към входа
+    tab_email: Имейл
+    tab_mobile: Телефон
+  guidelines:
+    last_updated: 'Последна промяна:'
+    sub_header: Follow your gut, it always nose.
+    subnav:
+      community: На обществото
+      community_short: На обществото
+      content: За съдържанието
+      content_short: За съдържанието
+      group_leader: За водачи на група
+      group_leader_short: За водачи на група
+    title: Правила
+  invite_a_friend:
+    cancel_button: отмени
+    cancel_notice: Поканата към %{email} беше отменена.
+    cta: Поканете приятел във FetLife
+    error: Имаме проблеми с изпращането на покана към горния имейл адрес. Препоръчваме да се уверите в правописа или да опитате с друг адрес.
+    invitations_accepted: Приети покани
+    invitations_sent: Изпратени покани
+    labels:
+      friends_email: Имейл адрес на приятел
+    next_step: следваща стъпка
+    return_to_feed: връщане към стената
+    subtitle_step1:
+      one: Имате 1 оставаща покана.
+      other: Имате %{count_with_delimiter} оставащи покани.
+    subtitle_step2: Изпратихме покана от ваше име на %{email}.
+    title_step1: Поканете приятел
+    title_step2: Изпратени покани
+    view_invitations: вижте поканите си
+  landing_page:
+    footer: "<strong>%{member_count} Членовете</strong> споделят <strong>%{picture_count} снимки</strong> и <strong>%{video_count} клипове</strong>, участват в <strong>%{discussion_count} дискусии</strong> в <strong>%{group_count} групи</strong>, ще ходят на <strong>%{event_count} предстоящи събития</strong>, и четат <strong>%{post_count} публикации</strong>. <em>Извратен рай!</em>"
+    login_button: Влизане във FetLife
+    signup_button: Регистрация във FetLife
+    subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
+    title: FetLife е Социалната Мрежа за BDSM, Fetish & Kinky обществата.
+  legalese:
+    subnav:
+      2257_exempt: Освободени от 2257
+      2257_exempt_short: '2257'
+      privacy: Декларация за поверителност
+      privacy_short: Поверителност
+      terms: Условия за ползване
+      terms_short: Условия
+    subtitle: Играя си на адвокат в нетя от 69-та насам.
+    title: Правни подробности
+  lockout:
+    subtitle: Задействахте охранителната ни система.
+    title: Охрана, охрана, охрана!
+  login:
+    button: Влизане във FetLife
+    error_flash: Моля свържете се със <a href="mailto:support@fetlife.com">support@fetlife.com</a> за да ви помогнем да влезете.
+    error_login_blank: Името не може да е празно
+    error_not_authenticated: Съжалявам приятел, трябва да си влязъл за да стигнеш до тази страница. Освен ако вече не си член, отнема по-малко от минута да се регистрираш.
+    error_not_found: Хм, не можахме да ви намерим. Сигурни ли сте че въведохте правилно прякора и паролата си? (Паролите РаЗлИчАвАт ГЛАВНИ и малки букви)
+    error_password_blank: Паролата не може да е празна
+    forgot_info: Забравихте данните за влизане?
+    labels:
+      nickname: Прякор или имейл
+      password: Парола
+      remember_me: Запомни ме, пак ще дойда.
+    not_a_member: Все още не сте член? Регистрирайте се във FetLife
+    subtitle: Липсваше ни… ама много!
+    title: Добре дошли у дома
+  logout:
+    log_in: Влез отново
+    subtitle: Ела пак да се видим!
+    title: Ще ни липсваш!
+  member_stats:
+    pics:
+      one: 1 снимка
+      other: "%{count_with_delimiter} снимки"
+    posts:
+      one: 1 публикация
+      other: "%{count_with_delimiter} публикации"
+    vids:
+      one: 1 клип
+      other: "%{count_with_delimiter} клипа"
+  nav:
+    events: Събития
+    explore: Опознай
+    fetishes: Фетиши
+    groups: Групи
+    home: Начало
+    places: Места
+    search_placeholder: Търсене...
+  page_break:
+    of: от
+  profile:
+    about_title: Списък с приятели
+    pictures_title: Снимки
+    videos_title: Клипове
+  promote_following:
+    button: Включи следването
+    ps: П.П. Можете да го изключите по всяко време.
+    skip: Не включвай следването
+    subtitle: Отделете приятелите от последователите си.
+    title: Въвеждаме следване
+  recommendations:
+    title: Препоръчани
+  reset_password:
+    cta: Смени паролата ми
+    error_confirmation_match: Потвърждението на паролата не съответства на паролата
+    error_password_range: Паролата е прекалено къса (минимума е 4 символа)
+    error_token_expired: Токена за смяна на парола е изтекъл, моля заявете си нов
+    error_token_invalid: Токена за смяна на парола е невалиден
+    footnote: "<strong>Pro Tip:</strong> Помни паролата си."
+    label_enter: Нова парола
+    label_re_enter: Въведете новата парола отново
+    status_flash_success: Вашата парола беше сменена успешно.
+    subtitle: Не много къса, не много дълга, точно…
+    title: Смени паролата
+  select_language:
+    button: Смени основния език
+    help_translate: Посетете <a href="https://github.com/fetlife/translations">проекта ни за превод</a> в GitHub и помогнете да направим FetLife достъпен за още от извратените ни приятели <span class="amp">&amp</span> communities.
+    language_name: Английски
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
+    title: Изберете език
+  settings_account:
+    2fa_cta: Включи двустепенното удостоверяване
+    2fa_label: Двустепенно удостоверяване
+    anti_pro_tip: <strong>Anti-Pro Tip:</strong> Можете да <a href="#">deactivate</a> или <a href="#">delete</a> регистрацията си ако наистина искате, но трима от четири Папи са против това.
+    current_password_label: Текуща парола
+    email_cta: Смени имейл адреса
+    email_label: Имейл
+    email_placeholder: Имейл адрес
+    language_cta: Смени основния език
+    language_notice: FetLife все още не е напълно достъпен на езици различни от английски. Ако промените тази настройка, не целия сайт ще бъде преведен.
+    new_password_label: Нова парола
+    nickname_cta: Смени прякора
+    nickname_label: 'Сменете прякора си от "JohnBaku" на:'
+    nickname_notice: "<strong>Pro Tip:</strong> Седем пъти мери, веднъж режи. Можете да сменяте прякора си само веднъж на всеки 28 дни. Без рекламации."
+    nickname_placeholder: Нов прякор
+    page_title: Смени паролата - настройки
+    password_cta: Смени паролата
+    repeat_password_label: Повтори паролата
+    subtitle: Не натискай голямото червено копче.
+    title: Настройки на профила
+  settings_notifications:
+    cta: Смени основния език
+    language_label: Език
+    notice: FetLife все още не е напълно достъпен на езици различни от английски. Ако промените тази настройка, не целия сайт ще бъде преведен.
+    page_title: Език - настройки
+    subtitle: Кой е предпочитания от вас език?
+    title: Език
+  settings_privacy:
+    blocked_list_subtitle: Списъка ви с непослушковци.
+    blocked_list_title: Списък с блокирани
+    cb_feed: Позволи не-приятели да ме следват на стените им.
+    cb_fp: Позволи не-поверителните ми публикации да се появяват в Свежо&Перверзно.
+    cb_kp: Позволи не-поверителните ми публикации да се появяват в Извратено&Популярно.
+    content_privacy: Поверителност на съдържанието
+    cta: Запиши настройките за поверителност
+    following: Следване
+    page_title: Настройки за поверителност
+    subtitle: Served the way you like it.
+    title: Поверителност
+    warning: "<strong>Изключително важно</strong>: При изключване на следването ще спрете да следвате всички които в момента следват вас. Няма връщане назад. Наистина."
+  settings_profile:
+    about_you_label: За вас
+    add_website: "+ добави друг уебсайт"
+    cta: Променете профила си
+    dob_label: Дата на раждане
+    location_label: Местоположение
+    looking_for_label: Търся
+    page_title: Промени профила
+    subtitle: Личното израстване е хубаво нещо.
+    title: Вашият профил
+    websites_label: Уебсайтове
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Смени имейл адреса
+    email_label: Смени имейл адреса
+    email_placeholder: Имейл адрес
+    page_title: Смени имейл адреса - настройки
+    subtitle: Просто в случай че си забравите паролата.
+    title: Смени имейл адреса
+  sidebar:
+    about_fetlife: За Fetlife
+    ad_stats: Рекламна статистика
+    advertising: Рекламиране
+    bug_bounty: Bug Bounty
+    caretaking: Надзирателство
+    change_language: Смени езика
+    close: затвори
+    edit_profile: Промени профила
+    edit_settings: Промени настройките
+    events: Събития
+    fetishes: Фетиши
+    following: Следване
+    fp: Свежо & Перверзно
+    funny_quote: Ако не можеш да прочетеш това ... сигурно ти трябват очила! - John 4:69
+    gift_support: Gift the Support of FetLife
+    groups: Групи
+    guidelines: Правила
+    home: Начало
+    invite_a_friend: Поканете приятел (%{count})
+    kp: Извратено & Популярно
+    legalese: Правни подробности
+    log_out: Излез
+    loved_stuff: Харесани
+    need_help: Трябва ви помощ?
+    open_source: Отворен код
+    places: Места
+    recommendations: Препоръчани
+    support: Подкрепи FetLife
+    upload_picture: Качи снимка
+    upload_video: Качи клип
+    view_friends: Виж приятелите
+    whats_new: Какво ново
+    write_post: Напиши публикация
+  signup:
+    almost_there: Почти стигнахме!
+    error_bar: Далас, имаме проблем. Превъртете надолу за повече информация.
+    error_birthdate: Датата на раждане е задължителна.
+    error_birthdate_too_old: Прекалено възрастни сте.
+    error_birthdate_too_young: Не сте достатъчно възрастни (трябва да сте поне на 18 години).
+    error_city_missing: Трябва да изберете град
+    error_country_missing: Трябва да изберете държава
+    error_email: Имаме проблеми с обработването на горния имейл адрес. Препоръчваме да се уверите в правописа или да опитате с друг адрес.
+    error_gender_required: Трябва да изберете пол
+    error_nickname: Прякора вече е зает.
+    error_nickname_required: Прякора е задължителен.
+    error_password_range: Паролата трябва да бъде между 4 и 50 символа
+    error_password_required: Паролата е задължителна
+    error_role_required: Трябва да изберете роля
+    error_sexual_orientation_required: Трябва да изберете сексуална ориентация
+    error_state_missing: Трябва да изберете област
+    footnote: С натискането на горния бутон се съгласявате да уважавате и следвате нашите <a href="%{guidelines_path}">Обществени правила</a> и <a href="%{tou_path}">Условия за употреба</a>&hellip; без рекламации.
+    label:
+      birthdate: Дата на раждане
+      city: Град
+      country: Държава
+      email: Имейл адрес
+      gender: Пол
+      location: Местоположение
+      nickname: Прякор
+      password: Парола
+      role: Роля
+      sexual_orientation: Сексуална ориентация
+      state: Област
+    page_title: Регистрация
+    subtitle: Кажете ни малко за себе си.
+    subtitle_invite: "%{name} ви покани във FetLife."
+    title: Добре дошли у дома
+  signup_avatar:
+    pro_tip: '<strong>Pro Tip</strong>: Ако сте срамежливи и предпочитате да не показвате лицето си, не се притеснявайте да проявите творчество и да ни покажете някоя друга своя страна! Или, ако предпочитате, можете да <a href="%{next_step_path}">пропуснете тази стъпка</a> засега.'
+    say_cheese: Кажете "зеле"!
+    subtitle: Хората с профилна снимка се забавляват 69 пъти повече!
+    title: Качи профилна снимка
+  signup_five_strikes:
+    page_title: Втори жълт картон
+    return_to_front: връщане към главната страница
+    subtitle_error: Хм, от съображения за сигурност ще трябва да изчакате два часа преди да влезете отново.
+    title: Втори жълт картон
+  signup_follow:
+    follow: Следвай
+    next_step: Следваща стъпка
+    subtitle: Следвайте извратеняци които предизвикват интереса ви.
+    title: Някой да ви хваща око?
+  signup_phone:
+    cta: Изпратете ми код за потвърждение
+    error_blocked: "<strong>Извратения оператор:</strong> За съжаление в момента не позволяваме хора да се регистрират използвайки номер на %{carrier_name}."
+    error_cant_send: "<strong>Извратения оператор:</strong> Имаме проблем с изпращането на SMS. Уверете се че номера ви започва с кода на вашата държава: +1 ,за САЩ и Канада, +44 за Великобритания, +61 за Австралия, +31 за Холандия, +49 за Германия, +33 за Франция, и т.н., и че не се опитвате да изпратите SMS до фиксирания ви телефон."
+    error_quota: "<strong>Извратения оператор:</strong> Хм, можем да изпратим не повече от 3 SMS-а към даден мобилен номер за 24 часа. Моля, опитайте отново."
+    explanation: We know it's a lot to ask, but to maintain a healthy and vibrant community, we need to verify everyone before they join. Something we think you will appreciate once you are on the other side.
+    label: Мобилен телефонен номер
+    page_title: Изпрати код за потвърждение
+    pro_tip: "<strong>Pro Tip:</strong> Уверете се че номера ви започва с кода на вашата държава: +1 ,за САЩ и Канада, +44 за Великобритания, +61 за Австралия, +31 за Холандия, +49 за Германия, +33 за Франция, и т.н."
+    subtitle: Еднократен анонимен SMS.
+    title: Време за потвърждение!
+  signup_verify:
+    cta: Довърши регистрация & потвърждение
+    incorrect_code: "<strong>Извратения оператор:</strong> Ъ&hellip; горният код за потвърждение не изглежда наред. Моля, уверете се че горното число съответства на това което сте получили от нас и опитайте пак."
+    label: Код за потвърждение
+    notice: Изпратихме кода за потвърждение на <strong>%{phone_number}</strong>. Ако до няколко минути не получите SMS от нас, <a href="%{back_path}">обновете номера си и ще ви изпратим нов код за потвърждение</a>.
+    notice_error: "<strong>П.П.</strong> Радваме се да се запознаем!"
+    page_title: Въведете код за потвърждение
+    placeholder: 6-цифрен код за потвърждение
+    subtitle: Не болеше чак толкова, нали?!?!
+    subtitle_error: Не болеше чак толкова, нали?!?!<br>Май избързахме! :-/
+    title: Последна стъпка
+  subnav:
+    feed:
+      activity_feed: Стена
+      activity_feed_short: Начало
+      fp: Свежо<span class="a-ampersand">&amp;</span>Перверзно
+      fp_short: Свежо
+      kp: Извратено<span class="a-ampersand">&amp;</span>Популярно
+      kp_short: Популярно
+    profile:
+      about: За мен
+      about_short: За мен
+      latest: Последна активност
+      latest_short: Последно
+      pictures: Снимки
+      pictures_short: Снимки
+      videos: Клипове
+      videos_short: Клипове
+      writings: Документи
+      writings_short: Документи
+    settings:
+      account: Регистрация
+      account_short: Регистрация
+      notifications: Известия
+      notifications_short: Известия
+      privacy: Поверителност
+      privacy_short: Поверителност
+      profile: Профил
+      profile_short: Профил
+      support: Подкрепа
+      support_short: Подкрепа
