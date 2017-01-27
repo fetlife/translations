@@ -223,7 +223,7 @@ bg:
       other: "%{count_with_delimiter} клипа"
   nav:
     events: Събития
-    explore: Опознай
+    explore: Разгледай
     fetishes: Фетиши
     groups: Групи
     home: Начало
@@ -258,7 +258,7 @@ bg:
   select_language:
     button: Смени основния език
     help_translate: Посетете <a href="https://github.com/fetlife/translations">проекта ни за превод</a> в GitHub и помогнете да направим FetLife достъпен за още от извратените ни приятели <span class="amp">&amp</span> communities.
-    language_name: Английски
+    language_name: Български
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Изберете език
   settings_account:
@@ -332,7 +332,7 @@ bg:
     edit_settings: Промени настройките
     events: Събития
     fetishes: Фетиши
-    following: Следване
+    following: Следвани
     fp: Свежо & Перверзно
     funny_quote: Ако не можеш да прочетеш това ... сигурно ти трябват очила! - John 4:69
     gift_support: Gift the Support of FetLife
