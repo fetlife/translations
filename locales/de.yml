@@ -367,7 +367,7 @@ de:
     error_nickname: Der Name ist schon vergeben.
     error_nickname_required: Der Name ist erforderlich.
     error_password_range: Das Passwort muss zwischen 4 und 50 Zeichen lang sein.
-    error_password_required: Das Password ist erforderlich.
+    error_password_required: Das Passwort ist erforderlich.
     error_role_required: Die Rolle muss gewählt werden
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden
     error_state_missing: Das Bundesland muss gewählt werden.
