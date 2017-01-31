@@ -246,7 +246,7 @@ bg:
   reset_password:
     cta: Смени паролата ми
     error_confirmation_match: Потвърждението на паролата не съответства на паролата
-    error_password_range: Паролата е прекалено къса (минимума е 4 символа)
+    error_password_range: Паролата трябва да бъде между 4 и 100 символа
     error_token_expired: Токена за смяна на парола е изтекъл, моля заявете си нов
     error_token_invalid: Токена за смяна на парола е невалиден
     footnote: "<strong>Pro Tip:</strong> Помни паролата си."
@@ -366,7 +366,7 @@ bg:
     error_gender_required: Трябва да изберете пол
     error_nickname: Прякора вече е зает.
     error_nickname_required: Прякора е задължителен.
-    error_password_range: Паролата трябва да бъде между 4 и 50 символа
+    error_password_range: Паролата трябва да бъде между 4 и 100 символа
     error_password_required: Паролата е задължителна
     error_role_required: Трябва да изберете роля
     error_sexual_orientation_required: Трябва да изберете сексуална ориентация

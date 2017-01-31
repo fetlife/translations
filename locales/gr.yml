@@ -246,7 +246,7 @@ gr:
   reset_password:
     cta: Επαναφέρετε τον κωδικό πρόσβασης
     error_confirmation_match: Ο κωδικός επιβεβαίωσης δεν ταιριάζει με τον κωδικό πρόσβασης
-    error_password_range: Ο κωδικός πρόσβασης είναι πολύ μικρός (τουλάχιστον 4 χαρακτήρες)
+    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων
     error_token_expired: O χρόνος επαναφοράς του κωδικού πρόσβασης έχει λήξει, παρακαλούμε ζητήσετε ένα νέο
     error_token_invalid: O κωδικός επαναφοράς είναι άκυρος
     footnote: "<strong>Pro Tip:</strong> Θυμηθείτε τον κωδικό πρόσβασής σας."
@@ -366,7 +366,7 @@ gr:
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείτε ήδη.
     error_nickname_required: Απαιτείται ψευδώνυμο.
-    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 50 χαρακτήρων
+    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων
     error_password_required: Απαιτείται κωδικός πρόσβασης
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
     error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό

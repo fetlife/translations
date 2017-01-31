@@ -246,7 +246,7 @@ fr:
   reset_password:
     cta: Réinitialiser mon mot de passe
     error_confirmation_match: Le mot de passe de confirmation ne correspond pas au mot de passe
-    error_password_range: Le mot de passe est trop court (minimum 4 charactères)
+    error_password_range: Mot de Passe doit être entre 4 et 100 charactères
     error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
     error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
     footnote: "<strong>Astuce de pro :</strong> Rapellez-vous de votre mot de passe."
@@ -366,7 +366,7 @@ fr:
     error_gender_required: Genre doit être sélectionnée
     error_nickname: Le Nickname est déjà pris.
     error_nickname_required: Nickname est obligatoire.
-    error_password_range: Mot de Passe doit être entre 4 et 50 charactères
+    error_password_range: Mot de Passe doit être entre 4 et 100 charactères
     error_password_required: Mot de Passe est obligatoire
     error_role_required: Rôle doit être sélectionnée
     error_sexual_orientation_required: Orientation sexuelle doit être sélectionnée
