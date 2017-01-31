@@ -246,7 +246,7 @@ es:
   reset_password:
     cta: Restablecer mi contraseña
     error_confirmation_match: Confirmación de contraseña no coincide con Contraseña
-    error_password_range: La contraseña es demasiado corta (el mínimo es de 4 caracteres)
+    error_password_range: La contraseña debe tener entre 4 y 100 caracteres
     error_token_expired: El token de contraseña de restablecimiento ha experiado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
     footnote: "<strong>Sugerencia Pro:</strong> Recuerde su contraseña."
@@ -366,7 +366,7 @@ es:
     error_gender_required: Se requiere su género
     error_nickname: El apodo ya está tomada.
     error_nickname_required: Se requiere su apodo.
-    error_password_range: La contraseña debe tener entre 4 y 50 caracteres
+    error_password_range: La contraseña debe tener entre 4 y 100 caracteres
     error_password_required: Se requiere su contraseña.
     error_role_required: Se requiere su papel
     error_sexual_orientation_required: Se requiere su orientación sexual
