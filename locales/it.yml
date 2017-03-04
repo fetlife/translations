@@ -27,7 +27,7 @@ it:
       duplicate: Duplicare
       edit: Modifica
       pause: Pausa
-      start: Inzia
+      start: Inizia
       unpause: Riprendere
     actions_literal: Azioni
     active_ads: Annunci attivi
@@ -105,10 +105,10 @@ it:
       cta: Inviatemi un'email con le istruzioni
       error_forgot_email: Penso che hai dimenticato qualcosa... Il tuo indirizzo email! :-p
       error_invalid_email: Questo non sembra un indirizzo email valido. Rivedilo e rinvialo per favore.
-      error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro antispam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
+      error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro anti-spam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
       placeholder: Indirizzo email
       step1:
-        page_title: Reimposta la passoword via email
+        page_title: Reimposta la password via email
         subtitle: Lascia che ti aiuti.
         title: Password dimenticata?
       step2:
@@ -127,7 +127,7 @@ it:
       error_quota: "<strong>Operatore Kinky:</strong> Diamine, possiamo solo cercare di inviare fino a 3 messaggi di testo ogni 24 ore a qualsiasi numero di cellulare. Sia che il numero esista nel nostro database oppure no."
       pro_tip: "<strong>Consiglio Pro:</strong> Assicurati di iniziare il numero con il prefisso internazionale: +1 per gli Stati Uniti e il Canada, +44 per il Regno Unito, +61 per l'Australia, +31 per l'Olanda, +49 per la Germania, +33 per la Francia, ecc."
       step1:
-        page_title: Reimposta la passoword via SMS
+        page_title: Reimposta la password via SMS
         subtitle: Lascia che ti aiuti.
         title: Password dimenticata?
       step2:
@@ -174,7 +174,7 @@ it:
     title_step2: Invio mandato
     view_invitations: visualizza i tuoi inviti
   landing_page:
-    footer: "<strong>%{member_count} Memberi</strong> stanno condividendo <strong>%{picture_count} foto</strong> e <strong>%{video_count} video</strong>, partecipando a <strong>%{discussion_count} discussioni</strong> in <strong>%{group_count} grouppi</strong>, stanno andando a <strong>%{event_count} prossimi eventi</strong> e leggono <strong>%{post_count} post di blog</strong>. <em>Il paradiso Kinky!</em>"
+    footer: "<strong>%{member_count} Membri</strong> stanno condividendo <strong>%{picture_count} foto</strong> e <strong>%{video_count} video</strong>, partecipando a <strong>%{discussion_count} discussioni</strong> in <strong>%{group_count} gruppi</strong>, stanno andando a <strong>%{event_count} prossimi eventi</strong> e leggono <strong>%{post_count} post di blog</strong>. <em>Il paradiso Kinky!</em>"
     login_button: Accedi a FetLife
     signup_button: Iscriviti a FetLife
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?
@@ -194,10 +194,10 @@ it:
     title: Sicurezza, Sicurezza, Sicurezza!
   login:
     button: Accedi a FetLife
-    error_flash: Per favore conttatta <a href="mailto:support@fetlife.com">support@fetlife.com</a> in modo che possiamo aiutarti a tornare dentro.
+    error_flash: Per favore contatta <a href="mailto:support@fetlife.com">support@fetlife.com</a> in modo che possiamo aiutarti a tornare dentro.
     error_login_blank: Il login non può essere vuoto
     error_not_authenticated: Mi dispiace amic* ma è necessario aver effettuato l'accesso per arrivare a quella pagina. Se non sei già un* utente richiede meno di un minuto iscriversi.
-    error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La passoword CaSe-SeNsItIvE)
+    error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La password CaSe-SeNsItIvE)
     error_password_blank: La password non può essere vuota
     forgot_info: Hai dimenticato le credenziali d'accesso?
     labels:
@@ -225,7 +225,7 @@ it:
     events: Eventi
     explore: Esplora
     fetishes: Feticci
-    groups: Grouppi
+    groups: Gruppi
     home: Home
     places: Luoghi
     search_placeholder: Cerca...
@@ -254,7 +254,7 @@ it:
     label_re_enter: Ripeti la nuova password
     status_flash_success: La tua password è stata cambiata con successo.
     subtitle: Non troppo breve, non troppo lunga, solo la...
-    title: Reimposta la passoword
+    title: Reimposta la password
   select_language:
     button: Cambia lingua
     help_translate: Visita il nostro <a href="https://github.com/fetlife/translations">progetto di traduzione</a> su GitHub e contribuisci a rendere FetLife accessibile a più comunity kinky <span class="amp">&amp</span> nostre amiche.
@@ -264,7 +264,7 @@ it:
   settings_account:
     2fa_cta: Attiva l'autenticazione a 2 passaggi
     2fa_label: Autenticazione a 2 passaggi
-    anti_pro_tip: <strong>Anti-consiglio Pro:</strong> Puoi <a href="#">disattivare</a> o <a href="#">eliminare</a> il tuo account se vuoi veramente, ma tre Papi su quattro lo scoraggiano fortmente.
+    anti_pro_tip: <strong>Anti-consiglio Pro:</strong> Puoi <a href="#">disattivare</a> o <a href="#">eliminare</a> il tuo account se vuoi veramente, ma tre Papi su quattro lo scoraggiano fortemente.
     current_password_label: Password attuale
     email_cta: Aggiorna l'indirizzo email
     email_label: Email
@@ -314,7 +314,7 @@ it:
     websites_label: Siti
     websites_placeholder: https://fetlife.com
   settings_support:
-    cta: Aggiorna l'iAggiorna l'indirizzo email
+    cta: Aggiorna l'indirizzo email
     email_label: Aggiorna l'indirizzo email
     email_placeholder: Indirizzo email
     page_title: Aggiorna l'indirizzo email - Impostazioni
@@ -336,7 +336,7 @@ it:
     fp: Fresh & Pervy
     funny_quote: Se non riesci a leggere questo... probabilmente hai bisogno degli occhiali! - John 4:69
     gift_support: Regala il Support di FetLife
-    groups: Grouppi
+    groups: Gruppi
     guidelines: Linee guida
     home: Home
     invite_a_friend: Invita un* amic* (%{count})
@@ -347,7 +347,7 @@ it:
     need_help: Serve aiuto?
     open_source: Open Source
     places: Luoghi
-    recommendations: Reccomandazioni
+    recommendations: Raccomandazioni
     support: Supporta FetLife
     upload_picture: Carica una foto
     upload_video: Carica un video
