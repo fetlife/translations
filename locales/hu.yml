@@ -100,6 +100,7 @@ hu:
   footer:
     about: Leírás
     help: Segítség
+    privacy: Privacy
   forgot_password:
     email:
       cta: Kérek egy emailt az instrukciókkal
@@ -183,6 +184,8 @@ hu:
     subnav:
       2257_exempt: 2257 Exempt
       2257_exempt_short: '2257'
+      law_enforcement: Law Enforcement
+      law_enforcement_short: Law
       privacy: Adatvédelmi szabályzat
       privacy_short: Adatvédelem
       terms: Felhasználási feltételek
@@ -347,8 +350,10 @@ hu:
     need_help: Segíthetünk?
     open_source: Open Source
     places: Helyek
+    privacy: Privacy
     recommendations: Javaslatok
     support: Támogasd a FetLife-ot
+    terms: Terms
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
     view_friends: Ismerősök

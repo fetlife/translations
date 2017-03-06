@@ -100,6 +100,7 @@ pt:
   footer:
     about: Sobre
     help: Ajuda
+    privacy: Privacy
   forgot_password:
     email:
       cta: Enviar e-mail com instruções
@@ -183,6 +184,8 @@ pt:
     subnav:
       2257_exempt: 2257 Exempt
       2257_exempt_short: '2257'
+      law_enforcement: Law Enforcement
+      law_enforcement_short: Law
       privacy: Política de Privacidade
       privacy_short: Privacidade
       terms: Termos de Uso
@@ -347,8 +350,10 @@ pt:
     need_help: Precisa de Ajuda?
     open_source: Código Aberto
     places: Locais
+    privacy: Privacy
     recommendations: Recomendações
     support: Apóie FetLife
+    terms: Terms
     upload_picture: Enviar Foto
     upload_video: Enviar Vídeo
     view_friends: Ver Amigos

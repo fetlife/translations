@@ -100,6 +100,7 @@ gr:
   footer:
     about: Σχετικά
     help: Βοήθεια
+    privacy: Privacy
   forgot_password:
     email:
       cta: Στείλτε μου Email με οδηγίες
@@ -183,6 +184,8 @@ gr:
     subnav:
       2257_exempt: 2257 Εξαίρεση
       2257_exempt_short: '2257'
+      law_enforcement: Law Enforcement
+      law_enforcement_short: Law
       privacy: Πολιτική Προστασίας Προσωπικών Δεδομένων
       privacy_short: Ιδιωτικότητα
       terms: Όροι χρήσης
@@ -347,8 +350,10 @@ gr:
     need_help: Χρειάζεστε βοήθεια?
     open_source: Open Source
     places: Μέρη
+    privacy: Privacy
     recommendations: Προτάσεις
     support: Υποστηρίξτε το Fetlife
+    terms: Terms
     upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
     view_friends: Προβολή Φίλων

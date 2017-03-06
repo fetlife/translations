@@ -100,6 +100,7 @@ bg:
   footer:
     about: Информация
     help: Помощ
+    privacy: Privacy
   forgot_password:
     email:
       cta: Пратете ми имейл с указания
@@ -112,9 +113,9 @@ bg:
         subtitle: Нека ти помогна.
         title: Забрави паролата?
       step2:
-        page_title: '&bdquo;МОЖЕ БИ&ldquo; имате поща'
+        page_title: "&bdquo;МОЖЕ БИ&ldquo; имате поща"
         subtitle: Ако профил с имейл <strong>%{given_email}</strong> съществува, значи сме ви изпратили инструкции как да смените паролата си.
-        title: '&bdquo;Може би&ldquo; имате поща!'
+        title: "&bdquo;Може би&ldquo; имате поща!"
       update_email: промени имейл адреса
       warning: "<strong>Министъра на отбраната:</strong> От съображения за сигурност не можем да ви кажем дали даден имейл адрес е в базата ни от данни. Ако не получите имейл от нас най-вероятно е защото нямаме профил с този имейл адрес."
     mobile:
@@ -137,7 +138,7 @@ bg:
         label: Код за потвърждение
         page_title: Въведете код за потвърждение
         placeholder: 6-цифрен код за потвърждение
-        subtitle: '&bdquo;Може би&ldquo; току-що ви изпратихме SMS.'
+        subtitle: "&bdquo;Може би&ldquo; току-що ви изпратихме SMS."
         title: Въведете код за потвърждение
       warning: "<strong>Министъра на отбраната:</strong> От съображения за сигурност не можем да ви кажем дали даден мобилен номер е в базата ни от данни. Ако не получите SMS от нас най-вероятно е защото нямаме профил с този номер."
     next_step: следваща стъпка
@@ -183,6 +184,8 @@ bg:
     subnav:
       2257_exempt: Освободени от 2257
       2257_exempt_short: '2257'
+      law_enforcement: Law Enforcement
+      law_enforcement_short: Law
       privacy: Декларация за поверителност
       privacy_short: Поверителност
       terms: Условия за ползване
@@ -347,8 +350,10 @@ bg:
     need_help: Трябва ви помощ?
     open_source: Отворен код
     places: Места
+    privacy: Privacy
     recommendations: Препоръчани
     support: Подкрепи FetLife
+    terms: Terms
     upload_picture: Качи снимка
     upload_video: Качи клип
     view_friends: Виж приятелите

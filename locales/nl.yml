@@ -100,6 +100,7 @@ nl:
   footer:
     about: informatie over
     help: Help
+    privacy: Privacy
   forgot_password:
     email:
       cta: Stuur mij een Email met instructies
@@ -183,6 +184,8 @@ nl:
     subnav:
       2257_exempt: 2257 vrijwaring
       2257_exempt_short: '2257'
+      law_enforcement: Law Enforcement
+      law_enforcement_short: Law
       privacy: Geheimhoudings beleid
       privacy_short: Geheimhouding
       terms: Gebruiks voorwaarden
@@ -347,8 +350,10 @@ nl:
     need_help: Hulp nodig?
     open_source: Open bron
     places: Plaatsen
+    privacy: Privacy
     recommendations: Aanbevelingen
     support: Ondersteun FetLife
+    terms: Terms
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
     view_friends: Vrienden bekijken
