@@ -184,8 +184,8 @@ gr:
     subnav:
       2257_exempt: 2257 Εξαίρεση
       2257_exempt_short: '2257'
-      law_enforcement: Law Enforcement
-      law_enforcement_short: Law
+      legal_requests: Legal Requests
+      legal_requests_short: Legal
       privacy: Πολιτική Προστασίας Προσωπικών Δεδομένων
       privacy_short: Ιδιωτικότητα
       terms: Όροι χρήσης
