@@ -184,8 +184,8 @@ es:
     subnav:
       2257_exempt: Exento de 2257
       2257_exempt_short: '2257'
-      law_enforcement: Law Enforcement
-      law_enforcement_short: Law
+      legal_requests: Legal Requests
+      legal_requests_short: Legal
       privacy: Política de privacidad
       privacy_short: Privacidad
       terms: Términos de Uso

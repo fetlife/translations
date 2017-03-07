@@ -184,8 +184,8 @@ de:
     subnav:
       2257_exempt: 2257 Exempt
       2257_exempt_short: '2257'
-      law_enforcement: Gesetzesvollzug
-      law_enforcement_short: Gesetz
+      legal_requests: Rechtliche Anfragen
+      legal_requests_short: Recht
       privacy: Privatsphäre
       privacy_short: Privat
       terms: Nutzungsbedingungen

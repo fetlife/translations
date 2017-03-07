@@ -184,8 +184,8 @@ bg:
     subnav:
       2257_exempt: Освободени от 2257
       2257_exempt_short: '2257'
-      law_enforcement: Law Enforcement
-      law_enforcement_short: Law
+      legal_requests: Legal Requests
+      legal_requests_short: Legal
       privacy: Декларация за поверителност
       privacy_short: Поверителност
       terms: Условия за ползване
