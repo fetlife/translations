@@ -328,7 +328,7 @@ en:
     ad_stats: Ad Stats
     advertising: Advertising
     bug_bounty: Bug Bounty
-    caretaking: Caretaking
+    caretaking: Caretaker Tools
     change_language: Change Language
     close: close
     edit_profile: Edit Profile
@@ -350,8 +350,10 @@ en:
     need_help: Need Help?
     open_source: Open Source
     places: Places
+    preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Recommendations
+    subscriptions: Subscriptions
     support: Support FetLife
     terms: Terms
     upload_picture: Upload Picture

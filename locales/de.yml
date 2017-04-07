@@ -328,7 +328,7 @@ de:
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
     bug_bounty: Fehler-Prämie
-    caretaking: Hausmeisterdienste
+    caretaking: Hausmeister Werkzeuge
     change_language: Sprache Wechseln
     close: schließen
     edit_profile: Profil Bearbeiten
@@ -350,8 +350,10 @@ de:
     need_help: Brauchst Du Hilfe?
     open_source: Open Source
     places: Orte
+    preservation_requests: Preservation Requests
     privacy: Privatsphäre
     recommendations: Empfehlungen
+    subscriptions: Subscriptions
     support: Unterstütze FetLife
     terms: Nutzungsbedingungen
     upload_picture: Bild Hochladen
