@@ -4,6 +4,7 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 
 ### Languages FetLife is Currently Available In
 
+- [Bulgarian](locales/bg.yml)
 - [Dutch](locales/nl.yml)
 - [English](locales/en.yml)
 - [French](locales/fr.yml)
