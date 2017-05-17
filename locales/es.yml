@@ -52,6 +52,8 @@ es:
         company_name: Nombre de Empresa
         member_id: Identificación de miembro
         slots_purchased: Ranuras Compradas
+        website_name: Website Name
+        website_url: Website URL
       page_title: Modificación de la Campaña
       subtitle: Septiembre del 2016
       title: Actualizar campaña
@@ -64,7 +66,7 @@ es:
     ctr: CTR
     edit: editar
     impressions: Impresiones
-    last_updated: Última actualización de las estadísticas
+    last_updated: "Última actualización de las estadísticas"
     name: Nombre
     new_ad: "+ anuncio nuevo "
     new_campaign: "+ Campaña Nueva "
@@ -146,7 +148,7 @@ es:
     tab_email: Correo electrónico
     tab_mobile: Móvil
   guidelines:
-    last_updated: 'Última actualización:'
+    last_updated: "Última actualización:"
     sub_header: Seguí tus agallas…
     subnav:
       community: Comunidad
@@ -432,7 +434,7 @@ es:
     placeholder: 6-Dígitos del Código de Verificación
     subtitle: Eso no fue tan doloroso fue?!?!
     subtitle_error: Eso no fue tan doloroso fue?!?! <br> ¡Tal vez hablamos demasiado pronto! :-/
-    title: Último Paso
+    title: "Último Paso"
   subnav:
     feed:
       activity_feed: Feed de actividad
@@ -445,7 +447,7 @@ es:
       about: Sobre Mi
       about_short: Acerca de
       latest: Actividad más Reciente
-      latest_short: Último
+      latest_short: "Último"
       pictures: Imágenes
       pictures_short: Fotos
       videos: Vídeos

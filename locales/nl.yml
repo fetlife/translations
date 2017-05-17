@@ -52,6 +52,8 @@ nl:
         company_name: Bedrijfsnaam
         member_id: deelnemer_nummer
         slots_purchased: aangeschafte advertenties
+        website_name: Website Name
+        website_url: Website URL
       page_title: Campagne bewerken
       subtitle: September 2016
       title: Campagne bijwerken

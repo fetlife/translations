@@ -52,6 +52,8 @@ pt:
         company_name: Nome da Empresa
         member_id: member_id
         slots_purchased: Espaços Adquiridos
+        website_name: Website Name
+        website_url: Website URL
       page_title: Editar Campanha
       subtitle: Setembro 2016
       title: Atualizar Campanha
@@ -146,7 +148,7 @@ pt:
     tab_email: Email
     tab_mobile: Celular
   guidelines:
-    last_updated: 'Última atualização:'
+    last_updated: "Última atualização:"
     sub_header: Siga seu instinto
     subnav:
       community: Comunidade
@@ -432,7 +434,7 @@ pt:
     placeholder: Código de Verificação em 6 dígitos
     subtitle: Até que não doeu, vai?!?!
     subtitle_error: Até que não doeu, vai?!?!<br>Talvez tenhamos dito isso muito antes! :-/
-    title: Último Passo
+    title: "Último Passo"
   subnav:
     feed:
       activity_feed: Feed de Atividade

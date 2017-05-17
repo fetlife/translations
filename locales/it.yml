@@ -52,6 +52,8 @@ it:
         company_name: Nome della società
         member_id: member_id
         slots_purchased: Spazi acquistati
+        website_name: Website Name
+        website_url: Website URL
       page_title: Modifica la campagna
       subtitle: Settembre 2016
       title: Modifica la campagna

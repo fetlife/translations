@@ -19,7 +19,7 @@ fr:
     north_america: Amérique du Nord
     one_love: Un amour, une vie, et beaucoup de kink !
     snail_mail: Courrier papier
-    sub_header: À ne pas confondre avec les spartiates
+    sub_header: "À ne pas confondre avec les spartiates"
     title: Nous. Sommes. FetLife !
   ad_stats:
     actions:
@@ -52,6 +52,8 @@ fr:
         company_name: Nom de la compagnie
         member_id: member_id
         slots_purchased: Emplacements achetés
+        website_name: Website Name
+        website_url: Website URL
       page_title: Modifier la campagne
       subtitle: Septembre 2016
       title: Mettre à jour la campagne
@@ -98,14 +100,14 @@ fr:
     follow: Suivre
     following: Suivi
   footer:
-    about: À propos
+    about: "À propos"
     help: Aide
     privacy: Privacy
   forgot_password:
     email:
       cta: Envoie-moi un email avec instructions
       error_forgot_email: Je crois que vous avez oublié quelque chose… votre addresse mail ! :-p
-      error_invalid_email: Ça ne ressemble pas à une addresse mail valide. Veuillez la relire et la re-soumettre.
+      error_invalid_email: "Ça ne ressemble pas à une addresse mail valide. Veuillez la relire et la re-soumettre."
       error_quota: Nous ne pouvons envoyer que deux emails par heure à une même addresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre pourriel je vous recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
       placeholder: Addresse mail
       step1:
@@ -141,7 +143,7 @@ fr:
         subtitle: Nous vous avons “peut-être” envoyé un texto.
         title: Entrez le code de vérification
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro de mobile existe ou non dans notre base de données. Si vous ne recevez pas de texto de nous, il est probable que nous n’avons pas de compte associé à ce numéro de mobile."
-    next_step: étape suivante
+    next_step: "étape suivante"
     return_to_login: retour au login
     tab_email: Email
     tab_mobile: Mobile
@@ -165,7 +167,7 @@ fr:
     invitations_sent: Invitations envoyées
     labels:
       friends_email: Addresse mail de ton ami
-    next_step: étape suivante
+    next_step: "étape suivante"
     return_to_feed: retour à feed
     subtitle_step1:
       one: Vous avez 1 invitation restante.
@@ -225,7 +227,7 @@ fr:
       one: 1 vidéo
       other: "%{count_with_delimiter} vidéos"
   nav:
-    events: Évènements
+    events: "Évènements"
     explore: Explorer
     fetishes: Fétiches
     groups: Groupes
@@ -310,7 +312,7 @@ fr:
     cta: Mettre à jour Votre Profil
     dob_label: Date de Naissance
     location_label: Location
-    looking_for_label: À la recherche de
+    looking_for_label: "À la recherche de"
     page_title: Mettre à jour Profil
     subtitle: Augmentation personnelle est une bonne chose.
     title: Votre Profil
@@ -324,7 +326,7 @@ fr:
     subtitle: Au cas où vous oublieriez votre mot de passe.
     title: Mettre à jour l'Addresse Email
   sidebar:
-    about_fetlife: À Propos de  Fetlife
+    about_fetlife: "À Propos de  Fetlife"
     ad_stats: Statistiques d' Annonces
     advertising: Publicité
     androidapp: Install FetLife's Android App
@@ -334,7 +336,7 @@ fr:
     close: fermer
     edit_profile: Modifier Profil
     edit_settings: Modifier Paramètres
-    events: Événements
+    events: "Événements"
     fetishes: Fétiches
     following: Suivir
     fp: Fresh & Pervy
@@ -361,7 +363,7 @@ fr:
     upload_video: Télécharger Vidéo
     view_friends: Voir Amis
     whats_new: Quoi de Neuf
-    write_post: Écrire Poste
+    write_post: "Écrire Poste"
   signup:
     almost_there: Presque Là!
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d'informations.
@@ -442,16 +444,16 @@ fr:
       kp: Kinky<span class="a-ampersand">&amp;</span>Popular
       kp_short: Popular
     profile:
-      about: À propos de moi
-      about_short: À propos
+      about: "À propos de moi"
+      about_short: "À propos"
       latest: Dernière Activité
       latest_short: Dernier
       pictures: Photos
       pictures_short: Pics
       videos: Vidéos
       videos_short: Vids
-      writings: Écrits
-      writings_short: Écrits
+      writings: "Écrits"
+      writings_short: "Écrits"
     settings:
       account: Compte
       account_short: Compte
