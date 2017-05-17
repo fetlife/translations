@@ -52,6 +52,8 @@ de:
         company_name: Firmenname
         member_id: ID des Mitgliedskontos
         slots_purchased: Gekaufte Anzeigenplätze
+        website_name: Website Name
+        website_url: Website URL
       page_title: Editiere Kampagne
       subtitle: September 2016
       title: Kampagne Aktualisieren
@@ -68,7 +70,7 @@ de:
     name: Name
     new_ad: "+ neue Anzeige"
     new_campaign: "+ neue Kampagne"
-    overview: Überblick
+    overview: "Überblick"
     press_start: Klicke „Start“, wenn Du fertig bist.
     slots: Anzeigenplätze
     subtitle: Ground control to Major Tom.
@@ -275,8 +277,8 @@ de:
     language_cta: Aktualisiere Sprachvoreinstellung
     language_notice: FetLife ist noch nicht vollständig in anderen Sprachen als Englisch verfügbar. Wenn Du diese Einstellung änderst, wird nicht die gesamte Seite übersetzt sein.
     new_password_label: Neues Passwort
-    nickname_cta: Ändere den Namen
-    nickname_label: 'Ändere Deinen Namen von „JohnBaku“ nach:'
+    nickname_cta: "Ändere den Namen"
+    nickname_label: "Ändere Deinen Namen von „JohnBaku“ nach:"
     nickname_notice: "<strong>Profi-Tipp:</strong> Denke zweimal nach, bevor Du Dich entscheidest. Du kannst Deinen Namen nur einmal alle 28 Tage ändern. Was gilt, das gilt."
     nickname_placeholder: Neuer Name
     page_title: Passwort Ändern - Einstellungen
@@ -305,7 +307,7 @@ de:
     title: Privatsphäre
     warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt."
   settings_profile:
-    about_you_label: Über Dich
+    about_you_label: "Über Dich"
     add_website: "+ eine Web-Seite hinzufügen"
     cta: Aktualisiere Dein Profil
     dob_label: Geburtsdatum
@@ -324,7 +326,7 @@ de:
     subtitle: Für den Fall, dass Du Dein Passwort vergisst.
     title: Aktualisiere E-Mail-Adresse
   sidebar:
-    about_fetlife: Über FetLife
+    about_fetlife: "Über FetLife"
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
     androidapp: Installiere FetLife's Android App
@@ -442,7 +444,7 @@ de:
       kp: Kinky<span class="a-ampersand">&amp;</span>Beliebt
       kp_short: Beliebt
     profile:
-      about: Über Mich
+      about: "Über Mich"
       about_short: Ich
       latest: Neueste Aktivitäten
       latest_short: Neues

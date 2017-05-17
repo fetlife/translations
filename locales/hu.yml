@@ -16,7 +16,7 @@ hu:
     email_us: 'Küldj nekünk egy emailt a <a href="mailto:support@fetlife.com">support@fetlife.com</a> címre és mi válaszolunk, mielőtt annyit mondanál: "Fapapucs"! Najó, ilyen hamar azért nem ;)'
     europe: Európa
     got_question: Kérdésed van? Segíthetünk?
-    north_america: Észak-Amerika
+    north_america: "Észak-Amerika"
     one_love: Egy élet, egy szerelem és rengeteg élvezet.
     snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
@@ -32,19 +32,19 @@ hu:
     actions_literal: Műveletek
     active_ads: Aktív hirdetések
     ad_new:
-      cta: Új hirdetés feladása
+      cta: "Új hirdetés feladása"
       labels:
         line1: 1. sor
         line2: 2. sor
         line3: 3. sor
       placeholders:
         line1: Egy szép, új játékszer ajándékba
-        line2: és egész nap arra gondol
+        line2: "és egész nap arra gondol"
         line3: milyen is lesz este használatba venni
       subtitle: Könnyű, mint az 1 x 1 = 69
-      title: Új hirdetés
+      title: "Új hirdetés"
     ads: Hirdetés
-    avg_ctr: Átlag CTR
+    avg_ctr: "Átlag CTR"
     best: Legjobb
     campaign_edit:
       cta: Reklámkampány frissítése
@@ -52,13 +52,15 @@ hu:
         company_name: Cég név
         member_id: azonosító
         slots_purchased: Megvásárolt reklámhelyek
+        website_name: Website Name
+        website_url: Website URL
       page_title: Reklámkampány szerkesztése
       subtitle: 2016 Szeptember
       title: Reklámkampány frissítése
     campaign_new:
-      cta: Új reklámkampány
+      cta: "Új reklámkampány"
       subtitle: 2016 Szeptember
-      title: Új reklámkampány
+      title: "Új reklámkampány"
     campaigns: reklámkampányok
     clicks: Kattintások
     ctr: CTR
@@ -68,7 +70,7 @@ hu:
     name: Név
     new_ad: "+ új hírdetés"
     new_campaign: "+ új kampány"
-    overview: Áttekintés
+    overview: "Áttekintés"
     press_start: Nyomd meg az "Indítás" gombot, ha kész
     slots: Reklám helyek
     subtitle: A hírszerzés jelenti
@@ -190,7 +192,7 @@ hu:
       privacy_short: Adatvédelem
       terms: Felhasználási feltételek
       terms_short: Feltételek
-    subtitle: Ügyvédet játszva az interweb-en már '69 óta.
+    subtitle: "Ügyvédet játszva az interweb-en már '69 óta."
     title: Legalizáció
   lockout:
     subtitle: You've tripped our security system.
@@ -253,8 +255,8 @@ hu:
     error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
     error_token_invalid: A jelszó helyreállító kód nem érvényes
     footnote: "<strong>A profi tanácsa:</strong> Vésd az eszedbe a jelszavad."
-    label_enter: Új jelszó
-    label_re_enter: Új jelszó még egyszer
+    label_enter: "Új jelszó"
+    label_re_enter: "Új jelszó még egyszer"
     status_flash_success: A jelszavad sikeresen megváltozott.
     subtitle: Nem túl hosszú, nem túl rövid, csak pont... de hisz tudod ;)
     title: Jelszó helyreállítása
@@ -272,16 +274,16 @@ hu:
     email_cta: Update Email cím
     email_label: Email
     email_placeholder: Email cím
-    language_cta: Új alapértelmezett nyelv
+    language_cta: "Új alapértelmezett nyelv"
     language_notice: A FetLife fordítása még nem teljese. Ha megváltoztatod ezt a beállítást, az oldal bizonyos részei továbbra is angolul fognak megjelenni.
-    new_password_label: Új jelszó
+    new_password_label: "Új jelszó"
     nickname_cta: Felhasználónév
     nickname_label: " A felhasználónév megváltoztatása:"
     nickname_notice: "<strong>A profi tanácsa:</strong> Mérd kétszer, Vágd egyszer. A felhasználó nevedet csak 28 naponta változtathatod meg. Nincs kivétel."
-    nickname_placeholder: Új felahasználónév
+    nickname_placeholder: "Új felahasználónév"
     page_title: Jelszó megváltoztatása - Beállítások
-    password_cta: Új jelszó
-    repeat_password_label: Új jelszó még egyszer
+    password_cta: "Új jelszó"
+    repeat_password_label: "Új jelszó még egyszer"
     subtitle: Kérjük nyomja meg a piros gombot és nyugodjon békében.
     title: Felhasználói beállítások
   settings_notifications:
@@ -329,7 +331,7 @@ hu:
     advertising: Hirdetés
     androidapp: Install FetLife's Android App
     bug_bounty: Hiba vadászat
-    caretaking: Ügyfélszolgálat
+    caretaking: "Ügyfélszolgálat"
     change_language: Nyelv kiválasztása
     close: bezárás
     edit_profile: Profil szerkesztése
@@ -360,7 +362,7 @@ hu:
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
     view_friends: Ismerősök
-    whats_new: Újdonságok
+    whats_new: "Újdonságok"
     write_post: Bejegyzés közzététele
   signup:
     almost_there: Szinte kész!
@@ -450,13 +452,13 @@ hu:
       pictures_short: Képek
       videos: Videók
       videos_short: Videók
-      writings: Írások
-      writings_short: Írások
+      writings: "Írások"
+      writings_short: "Írások"
     settings:
       account: Felhasználói fiók
       account_short: Felhasználó
-      notifications: Értesítések
-      notifications_short: Értesítések
+      notifications: "Értesítések"
+      notifications_short: "Értesítések"
       privacy: Adatvédelem
       privacy_short: Adatvédelem
       profile: Profil
