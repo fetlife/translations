@@ -52,6 +52,8 @@ en:
         company_name: Company Name
         member_id: member_id
         slots_purchased: Slots Purchased
+        website_name: Website Name
+        website_url: Website URL
       page_title: Edit Campaign
       subtitle: September 2016
       title: Update Campaign
