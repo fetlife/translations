@@ -568,3 +568,11 @@ en:
       120_info: $5/month
       240_title: $240 for Lifetime!
       240_info: <i>Priceless</i>
+    gift:
+      title: Gift Support to %{nickname}
+      header: Support FetLife Today
+      subheader: And get all the <a href='%{link}'>kinkalicious benefits</a> of being a supporter for only $5/month.
+      confirm: I want to Gift Support to %{nickname}
+      affirm: You're the best!
+      yourself: Buy Support for Yourself
+      thank_you: Thank you for the support!
