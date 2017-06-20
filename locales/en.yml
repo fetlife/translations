@@ -78,6 +78,8 @@ en:
     updated_every: Updated every 15 minutes
     view: view
     worst: Worst
+  components:
+    step: Step
   feed:
     comment: Comment
     comments_count:
@@ -466,15 +468,7 @@ en:
       support: Support
       support_short: Support
   support:
-    title: Help Support FetLife!
-    header:
-      title: Support FetLife Today!
-      subheader_part_1: And get all the
-      subheader_part_2: sexy benefits
-      subheader_part_3: that come with being a supporter.
     benefits:
-      title: What do I get for supporting FetLife?
-      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
       item_1_part_1: A sexy
       item_1_part_2: I Support FetLife
       item_1_part_3: badge on your profile.
@@ -499,17 +493,23 @@ en:
       item_8_part_2: to your heart's content.
       item_9_part_1: Get early
       item_9_part_2: access to new features
+      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
       list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
       thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
-    errors:
+      title: What do I get for supporting FetLife?
+    errors: 
+    giftee_confirmation: 
+    header:
+      subheader_part_1: And get all the
+      subheader_part_2: sexy benefits
+      subheader_part_3: that come with being a supporter.
+      title: Support FetLife Today!
     step1:
-      title: Select a Payment Method
-      more_options: show me more options
       less_options: hide additional options
-    giftee_confirmation:
-    step2:
-    step3_ach:
-    thank_you:
-    thank_you_interac:
-  components:
-    step: Step
+      more_options: show me more options
+      title: Select a Payment Method
+    step2: 
+    step3_ach: 
+    thank_you: 
+    thank_you_interac: 
+    title: Help Support FetLife!
