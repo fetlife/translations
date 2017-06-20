@@ -516,6 +516,14 @@ bg:
       secure_a: Yes, very. FetLife doesn’t store any of your personal info on our servers.  We just use the info you provide us to process your transaction and that's it.
       secure_q: Q. Is this secure?
       title: Frequently Asked Questions
+    gift:
+      affirm: You're the best!
+      confirm: I want to Gift Support to %{nickname}
+      header: Support FetLife Today
+      subheader: And get all the <a href='%{link}'>kinkalicious benefits</a> of being a supporter for only $5/month.
+      thank_you: Thank you for the support!
+      title: Gift Support to %{nickname}
+      yourself: Buy Support for Yourself
     header:
       subheader: And get all the <a href="%{link}">sexy benefits</a> that come with being a supporter.
       title: Support FetLife Today!
@@ -556,4 +564,15 @@ bg:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       title: Select a Payment Method
+    step2:
+      120_info: "$5/month"
+      120_title: "$120 for 24 Months"
+      240_info: "<i>Priceless</i>"
+      240_title: "$240 for Lifetime!"
+      30_info: "$5/month"
+      30_title: "$30 for 6 Months"
+      60_info: "$5/month"
+      60_title: "$60 for 12 Months"
+      return_info: 7-day no questions asked money back guarantee.
+      title: How much do you love FetLife?
     title: Help Support FetLife!
