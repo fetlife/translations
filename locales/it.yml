@@ -78,6 +78,8 @@ it:
     updated_every: Aggiornato ogni 15 minuti
     view: visualizza
     worst: Peggiore
+  components:
+    step: Step
   feed:
     comment: Commenta
     comments_count:
@@ -465,3 +467,49 @@ it:
       profile_short: Profilo
       support: Supporto
       support_short: Supporto
+  support:
+    benefits:
+      item_1_part_1: A sexy
+      item_1_part_2: I Support FetLife
+      item_1_part_3: badge on your profile.
+      item_2_part_1: Perv
+      item_2_part_2: today’s %{number}+ most loved
+      item_2_part_3: pics, vids, etc.
+      item_3_part_1: Watch
+      item_3_part_2: all %{number}+ videos
+      item_3_part_3: shared by the community.
+      item_4_part_1: Perv
+      item_4_part_2: all %{number}+ pictures
+      item_4_part_3: as they are shared.
+      item_5_part_1: View
+      item_5_part_2: everything you’ve ever loved
+      item_6_part_1: Go back
+      item_6_part_2: 25x further
+      item_6_part_3: in your Friend Feed.
+      item_7_part_1: Go back
+      item_7_part_2: 25x further
+      item_7_part_3: in your @You Feed.
+      item_8_part_1: Customize your Friend Feed
+      item_8_part_2: to your heart's content.
+      item_9_part_1: Get early
+      item_9_part_2: access to new features
+      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
+      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
+      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
+      title: What do I get for supporting FetLife?
+    errors: Errors
+    giftee_confirmation: Giftee confirmation
+    header:
+      subheader_part_1: And get all the
+      subheader_part_2: sexy benefits
+      subheader_part_3: that come with being a supporter.
+      title: Support FetLife Today!
+    step1:
+      less_options: hide additional options
+      more_options: show me more options
+      title: Select a Payment Method
+    step2: Step2
+    step3_ach: Step3 ach
+    thank_you: Thank you
+    thank_you_interac: Thank you interac
+    title: Help Support FetLife!

@@ -70,7 +70,7 @@ de:
     name: Name
     new_ad: "+ neue Anzeige"
     new_campaign: "+ neue Kampagne"
-    overview: "Überblick"
+    overview: Überblick
     press_start: Klicke „Start“, wenn Du fertig bist.
     slots: Anzeigenplätze
     subtitle: Ground control to Major Tom.
@@ -78,6 +78,8 @@ de:
     updated_every: Alle 15 Minuten aktualisieren
     view: zeige
     worst: Schlechteste
+  components:
+    step: Step
   feed:
     comment: Kommentar
     comments_count:
@@ -277,8 +279,8 @@ de:
     language_cta: Aktualisiere Sprachvoreinstellung
     language_notice: FetLife ist noch nicht vollständig in anderen Sprachen als Englisch verfügbar. Wenn Du diese Einstellung änderst, wird nicht die gesamte Seite übersetzt sein.
     new_password_label: Neues Passwort
-    nickname_cta: "Ändere den Namen"
-    nickname_label: "Ändere Deinen Namen von „JohnBaku“ nach:"
+    nickname_cta: Ändere den Namen
+    nickname_label: 'Ändere Deinen Namen von „JohnBaku“ nach:'
     nickname_notice: "<strong>Profi-Tipp:</strong> Denke zweimal nach, bevor Du Dich entscheidest. Du kannst Deinen Namen nur einmal alle 28 Tage ändern. Was gilt, das gilt."
     nickname_placeholder: Neuer Name
     page_title: Passwort Ändern - Einstellungen
@@ -307,7 +309,7 @@ de:
     title: Privatsphäre
     warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt."
   settings_profile:
-    about_you_label: "Über Dich"
+    about_you_label: Über Dich
     add_website: "+ eine Web-Seite hinzufügen"
     cta: Aktualisiere Dein Profil
     dob_label: Geburtsdatum
@@ -326,7 +328,7 @@ de:
     subtitle: Für den Fall, dass Du Dein Passwort vergisst.
     title: Aktualisiere E-Mail-Adresse
   sidebar:
-    about_fetlife: "Über FetLife"
+    about_fetlife: Über FetLife
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
     androidapp: Installiere FetLife's Android App
@@ -444,7 +446,7 @@ de:
       kp: Kinky<span class="a-ampersand">&amp;</span>Beliebt
       kp_short: Beliebt
     profile:
-      about: "Über Mich"
+      about: Über Mich
       about_short: Ich
       latest: Neueste Aktivitäten
       latest_short: Neues
@@ -465,3 +467,49 @@ de:
       profile_short: Profil
       support: Unterstützung
       support_short: Stütze
+  support:
+    benefits:
+      item_1_part_1: A sexy
+      item_1_part_2: I Support FetLife
+      item_1_part_3: badge on your profile.
+      item_2_part_1: Perv
+      item_2_part_2: today’s %{number}+ most loved
+      item_2_part_3: pics, vids, etc.
+      item_3_part_1: Watch
+      item_3_part_2: all %{number}+ videos
+      item_3_part_3: shared by the community.
+      item_4_part_1: Perv
+      item_4_part_2: all %{number}+ pictures
+      item_4_part_3: as they are shared.
+      item_5_part_1: View
+      item_5_part_2: everything you’ve ever loved
+      item_6_part_1: Go back
+      item_6_part_2: 25x further
+      item_6_part_3: in your Friend Feed.
+      item_7_part_1: Go back
+      item_7_part_2: 25x further
+      item_7_part_3: in your @You Feed.
+      item_8_part_1: Customize your Friend Feed
+      item_8_part_2: to your heart's content.
+      item_9_part_1: Get early
+      item_9_part_2: access to new features
+      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
+      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
+      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
+      title: What do I get for supporting FetLife?
+    errors: Errors
+    giftee_confirmation: Giftee confirmation
+    header:
+      subheader_part_1: And get all the
+      subheader_part_2: sexy benefits
+      subheader_part_3: that come with being a supporter.
+      title: Support FetLife Today!
+    step1:
+      less_options: hide additional options
+      more_options: show me more options
+      title: Select a Payment Method
+    step2: Step2
+    step3_ach: Step3 ach
+    thank_you: Thank you
+    thank_you_interac: Thank you interac
+    title: Help Support FetLife!
