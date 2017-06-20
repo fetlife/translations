@@ -509,3 +509,70 @@ en:
       more_options: show me more options
       title: Select a Payment Method
     title: Help Support FetLife!
+    faq:
+      title: Frequently Asked Questions
+      cc_q: Q. Why doesn't FetLife accept Credit Cards or Paypal?
+      cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
+      cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
+      cc_a_part_3: As a community, we need a safe space for consenting adults to be able to be freely express themselves sexually. And if we accept credit cards or paypal, we would lose that freedom.
+      secure_q: Q. Is this secure?
+      secure_a:  Yes, very. FetLife doesn’t store any of your personal info on our servers.  We just use the info you provide us to process your transaction and that's it.
+      renew_q: Q. Do you automatically renew my support?
+      renew_a: Never. We want to earn your support everytime.
+      return_q: Q. What’s your return policy?
+      return_a:  We have a 7-day money back guarantee. The only exception is if you support FetLife by trading in a gift card. Due to the nature of how trade-ins work they are final sale.
+      name_q: Q. How will this appear on my bank statement?
+      name_a: 'It will appear as: BitLove Inc.'
+      month_q: Q. Why can’t I do 1-month?
+      month_a: Like Costco, we have to sell in bulk, to keep the monthly cost of supporting FetLife low!
+      gift_q: Q. Want to gift support to someone?
+      gift_a: 'That’s super nice of you. Just visit their profile and click &ldquo;Gift Support&rdquo; link under &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>'
+      question_q: Q. Have any questions?
+      question_a: "If you have any questions, please don't hesitate to email us at&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>"
+    cta_labels:
+      ach: Bank Transfer (ACH)
+      bitcoin: Bitcoin
+      interac: Interac e-Transfer
+      mail: Physical Mail
+      paygarden: Major Gift Card
+      paysafe: paysafecard
+      poli: POLi Payments
+      sepa: SEPA Direct Debit
+      eps: eps
+      giropay: giropay
+      ideal: iDEAL
+    step1:
+       ach:
+         title: "US Bank Transfer (ACH)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account in the United States."
+       ideal:
+         title: "Dutch Bank Transfer (iDEAL)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account that supports iDEAL in the Netherlands."
+       eps:
+         title: "Austrian Bank Transfer (EPS)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria."
+       giropay:
+         title: "German Bank Transfer (giropay)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account that supports giropay in Germany."
+       sepa:
+         title: "European Bank Transfer (SEPA)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe."
+       interac:
+         title: "Canadian Interac e-Transfer"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account in Canada."
+       poli:
+         title: "AU/NZ Bank Transfer (POLi)"
+         extra_info: "As straightforward and secure as paying by credit card for those with a bank account in Australia or New Zealand."
+       paygarden:
+         title: "Major Brand Gift Card Trade-In"
+         extra_info: "Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, Home Depot, Build-A-Bear, and Toys\'R\'Us."
+       paysafe:
+         title: "Prepaid Paysafecard"
+         extra_info: "You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries worldwide."
+       bitcoin:
+         title: "Bitcoin"
+         extra_info: "Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process."
+       mail:
+         title: "Physical Mail"
+         extra_info: "If you\'re old school, we accept money order, checks, or cash through the mail."
+
