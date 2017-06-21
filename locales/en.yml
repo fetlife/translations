@@ -583,4 +583,12 @@ en:
       tips: If you live outside of the United States, we recommend you use a VPN/Proxy and buy a gift card in USD from Starbucks or Targets US online stores.
       tips_header: Tips &amp; Tricks
       title: Buy a Gift Card from a Major Brand
+    step3_ach:
+      title: Online Check / Bank Transfer
+      account_type: Account Type
+      type_checking: Checking
+      type_savings: Savings
+      account_number_label: 'Account #'
+      account_number_sub_label: between 6 and 16 digits
+      account_number_placeholder: Account Number
     title: Help Support FetLife!
