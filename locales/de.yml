@@ -495,20 +495,20 @@ de:
       poli: POLi Payments
       sepa: SEPA Abbuchung
     errors:
-      iban_blank: IBAN ist erforderlich
+      account_number_blank: Kontonummer ist erforderlich
+      address_blank: Addresse ist erforderlich
       bic_blank: BIC ist erforderlich
       canceled: Transaktion wurde abgebrochen.
-      account_number_blank: Kontonummer ist erforderlich
-      routing_number_blank: Bankleitzahl ist erforderlich
-      state_blank: Das Land muss gewählt werden
+      city_blank: Stadt ist erforderlich
+      country_blank: Das Land muss gewählt werden
+      double_failsafe: Bist Du sicher, dass Du uns wieder unterstützen willst? Verstehe uns nicht falsch, wir schätzen die Unterstützung, aber wir wollen Dir auch nicht versehentlich zweilmal eine Rechnung stellen. Wenn du Fragen hast, zögere bitte nicht, eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> zu schicken.
       email_blank: E-Mail ist erforderlich
       first_name_blank: Vorname ist erforderlich
+      iban_blank: IBAN ist erforderlich
       last_name_blank: Nachname ist erforderlich
-      country_blank: Das Land muss gewählt werden
       postal_code_blank: Postleitzahl ist erforderlich
-      city_blank: Stadt ist erforderlich
-      address_blank: Addresse ist erforderlich
-      double_failsafe: Bist Du sicher, dass Du uns wieder unterstützen willst? Verstehe uns nicht falsch, wir schätzen die Unterstützung, aber wir wollen Dir auch nicht versehentlich zweilmal eine Rechnung stellen. Wenn du Fragen hast, zögere bitte nicht, eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> zu schicken.
+      routing_number_blank: Bankleitzahl ist erforderlich
+      state_blank: Das Land muss gewählt werden
     faq:
       cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
       cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
@@ -628,8 +628,8 @@ de:
       cta: Unterstütze FetLife via Bitcoin
       intro: 'Bitcoin ist eine digitale Währung. Einige Einführungsvideos, die wir gerne angeschaut haben:'
       secure: So sicher wie Fort Knox
-      title: "Anleitung für Bitcoin"
-      title_html: "Anleitung für Bitcoin"
+      title: Anleitung für Bitcoin
+      title_html: Anleitung für Bitcoin
       wallets_list_header: Wir hatten gute Erfahrungen mit den folgenden zwei Anbietern von Brieftaschen:'
       wallets_title: Empfohlende Bitcoin Brieftaschen
       what: Was ist Bitcoin?
