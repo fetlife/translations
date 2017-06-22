@@ -679,7 +679,6 @@ nl:
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
-      accept: 'We Accept:'
       accept_options: Money Order, Check, or Cash
       accept_title: 'We Accept:'
       amount: 'Amount:'
@@ -693,7 +692,7 @@ nl:
       update_email: update email
     step3_paysafe:
       cta: I Already Have a Paysafecard
-      notice_body: Unfortunately, Paysafecards bought in the USA are not supported·due to constraints imposed by the bank that they use in the USA. Paysafecards purchased in all other countries are accepted.
+      notice_body: Unfortunately, Paysafecards bought in the USA are not supported due to constraints imposed by the bank that they use in the USA. Paysafecards purchased in all other countries are accepted.
       notice_title: Important Information for our American Friends
       secure: Secure as Fort Knox
       stores: You can find stores within walking distance of you that sell paysafecards. Don't believe us?
