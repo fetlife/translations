@@ -19,7 +19,7 @@ fr:
     north_america: Amérique du Nord
     one_love: Un amour, une vie, et beaucoup de kink !
     snail_mail: Courrier papier
-    sub_header: "À ne pas confondre avec les spartiates"
+    sub_header: À ne pas confondre avec les spartiates
     title: Nous. Sommes. FetLife !
   ad_stats:
     actions:
@@ -78,6 +78,8 @@ fr:
     updated_every: Mises à jour toutes les 15 minutes
     view: vue
     worst: Pire
+  components:
+    step: Step
   feed:
     comment: Commentaire
     comments_count:
@@ -100,14 +102,14 @@ fr:
     follow: Suivre
     following: Suivi
   footer:
-    about: "À propos"
+    about: À propos
     help: Aide
     privacy: Privacy
   forgot_password:
     email:
       cta: Envoie-moi un email avec instructions
       error_forgot_email: Je crois que vous avez oublié quelque chose… votre addresse mail ! :-p
-      error_invalid_email: "Ça ne ressemble pas à une addresse mail valide. Veuillez la relire et la re-soumettre."
+      error_invalid_email: Ça ne ressemble pas à une addresse mail valide. Veuillez la relire et la re-soumettre.
       error_quota: Nous ne pouvons envoyer que deux emails par heure à une même addresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre pourriel je vous recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
       placeholder: Addresse mail
       step1:
@@ -143,7 +145,7 @@ fr:
         subtitle: Nous vous avons “peut-être” envoyé un texto.
         title: Entrez le code de vérification
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro de mobile existe ou non dans notre base de données. Si vous ne recevez pas de texto de nous, il est probable que nous n’avons pas de compte associé à ce numéro de mobile."
-    next_step: "étape suivante"
+    next_step: étape suivante
     return_to_login: retour au login
     tab_email: Email
     tab_mobile: Mobile
@@ -167,7 +169,7 @@ fr:
     invitations_sent: Invitations envoyées
     labels:
       friends_email: Addresse mail de ton ami
-    next_step: "étape suivante"
+    next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:
       one: Vous avez 1 invitation restante.
@@ -227,7 +229,7 @@ fr:
       one: 1 vidéo
       other: "%{count_with_delimiter} vidéos"
   nav:
-    events: "Évènements"
+    events: Évènements
     explore: Explorer
     fetishes: Fétiches
     groups: Groupes
@@ -312,7 +314,7 @@ fr:
     cta: Mettre à jour Votre Profil
     dob_label: Date de Naissance
     location_label: Location
-    looking_for_label: "À la recherche de"
+    looking_for_label: À la recherche de
     page_title: Mettre à jour Profil
     subtitle: Augmentation personnelle est une bonne chose.
     title: Votre Profil
@@ -326,7 +328,7 @@ fr:
     subtitle: Au cas où vous oublieriez votre mot de passe.
     title: Mettre à jour l'Addresse Email
   sidebar:
-    about_fetlife: "À Propos de  Fetlife"
+    about_fetlife: À Propos de  Fetlife
     ad_stats: Statistiques d' Annonces
     advertising: Publicité
     androidapp: Install FetLife's Android App
@@ -336,7 +338,7 @@ fr:
     close: fermer
     edit_profile: Modifier Profil
     edit_settings: Modifier Paramètres
-    events: "Événements"
+    events: Événements
     fetishes: Fétiches
     following: Suivir
     fp: Fresh & Pervy
@@ -363,7 +365,7 @@ fr:
     upload_video: Télécharger Vidéo
     view_friends: Voir Amis
     whats_new: Quoi de Neuf
-    write_post: "Écrire Poste"
+    write_post: Écrire Poste
   signup:
     almost_there: Presque Là!
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d'informations.
@@ -444,16 +446,16 @@ fr:
       kp: Kinky<span class="a-ampersand">&amp;</span>Popular
       kp_short: Popular
     profile:
-      about: "À propos de moi"
-      about_short: "À propos"
+      about: À propos de moi
+      about_short: À propos
       latest: Dernière Activité
       latest_short: Dernier
       pictures: Photos
       pictures_short: Pics
       videos: Vidéos
       videos_short: Vids
-      writings: "Écrits"
-      writings_short: "Écrits"
+      writings: Écrits
+      writings_short: Écrits
     settings:
       account: Compte
       account_short: Compte
@@ -465,3 +467,28 @@ fr:
       profile_short: Profil
       support: Support
       support_short: Support
+  support:
+    benefits:
+      item_1: A sexy <span>I Support FetLife</span> badge on your profile.
+      item_2: Perv <span>today’s %{number}+ most loved</span> pics, vids, etc.
+      item_3: Watch <span>all %{number}+ videos</span> shared by the community.
+      item_4: Perv <span>all %{number}+ pictures</span> as they are shared.
+      item_5: View <span>everything you’ve ever loved</span>.
+      item_6: Go back <span>25x further</span> in your Friend Feed.
+      item_7: Go back <span>25x further</span> in your @You Feed.
+      item_8: "<span>Customize your Friend Feed</span> to your heart's content."
+      item_9: Get early <span>access to new features</span>!
+      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
+      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
+      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
+      title: What do I get for supporting FetLife?
+    errors:
+      double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+    header:
+      subheader: And get all the <a href="%{link}">sexy benefits</a> that come with being a supporter.
+      title: Support FetLife Today!
+    step1:
+      less_options: hide additional options
+      more_options: show me more options
+      title: Select a Payment Method
+    title: Help Support FetLife!
