@@ -722,7 +722,7 @@ de:
       address_label: Addresse
       address_sub_label: zum Konto gehörig
       bic_label: BIC / SWIFT
-      bic_placeholder: internationale Bankleitzahl
+      bic_placeholder: Internationale Bankleitzahl
       bic_sub_label: 8 oder 11 Zeichen lang
       city_label: Stadt
       city_sub_label: zum Konto gehörig
