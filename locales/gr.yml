@@ -757,4 +757,25 @@ gr:
       postal_code_sub_label: associated w/ bank account
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: SEPA Payment Information
+    thank_you:
+      body: No seriously, <span>a big thank you for your support</span>. It means a lot to us that you've contributed your hard earned money to help support FetLife’s continued improvement and development.
+      cta_home: Take Me Home
+      gift_affirm: You're the best!
+      gift_cta_profile: Visit %{nickname}'s Profile
+      gift_next_body: While your reading this we are giving your gift of support to <a href="%{link}">%{nickname}</a> and notifing them via email of your generous gift.
+      gift_next_title: What's next?
+      page_title: Thank You!
+      questions_body: If you have any questions, please don’t hesitate to email us at <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
+      questions_title: Got Questions?
+      tab_title: Thank You
+      thank_you: Thanks Again!
+    thank_you_interac:
+      cta_home: Take Me to My Feed
+      next_steps_final_default: will attach it to your profile.
+      next_steps_final_gift: will attach it to %{nickname}'s profile.
+      next_steps_first: It can <span>take a couple of hours</span> before we receive your Interac e-Transfer, but once we get it we
+      next_steps_title: 'Next Steps:'
+      page_title: Thank You <span class='baskerville i'>&amp;</span> Next Steps
+      tab_title: Thank You & Next Steps
+      thank_you: Thank You!
     title: Help Support FetLife!

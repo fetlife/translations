@@ -757,4 +757,25 @@ de:
       postal_code_sub_label: zum Konto gehörig
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: SEPA Bezahlinformationen
+    thank_you:
+      body: Nein wirklich, <span>großen Dank für Deine Unterstütung</span>. Es bedeutet uns viel, dass Du mit Deinem hart verdienten Geld hilfst, die kontinuierliche Verbesserung und Weiterentwicklung von FetLife zu unterstützen.
+      cta_home: Bring mich nach Hause
+      gift_affirm: Du bist super!
+      gift_cta_profile: Besuche %{nickname}s Profil
+      gift_next_body: Während Du dies liest, geben wir Dein Geschenk der FetLife-Unterstütung <a href="%{link}">%{nickname}</a> und lassen %{nickname} per E-Mail von Deinem großenzügigen Geschenk wissen.
+      gift_next_title: Was kommt als nächstes?
+      page_title: Danke Dir!
+      questions_body: Wenn Du Fragen hast, zögere bitte nicht, eine E-Mail an <a href='mailto:support@fetlife.com'>support@fetlife.com</a> zu schreiben.
+      questions_title: Hast Du Fragen?
+      tab_title: Danke Dir
+      thank_you: Danke nochmal!
+    thank_you_interac:
+      cta_home: Take Me to My Feed
+      next_steps_final_default: will attach it to your profile.
+      next_steps_final_gift: will attach it to %{nickname}'s profile.
+      next_steps_first: It can <span>take a couple of hours</span> before we receive your Interac e-Transfer, but once we get it we
+      next_steps_title: 'Next Steps:'
+      page_title: Thank You <span class='baskerville i'>&amp;</span> Next Steps
+      tab_title: Thank You & Next Steps
+      thank_you: Thank You!
     title: Hilf mit, FetLife zu Unterstützen!
