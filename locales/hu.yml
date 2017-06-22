@@ -495,7 +495,23 @@ hu:
       poli: POLi Payments
       sepa: SEPA Direct Debit
     errors:
+      account_number_blank: Account Number can't be blank
+      address_blank: Address can't be blank
+      answer_blank: Answer can't be blank
+      bic_blank: BIC can't be blank
+      canceled: Transaction cancelled by user.
+      city_blank: City can't be blank
+      country_blank: Country has to be selected
       double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: Email can't be blank
+      first_name_blank: First name can't be blank
+      iban_blank: IBAN can't be blank
+      info_missing: Some information is missing. Please try again.
+      last_name_blank: Last name can't be blank
+      postal_code_blank: Postal Code can't be blank
+      question_blank: Security question can't be blank
+      routing_number_blank: Routing Number can't be blank
+      state_blank: State can't be blank
     faq:
       cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
       cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.

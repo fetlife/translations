@@ -497,6 +497,7 @@ de:
     errors:
       account_number_blank: Kontonummer ist erforderlich
       address_blank: Addresse ist erforderlich
+      answer_blank: Answer can't be blank
       bic_blank: BIC ist erforderlich
       canceled: Transaktion wurde abgebrochen.
       city_blank: Stadt ist erforderlich
@@ -505,8 +506,10 @@ de:
       email_blank: E-Mail ist erforderlich
       first_name_blank: Vorname ist erforderlich
       iban_blank: IBAN ist erforderlich
+      info_missing: Some information is missing. Please try again.
       last_name_blank: Nachname ist erforderlich
       postal_code_blank: Postleitzahl ist erforderlich
+      question_blank: Security question can't be blank
       routing_number_blank: Bankleitzahl ist erforderlich
       state_blank: Das Land muss gewählt werden
     faq:
