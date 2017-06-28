@@ -494,6 +494,10 @@ en:
       paysafe: paysafecard
       poli: POLi Payments
       sepa: SEPA Direct Debit
+      directpay: DirectPay EU
+      directpay_max: DirectPayMax
+      teleingreso: Teleingreso
+      przelewy: Przelewy24
     errors:
       account_number_blank: Account Number can't be blank
       address_blank: Address can't be blank
@@ -509,6 +513,7 @@ en:
       info_missing: Some information is missing. Please try again.
       last_name_blank: Last name can't be blank
       postal_code_blank: Postal Code can't be blank
+      bankcode_blank: Bank can't be blank
       question_blank: Security question can't be blank
       routing_number_blank: Routing Number can't be blank
       state_blank: State can't be blank
@@ -556,6 +561,18 @@ en:
       giropay:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports giropay in Germany.
         title: German Bank Transfer (giropay)
+      directpay:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: DirectPay EU
+      directpay_max:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in the US or Germany.
+        title: DirectPayMax
+      teleingreso:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Spain.
+        title: Teleingreso
+      przelewy:
+        title: Przelewy24
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
       ideal:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports iDEAL in the Netherlands.
         title: Dutch Bank Transfer (iDEAL)
@@ -636,6 +653,71 @@ en:
       wallets_list_header: 'We''ve had good experience with the following two wallet providers:'
       wallets_title: Recommended Bitcoin Wallets
       what: What is Bitcoin?
+    step3_directpay:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      country_label: Country
+      country_placeholder: Country
+      country_sub_label: associated w/ bank account
+      cta: Make DirectPay EU Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: DirectPay EU Payment
+    step3_directpay_max:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      bankcode_label: Bank
+      bankcode_placeholder: Bank
+      bankcode_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      country_label: Country
+      country_placeholder: Country
+      country_sub_label: associated w/ bank account
+      cta: Make DirectPayMax Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: DirectPayMax Payment
+    step3_przelewy:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make Przelewy24 Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Przelewy24 Payment
+    step3_teleingreso:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make Teleingreso Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Teleingreso Payment
     step3_eps:
       address_label: Address
       address_sub_label: associated w/ bank account
