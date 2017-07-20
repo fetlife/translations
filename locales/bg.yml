@@ -235,7 +235,7 @@ bg:
     groups: Групи
     home: Начало
     places: Места
-    search_placeholder: Търсене...
+    search_placeholder: Търсене
   page_break:
     of: от
   profile:
@@ -344,6 +344,7 @@ bg:
     fp: Свежо & Перверзно
     funny_quote: Ако не можеш да прочетеш това ... сигурно ти трябват очила! - Йоан 4:69
     gift_support: Подари абонамент за FetLife
+    glossary: Glossary
     groups: Групи
     guidelines: Правила
     home: Начало
@@ -351,6 +352,7 @@ bg:
     kp: Извратено & Популярно
     legalese: Правни подробности
     log_out: Излез
+    login: Login
     loved_stuff: Харесани
     need_help: Трябва ти помощ?
     open_source: Отворен код
@@ -358,6 +360,7 @@ bg:
     preservation_requests: Preservation Requests
     privacy: Поверителност
     recommendations: Препоръчани
+    signup: Signup
     subscriptions: Subscriptions
     support: Подкрепи FetLife
     terms: Условия

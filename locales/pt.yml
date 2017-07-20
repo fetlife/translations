@@ -235,7 +235,7 @@ pt:
     groups: Grupos
     home: Home
     places: Locais
-    search_placeholder: Buscar...
+    search_placeholder: Buscar
   page_break:
     of: de
   profile:
@@ -344,6 +344,7 @@ pt:
     fp: Fresh & Pervy
     funny_quote: Se você não puder ler isso ... você provavelmente precisa de óculos! - John 4:69
     gift_support: Presenteie com uma assinatura
+    glossary: Glossary
     groups: Grupos
     guidelines: Orientações
     home: Home
@@ -351,6 +352,7 @@ pt:
     kp: Kinky & Popular
     legalese: Juridiquês
     log_out: Sair
+    login: Login
     loved_stuff: Você Ama
     need_help: Precisa de Ajuda?
     open_source: Código Aberto
@@ -358,6 +360,7 @@ pt:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Recomendações
+    signup: Signup
     subscriptions: Subscriptions
     support: Apóie FetLife
     terms: Terms

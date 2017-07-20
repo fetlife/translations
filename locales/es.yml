@@ -235,7 +235,7 @@ es:
     groups: Grupos
     home: Casa
     places: Lugares
-    search_placeholder: Buscar...
+    search_placeholder: Buscar
   page_break:
     of: de
   profile:
@@ -344,6 +344,7 @@ es:
     fp: Fresco & Pervertido
     funny_quote: Si no puede leer esto ... ¡es probable que necesite gafas! - Juan 4:69
     gift_support: Regalo de Apoyo a la FetLife
+    glossary: Glossary
     groups: Grupos
     guidelines: Directrices
     home: Casa
@@ -351,6 +352,7 @@ es:
     kp: Kinky & Popular
     legalese: Leguleyos
     log_out: Cerrar sesión
+    login: Login
     loved_stuff: Cosas que Ama
     need_help: "¿Necesitas ayuda?"
     open_source: Código Abierto
@@ -358,6 +360,7 @@ es:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Recomendaciones
+    signup: Signup
     subscriptions: Subscriptions
     support: Apoyo FetLife
     terms: Terms

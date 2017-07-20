@@ -235,7 +235,7 @@ de:
     groups: Gruppen
     home: Zuhause
     places: Orte
-    search_placeholder: Suche ...
+    search_placeholder: Suche
   page_break:
     of: von
   profile:
@@ -331,7 +331,7 @@ de:
     about_fetlife: Über FetLife
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
-    androidapp: Installiere FetLife's Android App
+    androidapp: Installiere FetLife Android App
     bug_bounty: Fehler-Prämie
     caretaking: Hausmeister Werkzeuge
     change_language: Sprache Wechseln
@@ -344,6 +344,7 @@ de:
     fp: Frisch & Pervers
     funny_quote: Wenn Du das nicht lesen kannst … brauchst Du vermutlich eine Brille! - John 4:69
     gift_support: FetLife-Unterstützung schenken
+    glossary: Glossar
     groups: Gruppen
     guidelines: Richtlinien
     home: Zuhause
@@ -351,6 +352,7 @@ de:
     kp: Kinky & Beliebt
     legalese: Juristenlatein
     log_out: Ausloggen
+    login: Einloggen
     loved_stuff: Von Dir Geherzt
     need_help: Brauchst Du Hilfe?
     open_source: Open Source
@@ -358,14 +360,15 @@ de:
     preservation_requests: Preservation Requests
     privacy: Privatsphäre
     recommendations: Empfehlungen
+    signup: Registrieren
     subscriptions: Subscriptions
     support: Unterstütze FetLife
     terms: Nutzungsbedingungen
-    upload_picture: Bild Hochladen
-    upload_video: Video Hochladen
+    upload_picture: Neues Bild
+    upload_video: Neues Video
     view_friends: Freund_innen
     whats_new: Was ist Neu
-    write_post: Text Hochladen
+    write_post: Neuer Text
   signup:
     almost_there: Fast geschafft!
     error_bar: Dallas, wir haben ein Problem. Scrolle für mehr Informationen nach unten.

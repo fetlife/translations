@@ -235,7 +235,7 @@ nl:
     groups: Groepen
     home: Thuis
     places: Plaatsen
-    search_placeholder: Zoeken...
+    search_placeholder: Zoeken
   page_break:
     of: van
   profile:
@@ -344,6 +344,7 @@ nl:
     fp: Fris & Pervy
     funny_quote: Wanneer je dit niet kunt lezen ... heb je waarschijnlijk een bril nodig! - John 4:69
     gift_support: Gift ter ondersteuning van FetLife
+    glossary: Glossary
     groups: Groepen
     guidelines: Richtlijnen
     home: Thuis
@@ -351,6 +352,7 @@ nl:
     kp: Kinky & Populair
     legalese: Juristen Latijn
     log_out: Afmelden
+    login: Login
     loved_stuff: Snoepjes
     need_help: Hulp nodig?
     open_source: Open bron
@@ -358,6 +360,7 @@ nl:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Aanbevelingen
+    signup: Signup
     subscriptions: Subscriptions
     support: Ondersteun FetLife
     terms: Terms
