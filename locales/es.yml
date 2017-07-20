@@ -235,7 +235,7 @@ es:
     groups: Grupos
     home: Casa
     places: Lugares
-    search_placeholder: Buscar...
+    search_placeholder: Buscar
   page_break:
     of: de
   profile:

@@ -235,7 +235,7 @@ pt:
     groups: Grupos
     home: Home
     places: Locais
-    search_placeholder: Buscar...
+    search_placeholder: Buscar
   page_break:
     of: de
   profile:

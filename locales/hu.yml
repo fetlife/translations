@@ -235,7 +235,7 @@ hu:
     groups: Csoportok
     home: Otthon
     places: Helyek
-    search_placeholder: Keresés...
+    search_placeholder: Keresés
   page_break:
     of: "/"
   profile:

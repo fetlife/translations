@@ -235,7 +235,7 @@ gr:
     groups: Ομάδες
     home: Αρχική σελίδα
     places: Μέρη
-    search_placeholder: Αναζήτηση...
+    search_placeholder: Αναζήτηση
   page_break:
     of: of
   profile:

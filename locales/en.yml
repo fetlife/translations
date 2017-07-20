@@ -235,7 +235,7 @@ en:
     groups: Groups
     home: Home
     places: Places
-    search_placeholder: Search...
+    search_placeholder: Search
   page_break:
     of: of
   profile:
@@ -331,7 +331,7 @@ en:
     about_fetlife: About Fetlife
     ad_stats: Ad Stats
     advertising: Advertising
-    androidapp: Install FetLife's Android App
+    androidapp: Install FetLife Android App
     bug_bounty: Bug Bounty
     caretaking: Caretaker Tools
     change_language: Change Language
@@ -343,14 +343,16 @@ en:
     following: Following
     fp: Fresh & Pervy
     funny_quote: If you can't read this ... you probably need glasses! - John 4:69
-    gift_support: Gift the Support of FetLife
+    gift_support: Gift FetLife Support
+    glossary: Glossary
     groups: Groups
     guidelines: Guidelines
     home: Home
     invite_a_friend: Invite a Friend (%{count})
     kp: Kinky & Popular
     legalese: Legalese
-    log_out: Log Out
+    log_out: Logout
+    login: Login
     loved_stuff: Stuff You Love
     need_help: Need Help?
     open_source: Open Source
@@ -358,6 +360,7 @@ en:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Recommendations
+    signup: Signup
     subscriptions: Subscriptions
     support: Support FetLife
     terms: Terms

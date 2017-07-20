@@ -235,7 +235,7 @@ bg:
     groups: Групи
     home: Начало
     places: Места
-    search_placeholder: Търсене...
+    search_placeholder: Търсене
   page_break:
     of: от
   profile:

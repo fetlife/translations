@@ -235,7 +235,7 @@ it:
     groups: Gruppi
     home: Home
     places: Luoghi
-    search_placeholder: Cerca...
+    search_placeholder: Cerca
   page_break:
     of: di
   profile:
