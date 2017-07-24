@@ -488,8 +488,6 @@ fr:
     cta_labels:
       ach: Bank Transfer (ACH)
       bitcoin: Bitcoin
-      directpay: DirectPay EU
-      directpay_max: DirectPayMax
       eps: eps
       giropay: giropay
       ideal: iDEAL
@@ -558,12 +556,6 @@ fr:
       bitcoin:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
-      directpay:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: DirectPay EU
-      directpay_max:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account in the US or Germany.
-        title: DirectPayMax
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -656,43 +648,6 @@ fr:
       wallets_list_header: 'We''ve had good experience with the following two wallet providers:'
       wallets_title: Recommended Bitcoin Wallets
       what: What is Bitcoin?
-    step3_directpay:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
-      country_label: Country
-      country_placeholder: Country
-      country_sub_label: associated w/ bank account
-      cta: Make DirectPay EU Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
-      secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: DirectPay EU Payment
-    step3_directpay_max:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      bankcode_label: Bank
-      bankcode_placeholder: Bank
-      bankcode_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
-      country_label: Country
-      country_placeholder: Country
-      country_sub_label: associated w/ bank account
-      cta: Make DirectPayMax Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
-      secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: DirectPayMax Payment
     step3_eps:
       address_label: Address
       address_sub_label: associated w/ bank account
