@@ -488,8 +488,6 @@ de:
     cta_labels:
       ach: Bank Transfer (ACH)
       bitcoin: Bitcoin
-      directpay: DirectPay EU
-      directpay_max: DirectPayMax
       eps: eps
       giropay: giropay
       ideal: iDEAL
@@ -558,12 +556,6 @@ de:
       bitcoin:
         extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den uneingeweihten, helfen wir durch den Prozess.
         title: Bitcoin
-      directpay:
-        extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die mit einem SEPA-fähigen Konto in Europa.
-        title: DirectPay EU
-      directpay_max:
-        extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die mit einem Konto in den USA oder Deutschland.
-        title: DirectPayMax
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)
@@ -656,43 +648,6 @@ de:
       wallets_list_header: Wir hatten gute Erfahrungen mit den folgenden zwei Anbietern von Brieftaschen:'
       wallets_title: Empfohlende Bitcoin Brieftaschen
       what: Was ist Bitcoin?
-    step3_directpay:
-      address_label: Addresse
-      address_sub_label: zum Konto gehörig
-      city_label: Stadt
-      city_sub_label: zum Konto gehörig
-      country_label: Land
-      country_placeholder: Land
-      country_sub_label: zum Konto gehörig
-      cta: DirectPay Bezahlung durchführen
-      first_name_label: Vorname
-      first_name_sub_label: zum Konto gehörig
-      last_name_label: Nachname
-      last_name_sub_label: zum Konto gehörig
-      postal_code_label: Postleitzahl (PLZ)
-      postal_code_sub_label: zum Konto gehörig
-      secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
-      title: DirectPay Bezahlung
-    step3_directpay_max:
-      address_label: Addresse
-      address_sub_label: zum Konto gehörig
-      bankcode_label: Bank
-      bankcode_placeholder: Bank
-      bankcode_sub_label: zum Konto gehörig
-      city_label: Stadt
-      city_sub_label: zum Konto gehörig
-      country_label: Land
-      country_placeholder: Land
-      country_sub_label: zum Konto gehörig
-      cta: DirectPayMax Bezahlung durchführen
-      first_name_label: Vorname
-      first_name_sub_label: zum Konto gehörig
-      last_name_label: Nachname
-      last_name_sub_label: zum Konto gehörig
-      postal_code_label: Postleitzahl (PLZ)
-      postal_code_sub_label: zum Konto gehörig
-      secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
-      title: DirectPayMax Bezahlung
     step3_eps:
       address_label: Addresse
       address_sub_label: zum Konto gehörig
