@@ -505,6 +505,7 @@ de:
       answer_blank: Answer can't be blank
       bankcode_blank: Die Bank muss gewählt werden
       bic_blank: BIC ist erforderlich
+      bic_format: Ungültiger BIC
       canceled: Transaktion wurde abgebrochen.
       city_blank: Stadt ist erforderlich
       country_blank: Das Land muss gewählt werden

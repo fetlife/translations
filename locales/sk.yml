@@ -510,6 +510,7 @@ sk:
       answer_blank: Answer can't be blank
       bankcode_blank: Bank can't be blank
       bic_blank: BIC can't be blank
+      bic_format: Invalid BIC
       canceled: Transaction cancelled by user.
       city_blank: City can't be blank
       country_blank: Country has to be selected
