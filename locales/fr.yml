@@ -488,7 +488,7 @@ fr:
     cta_labels:
       ach: Bank Transfer (ACH)
       bitcoin: Bitcoin
-      eps: eps
+      eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
@@ -654,7 +654,7 @@ fr:
       address_sub_label: associated w/ bank account
       city_label: City
       city_sub_label: associated w/ bank account
-      cta: Make eps Payment
+      cta: Make EPS Payment
       first_name_label: First Name
       first_name_sub_label: associated w/ bank account
       last_name_label: Last Name
@@ -662,7 +662,7 @@ fr:
       postal_code_label: Postal Code
       postal_code_sub_label: associated w/ bank account
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: eps Payment
+      title: EPS Payment
     step3_giropay:
       account_number_label: 'Account #'
       account_number_placeholder: Account Number
