@@ -9,7 +9,7 @@ es:
     error: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación de arriba parece incorrecto. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelva a intentarlo."
     label: Código de autenticación
     page_title: Autentificación en dos pasos
-    subtitle: "¡2-Factorizame bebé!"
+    subtitle: "¡2-Factorizame cariño!"
     title: Código Secreto
   about:
     contact_info: Datos de contacto
@@ -126,7 +126,7 @@ es:
       5strike:
         return: volver a la portada
         subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentarlo de nuevo.
-        title: Regla los cinco intentos
+        title: Regla de los cinco intentos
       cta: Envíeme un Mensaje de Texto
       error_country_code: "<strong>Operador Kinky:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       error_quota: "<strong>Operador Kinky:</strong> Mecachis, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
