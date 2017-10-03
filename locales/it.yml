@@ -179,7 +179,7 @@ it:
     title_step2: Invio mandato
     view_invitations: visualizza i tuoi inviti
   landing_page:
-    footer: "<strong class="fw5">%{member_count} Membri</strong> stanno condividendo <strong class="fw5">%{picture_count} foto</strong> e <strong class="fw5">%{video_count} video</strong>, partecipando a <strong class="fw5">%{discussion_count} discussioni</strong> in <strong class="fw5">%{group_count} gruppi</strong>, stanno andando a <strong class="fw5">%{event_count} prossimi eventi</strong> e leggono <strong class="fw5">%{post_count} post di blog</strong>. <em>Il paradiso Kinky!</em>"
+    footer: '<strong class="fw5">%{member_count} Membri</strong> stanno condividendo <strong class="fw5">%{picture_count} foto</strong> e <strong class="fw5">%{video_count} video</strong>, partecipando a <strong class="fw5">%{discussion_count} discussioni</strong> in <strong class="fw5">%{group_count} gruppi</strong>, stanno andando a <strong class="fw5">%{event_count} prossimi eventi</strong> e leggono <strong class="fw5">%{post_count} post di blog</strong>. <em>Il paradiso Kinky!</em>'
     login_button: Accedi a FetLife
     signup_button: Iscriviti a FetLife
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?
