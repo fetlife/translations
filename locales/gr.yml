@@ -179,7 +179,7 @@ gr:
     title_step2: Πρόσκληση Στάλθηκε
     view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    footer: "<strong>%{member_count} Τα μέλη</strong>  μοιράζονται <strong>%{picture_count} εικόνες</strong> και <strong>%{video_count} βίντεο</strong>, συμμετέχουν σε <strong>%{discussion_count} συζητήσεις</strong> σε <strong>%{group_count} ομάδες</strong>, πηγαίνουν σε <strong>%{event_count} επερχόμενες εκδηλώσεις</strong> και διαβάζουν <strong>%{post_count} blog posts</strong>. <em>Kinky παράδεισος!</em>"
+    footer: "<strong class="fw5">%{member_count} Τα μέλη</strong>  μοιράζονται <strong class="fw5">%{picture_count} εικόνες</strong> και <strong class="fw5">%{video_count} βίντεο</strong>, συμμετέχουν σε <strong class="fw5">%{discussion_count} συζητήσεις</strong> σε <strong class="fw5">%{group_count} ομάδες</strong>, πηγαίνουν σε <strong class="fw5">%{event_count} επερχόμενες εκδηλώσεις</strong> και διαβάζουν <strong class="fw5">%{post_count} blog posts</strong>. <em>Kinky παράδεισος!</em>"
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;

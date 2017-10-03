@@ -179,7 +179,7 @@ en:
     title_step2: Invitation Sent
     view_invitations: view your invitations
   landing_page:
-    footer: "<strong>%{member_count} Members</strong> are sharing <strong>%{picture_count} pictures</strong> and <strong>%{video_count} videos</strong>, participating in <strong>%{discussion_count} discussions</strong> in <strong>%{group_count} groups</strong>, going to <strong>%{event_count} upcoming events</strong>, and reading <strong>%{post_count} blog posts</strong>. <em>Kinky heaven!</em>"
+    footer: "<strong class="fw5">%{member_count} Members</strong> are sharing <strong class="fw5">%{picture_count} pictures</strong> and <strong class="fw5">%{video_count} videos</strong>, participating in <strong class="fw5">%{discussion_count} discussions</strong> in <strong class="fw5">%{group_count} groups</strong>, going to <strong class="fw5">%{event_count} upcoming events</strong>, and reading <strong class="fw5">%{post_count} blog posts</strong>. <em>Kinky heaven!</em>"
     login_button: Login to FetLife
     signup_button: Signup to FetLife
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
