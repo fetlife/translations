@@ -179,7 +179,7 @@ pt:
     title_step2: Convite Enviado
     view_invitations: veja seus convites
   landing_page:
-    footer: '<strong class="fw5">%{member_count} Membros</strong> estão compartilhando <strong class="fw5">%{picture_count} fotos</strong> e <strong class="fw5">%{video_count} vídeos</strong>, participando em <strong class="fw5">%{discussion_count} discussões</strong> em <strong class="fw5">%{group_count} grupos</strong>, estão indo a <strong class="fw5">%{event_count} eventos futuros</strong> e lendo <strong class="fw5">%{post_count} postagens</strong>. <em>O paraíso da perversão!</em>'
+    footer: '<span class="fw5">%{member_count} Membros</span><span> estão compartilhando </span><span class="fw5">%{picture_count} fotos</span><span> e </span><span class="fw5">%{video_count} vídeos</span><span>, participando em </span><span class="fw5">%{discussion_count} discussões</span><span> em </span><span class="fw5">%{group_count} grupos</span><span>, estão indo a </span><span class="fw5">%{event_count} eventos futuros</span><span> e lendo </span><span class="fw5">%{post_count} postagens</span><span>. </span><span><i>O paraíso da perversão!</i></span>'
     login_button: Acessar FetLife
     signup_button: Cadastrar-se em FetLife
     subtitle: Como o Facebook, mas criada por pervertidos como você e eu. Nós achamos que é mais divertido assim. Você não acha?

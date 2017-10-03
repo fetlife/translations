@@ -179,7 +179,7 @@ es:
     title_step2: Invitación enviada
     view_invitations: ver sus invitaciones
   landing_page:
-    footer: '<strong class="fw5">%{member_count} miembros</strong> están compartiendo <strong class="fw5">%{picture_count}fotos</strong> y <strong class="fw5">%{video_count} vídeos</strong>, participan en  <strong class="fw5">%{discussion_count}</strong> discusiones en <strong class="fw5">%{group_count} grupos</strong>, van a <strong class="fw5">%{event_count} próximos eventos</strong> y leen <strong class="fw5">%{post_count} entradas de blogs</strong>. <em>¡Cielo Kinky!</em>'
+    footer: '<span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count}fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Cielo Kinky!</i></span>'
     login_button: Iniciar sesión en FetLife
     signup_button: Regístrarse en FetLife
     subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que así es más divertido. ¿Verdad?
