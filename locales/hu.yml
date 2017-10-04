@@ -179,7 +179,7 @@ hu:
     title_step2: Meghívó elküldve
     view_invitations: Meghívások megtekintése
   landing_page:
-    footer: Ebben a pillanatban <strong>%{member_count} felhasználó</strong> <strong>%{picture_count} képet</strong> és <strong>%{video_count} videót</strong> oszt meg, <strong>%{group_count} csoport</strong> <strong>%{discussion_count} beszélgetésében</strong> vesz részt, <strong>%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong>%{post_count} blog bejegyzés</strong> közül szemezget. <em>Ez itt kérem az extrém erotika fellegvára!</em>
+    footer: '<span>Ebben a pillanatban </span><span class="fw5">%{member_count} felhasználó</span> <span class="fw5">%{picture_count} képet</span><span> és </span><span class="fw5">%{video_count} videót</span><span> oszt meg, </span><span class="fw5">%{group_count} csoport</span> <span class="fw5">%{discussion_count} beszélgetésében</span><span> vesz részt, </span><span class="fw5">%{event_count} közelgő esemény</span><span> iránt érdeklődik, és </span><span class="fw5">%{post_count} blog bejegyzés</span><span> közül szemezget. </span><span><i>Ez itt kérem az extrém erotika fellegvára!</i></span>'
     login_button: Belépés
     signup_button: Regisztráció
     subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)

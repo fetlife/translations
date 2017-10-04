@@ -179,7 +179,7 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    footer: "<strong>%{member_count} члена</strong> споделят <strong>%{picture_count} снимки</strong> и <strong>%{video_count} клипа</strong>, участват в <strong>%{discussion_count} дискусии</strong> в <strong>%{group_count} групи</strong>, ще ходят на <strong>%{event_count} предстоящи събития</strong>, и четат <strong>%{post_count} публикации</strong>. <em>Извратен рай!</em>"
+    footer: '<span class="fw5">%{member_count} члена</span><span> споделят </span><span class="fw5">%{picture_count} снимки</span><span> и </span><span class="fw5">%{video_count} клипа</span><span>, участват в </span><span class="fw5">%{discussion_count} дискусии</span><span> в </span><span class="fw5">%{group_count} групи</span><span>, ще ходят на </span><span class="fw5">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw5">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>'
     login_button: Влизане във FetLife
     signup_button: Регистрация във FetLife
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?

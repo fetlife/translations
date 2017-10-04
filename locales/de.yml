@@ -179,7 +179,7 @@ de:
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
   landing_page:
-    footer: "<strong>%{member_count} Mitglieder</strong> teilen <strong>%{picture_count} Bilder</strong> und <strong>%{video_count} Videos</strong>, nehmen an <strong>%{discussion_count} Diskussionen</strong> in <strong>%{group_count} Gruppen</strong> teil, besuchen <strong>%{event_count} demnächst stattfindende Veranstaltungen</strong> und lesen <strong>%{post_count} Blog-Einträge</strong>. <em>Perverses Paradies!</em>"
+    footer: '<span class="fw5">%{member_count} Mitglieder</span><span> teilen </span><span class="fw5">%{picture_count} Bilder</span><span> und </span><span class="fw5">%{video_count} Videos</span><span>, nehmen an </span><span class="fw5">%{discussion_count} Diskussionen</span><span> in </span><span class="fw5">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw5">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw5">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>'
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?
