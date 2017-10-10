@@ -803,7 +803,7 @@ en:
       cta_home: Take Me Home
       gift_affirm: You're the best!
       gift_cta_profile: Visit %{nickname}'s Profile
-      gift_next_body: While your reading this we are giving your gift of support to <a href="%{link}">%{nickname}</a> and notifing them via email of your generous gift.
+      gift_next_body: While you're reading this we are giving your gift of support to <a href="%{link}">%{nickname}</a> and notifing them via email of your generous gift.
       gift_next_title: What's next?
       page_title: Thank You!
       questions_body: If you have any questions, please don’t hesitate to email us at <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
