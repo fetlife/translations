@@ -21,63 +21,6 @@ hu:
     snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
     title: 'Mi vagyunk a: FetLife!'
-  ad_stats:
-    actions:
-      delete: Törlés
-      duplicate: Másolás
-      edit: Szerkesztés
-      pause: Szünet
-      start: Indítás
-      unpause: Folytatás
-    actions_literal: Műveletek
-    active_ads: Aktív hirdetések
-    ad_new:
-      cta: Új hirdetés feladása
-      labels:
-        line1: 1. sor
-        line2: 2. sor
-        line3: 3. sor
-      placeholders:
-        line1: Egy szép, új játékszer ajándékba
-        line2: és egész nap arra gondol
-        line3: milyen is lesz este használatba venni
-      subtitle: Könnyű, mint az 1 x 1 = 69
-      title: Új hirdetés
-    ads: Hirdetés
-    avg_ctr: Átlag CTR
-    best: Legjobb
-    campaign_edit:
-      cta: Reklámkampány frissítése
-      labels:
-        company_name: Cég név
-        member_id: azonosító
-        slots_purchased: Megvásárolt reklámhelyek
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Reklámkampány szerkesztése
-      subtitle: 2016 Szeptember
-      title: Reklámkampány frissítése
-    campaign_new:
-      cta: Új reklámkampány
-      subtitle: 2016 Szeptember
-      title: Új reklámkampány
-    campaigns: reklámkampányok
-    clicks: Kattintások
-    ctr: CTR
-    edit: szerkesztés
-    impressions: Megjelenítések
-    last_updated: Utolsó frissítés időpontja
-    name: Név
-    new_ad: "+ új hírdetés"
-    new_campaign: "+ új kampány"
-    overview: Áttekintés
-    press_start: Nyomd meg az "Indítás" gombot, ha kész
-    slots: Reklám helyek
-    subtitle: A hírszerzés jelenti
-    title: Hirdetési statisztikák
-    updated_every: 15 percenként frissül
-    view: megtekintés
-    worst: Legrosszabb
   components:
     step: Step
   feed:

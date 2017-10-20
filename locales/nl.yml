@@ -21,63 +21,6 @@ nl:
     snail_mail: Slakken post
     sub_header: Niet te verwarren met de Spartanen.
     title: Wij. Zijn. FetLife!
-  ad_stats:
-    actions:
-      delete: Verwijderen
-      duplicate: Vermenigvuldigen
-      edit: Aanpassen
-      pause: Pause
-      start: Start
-      unpause: Verder
-    actions_literal: Akties
-    active_ads: Actieve advertenties
-    ad_new:
-      cta: Nieuwe advertentie toevoegen
-      labels:
-        line1: Regel 1
-        line2: Regel 2
-        line3: Regel 3
-      placeholders:
-        line1: juwelen
-        line2: herinner haar de hele dag
-        line3: dit kan je later verwachten
-      subtitle: makkelijk als 1, 2… 69.
-      title: Nieuwe Advertentie
-    ads: Advertenties
-    avg_ctr: Gemiddelde klik snelheid
-    best: Beste
-    campaign_edit:
-      cta: Campagne bijwerken
-      labels:
-        company_name: Bedrijfsnaam
-        member_id: deelnemer_nummer
-        slots_purchased: aangeschafte advertenties
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Campagne bewerken
-      subtitle: September 2016
-      title: Campagne bijwerken
-    campaign_new:
-      cta: Nieuwe campagne
-      subtitle: September 2016
-      title: Nieuwe campagne
-    campaigns: Campagnes
-    clicks: kliks
-    ctr: klik snelheid
-    edit: berwerken
-    impressions: Impressies
-    last_updated: Statistieken voor het laatst bijgewerkt
-    name: Naam
-    new_ad: "+ nieuwe advertentie"
-    new_campaign: "+ nieuwe campagne"
-    overview: Overzicht
-    press_start: Wanneer gereed druk "Start".
-    slots: advertentieplaatsen
-    subtitle: Ground control to Major Tom.
-    title: Advertentie statistieken
-    updated_every: Iedere 15 minuten bijgewerkt
-    view: bekijken
-    worst: Slechtste
   components:
     step: Step
   feed:

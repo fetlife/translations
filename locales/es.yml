@@ -21,63 +21,6 @@ es:
     snail_mail: Correo postal
     sub_header: No se confunda con los espartanos.
     title: Nosotros. Somos. ¡FetLife!
-  ad_stats:
-    actions:
-      delete: Borrar
-      duplicate: Duplicar
-      edit: Editar
-      pause: Pausar
-      start: Comenzar
-      unpause: Reanudar
-    actions_literal: Acciones
-    active_ads: Anuncios activos
-    ad_new:
-      cta: Sube Anuncio Nuevo
-      labels:
-        line1: Línea 1
-        line2: Línea 2
-        line3: Línea 3
-      placeholders:
-        line1: Joyería Insertable
-        line2: Recordarle todo el día
-        line3: lo que le espera más adelante
-      subtitle: Tan fácil como 1, 2 ... 69.
-      title: Anuncio Nuevo
-    ads: Anuncios
-    avg_ctr: Promedio CTR
-    best: Mejor
-    campaign_edit:
-      cta: Actualizar campaña
-      labels:
-        company_name: Nombre de Empresa
-        member_id: Identificación de miembro
-        slots_purchased: Ranuras Compradas
-        website_name: Nombre de la Web
-        website_url: Dirección de la Web
-      page_title: Modificación de la Campaña
-      subtitle: Septiembre del 2016
-      title: Actualizar campaña
-    campaign_new:
-      cta: Campaña Nueva
-      subtitle: Septiembre del 2016
-      title: Campaña Nueva
-    campaigns: Campañas
-    clicks: Clics
-    ctr: CTR
-    edit: editar
-    impressions: Impresiones
-    last_updated: Última actualización de las estadísticas
-    name: Nombre
-    new_ad: "+ anuncio nuevo "
-    new_campaign: "+ Campaña Nueva "
-    overview: Vista general
-    press_start: Pulse el botón "Inicio" cuando esté listo.
-    slots: Ranuras
-    subtitle: Sala de control a Comandante Tom.
-    title: Estadísticas de anuncios
-    updated_every: Actualizar cada 15 minutos
-    view: ver
-    worst: Peor
   components:
     step: Step
   feed:

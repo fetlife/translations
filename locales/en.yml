@@ -21,63 +21,6 @@ en:
     snail_mail: Snail Mail
     sub_header: Not to be confused with the Spartans.
     title: We. Are. FetLife!
-  ad_stats:
-    actions:
-      delete: Delete
-      duplicate: Duplicate
-      edit: Edit
-      pause: Pause
-      start: Start
-      unpause: Unpause
-    actions_literal: Actions
-    active_ads: Active Ads
-    ad_new:
-      cta: Upload New Ad
-      labels:
-        line1: Line 1
-        line2: Line 2
-        line3: Line 3
-      placeholders:
-        line1: Insertable Jewelry
-        line2: Remind her all day long
-        line3: what's waiting for later
-      subtitle: Easy as 1, 2… 69.
-      title: New Ad
-    ads: Ads
-    avg_ctr: Avg CTR
-    best: Best
-    campaign_edit:
-      cta: Update Campaign
-      labels:
-        company_name: Company Name
-        member_id: member_id
-        slots_purchased: Slots Purchased
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Edit Campaign
-      subtitle: September 2016
-      title: Update Campaign
-    campaign_new:
-      cta: New Campaign
-      subtitle: September 2016
-      title: New Campaign
-    campaigns: Campaigns
-    clicks: Clicks
-    ctr: CTR
-    edit: edit
-    impressions: Impressions
-    last_updated: Stats last updated
-    name: Name
-    new_ad: "+ new ad"
-    new_campaign: "+ new campaign"
-    overview: Overview
-    press_start: Press "Start" when ready.
-    slots: Slots
-    subtitle: Ground control to Major Tom.
-    title: Ad Stats
-    updated_every: Updated every 15 minutes
-    view: view
-    worst: Worst
   components:
     step: Step
   feed:

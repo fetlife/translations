@@ -21,63 +21,6 @@ fr:
     snail_mail: Courrier papier
     sub_header: À ne pas confondre avec les spartiates
     title: Nous. Sommes. FetLife !
-  ad_stats:
-    actions:
-      delete: Effacer
-      duplicate: Dupliquer
-      edit: Modifier
-      pause: Pause
-      start: Démarrer
-      unpause: Reprendre
-    actions_literal: Actions
-    active_ads: Annonces actives
-    ad_new:
-      cta: Poster une nouvelle annonce
-      labels:
-        line1: Ligne 1
-        line2: Ligne 2
-        line3: Ligne 3
-      placeholders:
-        line1: Bijoux insérables
-        line2: Lui rappeler toute la journée
-        line3: ce qui l’attend plus tard
-      subtitle: Facile comme 1, 2… 69.
-      title: Nouvelle annonce
-    ads: Annonces
-    avg_ctr: CTR moyen
-    best: Meilleur
-    campaign_edit:
-      cta: Mettre à jour la campagne
-      labels:
-        company_name: Nom de la compagnie
-        member_id: member_id
-        slots_purchased: Emplacements achetés
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Modifier la campagne
-      subtitle: Septembre 2016
-      title: Mettre à jour la campagne
-    campaign_new:
-      cta: Nouvelle campagne
-      subtitle: Septembre 2016
-      title: Nouvelle campagne
-    campaigns: Campagnes
-    clicks: Clics
-    ctr: CTR
-    edit: modifier
-    impressions: Impressions
-    last_updated: Dernière mise à jour des statistiques
-    name: Nom
-    new_ad: "+ nouvelle annonce"
-    new_campaign: "+ nouvelle campagne"
-    overview: Aperçu
-    press_start: Cliquer “Démarrer” dès que vous êtes prêt.
-    slots: Emplacements
-    subtitle: Contrôle au sol à Major Tom.
-    title: Statistiques d’annonces
-    updated_every: Mises à jour toutes les 15 minutes
-    view: vue
-    worst: Pire
   components:
     step: Step
   feed:

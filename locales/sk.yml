@@ -21,63 +21,6 @@ sk:
     snail_mail: Pošta
     sub_header: Nemýliť so Sparťanmi.
     title: My. Sme. FetLife!
-  ad_stats:
-    actions:
-      delete: Vymazať
-      duplicate: Zduplikovať
-      edit: Upraviť
-      pause: Pozastaviť
-      start: Spustiť
-      unpause: Znovu spustiť
-    actions_literal: Akcie
-    active_ads: Aktívne reklamy
-    ad_new:
-      cta: Nahrať novú reklamu
-      labels:
-        line1: Riadok 1
-        line2: Riadok 2
-        line3: Riadok 3
-      placeholders:
-        line1: Insertable Jewelry
-        line2: Remind her all day long
-        line3: what's waiting for later
-      subtitle: Jednoduché ako 1, 2… 69.
-      title: Nová reklama
-    ads: Reklamy
-    avg_ctr: Priemerný CTR
-    best: Najlepší
-    campaign_edit:
-      cta: Upraviť kampaň
-      labels:
-        company_name: Meno firmy
-        member_id: member_id
-        slots_purchased: Zakúpené sloty
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Upraviť kampaň
-      subtitle: September 2016
-      title: Upraviť kampaň
-    campaign_new:
-      cta: Nová kampaň
-      subtitle: September 2016
-      title: Nová kampaň
-    campaigns: Kampane
-    clicks: Kliknutia
-    ctr: CTR
-    edit: upraviť
-    impressions: Impresie
-    last_updated: Štatistiky naposledy aktualizované
-    name: Meno
-    new_ad: "+ nová reklama"
-    new_campaign: "+ nová kampaň"
-    overview: Prehľad
-    press_start: Stlač "Spustiť", keď si pripravený.
-    slots: Sloty
-    subtitle: Riadiace centrum Ivana Bellu.
-    title: Reklamné sloty
-    updated_every: Aktualizované každých 15 minút
-    view: zobraz
-    worst: Najhoršie
   components:
     step: Step
   feed:
