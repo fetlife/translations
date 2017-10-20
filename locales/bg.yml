@@ -21,63 +21,6 @@ bg:
     snail_mail: Поща
     sub_header: Не ни бъркай със спартанците.
     title: Ние. Сме. FetLife!
-  ad_stats:
-    actions:
-      delete: Изтрий
-      duplicate: Копирай
-      edit: Промени
-      pause: Паузирай
-      start: Започни
-      unpause: Продължи
-    actions_literal: Действия
-    active_ads: Активни реклами
-    ad_new:
-      cta: Качи нова реклама
-      labels:
-        line1: Ред 1
-        line2: Ред 2
-        line3: Ред 3
-      placeholders:
-        line1: Бижутерия за вътрешна употреба
-        line2: Напомняй ѝ през целия ден
-        line3: какво я чака после
-      subtitle: Лесно като 1, 2… 69.
-      title: Нова реклама
-    ads: Реклами
-    avg_ctr: Средна честота на кликване
-    best: Най-добро
-    campaign_edit:
-      cta: Промени кампанията
-      labels:
-        company_name: Име на фирмата
-        member_id: member_id
-        slots_purchased: Закупени места
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Промени кампанията
-      subtitle: Септември 2016
-      title: Промени кампанията
-    campaign_new:
-      cta: Нова кампания
-      subtitle: Септември 2016
-      title: Нова кампания
-    campaigns: Рекламни кампании
-    clicks: Кликвания
-    ctr: Честота на кликване
-    edit: промени
-    impressions: Виждания
-    last_updated: Статистиката е последно обновена на
-    name: Име
-    new_ad: "+ нова реклама"
-    new_campaign: "+ нова кампания"
-    overview: Преглед
-    press_start: Натиснете "Започни" когато сте готови.
-    slots: Места
-    subtitle: Майор Том, говори "Наземен контрол".
-    title: Рекламна статистика
-    updated_every: Обновява се на всеки 15 минути
-    view: виж
-    worst: Най-лошо
   components:
     step: Step
   feed:

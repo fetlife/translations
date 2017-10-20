@@ -21,63 +21,6 @@ de:
     snail_mail: Schneckenpost
     sub_header: Nicht zu verwechseln mit den Spartanern.
     title: Wir. Sind. FetLife!
-  ad_stats:
-    actions:
-      delete: Löschen
-      duplicate: Duplizieren
-      edit: Bearbeiten
-      pause: Pausieren
-      start: Start
-      unpause: Wieder Starten
-    actions_literal: Aktionen
-    active_ads: Aktive Anzeigen
-    ad_new:
-      cta: Neue Anzeige Hochladen
-      labels:
-        line1: Zeile 1
-        line2: Zeile 2
-        line3: Zeile 3
-      placeholders:
-        line1: Einführbarer Schmuck
-        line2: Erinnere sie den ganzen Tag
-        line3: was später auf sie warten mag
-      subtitle: So einfach wie 1, 2 … 69.
-      title: Neue Anzeige
-    ads: Anzeigen
-    avg_ctr: Durchschnittliche Klickrate
-    best: Beste
-    campaign_edit:
-      cta: Kampagne Aktualisieren
-      labels:
-        company_name: Firmenname
-        member_id: ID des Mitgliedskontos
-        slots_purchased: Gekaufte Anzeigenplätze
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Editiere Kampagne
-      subtitle: September 2016
-      title: Kampagne Aktualisieren
-    campaign_new:
-      cta: Neue Kampagne
-      subtitle: September 2016
-      title: Neue Kampagne
-    campaigns: Kampagnen
-    clicks: Klicks
-    ctr: Klickrate
-    edit: bearbeite
-    impressions: Auflage
-    last_updated: Anzeigen zuletzt aktualisiert
-    name: Name
-    new_ad: "+ neue Anzeige"
-    new_campaign: "+ neue Kampagne"
-    overview: Überblick
-    press_start: Klicke „Start“, wenn Du fertig bist.
-    slots: Anzeigenplätze
-    subtitle: Ground control to Major Tom.
-    title: Anzeigen-Statistik
-    updated_every: Alle 15 Minuten aktualisieren
-    view: zeige
-    worst: Schlechteste
   components:
     step: Schritt
   feed:

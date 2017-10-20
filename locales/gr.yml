@@ -21,63 +21,6 @@ gr:
     snail_mail: Αργό Ταχυδρομείο
     sub_header: Μην το μπερδεύετε με τους Σπαρτιάτες.
     title: Είμαστε το FetLife!
-  ad_stats:
-    actions:
-      delete: Διαγραφή
-      duplicate: Αντιγραφή
-      edit: Επεξεργασία
-      pause: Παύση
-      start: Αρχή
-      unpause: Αναίρεση παύσης
-    actions_literal: Δράσεις
-    active_ads: Ενεργές διαφημίσεις
-    ad_new:
-      cta: Φορτώστε νέα διαφήμιση
-      labels:
-        line1: Γραμμή 1
-        line2: Γραμμή 2
-        line3: Γραμμή 3
-      placeholders:
-        line1: Εισαγόμενα κοσμήματα
-        line2: Θυμήστε της όλη τη μέρα...
-        line3: τι την περιμένει αργότερα
-      subtitle: Εύκολο όπως το 1, 2… 69.
-      title: Νέα διαφήμιση
-    ads: Διαφημίσεις
-    avg_ctr: Μέσο CTR
-    best: Kαλύτερος
-    campaign_edit:
-      cta: Ενημέρωση Καμπάνιας
-      labels:
-        company_name: Όνομα Εταιρίας
-        member_id: member_id
-        slots_purchased: Αγορασμένα Slots
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Επεξεργασία Καμπάνιας
-      subtitle: Σεπτέμβριος 2016
-      title: Ενημέρωση Καμπάνιας
-    campaign_new:
-      cta: Καινούρια Καμπάνια
-      subtitle: Σεπτέμβριος 2016
-      title: Καινούρια Καμπάνια
-    campaigns: Καμπάνιες
-    clicks: Kλίκς
-    ctr: CTR
-    edit: Επεξεργασία
-    impressions: Εντυπώσεις
-    last_updated: Τελευταία ενημέρωση στατιστικών
-    name: Όνομα
-    new_ad: "+ καινούρια διαφήμιση"
-    new_campaign: "+ καινούρια καμπάνια"
-    overview: Επισκόπηση
-    press_start: Πατήστε "έναρξη" όταν είστε έτοιμοι
-    slots: Slots
-    subtitle: Χειριστής εδάφους καλεί Αρχηγείο.
-    title: Στατιστικά Διαφήμισης
-    updated_every: Ενημέρωση κάθε 15 λεπτά
-    view: Προβολή
-    worst: Χειρότερος
   components:
     step: Step
   feed:

@@ -21,63 +21,6 @@ pt:
     snail_mail: Correio
     sub_header: Não confundir com os Spartans.
     title: Nós. Somos. FetLife!
-  ad_stats:
-    actions:
-      delete: Excluir
-      duplicate: Duplicar
-      edit: Editar
-      pause: Pausar
-      start: Iniciar
-      unpause: Despausar
-    actions_literal: Ações
-    active_ads: Anúncios Ativos
-    ad_new:
-      cta: Enviar Novo Anúncio
-      labels:
-        line1: Linha 1
-        line2: Linha 2
-        line3: Linha 3
-      placeholders:
-        line1: Insertable Jewelry
-        line2: Remind her all day long
-        line3: what's waiting for later
-      subtitle: Fácil como 1, 2… 69.
-      title: Novo Anúncio
-    ads: Anúncios
-    avg_ctr: CTR Médio
-    best: Melhor
-    campaign_edit:
-      cta: Atualizar Campanha
-      labels:
-        company_name: Nome da Empresa
-        member_id: member_id
-        slots_purchased: Espaços Adquiridos
-        website_name: Website Name
-        website_url: Website URL
-      page_title: Editar Campanha
-      subtitle: Setembro 2016
-      title: Atualizar Campanha
-    campaign_new:
-      cta: Nova Campanha
-      subtitle: Setembro 2016
-      title: Nova Campanha
-    campaigns: Campanhas
-    clicks: Cliques
-    ctr: CTR
-    edit: editar
-    impressions: Impressões
-    last_updated: Estatísticas atualizadas em
-    name: Nome
-    new_ad: "+ novo anúncio"
-    new_campaign: "+ nova campanha"
-    overview: Visão Geral
-    press_start: Pressione "Iniciar" quando estiver pronto.
-    slots: Espaços
-    subtitle: Ground control to Major Tom.
-    title: Estatísticas de Anúncios
-    updated_every: Atualizado a cada 15 minutos
-    view: ver
-    worst: Pior
   components:
     step: Step
   feed:
