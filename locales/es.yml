@@ -477,7 +477,7 @@ es:
       question_q: P. ¿Tiene usted alguna pregunta?
       renew_a: Jamás. Queremos ganarnos tu apoyo cada vez.
       renew_q: P. ¿Renuevan mi apoyo automáticamente?
-      return_a: Si en siete días no esta satisfecho le devolvemos su dinero. La única excepción es si usted apoya Fetlife canjeando una tarjeta regalo. Debido a como funcionan estas tarjetas estas compras son definitivas.
+      return_a: Si en siete días no esta satisfecho le devolvemos su dinero. Sin embargo, desafortunadamente, si usted nos apoya canjeando una tarjeta regalo, usando POLi o Paysafecard, debido a como funcionan estos servicios, estas compras son definitivas.
       return_q: P. ¿Cual es su política de devoluciones?
       secure_a: Si, mucho. Los servidores de FetLife no almacenan ninguna información personal. Solo la usamos para procesar los cargos y nada más.
       secure_q: P. ¿Esto es seguro?
