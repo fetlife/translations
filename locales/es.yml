@@ -329,7 +329,7 @@ es:
     error_role_required: Se requiere su rol
     error_sexual_orientation_required: Se requiere su orientación sexual
     error_state_missing: Debe seleccionar un Estado/Provincia
-    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a href="%{guidelines_path}"> Normas de la comunidad</a> y<a href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
+    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
     label:
       birthdate: Fecha de Nacimiento
       city: Ciudad

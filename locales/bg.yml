@@ -329,7 +329,7 @@ bg:
     error_role_required: Трябва да избереш роля
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация
     error_state_missing: Трябва да избереш област
-    footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a href="%{guidelines_path}">Правила на общността</a> и <a href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
+    footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a class="silver" href="%{guidelines_path}">Правила на общността</a> и <a class="silver" href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
     label:
       birthdate: Дата на раждане
       city: Град
