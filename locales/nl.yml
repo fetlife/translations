@@ -329,7 +329,7 @@ nl:
     error_role_required: Rol moet worden gekozen
     error_sexual_orientation_required: Sexuele orientatie moet worden gekozen
     error_state_missing: Provincie moet worden geselecteerd
-    footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
+    footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a class="silver" href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a class="silver" href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
     label:
       birthdate: Geboortedatum
       city: Plaats

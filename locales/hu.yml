@@ -329,7 +329,7 @@ hu:
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező
     error_state_missing: A megye kiválasztása kötelező.
-    footnote: A továbblépéssel elfogadod, hogy követed a <a href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.
+    footnote: A továbblépéssel elfogadod, hogy követed a <a class="silver" href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a class="silver" href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.
     label:
       birthdate: Születési idő
       city: Város

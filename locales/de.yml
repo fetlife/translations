@@ -329,7 +329,7 @@ de:
     error_role_required: Die Rolle muss gewählt werden
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden
     error_state_missing: Das Bundesland muss gewählt werden.
-    footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
+    footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a class="silver" href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a class="silver" href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
     label:
       birthdate: Geburtsdatum
       city: Stadt

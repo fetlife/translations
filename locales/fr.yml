@@ -329,7 +329,7 @@ fr:
     error_role_required: Rôle doit être sélectionnée
     error_sexual_orientation_required: Orientation sexuelle doit être sélectionnée
     error_state_missing: Etat/Province doit être sélectionnée
-    footnote: En cliquant sur le bouton au dessus vous acceptez de respecter et suivre notre <a href="%{guidelines_path}">Lignes Directrices Communautaires</a> et <a href="%{tou_path}">Conditions d'Utilisation</a>&hellip; Pas de reprise.
+    footnote: En cliquant sur le bouton au dessus vous acceptez de respecter et suivre notre <a class="silver" href="%{guidelines_path}">Lignes Directrices Communautaires</a> et <a class="silver" href="%{tou_path}">Conditions d'Utilisation</a>&hellip; Pas de reprise.
     label:
       birthdate: Date de Naissance
       city: Ville
