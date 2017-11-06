@@ -352,7 +352,7 @@ sk:
     subtitle_invite: Uživateľ %{name} ťa pozval na FetLife.
     title: Vitaj doma
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
+    pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a style="silver" href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
     say_cheese: Povedz "syyyyyr"!
     subtitle: Ľudia s profilovou fotkou majú 69x viac zábavy!
     title: Nahrať profilovú fotku

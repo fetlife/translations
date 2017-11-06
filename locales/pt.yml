@@ -347,7 +347,7 @@ pt:
     subtitle_invite: "%{name} lhe convidou a participar do FetLife."
     title: Boas Vindas
   signup_avatar:
-    pro_tip: '<strong>Dica</strong>: Se você for uma pessoa tímida, seja criativo e mostre um lado diferente! Ou, se preferir, você pode <a href="%{next_step_path}">pular esse passo</a> agora.'
+    pro_tip: '<strong>Dica</strong>: Se você for uma pessoa tímida, seja criativo e mostre um lado diferente! Ou, se preferir, você pode <a style="silver" href="%{next_step_path}">pular esse passo</a> agora.'
     say_cheese: Diga X!
     subtitle: Pessoas com fotos de perfil se divertem 69x mais!
     title: Envie uma Foto de Perfil

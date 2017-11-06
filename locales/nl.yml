@@ -347,7 +347,7 @@ nl:
     subtitle_invite: "%{name} nodigt jou om lid te worden van FetLife."
     title: Welkom thuis
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, wees dan creatief en laat een andere kant van jezelf zien! Of je kan <a href="%{next_step_path}">deze stap</a> voor nu overslaan als je dat liever hebt.'
+    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, wees dan creatief en laat een andere kant van jezelf zien! Of je kan <a style="silver" href="%{next_step_path}">deze stap</a> voor nu overslaan als je dat liever hebt.'
     say_cheese: Effe lachen!
     subtitle: Mensen met een avatar hebben 69x meer plezier!
     title: Avatar toevoegen
