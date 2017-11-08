@@ -347,7 +347,7 @@ en:
     subtitle_invite: "%{name} invited you to join FetLife."
     title: Welcome Home
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a href="%{next_step_path}">skip this step</a> for now.'
+    pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a class="silver" href="%{next_step_path}">skip this step</a> for now.'
     say_cheese: Say Cheese!
     subtitle: People with avatars have 69x more fun!
     title: Upload an Avatar
@@ -376,7 +376,7 @@ en:
     cta: Complete Signup & Verification
     incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
     label: Verification Code
-    notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a href="%{back_path}">update your number and we'll send you a new verification code</a>.
+    notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="silver" href="%{back_path}">update your number and we'll send you a new verification code</a>.
     notice_error: "<strong>P.S.</strong> Nice to meet you!"
     page_title: Enter Verification Code
     placeholder: 6-Digit Verification Code

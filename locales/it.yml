@@ -347,7 +347,7 @@ it:
     subtitle_invite: "%{name} ti ha invitat* ad iscriverti a FetLife."
     title: Benvenuto a casa
   signup_avatar:
-    pro_tip: '<strong>Consiglio Pro</strong>: Se sei timid* e preferisci non mostrare il tuo volto, non esitare a essere creativ* e mostrare un lato diverso di te! O, se preferisci, puoi <a href="%{next_step_path}">saltare questo passaggio</a> per adesso.'
+    pro_tip: '<strong>Consiglio Pro</strong>: Se sei timid* e preferisci non mostrare il tuo volto, non esitare a essere creativ* e mostrare un lato diverso di te! O, se preferisci, puoi <a class="silver" href="%{next_step_path}">saltare questo passaggio</a> per adesso.'
     say_cheese: Di' Cheese!
     subtitle: Le persone con avatar hanno 69 volte più divertimento!
     title: Carica un avatar
@@ -376,7 +376,7 @@ it:
     cta: Completa l'iscrizione e la verifica
     incorrect_code: "<strong>Operatore Kinky:</strong> Doh&hellip; il codice di verifica non sembra valido. Ti preghiamo di verificare che il numero di cui sopra corrisponde a quello che hai ricevuto da noi e di riprovare."
     label: Codice di verifica
-    notice: Abbiamo inviato il codice di verifica a <strong>%{phone_number}</strong>. Se dopo un paio di minuti non si riceve un messaggio di testo da noi, <a href="%{back_path}">aggiorna il tuo numero e ti invieremo un nuovo codice di verifica</a>.
+    notice: Abbiamo inviato il codice di verifica a <strong>%{phone_number}</strong>. Se dopo un paio di minuti non si riceve un messaggio di testo da noi, <a class="silver" href="%{back_path}">aggiorna il tuo numero e ti invieremo un nuovo codice di verifica</a>.
     notice_error: "<strong>P.S.</strong>Piacere di conoscerti!"
     page_title: Inserisci il codice di verifica
     placeholder: Codice di verifica a 6 numeri

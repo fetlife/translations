@@ -352,7 +352,7 @@ sk:
     subtitle_invite: Uživateľ %{name} ťa pozval na FetLife.
     title: Vitaj doma
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
+    pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a class="silver" href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
     say_cheese: Povedz "syyyyyr"!
     subtitle: Ľudia s profilovou fotkou majú 69x viac zábavy!
     title: Nahrať profilovú fotku
@@ -381,7 +381,7 @@ sk:
     cta: Dokonči registráciu a verifikáciu
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
     label: Verfikačný kód
-    notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
+    notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a class="silver" href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
     notice_error: "<strong>P.S.</strong> Teší nás!"
     page_title: Zadaj verfikačný kód
     placeholder: 6-miestny verfikačný kód

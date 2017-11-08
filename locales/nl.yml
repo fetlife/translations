@@ -347,7 +347,7 @@ nl:
     subtitle_invite: "%{name} nodigt jou om lid te worden van FetLife."
     title: Welkom thuis
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, wees dan creatief en laat een andere kant van jezelf zien! Of je kan <a href="%{next_step_path}">deze stap</a> voor nu overslaan als je dat liever hebt.'
+    pro_tip: '<strong>Pro Tip</strong>: Wanneer je verlegen bent en niet graag je gezicht wil laten zien, wees dan creatief en laat een andere kant van jezelf zien! Of je kan <a class="silver" href="%{next_step_path}">deze stap</a> voor nu overslaan als je dat liever hebt.'
     say_cheese: Effe lachen!
     subtitle: Mensen met een avatar hebben 69x meer plezier!
     title: Avatar toevoegen
@@ -376,7 +376,7 @@ nl:
     cta: Voltooi inschrijving & controle
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
     label: Controle Code
-    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
+    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="silver" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
     notice_error: "<strong>P.S.</strong> Leuk je te ontmoeten!"
     page_title: Voer de controle code in
     placeholder: 6-cijferige controle code
