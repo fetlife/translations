@@ -376,7 +376,7 @@ pt:
     cta: Completar Inscrição e Verificação
     incorrect_code: "<strong>Operador Pervertido:</strong> Doh&hellip; o código que você inseriu parece ser inválido. Por favor verifique se os números conferem."
     label: Código de Verificação
-    notice: Nós enviamos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber as mensagens, <a href="%{back_path}">atualize seu número e nós vamos lhe enviar uma mensagem</a>.
+    notice: Nós enviamos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber as mensagens, <a class="silver" href="%{back_path}">atualize seu número e nós vamos lhe enviar uma mensagem</a>.
     notice_error: "<strong>P.S.</strong> Prazer em te conhecer!"
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação em 6 dígitos
