@@ -347,7 +347,7 @@ es:
     subtitle_invite: "%{name} le invitó a unirse a FetLife."
     title: Bienvenido a casa
   signup_avatar:
-    pro_tip: '<strong>Sugerencia de veterano</strong>: Si es usted tímido y prefiere no mostrar su cara, ¡no dude en ser creativo y mostrar un lado diferente de usted! O si lo prefiere, puede <a style="silver" href="%{next_step_path}">omitir este paso</a> por ahora.'
+    pro_tip: '<strong>Sugerencia de veterano</strong>: Si es usted tímido y prefiere no mostrar su cara, ¡no dude en ser creativo y mostrar un lado diferente de usted! O si lo prefiere, puede <a class="silver" href="%{next_step_path}">omitir este paso</a> por ahora.'
     say_cheese: "Diga ¡patata!"
     subtitle: "¡La gente con avatar se lo pasan 69 veces mejor!"
     title: Suba un Avatar

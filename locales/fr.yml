@@ -347,7 +347,7 @@ fr:
     subtitle_invite: "%{name} Vous invite à joindre Fetlife."
     title: Bienvenue à la Maison
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: Si vous êtes timide et préfèrent ne pas montrer votre visage, n''hésite pas à devenir créatif et montrer un coté différent de vous! Ou si vous préférez, vous pouvez <a style="silver" href="%{next_step_path}">sauter cette étape</a> pour maintenant.'
+    pro_tip: '<strong>Pro Tip</strong>: Si vous êtes timide et préfèrent ne pas montrer votre visage, n''hésite pas à devenir créatif et montrer un coté différent de vous! Ou si vous préférez, vous pouvez <a class="silver" href="%{next_step_path}">sauter cette étape</a> pour maintenant.'
     say_cheese: Dites Cheese!
     subtitle: Personnes avec avatars avont 69x plus de plaisir!
     title: Télécharger un Avatar

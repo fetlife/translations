@@ -347,7 +347,7 @@ hu:
     subtitle_invite: "%{name} meghívott, hogy csatlakozz a FetLife közösséghez."
     title: Isten hozott itthon
   signup_avatar:
-    pro_tip: '<strong>A profi tanácsa</strong>: Ha szégyenlős vagy és nem szeretnéd megmutatni az arcod, rajta! Légy kreatív és mutasd meg a sötét... mármint egy másik oldalad ;) De akár <a style="silver" href="%{next_step_path}">ki is hagyhatod ezt a lépést</a>.'
+    pro_tip: '<strong>A profi tanácsa</strong>: Ha szégyenlős vagy és nem szeretnéd megmutatni az arcod, rajta! Légy kreatív és mutasd meg a sötét... mármint egy másik oldalad ;) De akár <a class="silver" href="%{next_step_path}">ki is hagyhatod ezt a lépést</a>.'
     say_cheese: Most repül a kis madár!
     subtitle: A profilképpel rendelkező felhasználók 69x boldogabbak!
     title: Profil kép feltöltése
