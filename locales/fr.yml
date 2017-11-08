@@ -376,7 +376,7 @@ fr:
     cta: Complèter Inscription & Vérification
     incorrect_code: "<strong>Kinky Opérateur:</strong> Doh&hellip; le code de vérification que vous avez entré semble incorrect. S'il vous plaît veuillez vérifier que le numéro ci-dessus correspond à ce que vous avez reçu de nous et essayez à nouveau."
     label: Code de Vérification
-    notice: Nous avons envoyeé le code de vérification à <strong>%{phone_number}</strong>. Si après quelques minutes vous ne recevez pas un message texte de nous, <a href="%{back_path}">Mettre à jour votre numéro et nous vous envoyons un nouveau code de vérification</a>.
+    notice: Nous avons envoyeé le code de vérification à <strong>%{phone_number}</strong>. Si après quelques minutes vous ne recevez pas un message texte de nous, <a class="silver" href="%{back_path}">Mettre à jour votre numéro et nous vous envoyons un nouveau code de vérification</a>.
     notice_error: "<strong>P.S.</strong> Enchanté de vous rencontrer!"
     page_title: Entrez le Code de Vérification
     placeholder: 6-Chiffres Code de Vérification

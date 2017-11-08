@@ -376,7 +376,7 @@ de:
     cta: Schließe Registrierung & Verifikation ab
     incorrect_code: "<strong>Kinky Operator:</strong> Nein &hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
     label: Verifikationsnummer
-    notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
+    notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="silver" href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
     notice_error: "<strong>P.S.</strong> Schön, Dich kennenzulernen!"
     page_title: Verifikationsnummer Eingeben
     placeholder: sechsstellige Verifikationsnummer

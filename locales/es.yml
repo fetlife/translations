@@ -376,7 +376,7 @@ es:
     cta: Complete la Registración y Verificación
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de Verificación
-    notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
+    notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
     notice_error: "<strong>P.D.</strong> ¡Encantado de conocerle!"
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
