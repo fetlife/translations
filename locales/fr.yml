@@ -112,7 +112,7 @@ fr:
     invitations_sent: Invitations envoyées
     labels:
       friends_email: Addresse mail de ton ami
-      friends_email_sub: %{count} invitations remaining
+      friends_email_sub: (%{count} invitations remaining)
     next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:
