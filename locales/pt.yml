@@ -112,6 +112,7 @@ pt:
     invitations_sent: Convites Enviados
     labels:
       friends_email: Endereço de Email do amigo
+      friends_email_sub: %{count} invitations remaining
     next_step: próximo passo
     return_to_feed: retornar ao feed
     subtitle_step1:

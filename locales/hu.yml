@@ -112,6 +112,7 @@ hu:
     invitations_sent: Meghívó kiküldve
     labels:
       friends_email: Az ismerősöd email címe
+      friends_email_sub: %{count} invitations remaining
     next_step: következő lépés
     return_to_feed: vissza a kályhához
     subtitle_step1:
