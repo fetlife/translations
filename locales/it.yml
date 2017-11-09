@@ -112,7 +112,7 @@ it:
     invitations_sent: Inviti mandati
     labels:
       friends_email: L'indirizzo email dell'amic*
-      friends_email_sub: (%{count} invitations remaining)
+      friends_email_sub: '%{count} invitations remaining'
     next_step: passo successivo
     return_to_feed: ritorna al feed
     subtitle_step1:

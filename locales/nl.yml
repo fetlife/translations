@@ -112,7 +112,7 @@ nl:
     invitations_sent: Uitnodigingen verstuurd
     labels:
       friends_email: Vriend's Email Adres
-      friends_email_sub: (%{count} invitations remaining)
+      friends_email_sub: '%{count} invitations remaining'
     next_step: volgende stap
     return_to_feed: terug naar activiteiten overzicht
     subtitle_step1:
