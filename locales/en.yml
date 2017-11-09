@@ -106,12 +106,13 @@ en:
   invite_a_friend:
     cancel_button: cancel
     cancel_notice: The invitation to %{email} has been canceled.
-    cta: Invite a Friend to Join FetLife
+    cta: Invite Your Friend to Join FetLife
     error: We're having problems sending an invite to the above email address. We recommend you verify the spelling or try a different one.
     invitations_accepted: Invitations Accepted
     invitations_sent: Invitations Sent Out
     labels:
-      friends_email: Friend's Email Address
+      friends_email: 'Send invite to:'
+      friends_email_sub: (%{count} invitations remaining)
     next_step: next step
     return_to_feed: return to feed
     subtitle_step1:

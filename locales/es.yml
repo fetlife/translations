@@ -112,6 +112,7 @@ es:
     invitations_sent: Invitaciones Enviadas
     labels:
       friends_email: Dirección de Correo Electrónico de un Amigo
+      friends_email_sub: (%{count} invitations remaining)
     next_step: próximo paso
     return_to_feed: volver a alimentar
     subtitle_step1:

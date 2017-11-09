@@ -113,6 +113,7 @@ sk:
     invitations_sent: Odoslané pozvánky
     labels:
       friends_email: Priateľov email
+      friends_email_sub: (%{count} invitations remaining)
     next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
