@@ -349,7 +349,7 @@ en:
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a class="silver" href="%{next_step_path}">skip this step</a> for now.'
     say_cheese: Say Cheese!
-    subtitle: People with avatars have 69x more fun!
+    subtitle: Kinksters with an avatar have 69x more fun.
     title: Upload an Avatar
   signup_five_strikes:
     page_title: Five Strike Rule
@@ -362,7 +362,7 @@ en:
     subtitle: Follow kinksters that pique your interest.
     title: Anyone Catch Your Eye?
   signup_phone:
-    cta: Send Me Verification Code
+    cta: Send Me a Verification Code
     error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
     error_cant_send: "<strong>Kinky Operator:</strong> We're having problems sending you a text message. Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc. and that you are not trying to send a text message to your landline."
     error_quota: "<strong>Kinky Operator:</strong> We can't send more than 3 text messages to the same number in a 24 hour period. Please try again later."
@@ -380,8 +380,8 @@ en:
     notice_error: "<strong>P.S.</strong> Nice to meet you!"
     page_title: Enter Verification Code
     placeholder: 6-Digit Verification Code
-    subtitle: That wasn't so painful was it?!?!
-    subtitle_error: That wasn't so painful was it?!?!<br>Maybe we spoke too soon! :-/
+    subtitle: That was a bit painful wasn't it?!?!
+    subtitle_error: That was a bit painful wasn't it?!?!<br>Maybe we spoke too soon! :-/
     title: Last Step
   subnav:
     feed:
