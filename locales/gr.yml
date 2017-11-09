@@ -112,7 +112,7 @@ gr:
     invitations_sent: Πρόσκληση Στάλθηκε
     labels:
       friends_email: Διεύθυνση Email φίλου
-      friends_email_sub: (%{count} invitations remaining)
+      friends_email_sub: '%{count} invitations remaining'
     next_step: επόμενο βήμα
     return_to_feed: επιστροφή στη ροή
     subtitle_step1:

@@ -112,7 +112,7 @@ de:
     invitations_sent: Versandte Einladungen
     labels:
       friends_email: E-Mail-Adresse des Freundes
-      friends_email_sub: (%{count} invitations remaining)
+      friends_email_sub: '%{count} invitations remaining'
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
