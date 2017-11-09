@@ -94,14 +94,10 @@ pt:
     tab_mobile: Celular
   guidelines:
     last_updated: 'Última atualização:'
-    sub_header: Siga seu instinto
     subnav:
       community: Comunidade
-      community_short: Comunidade
       content: Conteúdo
-      content_short: Conteúdo
       group_leader: Líder de Grupo
-      group_leader_short: Líder de Grupo
     title: Orientações
   invite_a_friend:
     cancel_button: cancelar
@@ -130,14 +126,9 @@ pt:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Política de Privacidade
-      privacy_short: Privacidade
       terms: Termos de Uso
-      terms_short: Termos
-    subtitle: Brincando de advogado nas internetes desde '69.
     title: Juridiquês
   lockout:
     subtitle: You've tripped our security system.

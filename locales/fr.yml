@@ -94,14 +94,10 @@ fr:
     tab_mobile: Mobile
   guidelines:
     last_updated: 'Dernière mise à jour :'
-    sub_header: Suivez votre instinct, il a toujours raison.
     subnav:
       community: Communauté
-      community_short: Communauté
       content: Contenu
-      content_short: Contenu
       group_leader: Chef de groupe
-      group_leader_short: Chef de groupe
     title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler
@@ -130,14 +126,9 @@ fr:
   legalese:
     subnav:
       2257_exempt: Exemption 2257
-      2257_exempt_short: '2257'
       legal_requests: Requêtes légales
-      legal_requests_short: Légal
       privacy: Politique de confidentialité
-      privacy_short: Confidentialité
       terms: Conditions d’utilisation
-      terms_short: Conditions
-    subtitle: On joue à l’avocat sur l’interweb depuis ’69.
     title: Blabla légal
   lockout:
     subtitle: You've tripped our security system.

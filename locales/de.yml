@@ -94,14 +94,10 @@ de:
     tab_mobile: Handy
   guidelines:
     last_updated: 'Zuletzt aktualisiert:'
-    sub_header: Folge Deinem Instinkt, der weiß es immer.
     subnav:
       community: Gemeinschaft
-      community_short: Gemeinschaft
       content: Inhalt
-      content_short: Inhalt
       group_leader: Gruppenleitung
-      group_leader_short: Gruppen
     title: Richtlinien
   invite_a_friend:
     cancel_button: abbrechen
@@ -130,14 +126,9 @@ de:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Rechtliche Anfragen
-      legal_requests_short: Recht
       privacy: Privatsphäre
-      privacy_short: Privat
       terms: Nutzungsbedingungen
-      terms_short: Bedingungen
-    subtitle: Wir spielen Anwalt im Internetz seit '69.
     title: Juristenlatein
   lockout:
     subtitle: You've tripped our security system.

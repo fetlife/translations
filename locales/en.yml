@@ -94,14 +94,10 @@ en:
     tab_mobile: Mobile
   guidelines:
     last_updated: 'Last updated:'
-    sub_header: Follow your gut, it always nose.
     subnav:
       community: Community
-      community_short: Community
       content: Content
-      content_short: Content
       group_leader: Group Leader
-      group_leader_short: Group Leader
     title: Guidelines
   invite_a_friend:
     cancel_button: cancel
@@ -130,14 +126,9 @@ en:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Privacy Policy
-      privacy_short: Privacy
       terms: Terms of Use
-      terms_short: Terms
-    subtitle: Playing a lawyer on the interweb since '69.
     title: Legalese
   lockout:
     subtitle: You've tripped our security system.

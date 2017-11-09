@@ -94,14 +94,10 @@ nl:
     tab_mobile: Mobiel
   guidelines:
     last_updated: 'Laatst bijgewerkt:'
-    sub_header: Volg je onderbuik, of je neus.
     subnav:
       community: Gemeenschap
-      community_short: Gemeenschap
       content: Inhoud
-      content_short: Inhoud
       group_leader: Groep Leider
-      group_leader_short: Groep Leider
     title: Regels
   invite_a_friend:
     cancel_button: afbreken
@@ -130,14 +126,9 @@ nl:
   legalese:
     subnav:
       2257_exempt: 2257 vrijwaring
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Geheimhoudings beleid
-      privacy_short: Geheimhouding
       terms: Gebruiks voorwaarden
-      terms_short: Voorwaarden
-    subtitle: Speel als advocaat op het interweb sinds '69.
     title: Legaliseren
   lockout:
     subtitle: You've tripped our security system.

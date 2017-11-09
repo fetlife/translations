@@ -94,14 +94,10 @@ gr:
     tab_mobile: Κινητό
   guidelines:
     last_updated: 'Πρόσφατη Ενημέρωση:'
-    sub_header: Follow your gut, it always nose.
     subnav:
       community: Κοινότητα
-      community_short: Κοινότητα
       content: Περιεχόμενα
-      content_short: Περιεχόμενα
       group_leader: Αρχηγός Ομάδας
-      group_leader_short: Αρχηγός Ομάδας
     title: Kατευθυντήριες Γραμμές
   invite_a_friend:
     cancel_button: ακύρωση
@@ -130,14 +126,9 @@ gr:
   legalese:
     subnav:
       2257_exempt: 2257 Εξαίρεση
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Πολιτική Προστασίας Προσωπικών Δεδομένων
-      privacy_short: Ιδιωτικότητα
       terms: Όροι χρήσης
-      terms_short: Όροι
-    subtitle: Παριστάνοντας ένα δικηγορο στο internet από το '69.
     title: Νομικός
   lockout:
     subtitle: Έπεσες πάνω στο σύστημα ασφαλείας.
