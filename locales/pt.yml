@@ -199,7 +199,7 @@ pt:
     title: Redefinir Senha
   select_language:
     button: Mudar Idioma Padrão
-    help_translate: Visite nosso <a href="https://github.com/fetlife/translations">projeto de tradução</a> no GitHub e ajude a tornar o FetLife acessível para mais de nossos amigos pervertidos <span class="amp">&amp</span> comunidades.
+    help_translate: Visite nosso <a class="silver" href="https://github.com/fetlife/translations">projeto de tradução</a> no GitHub e ajude a tornar o FetLife acessível para mais de nossos amigos pervertidos <span class="amp">&amp</span> comunidades.
     language_name: Português
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Selecionar Idioma

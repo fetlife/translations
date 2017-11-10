@@ -199,7 +199,7 @@ hu:
     title: Jelszó helyreállítása
   select_language:
     button: Nyelv megváltoztatása
-    help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetové tenni a FetLife-ot? Látogass el a <a href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!
+    help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetové tenni a FetLife-ot? Látogass el a <a class="silver" href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!
     language_name: Magyar
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Válasz nyelvet magadnak
