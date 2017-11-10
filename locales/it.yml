@@ -94,14 +94,10 @@ it:
     tab_mobile: Cellulare
   guidelines:
     last_updated: 'Ultimo aggiornamento:'
-    sub_header: Seguite il vostro istinto, ha sempre ragione.
     subnav:
       community: Community
-      community_short: Community
       content: Contenuti
-      content_short: Contenuti
       group_leader: Capo del gruppo
-      group_leader_short: Capo gruppo
     title: Linee guida
   invite_a_friend:
     cancel_button: annulla
@@ -131,14 +127,9 @@ it:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Politica sulla privacy
-      privacy_short: Privacy
       terms: Condizioni d'uso
-      terms_short: Condizioni
-    subtitle: Giocando a fare l'avvocato sull'interweb dal '69.
     title: Legalese
   lockout:
     subtitle: Hai fatto inciampare il nostro sistema di sicurezza.

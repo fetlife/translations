@@ -94,14 +94,10 @@ hu:
     tab_mobile: Mobil
   guidelines:
     last_updated: 'Utolsó frissítés:'
-    sub_header: Hallgass a szívedre!.
     subnav:
       community: Közösség
-      community_short: Közösség
       content: Tartalom
-      content_short: Tartalom
       group_leader: Csoportgazda
-      group_leader_short: Csoportgazda
     title: Irányelvekek
   invite_a_friend:
     cancel_button: visszavonás
@@ -131,14 +127,9 @@ hu:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Adatvédelmi szabályzat
-      privacy_short: Adatvédelem
       terms: Felhasználási feltételek
-      terms_short: Feltételek
-    subtitle: Ügyvédet játszva az interweb-en már '69 óta.
     title: Legalizáció
   lockout:
     subtitle: You've tripped our security system.

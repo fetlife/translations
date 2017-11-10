@@ -95,14 +95,10 @@ sk:
     tab_mobile: Mobil
   guidelines:
     last_updated: 'Naposledy aktualizovné:'
-    sub_header: Nasleduj svoje srdce, on vždy vie.
     subnav:
       community: Komunita
-      community_short: Komunita
       content: Obsah
-      content_short: Obsah
       group_leader: Líder skupiny
-      group_leader_short: Líder skupiny
     title: Pravidlá
   invite_a_friend:
     cancel_button: zrušiť
@@ -133,14 +129,9 @@ sk:
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Ochrana súkromia
-      privacy_short: Súkromie
       terms: Podmienky používania
-      terms_short: Podmienky
-    subtitle: Hráme sa na právnikov na interwebe od '69.
     title: Legislatíva
   lockout:
     subtitle: You've tripped our security system.

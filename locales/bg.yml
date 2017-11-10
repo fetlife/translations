@@ -94,14 +94,10 @@ bg:
     tab_mobile: Телефон
   guidelines:
     last_updated: 'Последна промяна:'
-    sub_header: Follow your gut, it always nose.
     subnav:
       community: На общността
-      community_short: Общност
       content: За съдържанието
-      content_short: Съдържание
       group_leader: За водачи на група
-      group_leader_short: Групи
     title: Правила
   invite_a_friend:
     cancel_button: отмени
@@ -131,14 +127,9 @@ bg:
   legalese:
     subnav:
       2257_exempt: Освободени от 2257
-      2257_exempt_short: '2257'
       legal_requests: Legal Requests
-      legal_requests_short: Legal
       privacy: Декларация за поверителност
-      privacy_short: Поверителност
       terms: Условия за ползване
-      terms_short: Условия
-    subtitle: Играя си на адвокат в нета от 69-та насам.
     title: Правни подробности
   lockout:
     subtitle: Задействахте охранителната ни система.
