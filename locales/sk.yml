@@ -204,7 +204,7 @@ sk:
     title: Zmeniť heslo
   select_language:
     button: Zmeniť jazyk
-    help_translate: Navštív náš <a href="https://github.com/fetlife/translations">projekt s prekladmi</a> na GitHube a pomôž spraviť FetLife dostupný pre viac tvojich priateľov a celú kinky komunitu.
+    help_translate: Navštív náš <a class="silver" href="https://github.com/fetlife/translations">projekt s prekladmi</a> na GitHube a pomôž spraviť FetLife dostupný pre viac tvojich priateľov a celú kinky komunitu.
     language_name: Slovensky
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
     title: Vybrať jazyk
