@@ -102,7 +102,7 @@ bg:
   invite_a_friend:
     cancel_button: отмени
     cancel_notice: Поканата към %{email} беше отменена.
-    cta: Покани приятел във FetLife
+    cta: 'Изпрати покана до:'
     error: Имаме проблем с изпращането на покана към този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.
     invitations_accepted: Приети покани
     invitations_sent: Изпратени покани
@@ -127,10 +127,10 @@ bg:
   legalese:
     subnav:
       2257_exempt: Освободени от 2257
-      legal_requests: Legal Requests
+      legal_requests: Правни искания
       privacy: Декларация за поверителност
       terms: Условия за ползване
-    title: Правни подробности
+    title: Правни въпроси
   lockout:
     subtitle: Задействахте охранителната ни система.
     title: Охрана, охрана, охрана!
@@ -266,7 +266,7 @@ bg:
     about_fetlife: За FetLife
     ad_stats: Рекламна статистика
     advertising: Рекламиране
-    androidapp: Install FetLife's Android App
+    androidapp: Инсталирай FetLife за Android
     bug_bounty: Bug Bounty
     caretaking: Надзирателство
     change_language: Смени езика
@@ -279,15 +279,15 @@ bg:
     fp: Свежо & Перверзно
     funny_quote: Ако не можеш да прочетеш това ... сигурно ти трябват очила! - Йоан 4:69
     gift_support: Подари абонамент за FetLife
-    glossary: Glossary
+    glossary: Тълковен речник
     groups: Групи
     guidelines: Правила
     home: Начало
     invite_a_friend: Покани приятел (%{count})
     kp: Извратено & Популярно
-    legalese: Правни подробности
+    legalese: Правни въпроси
     log_out: Излез
-    login: Login
+    login: Вход
     loved_stuff: Харесани
     need_help: Трябва ти помощ?
     open_source: Отворен код
@@ -295,7 +295,7 @@ bg:
     preservation_requests: Preservation Requests
     privacy: Поверителност
     recommendations: Препоръчани
-    signup: Signup
+    signup: Регистрация
     subscriptions: Subscriptions
     support: Подкрепи FetLife
     terms: Условия
@@ -341,7 +341,7 @@ bg:
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: Ако сте срамежливи и предпочитате да не показвате лицето си, не се притеснявайте да проявите творчество и да ни покажете някоя друга своя страна! Или, ако предпочитате, можете да <a class="silver" href="%{next_step_path}">пропуснете тази стъпка</a> засега.'
     say_cheese: Кажи "зеле"!
-    subtitle: Хората с профилна снимка се забавляват 69 пъти повече!
+    subtitle: Извратеняците с профилна снимка се забавляват 69 пъти повече!
     title: Качи профилна снимка
   signup_five_strikes:
     page_title: Втори жълт картон
