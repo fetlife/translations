@@ -209,8 +209,8 @@ fr:
     anti_pro_tip: <strong>Astuce contre-pro :</strong> Vous pouvez <a href="#">désactiver</a> ou <a href="#">supprimer</a> votre compte si vous le voulez vraiment, mais trois Papes sur quatre le déconseillent fortement.
     current_password_label: Mot de passe actuel
     email_cta: Mettre à jour l’adresse mail
-    email_placeholder: Adresse mail
     email_label: Email
+    email_placeholder: Adresse mail
     language_cta: Mettre à jour la langue par défaut
     language_notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
     new_password_label: Nouveau mot de passe
@@ -235,8 +235,8 @@ fr:
     blocked_list_title: Liste des bloqué⋅e⋅s
     cb_feed: Permettre aux non-ami⋅e⋅s de me suivre sur leur fil d’activité.
     cb_fp: Permettre aux posts non-privés d’apparaître sur Fresh&Pervy.
-    content_privacy: Confidentialité du contenu
     cb_kp: Permettre aux posts non-privés d’apparaître sur Kinky&Popular.
+    content_privacy: Confidentialité du contenu
     cta: Enregistrer les paramètres de confidentialité
     following: Suivre
     page_title: Paramètres de confidentialité
@@ -249,8 +249,8 @@ fr:
     cta: Mettre à jour votre profil
     dob_label: Date de naissance
     location_label: Position
-    page_title: Mettre à jour le profil
     looking_for_label: À la recherche de
+    page_title: Mettre à jour le profil
     subtitle: Le développement personnel est une bonne chose.
     title: Votre profil
     websites_label: Sites web
