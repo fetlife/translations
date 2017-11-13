@@ -108,7 +108,7 @@ nl:
     invitations_sent: Uitnodigingen verstuurd
     labels:
       friends_email: Vriend's Email Adres
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: volgende stap
     return_to_feed: terug naar activiteiten overzicht
     subtitle_step1:
@@ -313,8 +313,12 @@ nl:
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
     error_email: We hebben een probleem bij het verwerken van bovenstaand email adres. Controleer de spelling of probeer een andere.
+    error_email_taken: Email has already been taken.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Alias is verplicht.
     error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.

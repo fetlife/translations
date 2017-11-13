@@ -108,7 +108,7 @@ gr:
     invitations_sent: Πρόσκληση Στάλθηκε
     labels:
       friends_email: Διεύθυνση Email φίλου
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: επόμενο βήμα
     return_to_feed: επιστροφή στη ροή
     subtitle_step1:
@@ -119,7 +119,7 @@ gr:
     title_step2: Πρόσκληση Στάλθηκε
     view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    footer: '<span class="fw5">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw5">%{picture_count} εικόνες</span><span> και </span><span class="fw5">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw5">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw5">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw5">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>'
+    footer: <span class="fw5">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw5">%{picture_count} εικόνες</span><span> και </span><span class="fw5">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw5">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw5">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw5">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
@@ -313,8 +313,12 @@ gr:
     error_city_missing: Πρέπει να επιλέξετε πόλη.
     error_country_missing: Πρέπει να επιλέξετε χώρα.
     error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
+    error_email_taken: Email has already been taken.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείται ήδη.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Απαιτείται ψευδώνυμο.
     error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων.
     error_password_required: Απαιτείται κωδικός πρόσβασης.
