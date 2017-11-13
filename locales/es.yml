@@ -61,7 +61,7 @@ es:
         title: "¿Se le olvidó su contraseña?"
       step2:
         page_title: Ud. “PODRÍA” tener correo
-        subtitle: Si existe un perfil asociado al correo electrónico <strong>%{given_email}</strong> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
+        subtitle: Si existe un perfil asociado al correo electrónico <span class='fw5'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡&ldquo;Podría&rdquo; ud. tener correo!"
       update_email: Actualiza la dirección de correo electrónico
       warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."

@@ -61,7 +61,7 @@ fr:
         title: Oublié votre mot de passe ?
       step2:
         page_title: Vous avez “PEUT-ËTRE” du courrier
-        subtitle: S’il existe un profil associé à cet email <strong>%{given_email}</strong>, alors nous vous avons envoyé des instructions pour réinitialiser votre mot de passe.
+        subtitle: S’il existe un profil associé à cet email <span class='fw5'>%{given_email}</span>, alors nous vous avons envoyé des instructions pour réinitialiser votre mot de passe.
         title: Vous avez “PEUT-ËTRE” du courrier !
       update_email: mettre à jour l’adresse mail
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une adresse mail existe ou non dans notre base de données. Si vous ne recevez pas de courriel de nous, il est probable que nous n’avons pas de compte associé à cette adresse mail."

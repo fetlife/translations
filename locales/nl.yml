@@ -61,7 +61,7 @@ nl:
         title: Wachtwoord vergeten?
       step2:
         page_title: Je "ZOU" een bericht kunnen hebben
-        subtitle: Wanneer er een profiel gekoppeld is met dit email adres <strong>%{given_email}</strong> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
+        subtitle: Wanneer er een profiel gekoppeld is met dit email adres <span class='fw5'>%{given_email}</span> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
         title: Je hebt &ldquo;misschien&rdquo; een bericht!
       update_email: email adres aanpassen
       warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je email adres al bestaat in onze database. Wanneer je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat email adres."
