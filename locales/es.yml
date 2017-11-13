@@ -51,7 +51,7 @@ es:
   forgot_password:
     email:
       cta: Envíame un correo electrónico con instrucciones
-      error_forgot_email: Creo que se le olvidó algo... ¡su dirección de correo electrónico! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
       error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
@@ -313,14 +313,14 @@ es:
     error_city_missing: Tiene que seleccionar una Ciudad.
     error_country_missing: Tiene que seleccionar un País.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o lo intente con uno diferente.
-    error_gender_required: Se requiere su género
+    error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
     error_nickname_required: Se requiere su apodo.
-    error_password_range: La contraseña debe tener entre 4 y 100 caracteres
+    error_password_range: La contraseña debe tener entre 4 y 100 caracteres.
     error_password_required: Se requiere su contraseña.
-    error_role_required: Se requiere su rol
-    error_sexual_orientation_required: Se requiere su orientación sexual
-    error_state_missing: Debe seleccionar un Estado/Provincia
+    error_role_required: Se requiere su rol.
+    error_sexual_orientation_required: Se requiere su orientación sexual.
+    error_state_missing: Debe seleccionar un Estado/Provincia.
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
     label:
       birthdate: Fecha de Nacimiento
@@ -369,11 +369,9 @@ es:
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de Verificación
     notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
-    notice_error: "<strong>P.D.</strong> ¡Encantado de conocerle!"
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
     subtitle: ¡¿A que no fue para tanto?!
-    subtitle_error: ¡¿Que no fue para tanto?! <br> ¡Tal vez hablamos demasiado pronto! :-/
     title: Último Paso
   subnav:
     feed:
