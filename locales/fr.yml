@@ -51,7 +51,7 @@ fr:
   forgot_password:
     email:
       cta: Envoie-moi un email avec instructions
-      error_forgot_email: Je crois que vous avez oublié quelque chose… votre adresse mail ! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Ça ne ressemble pas à une adresse mail valide. Veuillez la relire et la re-soumettre.
       error_quota: Nous ne pouvons envoyer que deux emails par heure à une même adresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre pourriel je vous recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
       placeholder: Adresse mail
@@ -108,7 +108,7 @@ fr:
     invitations_sent: Invitations envoyées
     labels:
       friends_email: Addresse mail de ton ami
-      friends_email_sub: '%{count} invitation⋅s restante⋅s'
+      friends_email_sub: "%{count} invitation⋅s restante⋅s"
     next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:
@@ -119,7 +119,7 @@ fr:
     title_step2: Invitation envoyée
     view_invitations: voir vos invitations
   landing_page:
-    footer: '<span class="fw5">%{member_count} Membres</span><span> partagent </span><span class="fw5">%{picture_count} images</span><span> et </span><span class="fw5">%{video_count} videos</span><span>, participent à </span><span class="fw5">%{discussion_count} discussions</span><span> dans </span><span class="fw5">%{group_count} groupes</span><span>, vont à </span><span class="fw5">%{event_count} évènements à venir</span><span> et lisent </span><span class="fw5">%{post_count} articles de blog</span><span>. </span><span><i>Paradis kinky !</i></span>'
+    footer: <span class="fw5">%{member_count} Membres</span><span> partagent </span><span class="fw5">%{picture_count} images</span><span> et </span><span class="fw5">%{video_count} videos</span><span>, participent à </span><span class="fw5">%{discussion_count} discussions</span><span> dans </span><span class="fw5">%{group_count} groupes</span><span>, vont à </span><span class="fw5">%{event_count} évènements à venir</span><span> et lisent </span><span class="fw5">%{post_count} articles de blog</span><span>. </span><span><i>Paradis kinky !</i></span>
     login_button: Se connecter à FetLife
     signup_button: S’inscrire à FetLife
     subtitle: Comme Facebook, mais géré par des kinksters comme toi et moi. On pense que c’est plus amusant comme ça. Pas toi ?
@@ -310,17 +310,21 @@ fr:
     error_birthdate: La date de naissance est obligatoire.
     error_birthdate_too_old: Vous êtes trop vieux⋅vieille.
     error_birthdate_too_young: Vous n’êtes pas assez vieux⋅vieille (vous devez avoir au moins 18 ans).
-    error_city_missing: La ville doit être sélectionnée
-    error_country_missing: Le pays doit être sélectionné
+    error_city_missing: La ville doit être sélectionnée.
+    error_country_missing: Le pays doit être sélectionné.
     error_email: Nous avons des problèmes avec le traitement de l’adresse mail ci-dessus. Nous vous recommandons d’en vérifier l’orthographe ou d’en essayer une autre.
-    error_gender_required: Le genre doit être sélectionné
+    error_email_taken: Email has already been taken.
+    error_gender_required: Le genre doit être sélectionné.
     error_nickname: Ce pseudo est déjà pris.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Le pseudo est obligatoire.
-    error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères
-    error_password_required: Le mot de passe est obligatoire
-    error_role_required: Le rôle doit être sélectionné
-    error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée
-    error_state_missing: L’état/la province doit être sélectionné⋅e
+    error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères.
+    error_password_required: Le mot de passe est obligatoire.
+    error_role_required: Le rôle doit être sélectionné.
+    error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée.
+    error_state_missing: L’état/la province doit être sélectionné⋅e.
     footnote: En cliquant sur le bouton ci-dessus vous acceptez de respecter et de suivre nos <a class="silver" href="%{guidelines_path}">Lignes directrices communautaires</a> et nos <a class="silver" href="%{tou_path}">Conditions d’utilisation</a>&hellip; Sans retour.
     label:
       birthdate: Date de naissance
@@ -369,11 +373,9 @@ fr:
     incorrect_code: "<strong>Opérateur Kinky :</strong> Doh… le code de vérification que vous avez entré semble incorrect. Veuillez vérifier que le numéro ci-dessus correspond à ce que vous avez reçu de nous, et essayez à nouveau."
     label: Code de vérification
     notice: Nous avons envoyé le code de vérification à <strong>%{phone_number}</strong>. Si après quelques minutes vous ne recevez pas un texto de nous, <a href="%{back_path}">mettez à jour votre numéro et nous vous enverrons un nouveau code de vérification</a>.
-    notice_error: "<strong>P.S.</strong> Enchanté de vous rencontrer !"
     page_title: Entrez le code de vérification
     placeholder: Code de vérification à 6 chiffres
     subtitle: Ce n’était pas si difficile, n’est-ce pas ?!?!
-    subtitle_error: Ce n’était pas si difficile, n’est-ce pas ?!?!<br>Peut-être avons-nous parlé trop vite ! :-/
     title: Dernière étape
   subnav:
     feed:

@@ -51,7 +51,7 @@ bg:
   forgot_password:
     email:
       cta: Пратете ми имейл с указания
-      error_forgot_email: Мисля че забрави нещо… имейл адреса си! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Това не прилича на валиден имейл адрес. Прегледай го и го изпрати отново, моля.
       error_quota: Можем да изпращаме само два имейла на час към даден имейл адрес. Моля, провери дали имейла ни не е попаднал в спам папката ти. Ако не намираш нищо в спам папката, препоръчваме ти да използваш някой от другите методи да се върнеш в профила си.
       placeholder: Имейл адрес
@@ -108,7 +108,7 @@ bg:
     invitations_sent: Изпратени покани
     labels:
       friends_email: Имейл адрес на приятел
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: следваща стъпка
     return_to_feed: връщане към стената
     subtitle_step1:
@@ -119,7 +119,7 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    footer: '<span class="fw5">%{member_count} члена</span><span> споделят </span><span class="fw5">%{picture_count} снимки</span><span> и </span><span class="fw5">%{video_count} клипа</span><span>, участват в </span><span class="fw5">%{discussion_count} дискусии</span><span> в </span><span class="fw5">%{group_count} групи</span><span>, ще ходят на </span><span class="fw5">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw5">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>'
+    footer: <span class="fw5">%{member_count} члена</span><span> споделят </span><span class="fw5">%{picture_count} снимки</span><span> и </span><span class="fw5">%{video_count} клипа</span><span>, участват в </span><span class="fw5">%{discussion_count} дискусии</span><span> в </span><span class="fw5">%{group_count} групи</span><span>, ще ходят на </span><span class="fw5">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw5">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>
     login_button: Влизане във FetLife
     signup_button: Регистрация във FetLife
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
@@ -310,17 +310,21 @@ bg:
     error_birthdate: Датата на раждане е задължителна.
     error_birthdate_too_old: Прекалено възрастни сте.
     error_birthdate_too_young: Не сте достатъчно възрастни (трябва да сте поне на 18 години).
-    error_city_missing: Трябва да избереш град
-    error_country_missing: Трябва да избереш държава
+    error_city_missing: Трябва да избереш град.
+    error_country_missing: Трябва да избереш държава.
     error_email: Имаме проблем с обработването на този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.
-    error_gender_required: Трябва да избереш пол
+    error_email_taken: Email has already been taken.
+    error_gender_required: Трябва да избереш пол.
     error_nickname: Прякора е вече зает.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Прякора е задължителен.
-    error_password_range: Паролата трябва да бъде между 4 и 100 символа
-    error_password_required: Паролата е задължителна
-    error_role_required: Трябва да избереш роля
-    error_sexual_orientation_required: Трябва да избереш сексуална ориентация
-    error_state_missing: Трябва да избереш област
+    error_password_range: Паролата трябва да бъде между 4 и 100 символа.
+    error_password_required: Паролата е задължителна.
+    error_role_required: Трябва да избереш роля.
+    error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
+    error_state_missing: Трябва да избереш област.
     footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a class="silver" href="%{guidelines_path}">Правила на общността</a> и <a class="silver" href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
     label:
       birthdate: Дата на раждане
@@ -369,11 +373,9 @@ bg:
     incorrect_code: "<strong>Извратеният оператор:</strong> Ъ&hellip; горният код за потвърждение не изглежда наред. Моля, увери се че горното число съответства на това което получи от нас и опитай пак."
     label: Код за потвърждение
     notice: Изпратихме кода за потвърждение на <strong>%{phone_number}</strong>. Ако до няколко минути не получиш SMS от нас, <a class="silver" href="%{back_path}">обнови номера си и ще ти изпратим нов код за потвърждение</a>.
-    notice_error: "<strong>П.П.</strong> Приятно ни е да се запознаем!"
     page_title: Въведи код за потвърждение
     placeholder: 6-цифрен код за потвърждение
     subtitle: Не болеше чак толкова, нали?!?!
-    subtitle_error: Не болеше чак толкова, нали?!?!<br>Май избързахме! :-/
     title: Последна стъпка
   subnav:
     feed:

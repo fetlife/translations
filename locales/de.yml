@@ -51,7 +51,7 @@ de:
   forgot_password:
     email:
       cta: Sende mir eine E-Mail mit Anweisungen
-      error_forgot_email: Ich glaube, du hast etwas vergessen … Deine E-Mail-Adresse! :-p
+      error_forgot_email: Die E-Mail-Addresse ist erforderlich.
       error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und sende es dann wieder ab.
       error_quota: Wir können nur zwei E-Mails pro Stunde an eine E-Mail-Adresse schicken. Bitte prüfe nochmal, ob unsere E-Mail nicht im Spamfilter gelandet ist. Wenn Du dort nichts findest, empfehle ich eine der anderen obigen Möglichkeiten zu nutzen, um wieder in Dein Mitgliedskonto zu kommen.
       placeholder: E-Mail-Adresse
@@ -108,7 +108,7 @@ de:
     invitations_sent: Versandte Einladungen
     labels:
       friends_email: E-Mail-Adresse des Freundes
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
@@ -119,7 +119,7 @@ de:
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
   landing_page:
-    footer: '<span class="fw5">%{member_count} Mitglieder</span><span> teilen </span><span class="fw5">%{picture_count} Bilder</span><span> und </span><span class="fw5">%{video_count} Videos</span><span>, nehmen an </span><span class="fw5">%{discussion_count} Diskussionen</span><span> in </span><span class="fw5">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw5">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw5">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>'
+    footer: <span class="fw5">%{member_count} Mitglieder</span><span> teilen </span><span class="fw5">%{picture_count} Bilder</span><span> und </span><span class="fw5">%{video_count} Videos</span><span>, nehmen an </span><span class="fw5">%{discussion_count} Diskussionen</span><span> in </span><span class="fw5">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw5">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw5">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?
@@ -313,13 +313,17 @@ de:
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
-    error_gender_required: Gender muss gewählt werden
+    error_email_taken: Email has already been taken.
+    error_gender_required: Gender muss gewählt werden.
     error_nickname: Der Name ist schon vergeben.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Der Name ist erforderlich.
     error_password_range: Das Passwort muss zwischen 4 und 100 Zeichen lang sein.
     error_password_required: Das Passwort ist erforderlich.
-    error_role_required: Die Rolle muss gewählt werden
-    error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden
+    error_role_required: Die Rolle muss gewählt werden.
+    error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.
     error_state_missing: Das Bundesland muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a class="silver" href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a class="silver" href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
     label:
@@ -369,11 +373,9 @@ de:
     incorrect_code: "<strong>Kinky Operator:</strong> Nein &hellip; die Verifikationsnummer, die Du eingegeben hast, scheint nicht ok zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
     label: Verifikationsnummer
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="silver" href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
-    notice_error: "<strong>P.S.</strong> Schön, Dich kennenzulernen!"
     page_title: Verifikationsnummer Eingeben
     placeholder: sechsstellige Verifikationsnummer
     subtitle: Das hat doch gar nicht wehgetan, oder?!?!
-    subtitle_error: Das hat doch gar nicht wehgetan, oder?!?!<br>Vielleicht waren wir etwas voreilig? :-/
     title: Letzter Schritt
   subnav:
     feed:

@@ -51,7 +51,7 @@ it:
   forgot_password:
     email:
       cta: Inviatemi un'email con le istruzioni
-      error_forgot_email: Penso che hai dimenticato qualcosa... Il tuo indirizzo email! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Questo non sembra un indirizzo email valido. Rivedilo e rinvialo per favore.
       error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro anti-spam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
       placeholder: Indirizzo email
@@ -108,7 +108,7 @@ it:
     invitations_sent: Inviti mandati
     labels:
       friends_email: L'indirizzo email dell'amic*
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: passo successivo
     return_to_feed: ritorna al feed
     subtitle_step1:
@@ -119,7 +119,7 @@ it:
     title_step2: Invio mandato
     view_invitations: visualizza i tuoi inviti
   landing_page:
-    footer: '<span class="fw5">%{member_count} Membri</span><span> stanno condividendo </span><span class="fw5">%{picture_count} foto</span><span> e </span><span class="fw5">%{video_count} video</span><span>, partecipando a </span><span class="fw5">%{discussion_count} discussioni</span><span> in </span><span class="fw5">%{group_count} gruppi</span><span>, stanno andando a </span><span class="fw5">%{event_count} prossimi eventi</span><span> e leggono </span><span class="fw5">%{post_count} post di blog</span><span>. </span><span><i>Il paradiso Kinky!</i></span>'
+    footer: <span class="fw5">%{member_count} Membri</span><span> stanno condividendo </span><span class="fw5">%{picture_count} foto</span><span> e </span><span class="fw5">%{video_count} video</span><span>, partecipando a </span><span class="fw5">%{discussion_count} discussioni</span><span> in </span><span class="fw5">%{group_count} gruppi</span><span>, stanno andando a </span><span class="fw5">%{event_count} prossimi eventi</span><span> e leggono </span><span class="fw5">%{post_count} post di blog</span><span>. </span><span><i>Il paradiso Kinky!</i></span>
     login_button: Accedi a FetLife
     signup_button: Iscriviti a FetLife
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?
@@ -310,17 +310,21 @@ it:
     error_birthdate: La data di nascita è richiesta.
     error_birthdate_too_old: Sei troppo vecchio.
     error_birthdate_too_young: Non sei ancora abbastanza grande (devi avere almeno 18 anni di età).
-    error_city_missing: La città deve essere selezionata
-    error_country_missing: La nazione deve essere selezionata
+    error_city_missing: La città deve essere selezionata.
+    error_country_missing: La nazione deve essere selezionata.
     error_email: Stiamo avendo problemi ad elaborare l'email di cui sopra. Ti consigliamo di verificare l'ortografia o provarne una diversa.
-    error_gender_required: Il sesso deve essere selezionato
-    error_nickname: Il nickname è già in uso
-    error_nickname_required: Il nickname è richiesto
-    error_password_range: La password deve essere tra 4 e 100 caratteri
-    error_password_required: La password è richiesta
-    error_role_required: Il ruolo deve essere selezionato
-    error_sexual_orientation_required: L'orientamento sessuale deve essere selezionato
-    error_state_missing: Lo stato/provincia deve essere selezionato
+    error_email_taken: Email has already been taken.
+    error_gender_required: Il sesso deve essere selezionato.
+    error_nickname: Il nickname è già in uso.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_required: Il nickname è richiesto.
+    error_password_range: La password deve essere tra 4 e 100 caratteri.
+    error_password_required: La password è richiesta.
+    error_role_required: Il ruolo deve essere selezionato.
+    error_sexual_orientation_required: L'orientamento sessuale deve essere selezionato.
+    error_state_missing: Lo stato/provincia deve essere selezionato.
     footnote: Cliccando sul pulsante sopra l'utente accetta di rispettare e seguire le nostre <a class="silver" href="%{guidelines_path}">Linee guida della Community</a> e le <a class="silver" href="%{tou_path}">Condizioni d'uso</a>&hellip; niente restituzioni.
     label:
       birthdate: Data di nascita
@@ -369,11 +373,9 @@ it:
     incorrect_code: "<strong>Operatore Kinky:</strong> Doh&hellip; il codice di verifica non sembra valido. Ti preghiamo di verificare che il numero di cui sopra corrisponde a quello che hai ricevuto da noi e di riprovare."
     label: Codice di verifica
     notice: Abbiamo inviato il codice di verifica a <strong>%{phone_number}</strong>. Se dopo un paio di minuti non si riceve un messaggio di testo da noi, <a class="silver" href="%{back_path}">aggiorna il tuo numero e ti invieremo un nuovo codice di verifica</a>.
-    notice_error: "<strong>P.S.</strong>Piacere di conoscerti!"
     page_title: Inserisci il codice di verifica
     placeholder: Codice di verifica a 6 numeri
     subtitle: Non è stato così doloroso vero?!?!
-    subtitle_error: Non è stato così doloroso vero?!?!<br>Forse abbiamo parlato troppo presto! :-/
     title: Ultimo passo
   subnav:
     feed:

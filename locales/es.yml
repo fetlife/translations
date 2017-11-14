@@ -51,7 +51,7 @@ es:
   forgot_password:
     email:
       cta: Envíame un correo electrónico con instrucciones
-      error_forgot_email: Creo que se le olvidó algo... ¡su dirección de correo electrónico! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
       error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
@@ -108,7 +108,7 @@ es:
     invitations_sent: Invitaciones Enviadas
     labels:
       friends_email: Dirección de Correo Electrónico de un Amigo
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: próximo paso
     return_to_feed: volver a alimentar
     subtitle_step1:
@@ -119,7 +119,7 @@ es:
     title_step2: Invitación enviada
     view_invitations: ver sus invitaciones
   landing_page:
-    footer: '<span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count}fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Cielo Kinky!</i></span>'
+    footer: <span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count}fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Cielo Kinky!</i></span>
     login_button: Iniciar sesión en FetLife
     signup_button: Regístrarse en FetLife
     subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que así es más divertido. ¿Verdad?
@@ -133,7 +133,7 @@ es:
     title: Legalidades
   lockout:
     subtitle: Ha hecho saltar la alarma.
-    title: ¡Seguridad!, ¡seguridad!, ¡seguridad!
+    title: "¡Seguridad!, ¡seguridad!, ¡seguridad!"
   login:
     button: Iniciar sesión en FetLife
     error_flash: Por favor, póngase en contacto con <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que podamos ayudarle a volver a entrar.
@@ -313,14 +313,18 @@ es:
     error_city_missing: Tiene que seleccionar una Ciudad.
     error_country_missing: Tiene que seleccionar un País.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o lo intente con uno diferente.
-    error_gender_required: Se requiere su género
+    error_email_taken: Email has already been taken.
+    error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Se requiere su apodo.
-    error_password_range: La contraseña debe tener entre 4 y 100 caracteres
+    error_password_range: La contraseña debe tener entre 4 y 100 caracteres.
     error_password_required: Se requiere su contraseña.
-    error_role_required: Se requiere su rol
-    error_sexual_orientation_required: Se requiere su orientación sexual
-    error_state_missing: Debe seleccionar un Estado/Provincia
+    error_role_required: Se requiere su rol.
+    error_sexual_orientation_required: Se requiere su orientación sexual.
+    error_state_missing: Debe seleccionar un Estado/Provincia.
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
     label:
       birthdate: Fecha de Nacimiento
@@ -340,7 +344,7 @@ es:
     title: Bienvenido a casa
   signup_avatar:
     pro_tip: '<strong>Sugerencia de veterano</strong>: Si es usted tímido y prefiere no mostrar su cara, ¡no dude en ser creativo y mostrar un lado diferente de usted! O si lo prefiere, puede <a class="silver" href="%{next_step_path}">omitir este paso</a> por ahora.'
-    say_cheese: "Diga ¡patata!"
+    say_cheese: Diga ¡patata!
     subtitle: "¡La gente con avatar se lo pasan 69 veces mejor!"
     title: Suba un Avatar
   signup_five_strikes:
@@ -369,11 +373,9 @@ es:
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de Verificación
     notice: Hemos enviado el código de verificación a <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
-    notice_error: "<strong>P.D.</strong> ¡Encantado de conocerle!"
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
-    subtitle: ¡¿A que no fue para tanto?!
-    subtitle_error: ¡¿Que no fue para tanto?! <br> ¡Tal vez hablamos demasiado pronto! :-/
+    subtitle: "¡¿A que no fue para tanto?!"
     title: Último Paso
   subnav:
     feed:
@@ -415,11 +417,11 @@ es:
       item_6: Ir <span>25x mas allá</span> en el Registro de actividad de sus amigos.
       item_7: Ir <span>25x mas allá</span> en su Registro de actividad @You.
       item_8: "<span>Personalizar su Registro de actividad de sus amigos</span> tanto como desee."
-      item_9: ¡Conseguir antes <span>aceso a nuevas características</span>!
+      item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
       list_description: 'Con solo 5$ al mes, no solo apoya el continuo desarrollo de FetLife sino tambien consigue:'
       list_footer: Todo esto por menos de precio de una botella de lubricante... aunque no recomendamos que sustituya lubricante con aceite de colza... no funciona muy allá.
       thank_you: Sin su apoyo FetLife no existiría.¡Gracias de parte de toda la familia de FetLife!
-      title: ¿Que saco yo por apoyar a FetLife?
+      title: "¿Que saco yo por apoyar a FetLife?"
     cta_labels:
       ach: Bank Transfer (ACH)
       bitcoin: Bitcoin
@@ -475,16 +477,16 @@ es:
       secure_q: P. ¿Esto es seguro?
       title: Preguntas frecuentes
     gift:
-      affirm: ¡Eres el mejor!
+      affirm: "¡Eres el mejor!"
       confirm: Quiero regalar "Apoyo a Fetlife" a  %{nickname}
       header: Apoye a FetLife hoy mismo.
       subheader: Y consiga todos los <a href='%{link}'>kinkyliciosos beneficios</a> de ser un apoyo por solo 5$ al mes.
-      thank_you: ¡Gracias por su apoyo!
+      thank_you: "¡Gracias por su apoyo!"
       title: Regalar "Apoyo a Fetlife" a %{nickname}
       yourself: Comprar "Apoyo a Fetlife" para usted mismo.
     header:
       subheader: Y consiga todos los <a href="%{link}">beneficios sexis</a> que vienen al apoyarnos.
-      title: ¡Apoye a Fetlife hoy mismo!
+      title: "¡Apoye a Fetlife hoy mismo!"
     step1:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
@@ -736,15 +738,15 @@ es:
     thank_you:
       body: No, de veras, <span>un enorme gracias por su apoyo</span>. Significa mucho para nostros que haya contribuido con su dinero ganado con su esfuerzo para ayudar a mantener la continua mejora y desarrollo de Fetlife.
       cta_home: Lleveme a casa
-      gift_affirm: ¡Es usted el mejor!
+      gift_affirm: "¡Es usted el mejor!"
       gift_cta_profile: Visite el perfil de %{nickname}
       gift_next_body: Mientras usted lee esto le estamos dando a su regalo de "Apoyo a Fetlife" a <a href="%{link}">%{nickname}</a> y avisándole por correo electrónico de su generosidad.
-      gift_next_title: ¿Y qué sigue ahora?
-      page_title: ¡Gracias!
+      gift_next_title: "¿Y qué sigue ahora?"
+      page_title: "¡Gracias!"
       questions_body: Si tiene alguna pregunta, por favor no dude en enviarnos un correo a <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
-      questions_title: ¿Tiene preguntas?
+      questions_title: "¿Tiene preguntas?"
       tab_title: Gracias
-      thank_you: ¡Gracias de nuevo!
+      thank_you: "¡Gracias de nuevo!"
     thank_you_interac:
       cta_home: Llevame a mi Registro de actividad
       next_steps_final_default: lo asociaremos a su perfil.
@@ -753,5 +755,5 @@ es:
       next_steps_title: 'Siguientes pasos:'
       page_title: Agradecimientos <span class='baskerville i'>&amp;</span> Siguientes pasos
       tab_title: Agradecimientos y siguientes pasos
-      thank_you: ¡Gracias!
-    title: ¡Ayude apoyando a Fetlife!
+      thank_you: "¡Gracias!"
+    title: "¡Ayude apoyando a Fetlife!"

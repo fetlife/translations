@@ -51,7 +51,7 @@ nl:
   forgot_password:
     email:
       cta: Stuur mij een Email met instructies
-      error_forgot_email: Ik denk dat je iets bent vergeten… je email adres! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Dat lijkt niet op een juist email adres. Graag even nakijken en opnieuw verzenden.
       error_quota: We kunnen maar twee emails per uur sturen naar een email adres. Controleer alsjeblieft even of onze email niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
       placeholder: Email adres
@@ -108,7 +108,7 @@ nl:
     invitations_sent: Uitnodigingen verstuurd
     labels:
       friends_email: Vriend's Email Adres
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: volgende stap
     return_to_feed: terug naar activiteiten overzicht
     subtitle_step1:
@@ -310,17 +310,21 @@ nl:
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
     error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
-    error_city_missing: Plaats moet geselecteerd zijn
-    error_country_missing: Land moet geselecteerd zijn
+    error_city_missing: Plaats moet geselecteerd zijn.
+    error_country_missing: Land moet geselecteerd zijn.
     error_email: We hebben een probleem bij het verwerken van bovenstaand email adres. Controleer de spelling of probeer een andere.
+    error_email_taken: Email has already been taken.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Alias is verplicht.
-    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan
-    error_password_required: Wachtwoord is verplicht
-    error_role_required: Rol moet worden gekozen
-    error_sexual_orientation_required: Sexuele orientatie moet worden gekozen
-    error_state_missing: Provincie moet worden geselecteerd
+    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan.
+    error_password_required: Wachtwoord is verplicht.
+    error_role_required: Rol moet worden gekozen.
+    error_sexual_orientation_required: Sexuele orientatie moet worden gekozen.
+    error_state_missing: Provincie moet worden geselecteerd.
     footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a class="silver" href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a class="silver" href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
     label:
       birthdate: Geboortedatum
@@ -369,11 +373,9 @@ nl:
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
     label: Controle Code
     notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="silver" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
-    notice_error: "<strong>P.S.</strong> Leuk je te ontmoeten!"
     page_title: Voer de controle code in
     placeholder: 6-cijferige controle code
     subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
-    subtitle_error: Dat was nog niet zo pijnlijk, of wel?!?!<br>Misschien waren we iets te voorbarig! :-/
     title: Laatste Stap
   subnav:
     feed:
