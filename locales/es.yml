@@ -191,7 +191,7 @@ es:
     error_password_range: La contraseña debe tener entre 4 y 100 caracteres
     error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
-    footnote: "<strong>Consejo:</strong> Recuerde su contraseña."
+    footnote: "<b>Consejo:</b> Recuerde su contraseña."
     label_enter: Nueva Contraseña
     label_re_enter: Reingrese en Nueva Contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.

@@ -191,7 +191,7 @@ fr:
     error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères
     error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
     error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
-    footnote: "<strong>Astuce de pro :</strong> Rappelez-vous de votre mot de passe."
+    footnote: "<b>Astuce de pro :</b> Rappelez-vous de votre mot de passe."
     label_enter: Nouveau mot de passe
     label_re_enter: Re-tapez votre nouveau mot de passe
     status_flash_success: Votre mot de passe a été modifié avec succès.

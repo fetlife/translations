@@ -191,7 +191,7 @@ bg:
     error_password_range: Паролата трябва да бъде между 4 и 100 символа
     error_token_expired: Токена за смяна на парола е изтекъл, моля заяви си нов
     error_token_invalid: Токена за смяна на парола е невалиден
-    footnote: "<strong>Pro Tip:</strong> Помни паролата си."
+    footnote: "<b>Pro Tip:</b> Помни паролата си."
     label_enter: Нова парола
     label_re_enter: Въведи новата парола отново
     status_flash_success: Паролата ти беше сменена успешно.

@@ -191,7 +191,7 @@ de:
     error_password_range: Das Passwort muss zwischen 4 und 100 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
-    footnote: "<strong>Profi-Tipp:</strong> Vergiss Dein Passwort nicht."
+    footnote: "<b>Profi-Tipp:</b> Vergiss Dein Passwort nicht."
     label_enter: Neues Passwort
     label_re_enter: Neues Passwort nochmal eingeben
     status_flash_success: Dein Passwort wurde erfolgreich zurückgesetzt.

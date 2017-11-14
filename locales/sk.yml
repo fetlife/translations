@@ -196,7 +196,7 @@ sk:
     error_password_range: Heslo musí mať 4 až 100 znakov
     error_token_expired: Platnosť tokenu na zresetovanie hesla vypršala, prosíme ťa skús znovu.
     error_token_invalid: Token na zresetovanie hesla nie je platný
-    footnote: "<strong>Pro Tip:</strong> Zapamätaj si svoje heslo."
+    footnote: "<b>Pro Tip:</b> Zapamätaj si svoje heslo."
     label_enter: Nové heslo
     label_re_enter: Znovu zadaj nové heslo
     status_flash_success: Tvoje heslo bolo úspešne zmenené.

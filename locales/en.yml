@@ -191,7 +191,7 @@ en:
     error_password_range: Password needs to be between 4 and 100 characters
     error_token_expired: Reset password token has expired, please request a new one
     error_token_invalid: Reset password token is invalid
-    footnote: "<strong>Pro Tip:</strong> Remember your password."
+    footnote: "<b>Pro Tip:</b> Remember your password."
     label_enter: New Password
     label_re_enter: Re-Enter New Password
     status_flash_success: Your password has been changed successfully.
