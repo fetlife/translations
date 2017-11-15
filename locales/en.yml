@@ -61,7 +61,7 @@ en:
         title: Forgot Password?
       step2:
         page_title: You "MIGHT" Have Mail
-        subtitle: If there is a profile associated with the email <strong>%{given_email}</strong> then we've sent you instructions on how to reset your password.
+        subtitle: If there is a profile associated to <span class='fw5'>%{given_email}</span> then we've sent you instructions on how to reset your password.
         title: You &ldquo;Might&rdquo; Have Mail!
       update_email: update email address
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."

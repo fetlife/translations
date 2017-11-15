@@ -61,7 +61,7 @@ it:
         title: Password dimenticata?
       step2:
         page_title: Tu "POTRESTI" avere posta
-        subtitle: Se c'è un profilo associato all'email <strong>%{given_email}</strong> allora ti abbiamo inviato le istruzioni su come reimpostare la password.
+        subtitle: Se c'è un profilo associato all'email <span class='fw5'>%{given_email}</span> allora ti abbiamo inviato le istruzioni su come reimpostare la password.
         title: Tu &ldquo;POTRESTI&rdquo; avere posta!
       update_email: aggiorna indirizzo email
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un indirizzo email esiste nel nostro database oppure no. Se non si riceve una email da noi, è probabile che non abbiamo un account associato a tale indirizzo di posta elettronica."
