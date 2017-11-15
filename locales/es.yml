@@ -7,7 +7,7 @@ es:
       title: Regla de los cinco intentos
     cta: Soy yo, ¡déjame entrar!
     error: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación de arriba parece incorrecto. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelva a intentarlo."
-    label: Código de autenticación
+    label: Código de autentificación
     page_title: Autentificación en dos pasos
     subtitle: "¡2-Factorízame cariño!"
     title: Código Secreto
@@ -191,7 +191,7 @@ es:
     error_password_range: La contraseña debe tener entre 4 y 100 caracteres
     error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
-    footnote: "<strong>Consejo:</strong> Recuerde su contraseña."
+    footnote: "<strong>Consejo Pro:</strong> Recuerde su contraseña."
     label_enter: Nueva Contraseña
     label_re_enter: Reingrese en Nueva Contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.
@@ -206,7 +206,7 @@ es:
   settings_account:
     2fa_cta: Activar autentificación en dos pasos
     2fa_label: Autentificaión en dos pasos
-    anti_pro_tip: <strong>”Contra-Pro” Consejo:</strong> Puede <a href="#">desactivar</a> o <a href="#">eliminar</a> su cuenta si realmente quiere, pero tres de cada cuatro Papas lo desaconseja vehementemente.
+    anti_pro_tip: <strong>Consejo ”Anti-Pro”:</strong> Puede <a href="#">desactivar</a> o <a href="#">eliminar</a> su cuenta si realmente quiere, pero tres de cada cuatro Papas lo desaconseja vehementemente.
     current_password_label: Contraseña Actual
     email_cta: Actualiza la Dirección de Correo Electrónico
     email_label: Correo Electrónico
@@ -305,20 +305,20 @@ es:
     whats_new: Qué hay de Nuevo
     write_post: Escribir publicación
   signup:
-    almost_there: "¡Casi Allí!"
+    almost_there: "¡Casi estamos!"
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Ud. es demasiado viejo.
-    error_birthdate_too_young: No es usted lo suficientemente mayor (tiene que tener al menos 18 años de edad).
+    error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o mas para unirse.
     error_city_missing: Tiene que seleccionar una Ciudad.
     error_country_missing: Tiene que seleccionar un País.
-    error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o lo intente con uno diferente.
-    error_email_taken: Email has already been taken.
+    error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
+    error_email_taken: El correo electrónico ya esta ocupado.
     error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_bad_word: El apodo no puede contener la palabra '%{word}'.
+    error_nickname_characters: El apodo solo puede tener letras, números, guiones y guiones bajos; sin espacios.
+    error_nickname_length: El apodo debe tener entre 2 y 16 caracteres de largo.
     error_nickname_required: Se requiere su apodo.
     error_password_range: La contraseña debe tener entre 4 y 100 caracteres.
     error_password_required: Se requiere su contraseña.
@@ -365,7 +365,7 @@ es:
     explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar a todo el mundo antes de se unan. Algo que creemos que podrá apreciar una vez que estén dentro.
     label: Número del Teléfono Móvil
     page_title: Envíe el Código de Verificación
-    pro_tip: "<strong>Consejo profesional:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
+    pro_tip: "<strong>Consejo Pro:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Es hora de la Verificación!"
   signup_verify:
