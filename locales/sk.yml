@@ -52,7 +52,7 @@ sk:
   forgot_password:
     email:
       cta: Pošlať email s inštrukciami
-      error_forgot_email: Niečo chýba… Tvoja emailová adresa! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: To nevyzerá ako platná emailová adresa. Prosíme ťa skontroluj ju a skús znova.
       error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
       placeholder: Emailová adresa
@@ -109,7 +109,7 @@ sk:
     invitations_sent: Odoslané pozvánky
     labels:
       friends_email: Priateľov email
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
@@ -121,7 +121,7 @@ sk:
     title_step2: Pozvánka odoslaná
     view_invitations: Zobraziť pozvánky
   landing_page:
-    footer: '<span class="fw5">%{member_count} členov</span><span> zdieľa </span><span class="fw5">%{picture_count} fotiek</span><span> a </span><span class="fw5">%{video_count} videii</span><span>, účastnia sa v </span><span class="fw5">%{discussion_count} diskusiách</span><span> v </span><span class="fw5">%{group_count} skupinách</span><span>, idú na </span><span class="fw5">%{event_count} nadchádzajúcich udalostí</span><span> a čítajú </span><span class="fw5">%{post_count} blog príspevkov</span><span>. </span><span><i>Nebo pre kinksterov!</i></span>'
+    footer: <span class="fw5">%{member_count} členov</span><span> zdieľa </span><span class="fw5">%{picture_count} fotiek</span><span> a </span><span class="fw5">%{video_count} videii</span><span>, účastnia sa v </span><span class="fw5">%{discussion_count} diskusiách</span><span> v </span><span class="fw5">%{group_count} skupinách</span><span>, idú na </span><span class="fw5">%{event_count} nadchádzajúcich udalostí</span><span> a čítajú </span><span class="fw5">%{post_count} blog príspevkov</span><span>. </span><span><i>Nebo pre kinksterov!</i></span>
     login_button: Prihlásiť sa na FetLife
     signup_button: Registrovať sa na FetLife
     subtitle: Ako Facebook, ale plný kinksterov, ako si ty a my. Myslíme si, že je to viac zábavy touto cestou. Čo myslíš?.
@@ -312,20 +312,24 @@ sk:
   signup:
     almost_there: Už si skoro tam!
     error_bar: Dallas, máme problém. Pozri nižšie pre viac informácií
-    error_birthdate: Dátum narodenia je povinný
-    error_birthdate_too_old: Tvoj vek je príliž vysoký
-    error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov)
-    error_city_missing: Mesto je povinné
-    error_country_missing: Krajina je povinná
+    error_birthdate: Dátum narodenia je povinný.
+    error_birthdate_too_old: Tvoj vek je príliž vysoký.
+    error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov).
+    error_city_missing: Mesto je povinné.
+    error_country_missing: Krajina je povinná.
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.
-    error_gender_required: Pohlavie je povinné
-    error_nickname: Prezývka je už obsadená
-    error_nickname_required: Prezývka je povinná
-    error_password_range: Heslo musí mať 4 až 100 znakov
-    error_password_required: Heslo je povinné
-    error_role_required: Rola je povinná
-    error_sexual_orientation_required: Sexuálna orientácia je povinná
-    error_state_missing: Kraj je povinný
+    error_email_taken: Email has already been taken.
+    error_gender_required: Pohlavie je povinné.
+    error_nickname: Prezývka je už obsadená.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_required: Prezývka je povinná.
+    error_password_range: Heslo musí mať 4 až 100 znakov.
+    error_password_required: Heslo je povinné.
+    error_role_required: Rola je povinná.
+    error_sexual_orientation_required: Sexuálna orientácia je povinná.
+    error_state_missing: Kraj je povinný.
     footnote: Kliknutím na tlačidlo vyššie súhlasíš, že budeš rešpektovať naše <a class="silver" href="%{guidelines_path}">komunitné pravidlá</a> a <a class="silver" href="%{tou_path}">podmienky používania</a>.
     label:
       birthdate: Dátum narodenia
@@ -374,11 +378,9 @@ sk:
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
     label: Verfikačný kód
     notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a class="silver" href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
-    notice_error: "<strong>P.S.</strong> Teší nás!"
     page_title: Zadaj verfikačný kód
     placeholder: 6-miestny verfikačný kód
     subtitle: Nebolo to také bolestivé, že nie?!?!
-    subtitle_error: Nebolo to také bolestivé, že nie?!?!<br>Možno sme to zariekli! :-/
     title: Posledný krok
   subnav:
     feed:

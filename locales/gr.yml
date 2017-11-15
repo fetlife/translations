@@ -51,7 +51,7 @@ gr:
   forgot_password:
     email:
       cta: Στείλτε μου Email με οδηγίες
-      error_forgot_email: Νομίζω ότι έχετε ξεχάσει κάτι… τη διεύθυνση email! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Δεν μοιάζει με έγκυρο email. Παρακαλώ ελέγξτε ξανά και υποβάλετε εκ νέου.
       error_quota: Μπορούμε να στείλουμε μόνο δύο emails ανά ώρα σε μία συγκεκριμένη διεύθυνση email. Παρακαλώ βεβαιωθείτε ότι το email μας δεν βρέθηκε στον φάκελο της ανεπιθύμητης αλληλογραφίας. Αν δεν μπορείτε να το βρείτε σε αυτό τον φάκελο, συνιστούμε να χρησιμοποιήσετε μία από τις άλλες μεθόδους για να ξαναμπείτε στο λογαριασμό σας.
       placeholder: Διεύθυνση Email
@@ -108,7 +108,7 @@ gr:
     invitations_sent: Πρόσκληση Στάλθηκε
     labels:
       friends_email: Διεύθυνση Email φίλου
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: επόμενο βήμα
     return_to_feed: επιστροφή στη ροή
     subtitle_step1:
@@ -119,7 +119,7 @@ gr:
     title_step2: Πρόσκληση Στάλθηκε
     view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    footer: '<span class="fw5">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw5">%{picture_count} εικόνες</span><span> και </span><span class="fw5">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw5">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw5">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw5">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>'
+    footer: <span class="fw5">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw5">%{picture_count} εικόνες</span><span> και </span><span class="fw5">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw5">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw5">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw5">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
@@ -188,7 +188,7 @@ gr:
   reset_password:
     cta: Επαναφέρετε τον κωδικό πρόσβασης
     error_confirmation_match: Ο κωδικός επιβεβαίωσης δεν ταιριάζει με τον κωδικό πρόσβασης
-    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων
+    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων.
     error_token_expired: O χρόνος επαναφοράς του κωδικού πρόσβασης έχει λήξει, παρακαλούμε ζητήσετε ένα νέο
     error_token_invalid: O κωδικός επαναφοράς είναι άκυρος
     footnote: "<strong>Pro Tip:</strong> Θυμηθείτε τον κωδικό πρόσβασής σας."
@@ -310,17 +310,21 @@ gr:
     error_birthdate: Απαιτείται ημερομηνία γέννησης.
     error_birthdate_too_old: Eίστε πολύ μεγάλος.
     error_birthdate_too_young: Δεν είστε αρκετά μεγάλος (πρέπει να είστε τουλάχιστον 18 χρονών).
-    error_city_missing: Πρέπει να επιλέξετε πόλη
-    error_country_missing: Πρέπει να επιλέξετε χώρα
+    error_city_missing: Πρέπει να επιλέξετε πόλη.
+    error_country_missing: Πρέπει να επιλέξετε χώρα.
     error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
+    error_email_taken: Email has already been taken.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείται ήδη.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Απαιτείται ψευδώνυμο.
-    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων
-    error_password_required: Απαιτείται κωδικός πρόσβασης
+    error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 100 χαρακτήρων.
+    error_password_required: Απαιτείται κωδικός πρόσβασης.
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
-    error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό
-    error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία
+    error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό.
+    error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία.
     footnote: Κάνοντας κλικ στο κουμπί συμφωνείτε να σέβεστε και να ακολουθείτε τους <a class="silver" href="%{guidelines_path}">"Κανόνες Κοινότητας"</a> και τους <a class="silver" href="%{tou_path}">Όρους Χρήσης</a>…
     label:
       birthdate: Ημερομηνία Γέννησης
@@ -369,11 +373,9 @@ gr:
     incorrect_code: "<strong>Διεστραμμένος Χειριστής:</strong> Ωχ... ο κωδικός πιστοποίησης φαίνεται λάθος. Παρακαλώ βεβαιωθείτε ότι ο αριθμός ταιριάζει με αυτόν που σας στείλαμε και προσπαθήστε ξανά."
     label: Κωδικός πιστοποίησης
     notice: Στείλαμε τον κωδικό πιστοποίησης στο <strong>%{phone_number}</strong>. Αν μετά από δύο λεπτά δεν έχετε λάβει μήνυμα κειμένου από εμάς, <a class="silver" href="%{back_path}">ενημερώστε τον αριθμό σας και θα σας στείλουμε νέο κωδικό πιστοποίησης</a>.
-    notice_error: "<strong>Υ.Γ.</strong> Χάρηκα για τη γνωριμία!"
     page_title: Εισάγετε τον κωδικό πιστοποίησης
     placeholder: Εξαψήφιος κωδικός πιστοποίησης
     subtitle: Αυτό δεν πόνεσε και πολύ?!?!
-    subtitle_error: Αυτο δεν πόνεσε και πολύ?!?!<br>Ίσως μιλήσαμε πολυ νωρίς! :-/
     title: Τελευταίο βήμα
   subnav:
     feed:

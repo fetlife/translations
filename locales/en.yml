@@ -51,7 +51,7 @@ en:
   forgot_password:
     email:
       cta: Send me Email with Instructions
-      error_forgot_email: I think you forgot something… your email address! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
       error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
       placeholder: Email Address
@@ -309,18 +309,22 @@ en:
     error_bar: Dallas, we have a problem. Scroll down for more info.
     error_birthdate: Date of birth is required.
     error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: You are not old enough (you need to be at least 18 years old).
-    error_city_missing: City has to be selected
-    error_country_missing: Country has to be selected
+    error_birthdate_too_young: Sorry, you must be 18 or older to join.
+    error_city_missing: City has to be selected.
+    error_country_missing: Country has to be selected.
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
-    error_gender_required: Gender has to be selected
+    error_email_taken: Email has already been taken.
+    error_gender_required: Gender has to be selected.
     error_nickname: Nickname is already taken.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 4 and 100 characters
-    error_password_required: Password is required
-    error_role_required: Role has to be selected
-    error_sexual_orientation_required: Sexual Orientation has to be selected
-    error_state_missing: State/Province has to be selected
+    error_password_range: Password needs to be between 4 and 100 characters.
+    error_password_required: Password is required.
+    error_role_required: Role has to be selected.
+    error_sexual_orientation_required: Sexual Orientation has to be selected.
+    error_state_missing: State/Province has to be selected.
     footnote: By clicking the button above you agree to respect and follow our <a class="silver" href="%{guidelines_path}">Community Guidelines</a> and <a class="silver" href="%{tou_path}">Terms of Use</a>&hellip; no take backs.
     label:
       birthdate: Birthdate
@@ -369,11 +373,9 @@ en:
     incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
     label: Verification Code
     notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="silver" href="%{back_path}">update your number and we'll send you a new verification code</a>.
-    notice_error: "<strong>P.S.</strong> Nice to meet you!"
     page_title: Enter Verification Code
     placeholder: 6-Digit Verification Code
     subtitle: That was a bit painful wasn't it?!?!
-    subtitle_error: That was a bit painful wasn't it?!?!<br>Maybe we spoke too soon! :-/
     title: Last Step
   subnav:
     feed:

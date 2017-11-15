@@ -51,7 +51,7 @@ pt:
   forgot_password:
     email:
       cta: Enviar e-mail com instruções
-      error_forgot_email: Acho que você esqueceu de algo… seu e-mail! :-p
+      error_forgot_email: Email address is required.
       error_invalid_email: Isso não se parece com um endereço de e-mail válido. Por favor, revise-o e tente novamente.
       error_quota: Nós só podemos enviar dois e-mails por hora. Por favor, cheque se a mensagem não parou em seu filtro de SPAM. Se não houver nada em seus filtros de SPAM, recomendo que tente as alternativas de acesso acima.
       placeholder: Endereço de e-mail
@@ -108,7 +108,7 @@ pt:
     invitations_sent: Convites Enviados
     labels:
       friends_email: Endereço de Email do amigo
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: próximo passo
     return_to_feed: retornar ao feed
     subtitle_step1:
@@ -119,7 +119,7 @@ pt:
     title_step2: Convite Enviado
     view_invitations: veja seus convites
   landing_page:
-    footer: '<span class="fw5">%{member_count} Membros</span><span> estão compartilhando </span><span class="fw5">%{picture_count} fotos</span><span> e </span><span class="fw5">%{video_count} vídeos</span><span>, participando em </span><span class="fw5">%{discussion_count} discussões</span><span> em </span><span class="fw5">%{group_count} grupos</span><span>, estão indo a </span><span class="fw5">%{event_count} eventos futuros</span><span> e lendo </span><span class="fw5">%{post_count} postagens</span><span>. </span><span><i>O paraíso da perversão!</i></span>'
+    footer: <span class="fw5">%{member_count} Membros</span><span> estão compartilhando </span><span class="fw5">%{picture_count} fotos</span><span> e </span><span class="fw5">%{video_count} vídeos</span><span>, participando em </span><span class="fw5">%{discussion_count} discussões</span><span> em </span><span class="fw5">%{group_count} grupos</span><span>, estão indo a </span><span class="fw5">%{event_count} eventos futuros</span><span> e lendo </span><span class="fw5">%{post_count} postagens</span><span>. </span><span><i>O paraíso da perversão!</i></span>
     login_button: Acessar FetLife
     signup_button: Cadastrar-se em FetLife
     subtitle: Como o Facebook, mas criada por pervertidos como você e eu. Nós achamos que é mais divertido assim. Você não acha?
@@ -310,17 +310,21 @@ pt:
     error_birthdate: Data nascimento é obrigatória.
     error_birthdate_too_old: Você é muito velho.
     error_birthdate_too_young: Você não é velho o bastante (você precisa ter ao menos 18 anos de idade).
-    error_city_missing: Escolha uma Cidade
-    error_country_missing: Escolha um País
+    error_city_missing: Escolha uma Cidade.
+    error_country_missing: Escolha um País.
     error_email: Estamos tendo problemas em acessar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou use um diferente.
-    error_gender_required: Gênero é obrigatório
+    error_email_taken: Email has already been taken.
+    error_gender_required: Gênero é obrigatório.
     error_nickname: O apelido já está em uso.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Apelido é obrigatório.
-    error_password_range: A senha precisa ter entre 4 e 100 caracteres
-    error_password_required: Senha é obrigatória
-    error_role_required: Função é obrigatória
-    error_sexual_orientation_required: Orientação Sexual é obrigatória
-    error_state_missing: Estado é obrigatório
+    error_password_range: A senha precisa ter entre 4 e 100 caracteres.
+    error_password_required: Senha é obrigatória.
+    error_role_required: Função é obrigatória.
+    error_sexual_orientation_required: Orientação Sexual é obrigatória.
+    error_state_missing: Estado é obrigatório.
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a class="silver" href="%{guidelines_path}">Orientações de Comunidade</a> e <a class="silver" href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
     label:
       birthdate: Data de Nascimento
@@ -369,11 +373,9 @@ pt:
     incorrect_code: "<strong>Operador Pervertido:</strong> Doh&hellip; o código que você inseriu parece ser inválido. Por favor verifique se os números conferem."
     label: Código de Verificação
     notice: Nós enviamos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber as mensagens, <a class="silver" href="%{back_path}">atualize seu número e nós vamos lhe enviar uma mensagem</a>.
-    notice_error: "<strong>P.S.</strong> Prazer em te conhecer!"
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação em 6 dígitos
     subtitle: Até que não doeu, vai?!?!
-    subtitle_error: Até que não doeu, vai?!?!<br>Talvez tenhamos dito isso muito antes! :-/
     title: Último Passo
   subnav:
     feed:

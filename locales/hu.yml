@@ -51,7 +51,7 @@ hu:
   forgot_password:
     email:
       cta: Kérek egy emailt az instrukciókkal
-      error_forgot_email: 'Valami mintha kimaradt volna. Ah, igen: az email címed! :-p'
+      error_forgot_email: Email address is required.
       error_invalid_email: Ez nem tűnik egy valós email címnek. Megtennéd, hogy leellenorzöd.
       error_quota: Naponta csak két emailt küldhetünk egy adott email címre. Megtennéd, hogy megnézed nem került-e a korábbi email a levélszemét mappádba? Ha nincs meg, kérlek válassz egy másikat a fenti lehetőségek közül, hogy hozzáférhess a fiókodhoz.
       placeholder: Email cím
@@ -108,7 +108,7 @@ hu:
     invitations_sent: Meghívó kiküldve
     labels:
       friends_email: Az ismerősöd email címe
-      friends_email_sub: '%{count} invitations remaining'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: következő lépés
     return_to_feed: vissza a kályhához
     subtitle_step1:
@@ -119,7 +119,7 @@ hu:
     title_step2: Meghívó elküldve
     view_invitations: Meghívások megtekintése
   landing_page:
-    footer: '<span>Ebben a pillanatban </span><span class="fw5">%{member_count} felhasználó</span> <span class="fw5">%{picture_count} képet</span><span> és </span><span class="fw5">%{video_count} videót</span><span> oszt meg, </span><span class="fw5">%{group_count} csoport</span> <span class="fw5">%{discussion_count} beszélgetésében</span><span> vesz részt, </span><span class="fw5">%{event_count} közelgő esemény</span><span> iránt érdeklődik, és </span><span class="fw5">%{post_count} blog bejegyzés</span><span> közül szemezget. </span><span><i>Ez itt kérem az extrém erotika fellegvára!</i></span>'
+    footer: <span>Ebben a pillanatban </span><span class="fw5">%{member_count} felhasználó</span> <span class="fw5">%{picture_count} képet</span><span> és </span><span class="fw5">%{video_count} videót</span><span> oszt meg, </span><span class="fw5">%{group_count} csoport</span> <span class="fw5">%{discussion_count} beszélgetésében</span><span> vesz részt, </span><span class="fw5">%{event_count} közelgő esemény</span><span> iránt érdeklődik, és </span><span class="fw5">%{post_count} blog bejegyzés</span><span> közül szemezget. </span><span><i>Ez itt kérem az extrém erotika fellegvára!</i></span>
     login_button: Belépés
     signup_button: Regisztráció
     subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)
@@ -310,16 +310,20 @@ hu:
     error_birthdate: A születési dátum fontos dolog.
     error_birthdate_too_old: Sajnos túl idős vagy.
     error_birthdate_too_young: Nem vagy elég idős ehhez (18 év a korhatár).
-    error_city_missing: A város megadása kötelező
-    error_country_missing: Az ország megadása kötelező
+    error_city_missing: A város megadása kötelező.
+    error_country_missing: Az ország megadása kötelező.
     error_email: A megadott email cím nem tűnik megfelelőnek. Kérlek ellenőrízd, hogy nem irtad-e el, esetleg adj meg egy másikat.
-    error_gender_required: Nem mondtál nemet. Márpedig a nemed fontos nekünk.
+    error_email_taken: Email has already been taken.
+    error_gender_required: Márpedig a nemed fontos nekünk.
     error_nickname: Az a felhasználó név már foglalt.
+    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
+    error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Felhasználó név nélkül nehézkes ;)
-    error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter
+    error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter.
     error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
-    error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező
+    error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.
     error_state_missing: A megye kiválasztása kötelező.
     footnote: A továbblépéssel elfogadod, hogy követed a <a class="silver" href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a class="silver" href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.
     label:
@@ -369,11 +373,9 @@ hu:
     incorrect_code: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
     label: Hitelesítő kód
     notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="silver" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
-    notice_error: "<strong>U.I.</strong> Isten hozott! ;)"
     page_title: A hitelesítő kód megadása
     placeholder: 6 jegyű hitelesítő kód
     subtitle: Nem is volt annyira fájdalmas, igaz? ;)
-    subtitle_error: Nem is volt annyira fájdalmas, igaz? ;)<br>Talán nemsokára újra találkozunk! :-/
     title: Utolsó lépés
   subnav:
     feed:
