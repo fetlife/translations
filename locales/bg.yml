@@ -102,13 +102,13 @@ bg:
   invite_a_friend:
     cancel_button: отмени
     cancel_notice: Поканата към %{email} беше отменена.
-    cta: 'Изпрати покана до:'
+    cta: Покани приятел във FetLife
     error: Имаме проблем с изпращането на покана към този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.
     error_forgot_email: Email address is required.
     invitations_accepted: Приети покани
     invitations_sent: Изпратени покани
     labels:
-      friends_email: Имейл адрес на приятел
+      friends_email: 'Изпрати покана до:'
       friends_email_sub: "%{count} invitations remaining"
       email: Имейл адрес
     next_step: следваща стъпка
