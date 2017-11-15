@@ -192,13 +192,13 @@ es:
     error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
     footnote: "<strong>Consejo Pro:</strong> Recuerde su contraseña."
-    label_enter: Nueva Contraseña
-    label_re_enter: Reingrese en Nueva Contraseña
+    label_enter: Nueva contraseña
+    label_re_enter: Reescriba su nueva contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.
     subtitle: No demasiado corto, no demasiado largo, sólo el...
     title: Restablecer la contraseña
   select_language:
-    button: Cambiar Idioma por Defecto
+    button: Cambiar idioma por defecto
     help_translate: Visite nuestro <a class="silver" href="https://github.com/fetlife/translations">proyecto de traducción</a> en GitHub y ayude a que FetLife sea accesible a más de nuestros amigos y comunidades kinky.
     language_name: Español
     sub_header: "¡Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!"
