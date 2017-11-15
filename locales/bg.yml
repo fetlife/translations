@@ -146,10 +146,10 @@ bg:
   login:
     button: Влизане във FetLife
     error_flash: Моля, свържи се със <a href="mailto:support@fetlife.com">support@fetlife.com</a> за да ти помогнем да влезеш.
-    error_login_blank: Името не може да е празно
+    error_login_blank: Името не може да е празно.
     error_not_authenticated: Съжалявам, приятел, трябва да си влязъл за да стигнеш до тази страница. В случай че не си член, отнема по-малко от минута да се регистрираш.
     error_not_found: Хм, не можахме да те намерим. Правилно ли въведе прякора и паролата си? (Паролите РаЗлИчАвАт ГЛАВНИ и малки букви)
-    error_password_blank: Паролата не може да е празна
+    error_password_blank: Паролата не може да е празна.
     forgot_info: Забрави данните за влизане?
     labels:
       nickname: Прякор или имейл

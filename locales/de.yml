@@ -146,10 +146,10 @@ de:
   login:
     button: Einloggen bei FetLife
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder rein zu kommen.
-    error_login_blank: Der Name ist erforderlich
+    error_login_blank: Der Name ist erforderlich.
     error_not_authenticated: Entschuldige, mein Freund, um zu dieser Seite zu gelangen, musst Du angemeldet sein. Wenn Du noch kein Mitglied bist, registriere Dich schnell.
     error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß- / KlEiNsChReIbUnG des Passworts.)
-    error_password_blank: Das Passwort ist erforderlich
+    error_password_blank: Das Passwort ist erforderlich.
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
     labels:
       nickname: Name oder E-Mail
