@@ -109,6 +109,7 @@ es:
     labels:
       friends_email: Dirección de correo electrónico de su amigo
       friends_email_sub: "%{count} invitaciones restantes"
+      email: Dirección de Correo Electrónico
     next_step: próximo paso
     return_to_feed: volver al Feed
     subtitle_step1:

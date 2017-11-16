@@ -109,6 +109,7 @@ gr:
     labels:
       friends_email: Διεύθυνση Email φίλου
       friends_email_sub: "%{count} invitations remaining"
+      email: Διεύθυνση Email
     next_step: επόμενο βήμα
     return_to_feed: επιστροφή στη ροή
     subtitle_step1:

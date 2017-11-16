@@ -110,6 +110,7 @@ sk:
     labels:
       friends_email: Priateľov email
       friends_email_sub: "%{count} invitations remaining"
+      email: Emailová adresa
     next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
