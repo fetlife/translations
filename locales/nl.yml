@@ -109,6 +109,7 @@ nl:
     labels:
       friends_email: Vriend's Email Adres
       friends_email_sub: "%{count} invitations remaining"
+      email: Email adres
     next_step: volgende stap
     return_to_feed: terug naar activiteiten overzicht
     subtitle_step1:

@@ -109,6 +109,7 @@ hu:
     labels:
       friends_email: Az ismerősöd email címe
       friends_email_sub: "%{count} invitations remaining"
+      email: Email cím
     next_step: következő lépés
     return_to_feed: vissza a kályhához
     subtitle_step1:

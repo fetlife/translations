@@ -109,6 +109,7 @@ it:
     labels:
       friends_email: L'indirizzo email dell'amic*
       friends_email_sub: "%{count} invitations remaining"
+      email: Indirizzo email
     next_step: passo successivo
     return_to_feed: ritorna al feed
     subtitle_step1:

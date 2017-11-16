@@ -109,6 +109,7 @@ en:
     labels:
       friends_email: 'Send invite to:'
       friends_email_sub: '%{count} invitations remaining'
+      email: Email Address
     next_step: next step
     return_to_feed: return to feed
     subtitle_step1:
