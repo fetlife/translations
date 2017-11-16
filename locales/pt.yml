@@ -61,7 +61,7 @@ pt:
         title: Esqueceu sua senha?
       step2:
         page_title: Você "DEVE" ter recebido um e-mail
-        subtitle: Se houver um perfil associado ao endereço de e-mail <strong>%{given_email}</strong>, então nós enviamos instruções para redefinição de senha.
+        subtitle: Se houver um perfil associado ao endereço de e-mail <span class='fw5'>%{given_email}</span>, então nós enviamos instruções para redefinição de senha.
         title: Você "DEVE" ter recebido um e-mail!
       update_email: atualize seu endereço de e-mail
       warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos dizer se um determinado e-mail existe em nossa base de dados ou não. Se você não receber um e-mail da gente, é provável que não haja uma conta vinculada àquele endereço de e-mail."
@@ -191,7 +191,7 @@ pt:
     error_password_range: A senha precisa ter entre 4 e 100 caracteres
     error_token_expired: O token de redefinição de senha expirou. Por favor, solicite outro.
     error_token_invalid: O token de redefinição de senha é inválido.
-    footnote: "<strong>Dica:</strong> Lembre-se de sua senha."
+    footnote: "<b>Dica:</b> Lembre-se de sua senha."
     label_enter: Nova Senha
     label_re_enter: Re-Insira sua Senha
     status_flash_success: Sua senha foi alterada com sucesso.

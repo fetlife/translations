@@ -191,7 +191,7 @@ hu:
     error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter
     error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
     error_token_invalid: A jelszó helyreállító kód nem érvényes
-    footnote: "<strong>A profi tanácsa:</strong> Vésd az eszedbe a jelszavad."
+    footnote: "<b>A profi tanácsa:</b> Vésd az eszedbe a jelszavad."
     label_enter: Új jelszó
     label_re_enter: Új jelszó még egyszer
     status_flash_success: A jelszavad sikeresen megváltozott.

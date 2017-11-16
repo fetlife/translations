@@ -61,7 +61,7 @@ es:
         title: "¿Se le olvidó su contraseña?"
       step2:
         page_title: Ud. “PODRÍA” tener correo
-        subtitle: Si existe un perfil asociado al correo electrónico <strong>%{given_email}</strong> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
+        subtitle: Si existe un perfil asociado al correo electrónico <span class='fw5'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡&ldquo;Podría&rdquo; ud. tener correo!"
       update_email: Actualiza la dirección de correo electrónico
       warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
@@ -191,7 +191,7 @@ es:
     error_password_range: La contraseña debe tener entre 4 y 100 caracteres
     error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
-    footnote: "<strong>Consejo:</strong> Recuerde su contraseña."
+    footnote: "<b>Consejo:</b> Recuerde su contraseña."
     label_enter: Nueva Contraseña
     label_re_enter: Reingrese en Nueva Contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.
