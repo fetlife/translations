@@ -138,10 +138,10 @@ fr:
   login:
     button: Connexion à FetLife
     error_flash: Veuillez contacter <a href="mailto:support@fetlife.com">support@fetlife.com</a> afin que nous puissions vous aider à revenir.
-    error_login_blank: Le pseudo ne peut être vide
+    error_login_blank: Le pseudo ne peut être vide.
     error_not_authenticated: Désolé mon ami⋅e, vous devez être connecté⋅e pour accéder à cette page. Si vous n’êtes pas déjà membre, il faut moins d’une minute pour vous inscrire.
     error_not_found: Hmmm, nous n’avons pas pu vous trouver. Êtes-vous sûr⋅e d’avoir tapé vos pseudo et mot de passe correctement ? (Les mots de passe sont SensIBlEs-à-lA-CassE)
-    error_password_blank: Le mot de passe ne peut être vide
+    error_password_blank: Le mot de passe ne peut être vide.
     forgot_info: Informations de connexion oubliées ?
     labels:
       nickname: Pseudo ou email

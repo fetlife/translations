@@ -138,10 +138,10 @@ en:
   login:
     button: Login to FetLife
     error_flash: Please contact <a href="mailto:support@fetlife.com">support@fetlife.com</a> so we can help you get back in.
-    error_login_blank: Login can't be blank
+    error_login_blank: Nickname or email can't be blank.
     error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
     error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
-    error_password_blank: Password can't be blank
+    error_password_blank: Password can't be blank.
     forgot_info: Forgot your login information?
     labels:
       nickname: Nickname or Email

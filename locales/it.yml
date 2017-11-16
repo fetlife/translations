@@ -138,10 +138,10 @@ it:
   login:
     button: Accedi a FetLife
     error_flash: Per favore contatta <a href="mailto:support@fetlife.com">support@fetlife.com</a> in modo che possiamo aiutarti a tornare dentro.
-    error_login_blank: Il login non può essere vuoto
+    error_login_blank: Il login non può essere vuoto.
     error_not_authenticated: Mi dispiace amic* ma è necessario aver effettuato l'accesso per arrivare a quella pagina. Se non sei già un* utente richiede meno di un minuto iscriversi.
     error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La password CaSe-SeNsItIvE)
-    error_password_blank: La password non può essere vuota
+    error_password_blank: La password non può essere vuota.
     forgot_info: Hai dimenticato le credenziali d'accesso?
     labels:
       nickname: Nickname o email
