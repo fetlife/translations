@@ -47,7 +47,7 @@ es:
   footer:
     about: Acerca de
     help: Ayuda
-    privacy: Privacy
+    privacy: Privacidad
   forgot_password:
     email:
       cta: Envíame un correo electrónico con instrucciones
@@ -104,7 +104,7 @@ es:
     cancel_notice: La invitación a %{email} ha sido cancelada.
     cta: Invitar a un amigo a unirse a FetLife
     error: Estamos teniendo problemas para enviar una invitación a la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o intente una diferente.
-    error_forgot_email: Email address is required.
+    error_forgot_email: Se requiere un correo electrónico.
     invitations_accepted: Invitaciones aceptadas
     invitations_sent: Invitaciones enviadas
     labels:
