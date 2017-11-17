@@ -61,7 +61,7 @@ de:
         title: Passwort vergessen?
       step2:
         page_title: Du "KÖNNTEST" eine E-Mail haben
-        subtitle: Wenn ein Mitgliedskonto mit der E-Mail <strong>%{given_email}</strong> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
+        subtitle: Wenn ein Mitgliedskonto mit der E-Mail <span class='fw5'>%{given_email}</span> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
         title: Du &ldquo;könntest&rdquo; eine E-Mail Haben!
       update_email: Aktualisiere die E-Mail-Adresse
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail-Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail-Adresse haben."
@@ -109,6 +109,7 @@ de:
     labels:
       friends_email: E-Mail-Adresse des Freundes
       friends_email_sub: "%{count} invitations remaining"
+      email: E-Mail-Adresse
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
@@ -137,10 +138,10 @@ de:
   login:
     button: Einloggen bei FetLife
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder rein zu kommen.
-    error_login_blank: Der Name ist erforderlich
+    error_login_blank: Der Name ist erforderlich.
     error_not_authenticated: Entschuldige, mein Freund, um zu dieser Seite zu gelangen, musst Du angemeldet sein. Wenn Du noch kein Mitglied bist, registriere Dich schnell.
     error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß- / KlEiNsChReIbUnG des Passworts.)
-    error_password_blank: Das Passwort ist erforderlich
+    error_password_blank: Das Passwort ist erforderlich.
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
     labels:
       nickname: Name oder E-Mail
@@ -191,7 +192,7 @@ de:
     error_password_range: Das Passwort muss zwischen 4 und 100 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
-    footnote: "<strong>Profi-Tipp:</strong> Vergiss Dein Passwort nicht."
+    footnote: "<b>Profi-Tipp:</b> Vergiss Dein Passwort nicht."
     label_enter: Neues Passwort
     label_re_enter: Neues Passwort nochmal eingeben
     status_flash_success: Dein Passwort wurde erfolgreich zurückgesetzt.

@@ -109,6 +109,7 @@ hu:
     labels:
       friends_email: Az ismerősöd email címe
       friends_email_sub: "%{count} invitations remaining"
+      email: Email cím
     next_step: következő lépés
     return_to_feed: vissza a kályhához
     subtitle_step1:
@@ -137,10 +138,10 @@ hu:
   login:
     button: Belépés
     error_flash: Lépj velünk kapcsolatba a <a href="mailto:support@fetlife.com">support@fetlife.com</a> email címen és segítünk újra hozzáférni a fiókodhoz.
-    error_login_blank: Meg kell adnod a felhasználó neved
+    error_login_blank: Meg kell adnod a felhasználó neved.
     error_not_authenticated: Bocs haver, de be kell lépned, hogy megnézhesd ezt az oldalt. Ha még nem vagy tag szánj rá egy percet a regisztrációra és már bent is vagy.
     error_not_found: 'Hmmm, nem tűnsz ismerősnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betű különböző)'
-    error_password_blank: Meg kell adnod a jelszavadat
+    error_password_blank: Meg kell adnod a jelszavadat.
     forgot_info: Valamit elfelejtettél?
     labels:
       nickname: Felhasználónév vagy email cím
@@ -191,7 +192,7 @@ hu:
     error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter
     error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
     error_token_invalid: A jelszó helyreállító kód nem érvényes
-    footnote: "<strong>A profi tanácsa:</strong> Vésd az eszedbe a jelszavad."
+    footnote: "<b>A profi tanácsa:</b> Vésd az eszedbe a jelszavad."
     label_enter: Új jelszó
     label_re_enter: Új jelszó még egyszer
     status_flash_success: A jelszavad sikeresen megváltozott.

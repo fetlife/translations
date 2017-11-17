@@ -61,7 +61,7 @@ fr:
         title: Oublié votre mot de passe ?
       step2:
         page_title: Vous avez “PEUT-ËTRE” du courrier
-        subtitle: S’il existe un profil associé à cet email <strong>%{given_email}</strong>, alors nous vous avons envoyé des instructions pour réinitialiser votre mot de passe.
+        subtitle: S’il existe un profil associé à cet email <span class='fw5'>%{given_email}</span>, alors nous vous avons envoyé des instructions pour réinitialiser votre mot de passe.
         title: Vous avez “PEUT-ËTRE” du courrier !
       update_email: mettre à jour l’adresse mail
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une adresse mail existe ou non dans notre base de données. Si vous ne recevez pas de courriel de nous, il est probable que nous n’avons pas de compte associé à cette adresse mail."
@@ -109,6 +109,7 @@ fr:
     labels:
       friends_email: Addresse mail de ton ami
       friends_email_sub: "%{count} invitation⋅s restante⋅s"
+      email: Adresse mail
     next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:
@@ -137,10 +138,10 @@ fr:
   login:
     button: Connexion à FetLife
     error_flash: Veuillez contacter <a href="mailto:support@fetlife.com">support@fetlife.com</a> afin que nous puissions vous aider à revenir.
-    error_login_blank: Le pseudo ne peut être vide
+    error_login_blank: Le pseudo ne peut être vide.
     error_not_authenticated: Désolé mon ami⋅e, vous devez être connecté⋅e pour accéder à cette page. Si vous n’êtes pas déjà membre, il faut moins d’une minute pour vous inscrire.
     error_not_found: Hmmm, nous n’avons pas pu vous trouver. Êtes-vous sûr⋅e d’avoir tapé vos pseudo et mot de passe correctement ? (Les mots de passe sont SensIBlEs-à-lA-CassE)
-    error_password_blank: Le mot de passe ne peut être vide
+    error_password_blank: Le mot de passe ne peut être vide.
     forgot_info: Informations de connexion oubliées ?
     labels:
       nickname: Pseudo ou email
@@ -191,7 +192,7 @@ fr:
     error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères
     error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
     error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
-    footnote: "<strong>Astuce de pro :</strong> Rappelez-vous de votre mot de passe."
+    footnote: "<b>Astuce de pro :</b> Rappelez-vous de votre mot de passe."
     label_enter: Nouveau mot de passe
     label_re_enter: Re-tapez votre nouveau mot de passe
     status_flash_success: Votre mot de passe a été modifié avec succès.
