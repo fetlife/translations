@@ -104,6 +104,7 @@ fr:
     cancel_notice: L’invitation à %{email} a été annulée.
     cta: Invite un ami à rejoindre FetLife
     error: Nous avons des problèmes à envoyer une invitation à l’adresse mail çi-dessus. Nous vous recommandons de vérifier sa justesse ou d’en essayez une autre.
+    error_forgot_email: Email address is required.
     invitations_accepted: Invitations acceptées
     invitations_sent: Invitations envoyées
     labels:

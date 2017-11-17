@@ -104,6 +104,7 @@ gr:
     cancel_notice: H πρόσκληση στο %{email} ακυρώθηκε.
     cta: Προσκαλέστε ένα φίλο στο FetLife
     error: Αντιμετωπίσαμε προβλήματα με την αποστολή πρόσκλησης σε αυτή τη διεύθυνση email. Συνιστούμε να ελέγξετε την ορθογραφία ή να δοκιμάσετε κάποια άλλη διέυθυνση email.
+    error_forgot_email: Email address is required.
     invitations_accepted: Πρόσκληση Αποδέκτηκε
     invitations_sent: Πρόσκληση Στάλθηκε
     labels:

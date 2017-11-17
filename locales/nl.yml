@@ -104,6 +104,7 @@ nl:
     cancel_notice: De uitnodiging van %{email} is afgebroken.
     cta: Nodig een vriend uit om deel te nemen aan FetLife
     error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande email adres. We adviseren om de spelling te conroleren of een andere te proberen.
+    error_forgot_email: Email address is required.
     invitations_accepted: Uitnodigingen geaccepteerd
     invitations_sent: Uitnodigingen verstuurd
     labels:

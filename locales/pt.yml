@@ -104,6 +104,7 @@ pt:
     cancel_notice: O convite para %{email} foi cancelado.
     cta: Convide um amigo a entrar em FetLife
     error: Estamos tendo problemas em enviar um convite para o endereço de e-mail acima. Nós recomendamos que verifique se o digitou corretamente ou tente um endereço diferente.
+    error_forgot_email: Email address is required.
     invitations_accepted: Convites Aceitos
     invitations_sent: Convites Enviados
     labels:

@@ -104,6 +104,7 @@ de:
     cancel_notice: Die Einladung an %{email} wurde zurückgezogen.
     cta: Lade einen Freund ein, Mitglied bei FetLife zu werden
     error: Wir haben Probleme, die Einladungen an die obrige E-Mail-Adresse zu schicken. Wir empfehlen, die Schreibweise zu korrigieren oder eine andere Adresse zu versuchen.
+    error_forgot_email: Die E-Mail-Addresse ist erforderlich.
     invitations_accepted: Akzeptierte Einladungen
     invitations_sent: Versandte Einladungen
     labels:
