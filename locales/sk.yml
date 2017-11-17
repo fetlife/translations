@@ -62,7 +62,7 @@ sk:
         title: Zabudnuté heslo?
       step2:
         page_title: '"MOŽNO" máš email'
-        subtitle: Ak existuje profil asociovaný s emailom <strong>%{given_email}</strong> tak sme ti poslali inštrukcie na zresetovanie tvojho hesla.
+        subtitle: Ak existuje profil asociovaný s emailom <span class='fw5'>%{given_email}</span> tak sme ti poslali inštrukcie na zresetovanie tvojho hesla.
         title: '"MOŽNO" máš email'
       update_email: aktualizovať emailovú adresu
       warning: "<strong>Varovanie ministra vnútra:</strong> Z bezpečnostných dôvodov ti nemôžeme povedať, že či emailová adresa existuje v našej databáze alebo nie. Ak od nás nedostaneš email, tak je to pravdepodobne kvôli tomu, že u nás ešte nemáš účet."
@@ -110,6 +110,7 @@ sk:
     labels:
       friends_email: Priateľov email
       friends_email_sub: "%{count} invitations remaining"
+      email: Emailová adresa
     next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
@@ -139,10 +140,10 @@ sk:
   login:
     button: Prihlásiť sa na FetLife
     error_flash: Prosím kontaktuj <a href="mailto:support@fetlife.com">support@fetlife.com</a>, aby sme ti čím skôr pomohli sa dostat späť.
-    error_login_blank: Prezývka alebo email nemôžu byť prázdne
+    error_login_blank: Prezývka alebo email nemôžu byť prázdne.
     error_not_authenticated: Prepáč, len prihlásení uživatelia majú prístup na túto stránku. Ak ešte nie si členom, tak registrácia trvá menej ako minútu.
     error_not_found: Hmmm, nevieme ťa najsť. Skontroluj zadanú prezývku a heslo. (Heslo je CiTLiVé-Na-VeLkOsŤ-PíSmEn)
-    error_password_blank: Heslo nemôže byť prázdne
+    error_password_blank: Heslo nemôže byť prázdne.
     forgot_info: Zabudol si svoje prihlasovacie údaje?
     labels:
       nickname: Prezývka alebo email
@@ -196,7 +197,7 @@ sk:
     error_password_range: Heslo musí mať 4 až 100 znakov
     error_token_expired: Platnosť tokenu na zresetovanie hesla vypršala, prosíme ťa skús znovu.
     error_token_invalid: Token na zresetovanie hesla nie je platný
-    footnote: "<strong>Pro Tip:</strong> Zapamätaj si svoje heslo."
+    footnote: "<b>Pro Tip:</b> Zapamätaj si svoje heslo."
     label_enter: Nové heslo
     label_re_enter: Znovu zadaj nové heslo
     status_flash_success: Tvoje heslo bolo úspešne zmenené.
