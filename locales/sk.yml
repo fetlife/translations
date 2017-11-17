@@ -105,6 +105,7 @@ sk:
     cancel_notice: Pozvánka pre %{email} bola zrušená.
     cta: Pozvi priateľa na FetLife
     error: Vyskytol sa problém pri posielaní pozvánky. Odporúčame ti skontrolovať preklepy a skúsiť znova.
+    error_forgot_email: Email address is required.
     invitations_accepted: Prijaté pozvánky
     invitations_sent: Odoslané pozvánky
     labels:

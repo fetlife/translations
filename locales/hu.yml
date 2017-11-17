@@ -104,6 +104,7 @@ hu:
     cancel_notice: A(z) %{email} címre küldött meghívó visszavonva.
     cta: Hívd meg egy barátodat, hogy o is csatlakozzon a FetLife közösséghez.
     error: Akadt egy kis gondunk az email küldéssel a megadott címre. Kérlek ellenorizd, hogy jól írtad-e be, vagy adj meg egy másik címet!
+    error_forgot_email: Email address is required.
     invitations_accepted: Meghívás elfogadva.
     invitations_sent: Meghívó kiküldve
     labels:
