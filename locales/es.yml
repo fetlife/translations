@@ -121,7 +121,7 @@ es:
     title_step2: Invitación enviada
     view_invitations: ver sus invitaciones
   landing_page:
-    footer: <span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count}fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
+    footer: <span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count} fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
     login_button: Iniciar sesión en FetLife
     signup_button: Regístrarse en FetLife
     subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que así es más divertido. ¿Verdad?
@@ -411,8 +411,8 @@ es:
       support_short: Apoyo
   support:
     benefits:
-      item_1: Una placa sexy de <span>I Support FetLife</span> para tu perfil.
-      item_2: Mironear <span>las %{number} imágenes, vídeos </span> de hoy.
+      item_1: Una placa sexy de <span>I Support FetLife</span> para su perfil.
+      item_2: Mironear <span>las %{number} imágenes, vídeos, etc </span> mas amados de hoy.
       item_3: Ver <span>todos los %{number}+ videos</span> compartidos por la comunidad.
       item_4: Mironear <span>todas las %{number}+ imágenes</span> según se comparten.
       item_5: Ver <span>todo lo que usted haya amado alguna vez</span>.
@@ -439,39 +439,39 @@ es:
       sepa: SEPA Direct Debit
       teleingreso: Teleingreso
     errors:
-      account_number_blank: Account Number can't be blank
-      address_blank: Address can't be blank
+      account_number_blank: El número de cuenta no puede estar en blanco
+      address_blank: La direccion no puede estar en blanco
       answer_blank: Answer can't be blank
       bankcode_blank: Bank can't be blank
-      bic_blank: BIC can't be blank
-      bic_format: Invalid BIC
-      canceled: Transaction cancelled by user.
-      city_blank: City can't be blank
-      country_blank: Country has to be selected
-      double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
-      email_blank: Email can't be blank
-      first_name_blank: First name can't be blank
-      iban_blank: IBAN can't be blank
-      info_missing: Some information is missing. Please try again.
-      last_name_blank: Last name can't be blank
-      postal_code_blank: Postal Code can't be blank
-      question_blank: Security question can't be blank
+      bic_blank: El BIC no puede estar en blanco
+      bic_format: El BIC es inválido
+      canceled: La transacción ha sido cancelada por el usuario.
+      city_blank: La ciudad no puede estar en blanco
+      country_blank: Tiene que seleccionar un país
+      double_failsafe: ¿Está seguro de que quiere apoyarnos otra vez? No se equivoque, apreciamos el apoyo, pero no queremos cobrarle dos veces por error. Si tiene alguna pregunta por favor no dude en enviarnos un correo a <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: El correo electrónico no puede estar en blanco
+      first_name_blank: El nombre no puede estar en blanco
+      iban_blank: El IBAN no puede estar en blanco
+      info_missing: Falta alguna información. Por favor inténtelo de nuevo.
+      last_name_blank: Los apellidos no pueden estar en blanco
+      postal_code_blank: El código postal no puede estar en blanco
+      question_blank: La pregunta de seguridad no puede estar en blanco
       routing_number_blank: Routing Number can't be blank
       state_blank: State can't be blank
     faq:
-      cc_a_part_1: Entendemos que es una gran molestia para muchos de ustedes.Pero debido la cantidad de restricciones de contenido que lleva el aceptar tarjetas de crédito, la comunidad en su conjunto ha decidido que es mejor no aceptarlas para nuestra salud y viabilidad a largo plazo.
-      cc_a_part_2: Si quisiésemos aceptar tajetas de crédito no podiramos permitir kinksters debatir sobre watersports, hipnosis, sexo con la regla, Juegos con sangre, edge play, no consentimiento consentido y muchos otros kinks comúnmente aceptados por la comunidad kinky.
+      cc_a_part_1: Entendemos que es una gran molestia para muchos de ustedes. Pero debido la cantidad de restricciones de contenido que lleva el aceptar tarjetas de crédito, la comunidad en su conjunto ha decidido que es mejor no aceptarlas para nuestra salud y viabilidad a largo plazo.
+      cc_a_part_2: Si quisiésemos aceptar tajetas de crédito no podríamos permitir a kinksters debatir sobre watersports, hipnosis, sexo con la regla, juegos con sangre, edge play, no consentimiento consentido y muchos otros kinks comúnmente aceptados por la comunidad kinky.
       cc_a_part_3: Como comunidad necesitamos de un lugar seguro donde adultos que consienten puedan expresarse sexualmente de manera libre. Si aceptásemos tarjetas de crédito o paypal, perderíamos esa libertad.
       cc_q: P. ¿Por qué FetLife no admite tarjetas de crédito o Paypal?
-      gift_a: Eso ha sido muy amable por tu parte. Solo tiene que visitar su perfil y hacer click en el enlace &ldquo;Gift Support&rdquo; bajo &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
+      gift_a: Eso ha sido muy amable por su parte. Solo tiene que visitar su perfil y hacer click en el enlace &ldquo;Gift Support&rdquo; bajo &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
       gift_q: P. ¿Quiere regalar a alguien Apoyo a Fetlife?
-      month_a: Porque, como en Costco,tenemos que vender al por mayor para que siga siendo barato Apoyar a Fetlife!
+      month_a: Porque, como en Costco, tenemos que vender al por mayor para que siga siendo barato Apoyar a Fetlife!
       month_q: P. ¿Por qué no puedo apoyar solo un mes?
       name_a: 'Aparecerá como: BitLove Inc.'
       name_q: P. ¿Cómo aparecerá esto en el extracto bancario?
       question_a: Si tiene alguna pregunta no dude en mandarnos un correo electrónico a &nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: P. ¿Tiene usted alguna pregunta?
-      renew_a: Jamás. Queremos ganarnos tu apoyo cada vez.
+      renew_a: Jamás. Queremos ganarnos su apoyo cada vez.
       renew_q: P. ¿Renuevan mi apoyo automáticamente?
       return_a: Si en siete días no esta satisfecho le devolvemos su dinero. Sin embargo, desafortunadamente, si usted nos apoya canjeando una tarjeta regalo, usando POLi o Paysafecard, debido a como funcionan estos servicios, estas compras son definitivas.
       return_q: P. ¿Cual es su política de devoluciones?
@@ -526,7 +526,7 @@ es:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que sopporte SEPA en europa.
+        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en europa.
         title: Transferencia bancaria europea(SEPA)
       teleingreso:
         extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para quienes tienen una cuenta bancaria en España.
