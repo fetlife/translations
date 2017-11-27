@@ -51,7 +51,7 @@ bg:
   forgot_password:
     email:
       cta: Пратете ми имейл с указания
-      error_forgot_email: Email address is required.
+      error_forgot_email: Имейл адресът е задължителен.
       error_invalid_email: Това не прилича на валиден имейл адрес. Прегледай го и го изпрати отново, моля.
       error_quota: Можем да изпращаме само два имейла на час към даден имейл адрес. Моля, провери дали имейла ни не е попаднал в спам папката ти. Ако не намираш нищо в спам папката, препоръчваме ти да използваш някой от другите методи да се върнеш в профила си.
       placeholder: Имейл адрес
@@ -190,9 +190,9 @@ bg:
   reset_password:
     cta: Смени паролата ми
     error_confirmation_match: Потвърждението на паролата не съответства на паролата
-    error_password_range: Паролата трябва да бъде между 4 и 100 символа
-    error_token_expired: Токена за смяна на парола е изтекъл, моля заяви си нов
-    error_token_invalid: Токена за смяна на парола е невалиден
+    error_password_range: Паролата трябва да е с дължина между 4 и 100 символа
+    error_token_expired: Кодът за смяна на парола е изтекъл, моля заяви си нов
+    error_token_invalid: Кодът за смяна на парола е невалиден
     footnote: "<b>Pro Tip:</b> Помни паролата си."
     label_enter: Нова парола
     label_re_enter: Въведи новата парола отново
@@ -311,18 +311,18 @@ bg:
     error_bar: Далас, имаме проблем. Превърти надолу за повече информация.
     error_birthdate: Датата на раждане е задължителна.
     error_birthdate_too_old: Прекалено възрастни сте.
-    error_birthdate_too_young: Не сте достатъчно възрастни (трябва да сте поне на 18 години).
+    error_birthdate_too_young: Съжалявам, трябва да си поне на 18 години.
     error_city_missing: Трябва да избереш град.
     error_country_missing: Трябва да избереш държава.
     error_email: Имаме проблем с обработването на този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.
-    error_email_taken: Email has already been taken.
+    error_email_taken: Имейлът вече е зает.
     error_gender_required: Трябва да избереш пол.
-    error_nickname: Прякора е вече зает.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
-    error_nickname_required: Прякора е задължителен.
-    error_password_range: Паролата трябва да бъде между 4 и 100 символа.
+    error_nickname: Прякорът е вече зает.
+    error_nickname_bad_word: Прякорът не може да съдържа думата '%{word}'.
+    error_nickname_characters: Прякорът може да съдържа само букви, цифри, тирета и долна черта; никакви интервали.
+    error_nickname_length: Прякорът трябва да е с дължина между 2 и 16 символа.
+    error_nickname_required: Прякорът е задължителен.
+    error_password_range: Паролата трябва да е с дължина между 4 и 100 символа.
     error_password_required: Паролата е задължителна.
     error_role_required: Трябва да избереш роля.
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
