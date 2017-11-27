@@ -319,7 +319,7 @@ pt:
     error_gender_required: Género é obrigatório.
     error_nickname: Nome de Utilizador já em uso.
     error_nickname_bad_word: Nome de Utilizador não poder incluir a palavra '%{word}'.
-    error_nickname_characters: Nome de Utilizador só pode conter: letras, numeros, hífenes e sublinhado; Sem espaços.
+    error_nickname_characters: Nome de Utilizador só pode conter: letras, numeros, hífenes e sublinhado e sem espaços.
     error_nickname_length: O Nome de Utilizador tem de ser entre 6 e 16 caracteres.
     error_nickname_required: Nome de Utilizador é obrigatório.
     error_password_range: A senha precisa ter entre 4 e 100 caracteres.
