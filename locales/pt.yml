@@ -72,7 +72,7 @@ pt:
         title: Regra de Cinco
       cta: Enviar mensagem de texto
       error_country_code: "<strong>Operador Pervertido:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
-      error_quota: "<strong>Operador Pervertido:</strong> Putz, nós só podemos enviar 3 mensagens de texto a cada 24 horas para cada número de telefone. Exista o número em nossa base de dados ou não."
+      error_quota: "<strong>Operador Pervertido:</strong> Putz, nós só podemos enviar 3 mensagens de texto a cada 24 horas para cada número de telemovel. Exista o número em nossa base de dados ou não."
       pro_tip: "<strong>Dica:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
       step1:
         page_title: Redefinir Senha por Mensagem de Texto
@@ -81,13 +81,13 @@ pt:
       step2:
         cta: Verifique que Você é Você &#8482;
         error_code_match: "<strong>Operador Pervertido:</strong> O código de verificação que você inseriu está incorreto. Verifique se o número acima confere com o que você recebeu e tente novamente. Isto é uma gravação."
-        inexisting_number: Se em cerca de três minutos você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telefone. Nós recomendamos que você <a href="%{forgot_password_email_path}">tente redefinir sua senha de outra forma</a> ou <a href="%{signup_path}">crie um novo perfil em FetLife</a>.
+        inexisting_number: Se em cerca de três minutos você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel. Nós recomendamos que você <a href="%{forgot_password_email_path}">tente redefinir sua senha de outra forma</a> ou <a href="%{signup_path}">crie um novo perfil em FetLife</a>.
         label: Código de Verificação
         page_title: Insira o Código de Verificação
         placeholder: Código de Verificação de 6 dígitos
         subtitle: Nós &ldquo;talvez&rdquo; tenhamos lhe enviado uma mensagem de texto.
         title: Insira o Código de Verificação
-      warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos informar se um determinado número existe em nosso banco de dados ou não. Se você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telefone."
+      warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos informar se um determinado número existe em nosso banco de dados ou não. Se você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel."
     next_step: próximo passo
     return_to_login: regressar ao login
     tab_email: Email
@@ -317,7 +317,7 @@ pt:
     error_email: Estamos a ter problemas a aceder o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou use um diferente.
     error_email_taken: Esse email já está em registado.
     error_gender_required: Género é obrigatório.
-    error_nickname:Nome de Utilizador já em uso.
+    error_nickname: Nome de Utilizador já em uso.
     error_nickname_bad_word: Nome de Utilizador não poder incluir a palavra '%{word}'.
     error_nickname_characters: Nome de Utilizador só pode conter: letras, numeros, hífenes e sublinhado ( _ ); Sem espaços.
     error_nickname_length: O Nome de Utilizador tem de ser entre 6 e 16 caracteres.
@@ -365,7 +365,7 @@ pt:
     error_cant_send: "<strong>Operador Pervertido:</strong> Estamos tendo problemas em lhe enviar uma mensagem de texto. <strong>Dica:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
     error_quota: "<strong>Operador Pervertido:</strong> Não podemos enviar mais de três mesanges a um determinado número."
     explanation: Nós sabemos que é pedir demais, mas para manter um comunidade saudável, nós precisamos verificar todos antes que entrem. Isso é algo que achamos que vai gostar quando estiver do outro lado.
-    label: Telefone.
+    label: Telemovel.
     page_title: Enviar Código de Verifição
     pro_tip: "<strong>Dica:</strong> Certifique-se de começar o número com o código do país: +55 para Brasil, +351 para Portugal, etc."
     subtitle: Mensagem de text anônima - uma vez.
