@@ -108,9 +108,9 @@ en:
     invitations_accepted: Invitations Accepted
     invitations_sent: Invitations Sent Out
     labels:
-      friends_email: 'Send invite to:'
-      friends_email_sub: '%{count} invitations remaining'
       email: Email Address
+      friends_email: 'Send invite to:'
+      friends_email_sub: "%{count} invitations remaining"
     next_step: next step
     return_to_feed: return to feed
     subtitle_step1:
@@ -121,7 +121,7 @@ en:
     title_step2: Invitation Sent
     view_invitations: view your invitations
   landing_page:
-    footer: '<span class="fw5">%{member_count} Members</span><span> are sharing </span><span class="fw5">%{picture_count} pictures</span><span> and </span><span class="fw5">%{video_count} videos</span><span>, participating in </span><span class="fw5">%{discussion_count} discussions</span><span> in </span><span class="fw5">%{group_count} groups</span><span>, going to </span><span class="fw5">%{event_count} upcoming events</span><span>, and reading </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky heaven!</i></span>'
+    footer: <span class="fw5">%{member_count} Members</span><span> are sharing </span><span class="fw5">%{picture_count} pictures</span><span> and </span><span class="fw5">%{video_count} videos</span><span>, participating in </span><span class="fw5">%{discussion_count} discussions</span><span> in </span><span class="fw5">%{group_count} groups</span><span>, going to </span><span class="fw5">%{event_count} upcoming events</span><span>, and reading </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky heaven!</i></span>
     login_button: Login to FetLife
     signup_button: Signup to FetLife
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?

@@ -108,9 +108,9 @@ bg:
     invitations_accepted: Приети покани
     invitations_sent: Изпратени покани
     labels:
+      email: Имейл адрес
       friends_email: Имейл адрес на приятел
       friends_email_sub: "%{count} invitations remaining"
-      email: Имейл адрес
     next_step: следваща стъпка
     return_to_feed: връщане към стената
     subtitle_step1:
