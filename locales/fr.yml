@@ -108,9 +108,9 @@ fr:
     invitations_accepted: Invitations acceptées
     invitations_sent: Invitations envoyées
     labels:
+      email: Adresse mail
       friends_email: Addresse mail de ton ami
       friends_email_sub: "%{count} invitation⋅s restante⋅s"
-      email: Adresse mail
     next_step: étape suivante
     return_to_feed: retour à feed
     subtitle_step1:

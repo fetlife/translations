@@ -108,9 +108,9 @@ es:
     invitations_accepted: Invitaciones aceptadas
     invitations_sent: Invitaciones enviadas
     labels:
+      email: Dirección de Correo Electrónico
       friends_email: Dirección de correo electrónico de su amigo
       friends_email_sub: "%{count} invitaciones restantes"
-      email: Dirección de Correo Electrónico
     next_step: próximo paso
     return_to_feed: volver al Feed
     subtitle_step1:
@@ -542,7 +542,7 @@ es:
       60_info: "$5/mes"
       60_title: "$60 por 12 meses"
       return_info: Garantía de devolución incondicional de su dinero durante siete días.
-      title: ¿Cuánto te gusta FetLife?
+      title: "¿Cuánto te gusta FetLife?"
     step2_paygarden:
       confirm: I Have a Gift Card I Want to Trade for Support
       list_footer: and <a href='%{link}'>100s of other major brands.</a>

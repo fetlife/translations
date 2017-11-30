@@ -108,9 +108,9 @@ de:
     invitations_accepted: Akzeptierte Einladungen
     invitations_sent: Versandte Einladungen
     labels:
+      email: E-Mail-Adresse
       friends_email: E-Mail-Adresse des Freundes
       friends_email_sub: "%{count} invitations remaining"
-      email: E-Mail-Adresse
     next_step: nächster Schritt
     return_to_feed: zurück zur Aktivitätschronik
     subtitle_step1:
