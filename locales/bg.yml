@@ -108,9 +108,9 @@ bg:
     invitations_accepted: Приети покани
     invitations_sent: Изпратени покани
     labels:
-      friends_email: 'Изпрати покана до:'
-      friends_email_sub: "Остават %{count} покани"
       email: Имейл адрес
+      friends_email: 'Изпрати покана до:'
+      friends_email_sub: Остават %{count} покани
     next_step: следваща стъпка
     return_to_feed: връщане към стената
     subtitle_step1:
@@ -328,6 +328,7 @@ bg:
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
     error_state_missing: Трябва да избереш област.
     footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a class="silver" href="%{guidelines_path}">Правила на общността</a> и <a class="silver" href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
+    return_to_login: Already a member? Login to FetLife.
     label:
       birthdate: Дата на раждане
       city: Град
