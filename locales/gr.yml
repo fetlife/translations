@@ -328,6 +328,7 @@ gr:
     error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό.
     error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία.
     footnote: Κάνοντας κλικ στο κουμπί συμφωνείτε να σέβεστε και να ακολουθείτε τους <a class="silver" href="%{guidelines_path}">"Κανόνες Κοινότητας"</a> και τους <a class="silver" href="%{tou_path}">Όρους Χρήσης</a>…
+    return_to_login: Already a member? Login to FetLife.
     label:
       birthdate: Ημερομηνία Γέννησης
       city: Πόλη
