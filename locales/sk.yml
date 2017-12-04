@@ -333,7 +333,7 @@ sk:
     error_sexual_orientation_required: Sexuálna orientácia je povinná.
     error_state_missing: Kraj je povinný.
     footnote: Kliknutím na tlačidlo vyššie súhlasíš, že budeš rešpektovať naše <a class="silver" href="%{guidelines_path}">komunitné pravidlá</a> a <a class="silver" href="%{tou_path}">podmienky používania</a>.
-    return_to_login: Already a member? Login to FetLife.
+    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Dátum narodenia
       city: Mesto

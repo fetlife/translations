@@ -328,7 +328,7 @@ pt:
     error_sexual_orientation_required: Orientação Sexual é obrigatória.
     error_state_missing: Estado é obrigatório.
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a class="silver" href="%{guidelines_path}">Orientações de Comunidade</a> e <a class="silver" href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
-    return_to_login: Already a member? Login to FetLife.
+    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Data de Nascimento
       city: Cidade

@@ -268,7 +268,7 @@ nl:
     about_fetlife: Over Fetlife
     ad_stats: Advertentie Statistieken
     advertising: Adverteren
-    androidapp: Install FetLife's Android App
+    androidapp: Installeer FetLife's Android Applicatie
     bug_bounty: Bug beloning
     caretaking: Concierge
     change_language: Wijzig taal
@@ -318,9 +318,9 @@ nl:
     error_email_taken: Email is al in gebruik.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_bad_word: Bijnaam kan niet het woord '%{word}' bevatten.
+    error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
+    error_nickname_length: Bijnaam moet tussen 2 en 16 karakters lang zijn.
     error_nickname_required: Alias is verplicht.
     error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.
@@ -328,7 +328,7 @@ nl:
     error_sexual_orientation_required: Sexuele orientatie moet worden gekozen.
     error_state_missing: Provincie moet worden geselecteerd.
     footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a class="silver" href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a class="silver" href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
-    return_to_login: Al een lid? Meld je hier aan bij FetLife.
+    return_to_login: Al een lid? Meld je hier aan bij FetLife
     label:
       birthdate: Geboortedatum
       city: Plaats

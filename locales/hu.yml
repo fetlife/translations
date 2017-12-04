@@ -328,7 +328,7 @@ hu:
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.
     error_state_missing: A megye kiválasztása kötelező.
     footnote: A továbblépéssel elfogadod, hogy követed a <a class="silver" href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a class="silver" href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.
-    return_to_login: Already a member? Login to FetLife.
+    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Születési idő
       city: Város
