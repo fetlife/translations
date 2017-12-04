@@ -328,7 +328,7 @@ de:
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.
     error_state_missing: Das Bundesland muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a class="silver" href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a class="silver" href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
-    return_to_login: Already a member? Login to FetLife.
+    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Geburtsdatum
       city: Stadt
