@@ -328,7 +328,7 @@ bg:
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
     error_state_missing: Трябва да избереш област.
     footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a class="silver" href="%{guidelines_path}">Правила на общността</a> и <a class="silver" href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
-    return_to_login: Already a member? Login to FetLife
+    return_to_login: Вече си член? Влез във FetLife
     label:
       birthdate: Дата на раждане
       city: Град
