@@ -103,12 +103,12 @@ es:
     cancel_button: cancelar
     cancel_notice: La invitación a %{email} ha sido cancelada.
     cta: Invitar a un amigo a unirse a FetLife
-    error: Estamos teniendo problemas para enviar una invitación a la dirección de correo electrónico anterior. Le recomendamos que compruebe la ortografía o intente una diferente.
+    error: Estamos teniendo problemas para enviar una invitación a la dirección de correo electrónico anterior. Le recomendamos que compruebe que esté bien escrita o intente una diferente.
     error_forgot_email: Se requiere un correo electrónico.
     invitations_accepted: Invitaciones aceptadas
     invitations_sent: Invitaciones enviadas
     labels:
-      email: Dirección de Correo Electrónico
+      email: Dirección de correo electrónico
       friends_email: Dirección de correo electrónico de su amigo
       friends_email_sub: "%{count} invitaciones restantes"
     next_step: próximo paso
@@ -328,7 +328,7 @@ es:
     error_sexual_orientation_required: Se requiere su orientación sexual.
     error_state_missing: Debe seleccionar un Estado/Provincia.
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
-    return_to_login: Already a member? Login to FetLife
+    return_to_login: ¿Ya es usted miembro? Inicie sesión en FetLife.
     label:
       birthdate: Fecha de Nacimiento
       city: Ciudad
