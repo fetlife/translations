@@ -93,7 +93,7 @@ es:
     tab_email: Correo electrónico
     tab_mobile: Móvil
   guidelines:
-    last_updated: 'Última actualización:'
+    last_updated: "Última actualización:"
     subnav:
       community: Comunidad
       content: Contenido
@@ -328,7 +328,6 @@ es:
     error_sexual_orientation_required: Se requiere su orientación sexual.
     error_state_missing: Debe seleccionar un Estado/Provincia.
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
-    return_to_login: ¿Ya es usted miembro? Inicie sesión en FetLife
     label:
       birthdate: Fecha de Nacimiento
       city: Ciudad
@@ -342,6 +341,7 @@ es:
       sexual_orientation: Orientación Sexual
       state: Estado/Provincia
     page_title: Unirse
+    return_to_login: "¿Ya es usted miembro? Inicie sesión en FetLife"
     subtitle: Cuéntenos un poco sobre Ud.
     subtitle_invite: "%{name} le invitó a unirse a FetLife."
     title: Bienvenido a casa
@@ -379,7 +379,7 @@ es:
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
     subtitle: "¡¿A que no fue para tanto?!"
-    title: Último Paso
+    title: "Último Paso"
   subnav:
     feed:
       activity_feed: Feed de actividad

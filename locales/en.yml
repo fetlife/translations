@@ -328,7 +328,6 @@ en:
     error_sexual_orientation_required: Sexual Orientation has to be selected.
     error_state_missing: State/Province has to be selected.
     footnote: By clicking the button above you agree to respect and follow our <a class="silver" href="%{guidelines_path}">Community Guidelines</a> and <a class="silver" href="%{tou_path}">Terms of Use</a>&hellip; no take backs.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Birthdate
       city: City
@@ -342,6 +341,7 @@ en:
       sexual_orientation: Sexual Orientation
       state: State/Province
     page_title: Join
+    return_to_login: Already a member? Login to FetLife
     subtitle: Tell us a little bit about yourself.
     subtitle_invite: "%{name} invited you to join FetLife."
     title: Welcome Home

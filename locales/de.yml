@@ -216,8 +216,8 @@ de:
     language_cta: Aktualisiere Sprachvoreinstellung
     language_notice: FetLife ist noch nicht vollständig in anderen Sprachen als Englisch verfügbar. Wenn Du diese Einstellung änderst, wird nicht die gesamte Seite übersetzt sein.
     new_password_label: Neues Passwort
-    nickname_cta: Ändere den Namen
-    nickname_label: 'Ändere Deinen Namen von „JohnBaku“ nach:'
+    nickname_cta: "Ändere den Namen"
+    nickname_label: "Ändere Deinen Namen von „JohnBaku“ nach:"
     nickname_notice: "<strong>Profi-Tipp:</strong> Denke zweimal nach, bevor Du Dich entscheidest. Du kannst Deinen Namen nur einmal alle 28 Tage ändern. Was gilt, das gilt."
     nickname_placeholder: Neuer Name
     page_title: Passwort Ändern - Einstellungen
@@ -246,7 +246,7 @@ de:
     title: Privatsphäre
     warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt."
   settings_profile:
-    about_you_label: Über Dich
+    about_you_label: "Über Dich"
     add_website: "+ eine Web-Seite hinzufügen"
     cta: Aktualisiere Dein Profil
     dob_label: Geburtsdatum
@@ -265,7 +265,7 @@ de:
     subtitle: Für den Fall, dass Du Dein Passwort vergisst.
     title: Aktualisiere E-Mail-Adresse
   sidebar:
-    about_fetlife: Über FetLife
+    about_fetlife: "Über FetLife"
     ad_stats: Anzeigen Statistiken
     advertising: Werbung
     androidapp: Installiere FetLife Android App
@@ -328,7 +328,6 @@ de:
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.
     error_state_missing: Das Bundesland muss gewählt werden.
     footnote: Indem Du den Knopf oben betätigst, willigst Du ein, unsere <a class="silver" href="%{guidelines_path}">Gemeinschaftsrichtlinien</a> und <a class="silver" href="%{tou_path}">Nutzungsbedingungen</a> zu respektieren und zu befolgen &hellip; keinen Rückzieher.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Geburtsdatum
       city: Stadt
@@ -342,6 +341,7 @@ de:
       sexual_orientation: Sexuelle Orientierung
       state: Staat/Bundesland
     page_title: Mitglied werden
+    return_to_login: Already a member? Login to FetLife
     subtitle: Erzähl uns ein bisschen über Dich.
     subtitle_invite: "%{name} hat Dich eingeladen, Mitglied bei FetLife zu werden."
     title: Willkommen Zuhause
@@ -389,7 +389,7 @@ de:
       kp: Kinky<span class="a-ampersand">&amp;</span>Beliebt
       kp_short: Beliebt
     profile:
-      about: Über Mich
+      about: "Über Mich"
       about_short: Ich
       latest: Neueste Aktivitäten
       latest_short: Neues
@@ -499,7 +499,7 @@ de:
         title: Bitcoin
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die mit einem EPS-fähigen Konto in Österreich.
-        title: Österreichische Bezahloption (EPS)
+        title: "Österreichische Bezahloption (EPS)"
       giropay:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die mit einem giropay-fähigen Konto in Deutschland.
         title: Deutsche giropay Bezahloption

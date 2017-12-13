@@ -31,8 +31,8 @@ sk:
       other: "%{count_with_delimiter} komentárov"
     composer:
       button: Zdielať
-      placeholder: Čo máš na mysli?
-    love: Ľúbi sa mi to
+      placeholder: "Čo máš na mysli?"
+    love: "Ľúbi sa mi to"
     loved_hover: Lámač sŕdc! :-(
     loves_count:
       one: 1 členovi sa to ľúbi
@@ -89,7 +89,7 @@ sk:
         subtitle: Práve me ti &ldquo;asi&rdquo; poslali SMS.
         title: Zadaj verfikačný kód
       warning: "<strong>Varovanie ministra vnútra:</strong> Z bezpečnostných dôvodov ti nemôžeme povedať, že či dané mobilné číslo sa nachádza v našej databáze alebo nie. Ak nedostaneš SMS, tak je to pravdepodobne kvôli tomu, že ešte nemáš u nás účet."
-    next_step: ďalší krok
+    next_step: "ďalší krok"
     return_to_login: späť na prihlásenie
     tab_email: Email
     tab_mobile: Mobil
@@ -112,7 +112,7 @@ sk:
       email: Emailová adresa
       friends_email: Priateľov email
       friends_email_sub: "%{count} invitations remaining"
-    next_step: ďalší krok
+    next_step: "ďalší krok"
     return_to_feed: späť na feed
     subtitle_step1:
       few: Ostávajú ti %{count_with_delimiter} pozvánky.
@@ -151,7 +151,7 @@ sk:
       password: Heslo
       remember_me: Pamätaj si ma, budem späť.
     not_a_member: Ešte nie si členom? Registruj sa na FetLife
-    subtitle: Čo by sme bez Teba robili?
+    subtitle: "Čo by sme bez Teba robili?"
     title: Vitaj doma
   logout:
     log_in: znova sa prihlásiť
@@ -309,7 +309,7 @@ sk:
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
     view_friends: Zobraz priateľov
-    whats_new: Čo nové?
+    whats_new: "Čo nové?"
     write_post: Napísať príspevok
   signup:
     almost_there: Už si skoro tam!
@@ -333,7 +333,6 @@ sk:
     error_sexual_orientation_required: Sexuálna orientácia je povinná.
     error_state_missing: Kraj je povinný.
     footnote: Kliknutím na tlačidlo vyššie súhlasíš, že budeš rešpektovať naše <a class="silver" href="%{guidelines_path}">komunitné pravidlá</a> a <a class="silver" href="%{tou_path}">podmienky používania</a>.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Dátum narodenia
       city: Mesto
@@ -347,13 +346,14 @@ sk:
       sexual_orientation: Sexuálna orientácia
       state: Kraj
     page_title: Pridaj sa k nám
+    return_to_login: Already a member? Login to FetLife
     subtitle: Povedz nám niečo málo o sebe.
     subtitle_invite: Uživateľ %{name} ťa pozval na FetLife.
     title: Vitaj doma
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a class="silver" href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
     say_cheese: Povedz "syyyyyr"!
-    subtitle: Ľudia s profilovou fotkou majú 69x viac zábavy!
+    subtitle: "Ľudia s profilovou fotkou majú 69x viac zábavy!"
     title: Nahrať profilovú fotku
   signup_five_strikes:
     page_title: Pravidlo piatich pokusov
@@ -362,7 +362,7 @@ sk:
     title: Pravidlo piatich pokusov
   signup_follow:
     follow: Sledovať
-    next_step: Ďalší krok
+    next_step: "Ďalší krok"
     subtitle: Sleduj kinksterov, ktorí zaujmu tvoje oko.
     title: Zaujal ťa niekto?
   signup_phone:
@@ -375,7 +375,7 @@ sk:
     page_title: Pošli mi verifikačný kód
     pro_tip: "<strong>Pro Tip:</strong> Nezabudni na kód krajiny v mobilnom čísle: +421 pre Slovenko, +420 pre Českú Republiku, atď."
     subtitle: Jednorázová anonymná správa.
-    title: Čas na verifikáciu!
+    title: "Čas na verifikáciu!"
   signup_verify:
     cta: Dokonči registráciu a verifikáciu
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
@@ -402,11 +402,11 @@ sk:
       pictures_short: Fotky
       videos: Videá
       videos_short: Videá
-      writings: Články
-      writings_short: Články
+      writings: "Články"
+      writings_short: "Články"
     settings:
-      account: Účet
-      account_short: Účet
+      account: "Účet"
+      account_short: "Účet"
       notifications: Upozornenia
       notifications_short: Upozornenia
       privacy: Súkromie

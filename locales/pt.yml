@@ -93,7 +93,7 @@ pt:
     tab_email: Email
     tab_mobile: Telemovel
   guidelines:
-    last_updated: 'Última atualização:'
+    last_updated: "Última atualização:"
     subnav:
       community: Comunidade
       content: Conteúdo
@@ -328,7 +328,6 @@ pt:
     error_sexual_orientation_required: Orientação Sexual é obrigatória.
     error_state_missing: Estado é obrigatório.
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a class="silver" href="%{guidelines_path}">Orientações de Comunidade</a> e <a class="silver" href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Data de Nascimento
       city: Cidade
@@ -342,6 +341,7 @@ pt:
       sexual_orientation: Orientação Sexual
       state: Estado
     page_title: Cadastrar
+    return_to_login: Already a member? Login to FetLife
     subtitle: Conte-nos um pouco sobre você.
     subtitle_invite: "%{name} lhe convidou a participar do FetLife."
     title: Boas Vindas
@@ -379,7 +379,7 @@ pt:
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação em 6 dígitos
     subtitle: Até que não doeu, pois não?
-    title: Último Passo
+    title: "Último Passo"
   subnav:
     feed:
       activity_feed: Feed de Atividade

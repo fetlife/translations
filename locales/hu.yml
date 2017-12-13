@@ -16,7 +16,7 @@ hu:
     email_us: 'Küldj nekünk egy emailt a <a href="mailto:support@fetlife.com">support@fetlife.com</a> címre és mi válaszolunk, mielőtt annyit mondanál: "Fapapucs"! Najó, ilyen hamar azért nem ;)'
     europe: Európa
     got_question: Kérdésed van? Segíthetünk?
-    north_america: Észak-Amerika
+    north_america: "Észak-Amerika"
     one_love: Egy élet, egy szerelem és rengeteg élvezet.
     snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
@@ -194,8 +194,8 @@ hu:
     error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
     error_token_invalid: A jelszó helyreállító kód nem érvényes
     footnote: "<b>A profi tanácsa:</b> Vésd az eszedbe a jelszavad."
-    label_enter: Új jelszó
-    label_re_enter: Új jelszó még egyszer
+    label_enter: "Új jelszó"
+    label_re_enter: "Új jelszó még egyszer"
     status_flash_success: A jelszavad sikeresen megváltozott.
     subtitle: Nem túl hosszú, nem túl rövid, csak pont... de hisz tudod ;)
     title: Jelszó helyreállítása
@@ -213,16 +213,16 @@ hu:
     email_cta: Update Email cím
     email_label: Email
     email_placeholder: Email cím
-    language_cta: Új alapértelmezett nyelv
+    language_cta: "Új alapértelmezett nyelv"
     language_notice: A FetLife fordítása még nem teljese. Ha megváltoztatod ezt a beállítást, az oldal bizonyos részei továbbra is angolul fognak megjelenni.
-    new_password_label: Új jelszó
+    new_password_label: "Új jelszó"
     nickname_cta: Felhasználónév
     nickname_label: " A felhasználónév megváltoztatása:"
     nickname_notice: "<strong>A profi tanácsa:</strong> Mérd kétszer, Vágd egyszer. A felhasználó nevedet csak 28 naponta változtathatod meg. Nincs kivétel."
-    nickname_placeholder: Új felahasználónév
+    nickname_placeholder: "Új felahasználónév"
     page_title: Jelszó megváltoztatása - Beállítások
-    password_cta: Új jelszó
-    repeat_password_label: Új jelszó még egyszer
+    password_cta: "Új jelszó"
+    repeat_password_label: "Új jelszó még egyszer"
     subtitle: Kérjük nyomja meg a piros gombot és nyugodjon békében.
     title: Felhasználói beállítások
   settings_notifications:
@@ -270,7 +270,7 @@ hu:
     advertising: Hirdetés
     androidapp: Install FetLife's Android App
     bug_bounty: Hiba vadászat
-    caretaking: Ügyfélszolgálat
+    caretaking: "Ügyfélszolgálat"
     change_language: Nyelv kiválasztása
     close: bezárás
     edit_profile: Profil szerkesztése
@@ -304,7 +304,7 @@ hu:
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
     view_friends: Ismerősök
-    whats_new: Újdonságok
+    whats_new: "Újdonságok"
     write_post: Bejegyzés közzététele
   signup:
     almost_there: Szinte kész!
@@ -328,7 +328,6 @@ hu:
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.
     error_state_missing: A megye kiválasztása kötelező.
     footnote: A továbblépéssel elfogadod, hogy követed a <a class="silver" href="%{guidelines_path}">közösségi szabályzatot</a> és elfogadod a <a class="silver" href="%{tou_path}">felhasználási feltételeket</a>. Még most olvasd el, különben úgy vesszük, hogy megtetted.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Születési idő
       city: Város
@@ -342,6 +341,7 @@ hu:
       sexual_orientation: Szexuális beállítottság
       state: Megye
     page_title: Csatlakozás
+    return_to_login: Already a member? Login to FetLife
     subtitle: Mesélj egy kicsit magadról!
     subtitle_invite: "%{name} meghívott, hogy csatlakozz a FetLife közösséghez."
     title: Isten hozott itthon
@@ -397,13 +397,13 @@ hu:
       pictures_short: Képek
       videos: Videók
       videos_short: Videók
-      writings: Írások
-      writings_short: Írások
+      writings: "Írások"
+      writings_short: "Írások"
     settings:
       account: Felhasználói fiók
       account_short: Felhasználó
-      notifications: Értesítések
-      notifications_short: Értesítések
+      notifications: "Értesítések"
+      notifications_short: "Értesítések"
       privacy: Adatvédelem
       privacy_short: Adatvédelem
       profile: Profil
