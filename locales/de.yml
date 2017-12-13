@@ -190,7 +190,7 @@ de:
   reset_password:
     cta: Setze mein Passwort zurück
     error_confirmation_match: Die Passwort-Wiederholung stimmt nicht mit dem Passwort überein
-    error_password_range: Das Passwort muss zwischen 4 und 100 Zeichen lang sein.
+    error_password_range: Das Passwort muss zwischen 8 und 100 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
     error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
     footnote: "<b>Profi-Tipp:</b> Vergiss Dein Passwort nicht."
@@ -322,7 +322,7 @@ de:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Der Name ist erforderlich.
-    error_password_range: Das Passwort muss zwischen 4 und 100 Zeichen lang sein.
+    error_password_range: Das Passwort muss zwischen 8 und 100 Zeichen lang sein.
     error_password_required: Das Passwort ist erforderlich.
     error_role_required: Die Rolle muss gewählt werden.
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.

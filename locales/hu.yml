@@ -190,7 +190,7 @@ hu:
   reset_password:
     cta: Jelszó visszaállítása
     error_confirmation_match: A megerősítő jelszó nem egyezik az eredetivel
-    error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter
+    error_password_range: A te jelszavad pedig légyen legalább 8 de nem több mint 100 karakter
     error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
     error_token_invalid: A jelszó helyreállító kód nem érvényes
     footnote: "<b>A profi tanácsa:</b> Vésd az eszedbe a jelszavad."
@@ -322,7 +322,7 @@ hu:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Felhasználó név nélkül nehézkes ;)
-    error_password_range: A te jelszavad pedig légyen legalább 4 de nem több mint 100 karakter.
+    error_password_range: A te jelszavad pedig légyen legalább 8 de nem több mint 100 karakter.
     error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.

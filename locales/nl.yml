@@ -190,7 +190,7 @@ nl:
   reset_password:
     cta: Herstel mijn wachtwoord
     error_confirmation_match: Wachtwoord bevestiging is niet gelijk aan het wachtwoord
-    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan
+    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan
     error_token_expired: Herstel wachtwoord token is verlopen, vraag een nieuwe aan
     error_token_invalid: Herstel wachtwoord token is niet juist
     footnote: "<b>Pro Tip:</b> Vergeet je wachtwoord niet."
@@ -322,7 +322,7 @@ nl:
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
     error_nickname_length: Bijnaam moet tussen 2 en 16 karakters lang zijn.
     error_nickname_required: Alias is verplicht.
-    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan.
+    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.
     error_role_required: Rol moet worden gekozen.
     error_sexual_orientation_required: Sexuele orientatie moet worden gekozen.

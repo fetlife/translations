@@ -195,7 +195,7 @@ sk:
   reset_password:
     cta: Resetovať heslo
     error_confirmation_match: Zadané heslá sa nezhodujú
-    error_password_range: Heslo musí mať 4 až 100 znakov
+    error_password_range: Heslo musí mať 8 až 100 znakov
     error_token_expired: Platnosť tokenu na zresetovanie hesla vypršala, prosíme ťa skús znovu.
     error_token_invalid: Token na zresetovanie hesla nie je platný
     footnote: "<b>Pro Tip:</b> Zapamätaj si svoje heslo."
@@ -327,7 +327,7 @@ sk:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Prezývka je povinná.
-    error_password_range: Heslo musí mať 4 až 100 znakov.
+    error_password_range: Heslo musí mať 8 až 100 znakov.
     error_password_required: Heslo je povinné.
     error_role_required: Rola je povinná.
     error_sexual_orientation_required: Sexuálna orientácia je povinná.

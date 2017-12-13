@@ -190,7 +190,7 @@ it:
   reset_password:
     cta: Reimposta la mia password
     error_confirmation_match: I due campi password non coincidono
-    error_password_range: La password deve essere tra 4 e 100 caratteri
+    error_password_range: La password deve essere tra 8 e 100 caratteri
     error_token_expired: Il token per reimpostare la password è scaduto, si prega di richiederne uno nuovo
     error_token_invalid: Il token per reimpostare la password non è valido
     footnote: "<b>Consiglio Pro:</b> Ricordati la tua password."
@@ -322,7 +322,7 @@ it:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Il nickname è richiesto.
-    error_password_range: La password deve essere tra 4 e 100 caratteri.
+    error_password_range: La password deve essere tra 8 e 100 caratteri.
     error_password_required: La password è richiesta.
     error_role_required: Il ruolo deve essere selezionato.
     error_sexual_orientation_required: L'orientamento sessuale deve essere selezionato.

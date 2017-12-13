@@ -190,7 +190,7 @@ en:
   reset_password:
     cta: Reset My Password
     error_confirmation_match: Password confirmation doesn't match Password
-    error_password_range: Password needs to be between 4 and 100 characters
+    error_password_range: Password needs to be between 8 and 100 characters
     error_token_expired: Reset password token has expired, please request a new one
     error_token_invalid: Reset password token is invalid
     footnote: "<b>Pro Tip:</b> Remember your password."
@@ -322,7 +322,7 @@ en:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 4 and 100 characters.
+    error_password_range: Password needs to be between 8 and 100 characters.
     error_password_required: Password is required.
     error_role_required: Role has to be selected.
     error_sexual_orientation_required: Sexual Orientation has to be selected.

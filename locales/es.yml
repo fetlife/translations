@@ -190,7 +190,7 @@ es:
   reset_password:
     cta: Restablecer mi contraseña
     error_confirmation_match: La confirmación de contraseña no coincide con la contraseña
-    error_password_range: La contraseña debe tener entre 4 y 100 caracteres
+    error_password_range: La contraseña debe tener entre 8 y 100 caracteres
     error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
     error_token_invalid: El token de contraseña de restablecimiento no es válido
     footnote: "<b>Consejo Pro:</b> Recuerde su contraseña."
@@ -322,7 +322,7 @@ es:
     error_nickname_characters: El apodo solo puede tener letras, números, guiones y guiones bajos; sin espacios.
     error_nickname_length: El apodo debe tener entre 2 y 16 caracteres de largo.
     error_nickname_required: Se requiere su apodo.
-    error_password_range: La contraseña debe tener entre 4 y 100 caracteres.
+    error_password_range: La contraseña debe tener entre 8 y 100 caracteres.
     error_password_required: Se requiere su contraseña.
     error_role_required: Se requiere su rol.
     error_sexual_orientation_required: Se requiere su orientación sexual.

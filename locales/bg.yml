@@ -190,7 +190,7 @@ bg:
   reset_password:
     cta: "Смени паролата ми"
     error_confirmation_match: "Потвърждението на паролата не съответства на паролата"
-    error_password_range: "Паролата трябва да е с дължина между 4 и 100 символа"
+    error_password_range: "Паролата трябва да е с дължина между 8 и 100 символа"
     error_token_expired: "Кодът за смяна на парола е изтекъл, моля заяви си нов"
     error_token_invalid: "Кодът за смяна на парола е невалиден"
     footnote: "<b>Pro Tip:</b> Помни паролата си."
@@ -322,7 +322,7 @@ bg:
     error_nickname_characters: "Прякорът може да съдържа само букви, цифри, тирета и долна черта; никакви интервали."
     error_nickname_length: "Прякорът трябва да е с дължина между 2 и 16 символа."
     error_nickname_required: "Прякорът е задължителен."
-    error_password_range: "Паролата трябва да е с дължина между 4 и 100 символа."
+    error_password_range: "Паролата трябва да е с дължина между 8 и 100 символа."
     error_password_required: "Паролата е задължителна."
     error_role_required: "Трябва да избереш роля."
     error_sexual_orientation_required: "Трябва да избереш сексуална ориентация."
