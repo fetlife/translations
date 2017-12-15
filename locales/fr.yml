@@ -19,7 +19,7 @@ fr:
     north_america: Amérique du Nord
     one_love: Un amour, une vie, et beaucoup de kink !
     snail_mail: Courrier papier
-    sub_header: À ne pas confondre avec les spartiates
+    sub_header: "À ne pas confondre avec les spartiates"
     title: Nous. Sommes. FetLife !
   components:
     step: Step
@@ -45,14 +45,14 @@ fr:
     follow: Suivre
     following: Suivi
   footer:
-    about: À propos
+    about: "À propos"
     help: Aide
     privacy: Privacy
   forgot_password:
     email:
       cta: Envoie-moi un email avec instructions
       error_forgot_email: Email address is required.
-      error_invalid_email: Ça ne ressemble pas à une adresse mail valide. Veuillez la relire et la re-soumettre.
+      error_invalid_email: "Ça ne ressemble pas à une adresse mail valide. Veuillez la relire et la re-soumettre."
       error_quota: Nous ne pouvons envoyer que deux emails par heure à une même adresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre pourriel je vous recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
       placeholder: Adresse mail
       step1:
@@ -88,7 +88,7 @@ fr:
         subtitle: Nous vous avons “peut-être” envoyé un texto.
         title: Entrez le code de vérification
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro de mobile existe ou non dans notre base de données. Si vous ne recevez pas de texto de nous, il est probable que nous n’avons pas de compte associé à ce numéro de mobile."
-    next_step: étape suivante
+    next_step: "étape suivante"
     return_to_login: retour au login
     tab_email: Email
     tab_mobile: Mobile
@@ -111,7 +111,7 @@ fr:
       email: Adresse mail
       friends_email: Addresse mail de ton ami
       friends_email_sub: "%{count} invitation⋅s restante⋅s"
-    next_step: étape suivante
+    next_step: "étape suivante"
     return_to_feed: retour à feed
     subtitle_step1:
       one: Vous avez 1 invitation restante.
@@ -166,7 +166,7 @@ fr:
       one: 1 vidéo
       other: "%{count_with_delimiter} vidéos"
   nav:
-    events: Évènements
+    events: "Évènements"
     explore: Explorer
     fetishes: Fétiches
     groups: Groupes
@@ -190,7 +190,7 @@ fr:
   reset_password:
     cta: Réinitialiser mon mot de passe
     error_confirmation_match: Le mot de passe de confirmation ne correspond pas au mot de passe
-    error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères
+    error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères
     error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
     error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
     footnote: "<b>Astuce de pro :</b> Rappelez-vous de votre mot de passe."
@@ -246,12 +246,12 @@ fr:
     title: Confidentialité
     warning: "<strong>Extrêmement Important</strong> : Désactiver le suivi vous retirera des listes de tous ceux qui vous suivent actuellement. Sans retour. Sérieusement."
   settings_profile:
-    about_you_label: À propos de vous
+    about_you_label: "À propos de vous"
     add_website: "+ ajouter un autre site web"
     cta: Mettre à jour votre profil
     dob_label: Date de naissance
     location_label: Position
-    looking_for_label: À la recherche de
+    looking_for_label: "À la recherche de"
     page_title: Mettre à jour le profil
     subtitle: Le développement personnel est une bonne chose.
     title: Votre profil
@@ -265,7 +265,7 @@ fr:
     subtitle: Au cas où vous oublieriez votre mot de passe.
     title: Mettre à jour l’adresse mail
   sidebar:
-    about_fetlife: À propos de Fetlife
+    about_fetlife: "À propos de Fetlife"
     ad_stats: Statistiques d’annonces
     advertising: Publicité
     androidapp: Installer l’app Android de FetLife
@@ -275,7 +275,7 @@ fr:
     close: fermer
     edit_profile: Modifier profil
     edit_settings: Modifier paramètres
-    events: Événements
+    events: "Événements"
     fetishes: Fétiches
     following: Suivi
     fp: Fresh & Pervy
@@ -305,7 +305,7 @@ fr:
     upload_video: Envoyer vidéo
     view_friends: Voir ami⋅e⋅s
     whats_new: Quoi de neuf
-    write_post: Écrire un post
+    write_post: "Écrire un post"
   signup:
     almost_there: Presque arrivé⋅e !
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d’informations.
@@ -322,13 +322,12 @@ fr:
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Le pseudo est obligatoire.
-    error_password_range: Le mot de passe doit être compris entre 4 et 100 caractères.
+    error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères.
     error_password_required: Le mot de passe est obligatoire.
     error_role_required: Le rôle doit être sélectionné.
     error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée.
     error_state_missing: L’état/la province doit être sélectionné⋅e.
     footnote: En cliquant sur le bouton ci-dessus vous acceptez de respecter et de suivre nos <a class="silver" href="%{guidelines_path}">Lignes directrices communautaires</a> et nos <a class="silver" href="%{tou_path}">Conditions d’utilisation</a>&hellip; Sans retour.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Date de naissance
       city: Ville
@@ -340,8 +339,9 @@ fr:
       password: Mot de passe
       role: Rôle
       sexual_orientation: Orientation sexuelle
-      state: État/Province
+      state: "État/Province"
     page_title: Rejoindre
+    return_to_login: Already a member? Login to FetLife
     subtitle: Parlez-nous un peu de vous.
     subtitle_invite: "%{name} vous a invité⋅e à rejoindre Fetlife."
     title: Bienvenue à la maison
@@ -357,7 +357,7 @@ fr:
     title: Règle des cinq essais
   signup_follow:
     follow: Suivre
-    next_step: Étape suivante
+    next_step: "Étape suivante"
     subtitle: Suivre des kinksters qui piquent votre intérêt.
     title: Quelqu’un⋅e attire votre attention ?
   signup_phone:
@@ -389,16 +389,16 @@ fr:
       kp: Kinky<span class="a-ampersand">&amp;</span>Popular
       kp_short: Populaire
     profile:
-      about: À propos de moi
-      about_short: À propos
+      about: "À propos de moi"
+      about_short: "À propos"
       latest: Activité récente
       latest_short: Récent
       pictures: Photos
       pictures_short: Pics
       videos: Vidéos
       videos_short: Vids
-      writings: Écrits
-      writings_short: Écrits
+      writings: "Écrits"
+      writings_short: "Écrits"
     settings:
       account: Compte
       account_short: Compte
@@ -515,8 +515,8 @@ fr:
         title: Courrier physique
       more_options: Afficher plus d’options
       paygarden:
-        extra_info: Échange de cartes cadeau de plus de 100 marques, y compris Starbucks, Best Buy, Target, Walmart, Home Depot, Build-A-Bear, et Toys'R'Us.
-        title: Échange de cartes cadeau de grandes enseignes
+        extra_info: "Échange de cartes cadeau de plus de 100 marques, y compris Starbucks, Best Buy, Target, Walmart, Home Depot, Build-A-Bear, et Toys'R'Us."
+        title: "Échange de cartes cadeau de grandes enseignes"
       paysafe:
         extra_info: Vous pouvez acheter une Paysafecard dans plus de 500 000 points de vente, situés dans 43 pays à travers le monde, et l’utiliser pour supporter FetLife.
         title: Paysafecard pré-payée
@@ -543,7 +543,7 @@ fr:
       60_info: "$5/mois"
       60_title: "$60 pour 12 mois"
       return_info: Garantie de remboursement sans condition durant 7 jours
-      title: À quel point aimez-vous FetLife ?
+      title: "À quel point aimez-vous FetLife ?"
     step2_paygarden:
       confirm: J’ai une carte cadeau que je veux échanger contre le support
       list_footer: et <a href='%{link}'>des centaines d’autres grandes enseignes.</a>
@@ -572,12 +572,12 @@ fr:
       routing_number_placeholder: Numéro de routage bancaire
       routing_number_sub_label: nombre à 9 chiffres
       secure: Aussi sûr que Fort Knox, et nous n’enregistrons aucune de vos données personnelles.
-      state_label: État
-      state_placeholder: État
+      state_label: "État"
+      state_placeholder: "État"
       state_sub_label: associé au compte bancaire
       title: Paiement en ligne / Virement bancaire
       type_checking: Payer
-      type_savings: Économies
+      type_savings: "Économies"
       zip_label: Code ZIP
       zip_sub_label: associé au compte bancaire
     step3_bitcoin:
@@ -744,7 +744,7 @@ fr:
       gift_affirm: Vous êtes le⋅la meilleur⋅e !
       gift_cta_profile: Visiter le profil de %{nickname}
       gift_next_body: Pendant que vous lisez ceci, nous sommes en train de donner son support à <a href="%{link}">%{nickname}</a>, et de le⋅la notifier par mail de votre généreux cadeau.
-      gift_next_title: Étapes suivantes ?
+      gift_next_title: "Étapes suivantes ?"
       page_title: Merci !
       questions_body: Si vous avez des questions, n’hésitez pas à nous envoyer un mail à <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
       questions_title: Des questions ?
@@ -755,7 +755,7 @@ fr:
       next_steps_final_default: nous allons l’attacher à votre profil.
       next_steps_final_gift: nous allons l’attacher au profil de %{nickname}.
       next_steps_first: Cela peut <span>prendre une heure ou deux</span> avant que nous ne recevions votre Interac e-Transfer, mais dès que nous l’avons
-      next_steps_title: 'Étapes suivantes :'
+      next_steps_title: "Étapes suivantes :"
       page_title: Merci <span class='baskerville i'>&amp;</span> Étapes suivantes
       tab_title: Merci & Étapes suivantes
       thank_you: Merci !

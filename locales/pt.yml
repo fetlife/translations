@@ -93,7 +93,7 @@ pt:
     tab_email: Email
     tab_mobile: Telemovel
   guidelines:
-    last_updated: 'Última atualização:'
+    last_updated: "Última atualização:"
     subnav:
       community: Comunidade
       content: Conteúdo
@@ -190,7 +190,7 @@ pt:
   reset_password:
     cta: Redefinir Senha
     error_confirmation_match: A confirmação de senha não confere
-    error_password_range: A senha precisa ter entre 4 e 100 caracteres
+    error_password_range: A senha precisa ter entre 8 e 100 caracteres
     error_token_expired: O token de redefinição de senha expirou. Por favor, solicite outro.
     error_token_invalid: O token de redefinição de senha é inválido.
     footnote: "<b>Dica:</b> Lembre-se de sua senha."
@@ -322,13 +322,12 @@ pt:
     error_nickname_characters: 'Nome de Utilizador só pode conter: letras, numeros, hífenes e sublinhado e sem espaços.'
     error_nickname_length: O Nome de Utilizador tem de ser entre 6 e 16 caracteres.
     error_nickname_required: Nome de Utilizador é obrigatório.
-    error_password_range: A senha precisa ter entre 4 e 100 caracteres.
+    error_password_range: A senha precisa ter entre 8 e 100 caracteres.
     error_password_required: Senha é obrigatória.
     error_role_required: Função é obrigatória.
     error_sexual_orientation_required: Orientação Sexual é obrigatória.
     error_state_missing: Estado é obrigatório.
     footnote: Ao clicar no botão acima você aceita respeitar e seguir nossas <a class="silver" href="%{guidelines_path}">Orientações de Comunidade</a> e <a class="silver" href="%{tou_path}">Termos de uso</a>&hellip; sem voltar atrás.
-    return_to_login: Already a member? Login to FetLife
     label:
       birthdate: Data de Nascimento
       city: Cidade
@@ -342,6 +341,7 @@ pt:
       sexual_orientation: Orientação Sexual
       state: Estado
     page_title: Cadastrar
+    return_to_login: Already a member? Login to FetLife
     subtitle: Conte-nos um pouco sobre você.
     subtitle_invite: "%{name} lhe convidou a participar do FetLife."
     title: Boas Vindas
@@ -379,7 +379,7 @@ pt:
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação em 6 dígitos
     subtitle: Até que não doeu, pois não?
-    title: Último Passo
+    title: "Último Passo"
   subnav:
     feed:
       activity_feed: Feed de Atividade

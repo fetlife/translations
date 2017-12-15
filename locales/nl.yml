@@ -190,7 +190,7 @@ nl:
   reset_password:
     cta: Herstel mijn wachtwoord
     error_confirmation_match: Wachtwoord bevestiging is niet gelijk aan het wachtwoord
-    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan
+    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan
     error_token_expired: Herstel wachtwoord token is verlopen, vraag een nieuwe aan
     error_token_invalid: Herstel wachtwoord token is niet juist
     footnote: "<b>Pro Tip:</b> Vergeet je wachtwoord niet."
@@ -322,13 +322,12 @@ nl:
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
     error_nickname_length: Bijnaam moet tussen 2 en 16 karakters lang zijn.
     error_nickname_required: Alias is verplicht.
-    error_password_range: Wachtwoord moet uit 4 tot 100 karakters bestaan.
+    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.
     error_role_required: Rol moet worden gekozen.
     error_sexual_orientation_required: Sexuele orientatie moet worden gekozen.
     error_state_missing: Provincie moet worden geselecteerd.
     footnote: Door het klikken op bovenstaande knop ga je akkoord om onze <a class="silver" href="%{guidelines_path}">gemeenschap richtlijnen</a> en <a class="silver" href="%{tou_path}">Gebruiksvoorwaarden</a> te respecteren en op te volgen&hellip; zonder voorbehoud.
-    return_to_login: Al een lid? Meld je hier aan bij FetLife
     label:
       birthdate: Geboortedatum
       city: Plaats
@@ -342,6 +341,7 @@ nl:
       sexual_orientation: Sexuele Orientatie
       state: Provincie
     page_title: Deelnemen
+    return_to_login: Al een lid? Meld je hier aan bij FetLife
     subtitle: Vertel ons een beetje over jezelf.
     subtitle_invite: "%{name} nodigt jou om lid te worden van FetLife."
     title: Welkom thuis
