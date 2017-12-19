@@ -82,10 +82,9 @@ pt:
         cta: Verifique que Você é Você &#8482;
         error_code_match: "<strong>Operador Pervertido:</strong> O código de verificação que você inseriu está incorreto. Verifique se o número acima confere com o que você recebeu e tente novamente. Isto é uma gravação."
         inexisting_number: Se em cerca de três minutos você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel. Nós recomendamos que você <a href="%{forgot_password_email_path}">tente redefinir sua senha de outra forma</a> ou <a href="%{signup_path}">crie um novo perfil em FetLife</a>.
-        label: Código de Verificação
+        label: 6-digit Verification Code
         page_title: Insira o Código de Verificação
-        placeholder: Código de Verificação de 6 dígitos
-        subtitle: Nós &ldquo;talvez&rdquo; tenhamos lhe enviado uma mensagem de texto.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Insira o Código de Verificação
       warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos informar se um determinado número existe em nosso banco de dados ou não. Se você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel."
     next_step: próximo passo
@@ -93,7 +92,7 @@ pt:
     tab_email: Email
     tab_mobile: Telemovel
   guidelines:
-    last_updated: "Última atualização:"
+    last_updated: 'Última atualização:'
     subnav:
       community: Comunidade
       content: Conteúdo
@@ -379,7 +378,7 @@ pt:
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação em 6 dígitos
     subtitle: Até que não doeu, pois não?
-    title: "Último Passo"
+    title: Último Passo
   subnav:
     feed:
       activity_feed: Feed de Atividade
