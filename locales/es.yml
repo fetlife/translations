@@ -82,10 +82,9 @@ es:
         cta: Verificar que usted es usted &#8482;
         error_code_match: "<strong>Operador Kinky:</strong> El código de verificación que ha introducido es incorrecto. Compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo. Esto es una grabación."
         inexisting_number: Si después de un par de minutos no recibe un mensaje de texto de nosotros, entonces es probable porque no tenemos un perfil conectado a su número. Recomendamos que <a href="%{forgot_password_email_path}"> intente reinicializar su contraseña utilizando otro método </a> o <a href="%{signup_path}">cree un nuevo perfil en FetLife </a>.
-        label: Código de Verificación
+        label: 6-digit Verification Code
         page_title: Introducir el Código de Verificación
-        placeholder: Código de vereficacion de 6 dígitos
-        subtitle: Nosotros &ldquo;podríamos&rdquo; haberle enviado un mensaje de texto.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Ingrese el código de verificación
       warning: "<strong>Advertencia:</strong> Por razones de seguridad, no podemos decirle si existe un número de móvil en nuestra base de datos o no. Si no recibe un mensaje de texto de nosotros, lo más probable sea porque no tenemos una cuenta asociada a ese número."
     next_step: próximo paso
@@ -93,7 +92,7 @@ es:
     tab_email: Correo electrónico
     tab_mobile: Móvil
   guidelines:
-    last_updated: "Última actualización:"
+    last_updated: 'Última actualización:'
     subnav:
       community: Comunidad
       content: Contenido
@@ -379,7 +378,7 @@ es:
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
     subtitle: "¡¿A que no fue para tanto?!"
-    title: "Último Paso"
+    title: Último Paso
   subnav:
     feed:
       activity_feed: Feed de actividad

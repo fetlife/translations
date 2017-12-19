@@ -82,10 +82,9 @@ it:
         cta: Verifica che TU sia TU &#8482;
         error_code_match: "<strong>Operatore Kinky:</strong> Il codice di verifica inserito non è corretto. Verifica che il numero di cui sopra corrisponda a quello che hai ricevuto da noi e riprova. Questa è una registrazione."
         inexisting_number: Se dopo un paio di minuti non ricevi un messaggio di testo da noi, allora è probabile che non abbiamo un profilo collegato al numero. Ti consigliamo di <a href="%{forgot_password_email_path}">provare a reimpostare la password utilizzando un altro metodo</a> o <a href="%{signup_path}">creare un nuovo profilo su FetLife</a>.
-        label: Codice di verifica
+        label: 6-digit Verification Code
         page_title: Inserisci il codice di verifica
-        placeholder: Codice di verifica a 6 numeri
-        subtitle: Noi &ldquo;potremmo&rdquo; averti appena inviato un SMS.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Inserisci il codice di verifica
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un numero di cellulare esiste nel nostro database oppure no. Se non si riceve un messaggio di testo da noi, è probabile che non abbiamo un account associato a quel numero."
     next_step: passo successivo
