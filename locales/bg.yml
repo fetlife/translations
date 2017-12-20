@@ -144,6 +144,7 @@ bg:
     error_not_found: "Хм, не можахме да те намерим. Правилно ли въведе прякора и паролата си? (Паролите РаЗлИчАвАт ГЛАВНИ и малки букви)"
     error_password_blank: "Паролата не може да е празна."
     forgot_info: "Забрави данните за влизане?"
+    error_password_nickname: Your password cannot be the same as your nickname
     labels:
       nickname: "Прякор или имейл"
       password: "Парола"

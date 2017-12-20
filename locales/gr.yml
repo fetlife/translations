@@ -144,6 +144,7 @@ gr:
     error_not_found: "Χμμμ, δεν ήμασταν σε θέση να σας βρούμε. Είστε βέβαιοι ότι έχετε εισαγάγει το ψευδώνυμο και τον κωδικό πρόσβασής σας σωστά? (Οι κωδικοί πρόσβασης διακρίνουν πεζά-ΚΕΦΑΛΑΊΑ)"
     error_password_blank: "Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός."
     forgot_info: "Ξεχάσατε τα στοιχεία σύνδεσης?"
+    error_password_nickname: Your password cannot be the same as your nickname
     labels:
       nickname: "Ψευδώνυμο ή Email"
       password: "Κωδικός Πρόσβασης"
