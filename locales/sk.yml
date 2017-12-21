@@ -144,6 +144,7 @@ sk:
     error_not_authenticated: Prepáč, len prihlásení uživatelia majú prístup na túto stránku. Ak ešte nie si členom, tak registrácia trvá menej ako minútu.
     error_not_found: Hmmm, nevieme ťa najsť. Skontroluj zadanú prezývku a heslo. (Heslo je CiTLiVé-Na-VeLkOsŤ-PíSmEn)
     error_password_blank: Heslo nemôže byť prázdne.
+    error_password_email: Your password cannot be your email username
     forgot_info: Zabudol si svoje prihlasovacie údaje?
     labels:
       nickname: Prezývka alebo email
