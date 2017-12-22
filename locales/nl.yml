@@ -141,6 +141,7 @@ nl:
     error_login_blank: Aanmeldveld mag niet leeg zijn.
     error_not_authenticated: Sorry mijn vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
     error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Wachtwoord mag niet leeg zijn.
     error_password_email: Your password cannot be your email username.
     forgot_info: Je aanmeld gegevens vergeten?
