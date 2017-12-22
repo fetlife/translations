@@ -141,6 +141,7 @@ pt:
     error_login_blank: O login não pode ficar em branco.
     error_not_authenticated: Desculpe mas não pode aceder a esta página. Se ainda não é um membro, a inscrição demora menos de um minuto.
     error_not_found: Hmmm, não fomos capaz de encontrá-lo. Você tem certeza que inseriu seu Nome de Utilizador e senha corretamente? (Senhas diferenciam MaIúScUlAs-MiNúScUlAs)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: A senha não pode ficar em branco.
     error_password_email: Your password cannot be your email username.
     forgot_info: Esqueceu seus dados de acesso?

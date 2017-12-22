@@ -141,6 +141,7 @@ hu:
     error_login_blank: Meg kell adnod a felhasználó neved.
     error_not_authenticated: Bocs haver, de be kell lépned, hogy megnézhesd ezt az oldalt. Ha még nem vagy tag szánj rá egy percet a regisztrációra és már bent is vagy.
     error_not_found: 'Hmmm, nem tűnsz ismerősnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betű különböző)'
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Meg kell adnod a jelszavadat.
     error_password_email: Your password cannot be your email username.
     forgot_info: Valamit elfelejtettél?

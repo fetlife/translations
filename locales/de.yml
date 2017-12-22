@@ -141,6 +141,7 @@ de:
     error_login_blank: Der Name ist erforderlich.
     error_not_authenticated: Entschuldige, mein Freund, um zu dieser Seite zu gelangen, musst Du angemeldet sein. Wenn Du noch kein Mitglied bist, registriere Dich schnell.
     error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß- / KlEiNsChReIbUnG des Passworts.)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Das Passwort ist erforderlich.
     error_password_email: Your password cannot be your email username.
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
