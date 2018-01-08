@@ -145,6 +145,7 @@ gr:
     error_password_blank: Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός.
     error_password_email: Your password cannot be your email username.
     forgot_info: Ξεχάσατε τα στοιχεία σύνδεσης?
+    error_password_nickname: Your password cannot be the same as your nickname
     labels:
       nickname: Ψευδώνυμο ή Email
       password: Κωδικός Πρόσβασης

@@ -144,6 +144,7 @@ de:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Das Passwort ist erforderlich.
     error_password_email: Your password cannot be your email username.
+    error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
     labels:
       nickname: Name oder E-Mail

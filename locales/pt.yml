@@ -144,6 +144,7 @@ pt:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: A senha não pode ficar em branco.
     error_password_email: Your password cannot be your email username.
+    error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Esqueceu seus dados de acesso?
     labels:
       nickname: Node de Utilizador ou Email

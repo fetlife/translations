@@ -144,6 +144,7 @@ nl:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Wachtwoord mag niet leeg zijn.
     error_password_email: Your password cannot be your email username.
+    error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Je aanmeld gegevens vergeten?
     labels:
       nickname: Alias of Email
