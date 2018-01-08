@@ -143,7 +143,7 @@ es:
     error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYUSCULAS de minúsculas)
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: La contraseña no puede estar en blanco.
-    error_password_email: Your password cannot be your email username.
+    error_password_email: Su contraseña no puede ser su usuario de correo.
     forgot_info: "¿Ha olvidado su información de acceso?"
     labels:
       nickname: Apodo o Correo Electrónico
