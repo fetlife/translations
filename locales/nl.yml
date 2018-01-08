@@ -82,10 +82,9 @@ nl:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
         inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
-        label: Controle Code
+        label: 6-digit Verification Code
         page_title: Controle Code invoeren
-        placeholder: 6-cijferige Controle Code
-        subtitle: We &ldquo;might&rdquo; hebben je zojuist een SMS gestuurd.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Controle Code invoeren
       warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat mobiele nummer."
     next_step: volgende stap
@@ -142,7 +141,9 @@ nl:
     error_login_blank: Aanmeldveld mag niet leeg zijn.
     error_not_authenticated: Sorry mijn vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
     error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Wachtwoord mag niet leeg zijn.
+    error_password_email: Your password cannot be your email username.
     error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Je aanmeld gegevens vergeten?
     labels:

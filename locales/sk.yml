@@ -31,8 +31,8 @@ sk:
       other: "%{count_with_delimiter} komentárov"
     composer:
       button: Zdielať
-      placeholder: "Čo máš na mysli?"
-    love: "Ľúbi sa mi to"
+      placeholder: Čo máš na mysli?
+    love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
     loves_count:
       one: 1 členovi sa to ľúbi
@@ -83,13 +83,12 @@ sk:
         cta: Legitimuj sa
         error_code_match: "<strong>Kinky Operátor:</strong> Zadaný verfikačný kód nie je správny. Skontroluj, že zadaný kód sa zhoduje s tým, ktorý sme ti poslali v SMS a prosíme ťa skús znovu."
         inexisting_number: Ak v priebehu pár minút nedostaneš od nás SMS, tak pravdepodobne neexistuje profil asociovaný s tvojím číslom. Odporúčame ti si buď <a href="%{forgot_password_email_path}">zresetovať heslo inou metódou</a> alebo si <a href="%{signup_path}">zaregistrovať nový profil na FetLife</a>.
-        label: Verfikačný kód
+        label: 6-digit Verification Code
         page_title: Zadaj verfikačný kód
-        placeholder: 6-miestny verfikačný kód
-        subtitle: Práve me ti &ldquo;asi&rdquo; poslali SMS.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Zadaj verfikačný kód
       warning: "<strong>Varovanie ministra vnútra:</strong> Z bezpečnostných dôvodov ti nemôžeme povedať, že či dané mobilné číslo sa nachádza v našej databáze alebo nie. Ak nedostaneš SMS, tak je to pravdepodobne kvôli tomu, že ešte nemáš u nás účet."
-    next_step: "ďalší krok"
+    next_step: ďalší krok
     return_to_login: späť na prihlásenie
     tab_email: Email
     tab_mobile: Mobil
@@ -112,7 +111,7 @@ sk:
       email: Emailová adresa
       friends_email: Priateľov email
       friends_email_sub: "%{count} invitations remaining"
-    next_step: "ďalší krok"
+    next_step: ďalší krok
     return_to_feed: späť na feed
     subtitle_step1:
       few: Ostávajú ti %{count_with_delimiter} pozvánky.
@@ -144,7 +143,9 @@ sk:
     error_login_blank: Prezývka alebo email nemôžu byť prázdne.
     error_not_authenticated: Prepáč, len prihlásení uživatelia majú prístup na túto stránku. Ak ešte nie si členom, tak registrácia trvá menej ako minútu.
     error_not_found: Hmmm, nevieme ťa najsť. Skontroluj zadanú prezývku a heslo. (Heslo je CiTLiVé-Na-VeLkOsŤ-PíSmEn)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Heslo nemôže byť prázdne.
+    error_password_email: Your password cannot be your email username.
     error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Zabudol si svoje prihlasovacie údaje?
     labels:
@@ -152,7 +153,7 @@ sk:
       password: Heslo
       remember_me: Pamätaj si ma, budem späť.
     not_a_member: Ešte nie si členom? Registruj sa na FetLife
-    subtitle: "Čo by sme bez Teba robili?"
+    subtitle: Čo by sme bez Teba robili?
     title: Vitaj doma
   logout:
     log_in: znova sa prihlásiť
@@ -310,7 +311,7 @@ sk:
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
     view_friends: Zobraz priateľov
-    whats_new: "Čo nové?"
+    whats_new: Čo nové?
     write_post: Napísať príspevok
   signup:
     almost_there: Už si skoro tam!
@@ -354,7 +355,7 @@ sk:
   signup_avatar:
     pro_tip: '<strong>Pro Tip</strong>: Ak sa hanbíš a preferuješ neukázať svoju tvár, tak nám neváhaj ukázať niečo iné! ;) Alebo môžes <a class="silver" href="%{next_step_path}">preskočiť tento krok</a> pre teraz.'
     say_cheese: Povedz "syyyyyr"!
-    subtitle: "Ľudia s profilovou fotkou majú 69x viac zábavy!"
+    subtitle: Ľudia s profilovou fotkou majú 69x viac zábavy!
     title: Nahrať profilovú fotku
   signup_five_strikes:
     page_title: Pravidlo piatich pokusov
@@ -363,7 +364,7 @@ sk:
     title: Pravidlo piatich pokusov
   signup_follow:
     follow: Sledovať
-    next_step: "Ďalší krok"
+    next_step: Ďalší krok
     subtitle: Sleduj kinksterov, ktorí zaujmu tvoje oko.
     title: Zaujal ťa niekto?
   signup_phone:
@@ -376,7 +377,7 @@ sk:
     page_title: Pošli mi verifikačný kód
     pro_tip: "<strong>Pro Tip:</strong> Nezabudni na kód krajiny v mobilnom čísle: +421 pre Slovenko, +420 pre Českú Republiku, atď."
     subtitle: Jednorázová anonymná správa.
-    title: "Čas na verifikáciu!"
+    title: Čas na verifikáciu!
   signup_verify:
     cta: Dokonči registráciu a verifikáciu
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
@@ -403,11 +404,11 @@ sk:
       pictures_short: Fotky
       videos: Videá
       videos_short: Videá
-      writings: "Články"
-      writings_short: "Články"
+      writings: Články
+      writings_short: Články
     settings:
-      account: "Účet"
-      account_short: "Účet"
+      account: Účet
+      account_short: Účet
       notifications: Upozornenia
       notifications_short: Upozornenia
       privacy: Súkromie

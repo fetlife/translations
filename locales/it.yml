@@ -82,10 +82,9 @@ it:
         cta: Verifica che TU sia TU &#8482;
         error_code_match: "<strong>Operatore Kinky:</strong> Il codice di verifica inserito non è corretto. Verifica che il numero di cui sopra corrisponda a quello che hai ricevuto da noi e riprova. Questa è una registrazione."
         inexisting_number: Se dopo un paio di minuti non ricevi un messaggio di testo da noi, allora è probabile che non abbiamo un profilo collegato al numero. Ti consigliamo di <a href="%{forgot_password_email_path}">provare a reimpostare la password utilizzando un altro metodo</a> o <a href="%{signup_path}">creare un nuovo profilo su FetLife</a>.
-        label: Codice di verifica
+        label: 6-digit Verification Code
         page_title: Inserisci il codice di verifica
-        placeholder: Codice di verifica a 6 numeri
-        subtitle: Noi &ldquo;potremmo&rdquo; averti appena inviato un SMS.
+        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
         title: Inserisci il codice di verifica
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un numero di cellulare esiste nel nostro database oppure no. Se non si riceve un messaggio di testo da noi, è probabile che non abbiamo un account associato a quel numero."
     next_step: passo successivo
@@ -142,7 +141,9 @@ it:
     error_login_blank: Il login non può essere vuoto.
     error_not_authenticated: Mi dispiace amic* ma è necessario aver effettuato l'accesso per arrivare a quella pagina. Se non sei già un* utente richiede meno di un minuto iscriversi.
     error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La password CaSe-SeNsItIvE)
+    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: La password non può essere vuota.
+    error_password_email: Your password cannot be your email username.
     error_password_nickname: Your password cannot be the same as your nickname
     forgot_info: Hai dimenticato le credenziali d'accesso?
     labels:
