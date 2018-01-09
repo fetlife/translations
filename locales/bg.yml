@@ -144,8 +144,8 @@ bg:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Паролата не може да е празна.
     error_password_email: Your password cannot be your email username.
-    forgot_info: Забрави данните за влизане?
     error_password_nickname: Your password cannot be the same as your nickname
+    forgot_info: Забрави данните за влизане?
     labels:
       nickname: Прякор или имейл
       password: Парола
