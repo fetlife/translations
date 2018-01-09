@@ -61,7 +61,7 @@ bg:
         title: Забрави паролата?
       step2:
         page_title: "&bdquo;МОЖЕ БИ&ldquo; имаш поща"
-        subtitle: Ако профил с имейл <span class='fw5'>%{given_email}</span> съществува, значи сме ти изпратили инструкции как да смениш паролата си.
+        subtitle: Ако профил с имейл <span class='fw7'>%{given_email}</span> съществува, значи сме ти изпратили инструкции как да смениш паролата си.
         title: "&bdquo;Може би&ldquo; имаш поща!"
       update_email: промени имейл адреса
       warning: "<strong>Министърът на отбраната:</strong> От съображения за сигурност не можем да ви кажем дали даден имейл адрес е в базата ни от данни. Ако не получите имейл от нас, най-вероятно е защото нямаме профил с този имейл адрес."
@@ -120,7 +120,7 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    footer: <span class="fw5">%{member_count} члена</span><span> споделят </span><span class="fw5">%{picture_count} снимки</span><span> и </span><span class="fw5">%{video_count} клипа</span><span>, участват в </span><span class="fw5">%{discussion_count} дискусии</span><span> в </span><span class="fw5">%{group_count} групи</span><span>, ще ходят на </span><span class="fw5">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw5">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>
+    footer: <span class="fw7">%{member_count} члена</span><span> споделят </span><span class="fw7">%{picture_count} снимки</span><span> и </span><span class="fw7">%{video_count} клипа</span><span>, участват в </span><span class="fw7">%{discussion_count} дискусии</span><span> в </span><span class="fw7">%{group_count} групи</span><span>, ще ходят на </span><span class="fw7">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw7">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>
     login_button: Влизане във FetLife
     signup_button: Регистрация във FetLife
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?

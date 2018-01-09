@@ -61,7 +61,7 @@ it:
         title: Password dimenticata?
       step2:
         page_title: Tu "POTRESTI" avere posta
-        subtitle: Se c'è un profilo associato all'email <span class='fw5'>%{given_email}</span> allora ti abbiamo inviato le istruzioni su come reimpostare la password.
+        subtitle: Se c'è un profilo associato all'email <span class='fw7'>%{given_email}</span> allora ti abbiamo inviato le istruzioni su come reimpostare la password.
         title: Tu &ldquo;POTRESTI&rdquo; avere posta!
       update_email: aggiorna indirizzo email
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un indirizzo email esiste nel nostro database oppure no. Se non si riceve una email da noi, è probabile che non abbiamo un account associato a tale indirizzo di posta elettronica."
@@ -120,7 +120,7 @@ it:
     title_step2: Invio mandato
     view_invitations: visualizza i tuoi inviti
   landing_page:
-    footer: <span class="fw5">%{member_count} Membri</span><span> stanno condividendo </span><span class="fw5">%{picture_count} foto</span><span> e </span><span class="fw5">%{video_count} video</span><span>, partecipando a </span><span class="fw5">%{discussion_count} discussioni</span><span> in </span><span class="fw5">%{group_count} gruppi</span><span>, stanno andando a </span><span class="fw5">%{event_count} prossimi eventi</span><span> e leggono </span><span class="fw5">%{post_count} post di blog</span><span>. </span><span><i>Il paradiso Kinky!</i></span>
+    footer: <span class="fw7">%{member_count} Membri</span><span> stanno condividendo </span><span class="fw7">%{picture_count} foto</span><span> e </span><span class="fw7">%{video_count} video</span><span>, partecipando a </span><span class="fw7">%{discussion_count} discussioni</span><span> in </span><span class="fw7">%{group_count} gruppi</span><span>, stanno andando a </span><span class="fw7">%{event_count} prossimi eventi</span><span> e leggono </span><span class="fw7">%{post_count} post di blog</span><span>. </span><span><i>Il paradiso Kinky!</i></span>
     login_button: Accedi a FetLife
     signup_button: Iscriviti a FetLife
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?

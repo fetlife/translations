@@ -61,7 +61,7 @@ en:
         title: Forgot Password?
       step2:
         page_title: You "MIGHT" Have Mail
-        subtitle: If there is a profile associated to <span class='fw5'>%{given_email}</span> then we've sent you instructions on how to reset your password.
+        subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
         title: You &ldquo;Might&rdquo; Have Mail!
       update_email: update email address
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."
@@ -120,7 +120,7 @@ en:
     title_step2: Invitation Sent
     view_invitations: view your invitations
   landing_page:
-    footer: <span class="fw5">%{member_count} Members</span><span> are sharing </span><span class="fw5">%{picture_count} pictures</span><span> and </span><span class="fw5">%{video_count} videos</span><span>, participating in </span><span class="fw5">%{discussion_count} discussions</span><span> in </span><span class="fw5">%{group_count} groups</span><span>, going to </span><span class="fw5">%{event_count} upcoming events</span><span>, and reading </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky heaven!</i></span>
+    footer: <span class="fw7">%{member_count} Members</span><span> are sharing </span><span class="fw7">%{picture_count} pictures</span><span> and </span><span class="fw7">%{video_count} videos</span><span>, participating in </span><span class="fw7">%{discussion_count} discussions</span><span> in </span><span class="fw7">%{group_count} groups</span><span>, going to </span><span class="fw7">%{event_count} upcoming events</span><span>, and reading </span><span class="fw7">%{post_count} blog posts</span><span>. </span><span><i>Kinky heaven!</i></span>
     login_button: Login to FetLife
     signup_button: Signup to FetLife
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?

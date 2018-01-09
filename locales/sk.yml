@@ -62,7 +62,7 @@ sk:
         title: Zabudnuté heslo?
       step2:
         page_title: '"MOŽNO" máš email'
-        subtitle: Ak existuje profil asociovaný s emailom <span class='fw5'>%{given_email}</span> tak sme ti poslali inštrukcie na zresetovanie tvojho hesla.
+        subtitle: Ak existuje profil asociovaný s emailom <span class='fw7'>%{given_email}</span> tak sme ti poslali inštrukcie na zresetovanie tvojho hesla.
         title: '"MOŽNO" máš email'
       update_email: aktualizovať emailovú adresu
       warning: "<strong>Varovanie ministra vnútra:</strong> Z bezpečnostných dôvodov ti nemôžeme povedať, že či emailová adresa existuje v našej databáze alebo nie. Ak od nás nedostaneš email, tak je to pravdepodobne kvôli tomu, že u nás ešte nemáš účet."
@@ -122,7 +122,7 @@ sk:
     title_step2: Pozvánka odoslaná
     view_invitations: Zobraziť pozvánky
   landing_page:
-    footer: <span class="fw5">%{member_count} členov</span><span> zdieľa </span><span class="fw5">%{picture_count} fotiek</span><span> a </span><span class="fw5">%{video_count} videii</span><span>, účastnia sa v </span><span class="fw5">%{discussion_count} diskusiách</span><span> v </span><span class="fw5">%{group_count} skupinách</span><span>, idú na </span><span class="fw5">%{event_count} nadchádzajúcich udalostí</span><span> a čítajú </span><span class="fw5">%{post_count} blog príspevkov</span><span>. </span><span><i>Nebo pre kinksterov!</i></span>
+    footer: <span class="fw7">%{member_count} členov</span><span> zdieľa </span><span class="fw7">%{picture_count} fotiek</span><span> a </span><span class="fw7">%{video_count} videii</span><span>, účastnia sa v </span><span class="fw7">%{discussion_count} diskusiách</span><span> v </span><span class="fw7">%{group_count} skupinách</span><span>, idú na </span><span class="fw7">%{event_count} nadchádzajúcich udalostí</span><span> a čítajú </span><span class="fw7">%{post_count} blog príspevkov</span><span>. </span><span><i>Nebo pre kinksterov!</i></span>
     login_button: Prihlásiť sa na FetLife
     signup_button: Registrovať sa na FetLife
     subtitle: Ako Facebook, ale plný kinksterov, ako si ty a my. Myslíme si, že je to viac zábavy touto cestou. Čo myslíš?.
