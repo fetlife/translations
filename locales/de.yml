@@ -61,7 +61,7 @@ de:
         title: Passwort vergessen?
       step2:
         page_title: Du "KÖNNTEST" eine E-Mail haben
-        subtitle: Wenn ein Mitgliedskonto mit der E-Mail <span class='fw5'>%{given_email}</span> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
+        subtitle: Wenn ein Mitgliedskonto mit der E-Mail <span class='fw7'>%{given_email}</span> existiert, dann haben wir Dir Anweisungen, wie Du Dein Passwort neu setzen kannst, zugeschickt.
         title: Du &ldquo;könntest&rdquo; eine E-Mail Haben!
       update_email: Aktualisiere die E-Mail-Adresse
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine E-Mail-Adresse in unserer Datenbank existiert oder nicht. Wenn Du keine E-Mail von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser E-Mail-Adresse haben."
@@ -120,7 +120,7 @@ de:
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
   landing_page:
-    footer: <span class="fw5">%{member_count} Mitglieder</span><span> teilen </span><span class="fw5">%{picture_count} Bilder</span><span> und </span><span class="fw5">%{video_count} Videos</span><span>, nehmen an </span><span class="fw5">%{discussion_count} Diskussionen</span><span> in </span><span class="fw5">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw5">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw5">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>
+    footer: <span class="fw7">%{member_count} Mitglieder</span><span> teilen </span><span class="fw7">%{picture_count} Bilder</span><span> und </span><span class="fw7">%{video_count} Videos</span><span>, nehmen an </span><span class="fw7">%{discussion_count} Diskussionen</span><span> in </span><span class="fw7">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw7">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw7">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?

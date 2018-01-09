@@ -61,7 +61,7 @@ es:
         title: "¿Se le olvidó su contraseña?"
       step2:
         page_title: Ud. “PODRÍA” tener correo
-        subtitle: Si existe un perfil asociado al correo electrónico <span class='fw5'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
+        subtitle: Si existe un perfil asociado al correo electrónico <span class='fw7'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡&ldquo;Podría&rdquo; ud. tener correo!"
       update_email: Actualiza la dirección de correo electrónico
       warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
@@ -120,7 +120,7 @@ es:
     title_step2: Invitación enviada
     view_invitations: ver sus invitaciones
   landing_page:
-    footer: <span class="fw5">%{member_count} miembros</span><span> están compartiendo </span><span class="fw5">%{picture_count} fotos</span><span> y </span><span class="fw5">%{video_count} vídeos</span><span>, participan en </span><span class="fw5">%{discussion_count}</span><span> discusiones en </span><span class="fw5">%{group_count} grupos</span><span>, van a </span><span class="fw5">%{event_count} próximos eventos</span><span> y leen </span><span class="fw5">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
+    footer: <span class="fw7">%{member_count} miembros</span><span> están compartiendo </span><span class="fw7">%{picture_count} fotos</span><span> y </span><span class="fw7">%{video_count} vídeos</span><span>, participan en </span><span class="fw7">%{discussion_count}</span><span> discusiones en </span><span class="fw7">%{group_count} grupos</span><span>, van a </span><span class="fw7">%{event_count} próximos eventos</span><span> y leen </span><span class="fw7">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
     login_button: Iniciar sesión en FetLife
     signup_button: Regístrarse en FetLife
     subtitle: Al igual que Facebook, pero dirigido por kinksters como ud. y yo. Creemos que así es más divertido. ¿Verdad?

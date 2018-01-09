@@ -61,7 +61,7 @@ gr:
         title: Ξεχάσατε τον κωδικό πρόσβασης;
       step2:
         page_title: '"Μπορεί" να εχέτε αλληλογραφία'
-        subtitle: Αν υπάρχει προφίλ συνδεδεμένο με αυτό το email <span class='fw5'>%{given_email}</span> τότε σας έχουμε στείλει οδηγίες για το πώς να επαναφέρετε τον κωδικό πρόσβασης.
+        subtitle: Αν υπάρχει προφίλ συνδεδεμένο με αυτό το email <span class='fw7'>%{given_email}</span> τότε σας έχουμε στείλει οδηγίες για το πώς να επαναφέρετε τον κωδικό πρόσβασης.
         title: '"Μπορεί" να έχετε Αλληλογραφία!'
       update_email: Ενημέρωση διεύθυνσης email
       warning: "<strong>Ο Γενικός Χειρούργος προειδοποιεί:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν μια διεύθυνση email υπάρχει στη βάση δεδομένων μας ή όχι. Αν δεν λάβατε email από εμάς, είναι πολύ πιθανό να μην έχουμε λογαριασμό συνδεδεμένο με αυτή τη διεύθυνση email."
@@ -120,7 +120,7 @@ gr:
     title_step2: Πρόσκληση Στάλθηκε
     view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    footer: <span class="fw5">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw5">%{picture_count} εικόνες</span><span> και </span><span class="fw5">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw5">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw5">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw5">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw5">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>
+    footer: <span class="fw7">%{member_count} Τα μέλη</span><span>  μοιράζονται </span><span class="fw7">%{picture_count} εικόνες</span><span> και </span><span class="fw7">%{video_count} βίντεο</span><span>, συμμετέχουν σε </span><span class="fw7">%{discussion_count} συζητήσεις</span><span> σε </span><span class="fw7">%{group_count} ομάδες</span><span>, πηγαίνουν σε </span><span class="fw7">%{event_count} επερχόμενες εκδηλώσεις</span><span> και διαβάζουν </span><span class="fw7">%{post_count} blog posts</span><span>. </span><span><i>Kinky παράδεισος!</i></span>
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
