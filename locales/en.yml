@@ -172,9 +172,9 @@ en:
     explore: Explore
     fetishes: Fetishes
     groups: Groups
-    home: Home
     places: Places
-    search_placeholder: Search
+    search_placeholder: Search...
+    writings: Writings
   page_break:
     of: of
   profile:
@@ -308,6 +308,7 @@ en:
     view_friends: View Friends
     whats_new: What's New
     write_post: Write Post
+    writings: Writings
   signup:
     almost_there: Almost There!
     error_bar: Dallas, we have a problem. Scroll down for more info.
