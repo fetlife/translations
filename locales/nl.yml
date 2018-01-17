@@ -175,6 +175,7 @@ nl:
     home: Thuis
     places: Plaatsen
     search_placeholder: Zoeken
+    writings: Writings
   page_break:
     of: van
   profile:
@@ -308,6 +309,7 @@ nl:
     view_friends: Vrienden bekijken
     whats_new: Wat is nieuw
     write_post: Schrijf bericht
+    writings: Writings
   signup:
     almost_there: Bijna klaar!
     error_bar: Dallas, we hebben een probleem. Ga naar beneden voor meer informatie.

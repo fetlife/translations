@@ -175,6 +175,7 @@ it:
     home: Home
     places: Luoghi
     search_placeholder: Cerca
+    writings: Writings
   page_break:
     of: di
   profile:
@@ -308,6 +309,7 @@ it:
     view_friends: Visualizza gli amici
     whats_new: Cosa c'è di nuovo
     write_post: Scrivi un post
+    writings: Writings
   signup:
     almost_there: Quasi fatto!
     error_bar: Dallas, abbiamo un problema. Scorri verso il basso per ulteriori informazioni.
