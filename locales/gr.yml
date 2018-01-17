@@ -145,7 +145,7 @@ gr:
     error_password_blank: Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός.
     error_password_email: Your password cannot be your email username.
     forgot_info: Ξεχάσατε τα στοιχεία σύνδεσης?
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     labels:
       nickname: Ψευδώνυμο ή Email
       password: Κωδικός Πρόσβασης
@@ -191,10 +191,10 @@ gr:
     title: Προτάσεις
   reset_password:
     cta: Επαναφέρετε τον κωδικό πρόσβασης
-    error_confirmation_match: Ο κωδικός επιβεβαίωσης δεν ταιριάζει με τον κωδικό πρόσβασης
+    error_confirmation_match: Ο κωδικός επιβεβαίωσης δεν ταιριάζει με τον κωδικό πρόσβασης.
     error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 8 και 100 χαρακτήρων.
-    error_token_expired: O χρόνος επαναφοράς του κωδικού πρόσβασης έχει λήξει, παρακαλούμε ζητήσετε ένα νέο
-    error_token_invalid: O κωδικός επαναφοράς είναι άκυρος
+    error_token_expired: O χρόνος επαναφοράς του κωδικού πρόσβασης έχει λήξει, παρακαλούμε ζητήσετε ένα νέο.
+    error_token_invalid: O κωδικός επαναφοράς είναι άκυρος.
     footnote: "<b>Pro Tip:</b> Θυμηθείτε τον κωδικό πρόσβασής σας."
     label_enter: Νέος κωδικός πρόσβασης
     label_re_enter: Εισάγετε ξανά τον νέο κωδικό πρόσβασης

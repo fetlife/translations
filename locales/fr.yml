@@ -144,7 +144,7 @@ fr:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Le mot de passe ne peut être vide.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Informations de connexion oubliées ?
     labels:
       nickname: Pseudo ou email
@@ -191,10 +191,10 @@ fr:
     title: Recommendations
   reset_password:
     cta: Réinitialiser mon mot de passe
-    error_confirmation_match: Le mot de passe de confirmation ne correspond pas au mot de passe
-    error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères
-    error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau
-    error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide
+    error_confirmation_match: Le mot de passe de confirmation ne correspond pas au mot de passe.
+    error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères.
+    error_token_expired: Le jeton de réinitialisation du mot de passe a expiré, veuillez en demander un nouveau.
+    error_token_invalid: Le jeton de réinitialisation du mot de passe n’est pas valide.
     footnote: "<b>Astuce de pro :</b> Rappelez-vous de votre mot de passe."
     label_enter: Nouveau mot de passe
     label_re_enter: Re-tapez votre nouveau mot de passe

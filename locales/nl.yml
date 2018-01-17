@@ -144,7 +144,7 @@ nl:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Wachtwoord mag niet leeg zijn.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Je aanmeld gegevens vergeten?
     labels:
       nickname: Alias of Email
@@ -192,9 +192,9 @@ nl:
   reset_password:
     cta: Herstel mijn wachtwoord
     error_confirmation_match: Wachtwoord bevestiging is niet gelijk aan het wachtwoord
-    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan
-    error_token_expired: Herstel wachtwoord token is verlopen, vraag een nieuwe aan
-    error_token_invalid: Herstel wachtwoord token is niet juist
+    error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan.
+    error_token_expired: Herstel wachtwoord token is verlopen, vraag een nieuwe aan.
+    error_token_invalid: Herstel wachtwoord token is niet juist.
     footnote: "<b>Pro Tip:</b> Vergeet je wachtwoord niet."
     label_enter: Nieuw wachtwoord
     label_re_enter: Herhaal nieuw wachtwoord

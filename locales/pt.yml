@@ -144,7 +144,7 @@ pt:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: A senha não pode ficar em branco.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Esqueceu seus dados de acesso?
     labels:
       nickname: Node de Utilizador ou Email
@@ -191,8 +191,8 @@ pt:
     title: Recomendações
   reset_password:
     cta: Redefinir Senha
-    error_confirmation_match: A confirmação de senha não confere
-    error_password_range: A senha precisa ter entre 8 e 100 caracteres
+    error_confirmation_match: A confirmação de senha não confere.
+    error_password_range: A senha precisa ter entre 8 e 100 caracteres.
     error_token_expired: O token de redefinição de senha expirou. Por favor, solicite outro.
     error_token_invalid: O token de redefinição de senha é inválido.
     footnote: "<b>Dica:</b> Lembre-se de sua senha."

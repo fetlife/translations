@@ -191,10 +191,10 @@ es:
     title: Recomendaciones
   reset_password:
     cta: Restablecer mi contraseña
-    error_confirmation_match: La confirmación de contraseña no coincide con la contraseña
-    error_password_range: La contraseña debe tener entre 8 y 100 caracteres
-    error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo
-    error_token_invalid: El token de contraseña de restablecimiento no es válido
+    error_confirmation_match: La confirmación de contraseña no coincide con la contraseña.
+    error_password_range: La contraseña debe tener entre 8 y 100 caracteres.
+    error_token_expired: El token de contraseña de restablecimiento ha caducado, solicite uno nuevo.
+    error_token_invalid: El token de contraseña de restablecimiento no es válido.
     footnote: "<b>Consejo Pro:</b> Recuerde su contraseña."
     label_enter: Nueva contraseña
     label_re_enter: Reescriba su nueva contraseña

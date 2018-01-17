@@ -144,7 +144,7 @@ it:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: La password non può essere vuota.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Hai dimenticato le credenziali d'accesso?
     labels:
       nickname: Nickname o email
@@ -191,10 +191,10 @@ it:
     title: Raccomandazioni
   reset_password:
     cta: Reimposta la mia password
-    error_confirmation_match: I due campi password non coincidono
-    error_password_range: La password deve essere tra 8 e 100 caratteri
-    error_token_expired: Il token per reimpostare la password è scaduto, si prega di richiederne uno nuovo
-    error_token_invalid: Il token per reimpostare la password non è valido
+    error_confirmation_match: I due campi password non coincidono.
+    error_password_range: La password deve essere tra 8 e 100 caratteri.
+    error_token_expired: Il token per reimpostare la password è scaduto, si prega di richiederne uno nuovo.
+    error_token_invalid: Il token per reimpostare la password non è valido.
     footnote: "<b>Consiglio Pro:</b> Ricordati la tua password."
     label_enter: Nuova password
     label_re_enter: Ripeti la nuova password

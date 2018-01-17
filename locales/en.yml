@@ -144,7 +144,7 @@ en:
     error_password_blank: Password can't be blank.
     error_password_email: Your password cannot be your email username.
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Forgot your login information?
     labels:
       nickname: Nickname or Email
@@ -191,10 +191,10 @@ en:
     title: Recommendations
   reset_password:
     cta: Reset My Password
-    error_confirmation_match: Password confirmation doesn't match Password
-    error_password_range: Password needs to be between 8 and 100 characters
-    error_token_expired: Reset password token has expired, please request a new one
-    error_token_invalid: Reset password token is invalid
+    error_confirmation_match: Password confirmation doesn't match Password.
+    error_password_range: Password needs to be between 8 and 100 characters.
+    error_token_expired: Reset password token has expired, please request a new one.
+    error_token_invalid: Reset password token is invalid.
     footnote: "<b>Pro Tip:</b> Remember your password."
     label_enter: New Password
     label_re_enter: Re-Enter New Password
