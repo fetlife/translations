@@ -175,6 +175,7 @@ bg:
     home: Начало
     places: Места
     search_placeholder: Търсене
+    writings: Writings
   page_break:
     of: от
   profile:
@@ -308,6 +309,7 @@ bg:
     view_friends: Виж приятелите
     whats_new: Какво ново
     write_post: Напиши публикация
+    writings: Writings
   signup:
     almost_there: Почти стигнахме!
     error_bar: Далас, имаме проблем. Превърти надолу за повече информация.
