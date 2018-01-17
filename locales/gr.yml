@@ -84,7 +84,7 @@ gr:
         inexisting_number: Αν μετά από δύο λεπτά δεν λάβετε μήνυμα από εμάς, ο λόγος είναι ότι δεν έχουμε προφίλ συνδεδεμένο με τον αριθμό σας. Σας προτείνουμε να δοκιμάσετε είτε την <a href="%{forgot_password_email_path}">Επαναφορά του κωδικό πρόσβασης χρησιμοποιόντας άλλη μέθοδο</a> είτε την <a href="%{signup_path}"> δημιουργία νέου προφίλ στο FetLife</a>.
         label: 6-digit Verification Code
         page_title: Εισάγετε κωδικό επιβεβαίωσης
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Εισάγετε τον Κωδικό Επιβεβαίωσης
       warning: "<strong>Ο Γενικός Χειρούργος προειδοποιεί:</strong> Για λόγους ασφάλειας, δεν μπορούμε να πούμε αν ένας αριθμός κινητού τηλεφώνου υπάρχει στη βάση δεδομένων μας ή όχι Αν δεν λάβατε μήνυμα κειμένου από εμάς, είναι πολύ πιθανό να μην έχουμε λογαριασμό συνδεδεμένο με αυτό τον αριθμό."
     next_step: επόμενο βήμα

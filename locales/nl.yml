@@ -84,7 +84,7 @@ nl:
         inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
         label: 6-digit Verification Code
         page_title: Controle Code invoeren
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Controle Code invoeren
       warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat mobiele nummer."
     next_step: volgende stap

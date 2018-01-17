@@ -84,7 +84,7 @@ hu:
         inexisting_number: Amennyiben néhány percen belül sem kapsz SMS-t, akkor feltehetoleg nem létezik felhasználói fiók az adott telefonszámhoz. Ez esetben próbáld meg <a href="%{forgot_password_email_path}">visszaállítani a jelszavadat egy másik módszerrel</a> vagy <a href="%{signup_path}">hozz létre egy új FetLife profilt</a>.
         label: 6-digit Verification Code
         page_title: Add meg a hitelesítő kódot
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Add meg a hitelesítő kódot
       warning: "<strong>Egészségügyi figyelmeztetés:</strong> Biztonsági okokból nem árulhatjuk el, hogy létezik-e már felhasználói fiók a megadott telefonszámhoz. Ha nem kapsz tőlünk SMS-t az könnyen lehet, hogy azért van, mert még nem regisztráltál ezzel a telefonszámmal."
     next_step: következő lépés
