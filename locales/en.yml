@@ -84,7 +84,7 @@ en:
         inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recommend you either <a href="%{forgot_password_email_path}">try resetting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
         label: 6-digit Verification Code
         page_title: Enter Verification Code
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Enter Verification Code
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if a mobile number exists in our database or not. If you don't get a text message from us, it's most likely because we don't have an account associated with that number."
     next_step: next step

@@ -85,7 +85,7 @@ sk:
         inexisting_number: Ak v priebehu pár minút nedostaneš od nás SMS, tak pravdepodobne neexistuje profil asociovaný s tvojím číslom. Odporúčame ti si buď <a href="%{forgot_password_email_path}">zresetovať heslo inou metódou</a> alebo si <a href="%{signup_path}">zaregistrovať nový profil na FetLife</a>.
         label: 6-digit Verification Code
         page_title: Zadaj verfikačný kód
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Zadaj verfikačný kód
       warning: "<strong>Varovanie ministra vnútra:</strong> Z bezpečnostných dôvodov ti nemôžeme povedať, že či dané mobilné číslo sa nachádza v našej databáze alebo nie. Ak nedostaneš SMS, tak je to pravdepodobne kvôli tomu, že ešte nemáš u nás účet."
     next_step: ďalší krok

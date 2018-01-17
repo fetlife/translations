@@ -84,7 +84,7 @@ fr:
         inexisting_number: Si après deux minutes vous ne recevez pas un texto de nous, c’est probablement que nous n’avons pas de profil associé à votre numéro. Nous vous recommandons soit d’<a href="%{forgot_password_email_path}">essayer de réinitialiser votre mot de passe en utilisant un autre méthode</a>, soit de <a href="%{signup_path}">créer un nouveau profil sur FetLife</a>.
         label: 6-digit Verification Code
         page_title: Entrez le code de vérification
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Entrez le code de vérification
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si un numéro de mobile existe ou non dans notre base de données. Si vous ne recevez pas de texto de nous, il est probable que nous n’avons pas de compte associé à ce numéro de mobile."
     next_step: étape suivante

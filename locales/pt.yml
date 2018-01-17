@@ -84,7 +84,7 @@ pt:
         inexisting_number: Se em cerca de três minutos você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel. Nós recomendamos que você <a href="%{forgot_password_email_path}">tente redefinir sua senha de outra forma</a> ou <a href="%{signup_path}">crie um novo perfil em FetLife</a>.
         label: 6-digit Verification Code
         page_title: Insira o Código de Verificação
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Insira o Código de Verificação
       warning: "<strong>O Ministério da Saúde adverte:</strong> Por razões de segurança, nós não podemos informar se um determinado número existe em nosso banco de dados ou não. Se você não receber uma mensagem nossa, é provável que não haja uma conta associada a esse número de telemovel."
     next_step: próximo passo

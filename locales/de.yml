@@ -84,7 +84,7 @@ de:
         inexisting_number: Wenn Du nach einigen Minuten noch keine SMS von uns erhalten hast, dann liegt das vermutich daran, dass wir kein Mitgliedskonto mit dieser Nummer haben. Wir empfehlen entweder <a href="%{forgot_password_email_path}">zu versuchen, das Passwort mit einer anderen Methode zurückzusetzen</a> oder <a href="%{signup_path}">ein neues Mitgliedskonto bei FetLife anzulegen</a>.
         label: 6-digit Verification Code
         page_title: Verifikationszahl eingeben
-        subtitle: Please enter the 6-digit code we "might" just have sent to your phone with the number %{phone_number}.
+        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
         title: Verifikationsnummer Eingeben
       warning: "<strong>Warnung des Sanitätsinspekteurs:</strong> Aus Sicherheitsgründen können wir Dir nicht sagen, ob eine Handy-Nummer in unserer Datenbank existiert oder nicht. Wenn Du keine SMS von uns bekommst, liegt das mit höchster Wahrscheinlichkeit daran, dass wir kein Mitgliedskonto mit dieser Nummer haben."
     next_step: Nächster Schritt
