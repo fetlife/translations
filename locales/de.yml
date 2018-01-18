@@ -144,7 +144,7 @@ de:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Das Passwort ist erforderlich.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
     labels:
       nickname: Name oder E-Mail
@@ -192,10 +192,10 @@ de:
     title: Empfehlungen
   reset_password:
     cta: Setze mein Passwort zurück
-    error_confirmation_match: Die Passwort-Wiederholung stimmt nicht mit dem Passwort überein
+    error_confirmation_match: Die Passwort-Wiederholung stimmt nicht mit dem Passwort überein.
     error_password_range: Das Passwort muss zwischen 8 und 100 Zeichen lang sein.
     error_token_expired: Das Token zum Zurücksetzen des Passworts ist nicht mehr gültig. Bitte fordere ein neues an.
-    error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt
+    error_token_invalid: Das Token zum Zurücksetzen des Passworts ist inkorrekt.
     footnote: "<b>Profi-Tipp:</b> Vergiss Dein Passwort nicht."
     label_enter: Neues Passwort
     label_re_enter: Neues Passwort nochmal eingeben

@@ -192,10 +192,10 @@ bg:
     title: Препоръчани
   reset_password:
     cta: Смени паролата ми
-    error_confirmation_match: Потвърждението на паролата не съответства на паролата
-    error_password_range: Паролата трябва да е с дължина между 8 и 100 символа
-    error_token_expired: Кодът за смяна на парола е изтекъл, моля заяви си нов
-    error_token_invalid: Кодът за смяна на парола е невалиден
+    error_confirmation_match: Потвърждението на паролата не съответства на паролата.
+    error_password_range: Паролата трябва да е с дължина между 8 и 100 символа.
+    error_token_expired: Кодът за смяна на парола е изтекъл, моля заяви си нов.
+    error_token_invalid: Кодът за смяна на парола е невалиден.
     footnote: "<b>Pro Tip:</b> Помни паролата си."
     label_enter: Нова парола
     label_re_enter: Въведи новата парола отново

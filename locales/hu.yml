@@ -144,7 +144,7 @@ hu:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Meg kell adnod a jelszavadat.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Valamit elfelejtettél?
     labels:
       nickname: Felhasználónév vagy email cím
@@ -192,10 +192,10 @@ hu:
     title: Javaslatok
   reset_password:
     cta: Jelszó visszaállítása
-    error_confirmation_match: A megerősítő jelszó nem egyezik az eredetivel
-    error_password_range: A te jelszavad pedig légyen legalább 8 de nem több mint 100 karakter
-    error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!
-    error_token_invalid: A jelszó helyreállító kód nem érvényes
+    error_confirmation_match: A megerősítő jelszó nem egyezik az eredetivel.
+    error_password_range: A te jelszavad pedig légyen legalább 8 de nem több mint 100 karakter.
+    error_token_expired: A jelszó helyreállító kód érvényessége lejárt, igényelj újat!.
+    error_token_invalid: A jelszó helyreállító kód nem érvényes.
     footnote: "<b>A profi tanácsa:</b> Vésd az eszedbe a jelszavad."
     label_enter: Új jelszó
     label_re_enter: Új jelszó még egyszer

@@ -146,7 +146,7 @@ sk:
     error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
     error_password_blank: Heslo nemôže byť prázdne.
     error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname
+    error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Zabudol si svoje prihlasovacie údaje?
     labels:
       nickname: Prezývka alebo email
@@ -197,10 +197,10 @@ sk:
     title: Odporúčania
   reset_password:
     cta: Resetovať heslo
-    error_confirmation_match: Zadané heslá sa nezhodujú
-    error_password_range: Heslo musí mať 8 až 100 znakov
+    error_confirmation_match: Zadané heslá sa nezhodujú.
+    error_password_range: Heslo musí mať 8 až 100 znakov.
     error_token_expired: Platnosť tokenu na zresetovanie hesla vypršala, prosíme ťa skús znovu.
-    error_token_invalid: Token na zresetovanie hesla nie je platný
+    error_token_invalid: Token na zresetovanie hesla nie je platný.
     footnote: "<b>Pro Tip:</b> Zapamätaj si svoje heslo."
     label_enter: Nové heslo
     label_re_enter: Znovu zadaj nové heslo
