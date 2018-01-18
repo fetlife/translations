@@ -141,9 +141,9 @@ es:
     error_login_blank: El usuario no puede estar en blanco.
     error_not_authenticated: Lo siento amigo mio, tiene que estar logueado para acceder a esa página. Si aún no es miembro, se tarda menos de un minuto en inscribirse.
     error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYUSCULAS de minúsculas)
+    error_password_blacklist: La contraseña escogida es fácil de adivinar. Por favor utilice una mas complicada.
     error_password_blank: La contraseña no puede estar en blanco.
     error_password_email: Su contraseña no puede ser su usuario de correo.
-    error_password_blacklist: La contraseña escogida es fácil de adivinar. Por favor utilice una mas complicada.
     error_password_nickname: Su contraseña no puede ser la misma que su apodo.
     forgot_info: "¿Ha olvidado su información de acceso?"
     labels:
@@ -175,6 +175,7 @@ es:
     home: Principal
     places: Lugares
     search_placeholder: Buscar
+    writings: Writings
   page_break:
     of: de
   profile:
@@ -308,6 +309,7 @@ es:
     view_friends: Ver Amigos
     whats_new: Qué hay de Nuevo
     write_post: Escribir publicación
+    writings: Writings
   signup:
     almost_there: "¡Casi estamos!"
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.

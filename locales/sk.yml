@@ -180,6 +180,7 @@ sk:
     home: Domov
     places: Miesta
     search_placeholder: Hľadať
+    writings: Writings
   page_break:
     of: z
   profile:
@@ -313,6 +314,7 @@ sk:
     view_friends: Zobraz priateľov
     whats_new: Čo nové?
     write_post: Napísať príspevok
+    writings: Writings
   signup:
     almost_there: Už si skoro tam!
     error_bar: Dallas, máme problém. Pozri nižšie pre viac informácií

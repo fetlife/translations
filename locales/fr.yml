@@ -175,6 +175,7 @@ fr:
     home: Accueil
     places: Endroits
     search_placeholder: Chercher
+    writings: Writings
   page_break:
     of: de
   profile:
@@ -308,6 +309,7 @@ fr:
     view_friends: Voir ami⋅e⋅s
     whats_new: Quoi de neuf
     write_post: Écrire un post
+    writings: Writings
   signup:
     almost_there: Presque arrivé⋅e !
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d’informations.
