@@ -175,7 +175,7 @@ es:
     home: Principal
     places: Lugares
     search_placeholder: Buscar
-    writings: Writings
+    writings: Escritos
   page_break:
     of: de
   profile:
@@ -287,7 +287,7 @@ es:
     glossary: Glosario
     groups: Grupos
     guidelines: Directrices
-    home: Casa
+    home: Principal
     invite_a_friend: Invitar a un Amigo (%{count})
     kp: Kinky & Popular
     legalese: Leguleyos
@@ -309,7 +309,7 @@ es:
     view_friends: Ver Amigos
     whats_new: Qué hay de Nuevo
     write_post: Escribir publicación
-    writings: Writings
+    writings: Escritos
   signup:
     almost_there: "¡Casi estamos!"
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.
