@@ -52,7 +52,7 @@ zh:
     email:
       cta: 发送密码重置邮件
       error_forgot_email: 邮箱地址必填。
-      error_invalid_email: 这看上去不像个邮箱地址啊喂。你再仔细看看你填了啥。
+      error_invalid_email: 这看上去不像个邮箱地址啊喂。仔细检查一下再重新提交吧。
       error_quota: 我们每小时只会向同一个邮箱地址发一封邮件。请再查查看是不是被当作垃圾邮件了。如果垃圾邮件箱里也没有的话，试试上面的其它方法吧。
       placeholder: 邮箱地址。
       step1:
@@ -63,7 +63,7 @@ zh:
         page_title: 你也许会收到邮件
         subtitle: 如果系统里有通过 <span class='fw7'>%{given_email}</span> 注册的用户的话，那我们已经发了一封重置密码用的邮件了。
         title: 你&ldquo;也许&rdquo;会收到邮件
-      update_email: 更新邮箱地址
+      update_email: 更改邮箱地址
       warning: "<strong>提示：</strong>出于安全考虑，我们不能告诉你这个邮箱地址有没有出现在我们的数据库里。如果你没有收到邮件，那大抵就是没有任何用户关联过这个邮箱地址了。"
     mobile:
       5strike:
@@ -111,7 +111,7 @@ zh:
       friends_email: '发送邀请至：'
       friends_email_sub: "剩余 %{count} 个邀请名额"
     next_step: 下一步
-    return_to_feed: 返回动态
+    return_to_feed: 返回动态页
     subtitle_step1:
       one: 你还剩下一个邀请名额
       other: 你还剩下 %{count_with_delimiter} 个邀请名额。
@@ -124,7 +124,7 @@ zh:
     login_button: 登录 FetLife
     signup_button: 注册 FetLife
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
-    title: FetLife 是 BDSM、恋物及其它性癖者的线上社区。
+    title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
   legalese:
     subnav:
       2257_exempt: 2257 豁免条款
@@ -138,7 +138,7 @@ zh:
   login:
     button: 登录 FetLife
     error_flash: 请联系 <a href="mailto:support@fetlife.com">support@fetlife.com</a> 以便我们协助你登录
-    error_login_blank: 昵称或邮箱不能不填。
+    error_login_blank: 昵称或邮箱不能为空。
     error_not_authenticated: 抱歉朋友，这个页面仅限登录后才可查看。如果你还不是本站用户的话，一分钟都用不了就可以立刻注册。
     error_not_found: 唔……我们找不到相应的记录。你确认你的用户名密码都输对了？（别忘了，密码是大小写敏感的）
     error_password_blacklist: 你设的密码太容易猜出来了。换一个强一点的吧。
@@ -374,7 +374,7 @@ zh:
     label: 手机号
     page_title: 发送验证码
     pro_tip: "<strong>友情提示：</strong>请确保你在号码前加了国际区号：例如美国和加拿大的 +1、英国的 +44、澳洲的 +61、荷兰的 +31、德国的 +49、法国的 +33 等等……"
-    subtitle: 烦人的短信只发一次。
+    subtitle: 一次性匿名短信。
     title: 到短信验证的时候了！
   signup_verify:
     cta: 完成注册认证
