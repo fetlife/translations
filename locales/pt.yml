@@ -147,7 +147,7 @@ pt:
     error_password_nickname: Your password cannot be the same as your nickname.
     forgot_info: Esqueceu seus dados de acesso?
     labels:
-      nickname: Node de Utilizador ou Email
+      nickname: Nome de Utilizador ou Email
       password: Senha
       remember_me: Lembre-me, eu vou voltar.
     not_a_member: Ainda não é membro? Cadastre-se em FetLife
