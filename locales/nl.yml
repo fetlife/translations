@@ -120,7 +120,8 @@ nl:
     title_step2: Uitnodiging verstuurd
     view_invitations: Bekijk je uitnodigingen
   landing_page:
-    footer: <span class="fw7">%{member_count} Leden</span><span> delen </span><span class="fw7">%{picture_count} foto's</span><span> en </span><span class="fw7">%{video_count} filmpjes</span><span>, nemen deel aan </span><span class="fw7">%{discussion_count} discussies</span><span> in </span><span class="fw7">%{group_count} groepen</span><span>, gaan naar </span><span class="fw7">%{event_count} aanstaande bijeenkomsten</span><span>, en lezen </span><span class="fw7">%{post_count} blog berichten</span><span>. </span><span><i>Kinky hemel!</i></span>
+    stats_members: Leden
+    stats_details: delen <strong class="fw7 silver">%{picture_count} foto's</strong> en <strong class="fw7 silver">%{video_count} filmpjes</strong>, nemen deel aan <strong class="fw7 silver">%{discussion_count} discussies</strong> in <strong class="fw7 silver">%{group_count} groepen</strong>, gaan naar <strong class="fw7 silver">%{event_count} aanstaande bijeenkomsten</strong>, en lezen <strong class="fw7 silver">%{post_count} blog berichten</strong>. <span><span class="i">Kinky hemel!</span>
     login_button: Aanmelden bij FetLife
     signup_button: Inschrijven bij FetLife
     subtitle: Zoiets als Facebook, maar gemaakt door kinksters zoals jij en ik. Wij denken dat dat veel leuker is. Jij ook?
