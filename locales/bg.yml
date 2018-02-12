@@ -120,7 +120,7 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    stats_members: члена
+    stats_members: члены
     stats_details: споделят <strong class="fw7 silver">%{picture_count} снимки</strong> и <strong class="fw7 silver">%{video_count} клипа</strong>, участват в <strong class="fw7 silver">%{discussion_count} дискусии</strong> в <strong class="fw7 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw7 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw7 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
     login_button: Влизане във FetLife
     signup_button: Регистрация във FetLife
