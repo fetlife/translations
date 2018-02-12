@@ -120,6 +120,7 @@ de:
     title_step2: Einladung versandt
     view_invitations: schaue Deine Einladungen an
   landing_page:
+    footer: <span class="fw7">%{member_count} Mitglieder</span><span> teilen </span><span class="fw7">%{picture_count} Bilder</span><span> und </span><span class="fw7">%{video_count} Videos</span><span>, nehmen an </span><span class="fw7">%{discussion_count} Diskussionen</span><span> in </span><span class="fw7">%{group_count} Gruppen</span><span> teil, besuchen </span><span class="fw7">%{event_count} demnächst stattfindende Veranstaltungen</span><span> und lesen </span><span class="fw7">%{post_count} Blog-Einträge</span><span>. </span><span><i>Perverses Paradies!</i></span>
     stats_members: Mitglieder
     stats_details: teilen <strong class="fw7 silver">%{picture_count} Bilder</strong> und <strong class="fw7 silver">%{video_count} Videos</strong>, nehmen an <strong class="fw7 silver">%{discussion_count} Diskussionen</strong> in <strong class="fw7 silver">%{group_count} Gruppen</strong> teil, besuchen <strong class="fw7 silver">%{event_count} demnächst stattfindende Veranstaltungen</strong>, und lesen <strong class="fw7 silver">%{post_count} Blog-Einträge</strong>. <span><span class="i">Perverses Paradies!</span>
     login_button: Anmelden bei FetLife

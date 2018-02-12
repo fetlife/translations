@@ -120,6 +120,7 @@ es:
     title_step2: Invitación enviada
     view_invitations: ver sus invitaciones
   landing_page:
+    footer: <span class="fw7">%{member_count} miembros</span><span> están compartiendo </span><span class="fw7">%{picture_count} fotos</span><span> y </span><span class="fw7">%{video_count} vídeos</span><span>, participan en </span><span class="fw7">%{discussion_count}</span><span> discusiones en </span><span class="fw7">%{group_count} grupos</span><span>, van a </span><span class="fw7">%{event_count} próximos eventos</span><span> y leen </span><span class="fw7">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
     stats_members: Miembros
     stats_details: están compartiendo <strong class="fw7 silver">%{picture_count} fotos</strong> y <strong class="fw7 silver">%{video_count} vídeos</strong>, participan en <strong class="fw7 silver">%{discussion_count} discusiones</strong> en <strong class="fw7 silver">%{group_count} grupos</strong>, van a <strong class="fw7 silver">%{event_count} próximos eventos</strong>, y leen <strong class="fw7 silver">%{post_count} entradas de blogs</strong>. <span><span class="i">¡Paraíso Kinky!</span>
     login_button: Iniciar sesión en FetLife
