@@ -208,7 +208,7 @@ it:
     button: Cambia lingua
     help_translate: Visita il nostro <a class="silver" href="https://github.com/fetlife/translations">progetto di traduzione</a> su GitHub e contribuisci a rendere FetLife accessibile a più comunity kinky <span class="amp">&amp</span> nostre amiche.
     language_name: Italiano
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
     title: Seleziona la lingua
   settings_account:
     2fa_cta: Attiva l'autenticazione a 2 passaggi
