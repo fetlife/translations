@@ -211,7 +211,7 @@ sk:
     button: Zmeniť jazyk
     help_translate: Navštív náš <a class="silver" href="https://github.com/fetlife/translations">projekt s prekladmi</a> na GitHube a pomôž spraviť FetLife dostupný pre viac tvojich priateľov a celú kinky komunitu.
     language_name: Slovensky
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
     title: Vybrať jazyk
   settings_account:
     2fa_cta: Zapnúť dvojfaktorovú autentifikáciu
