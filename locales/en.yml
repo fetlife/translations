@@ -121,10 +121,10 @@ en:
     view_invitations: view your invitations
   landing_page:
     footer: <span class="fw7">%{member_count} Members</span><span> are sharing </span><span class="fw7">%{picture_count} pictures</span><span> and </span><span class="fw7">%{video_count} videos</span><span>, participating in </span><span class="fw7">%{discussion_count} discussions</span><span> in </span><span class="fw7">%{group_count} groups</span><span>, going to </span><span class="fw7">%{event_count} upcoming events</span><span>, and reading </span><span class="fw7">%{post_count} blog posts</span><span>. </span><span><i>Kinky heaven!</i></span>
-    stats_members: Members
-    stats_details: are sharing <strong class="fw7 silver">%{picture_count} pictures</strong> and <strong class="fw7 silver">%{video_count} videos</strong>, participating in <strong class="fw7 silver">%{discussion_count} discussions</strong> in <strong class="fw7 silver">%{group_count} groups</strong>, going to <strong class="fw7 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     login_button: Login to FetLife
     signup_button: Signup to FetLife
+    stats_details: are sharing <strong class="fw7 silver">%{picture_count} pictures</strong> and <strong class="fw7 silver">%{video_count} videos</strong>, participating in <strong class="fw7 silver">%{discussion_count} discussions</strong> in <strong class="fw7 silver">%{group_count} groups</strong>, going to <strong class="fw7 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
+    stats_members: Members
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
     title: FetLife is the Social Network for the BDSM, Fetish & Kinky Community.
   legalese:

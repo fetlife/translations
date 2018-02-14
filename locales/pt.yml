@@ -121,10 +121,10 @@ pt:
     view_invitations: veja seus convites
   landing_page:
     footer: <span class="fw7">%{member_count} Membros</span><span> estão compartilhando </span><span class="fw7">%{picture_count} fotos</span><span> e </span><span class="fw7">%{video_count} vídeos</span><span>, participando em </span><span class="fw7">%{discussion_count} discussões</span><span> em </span><span class="fw7">%{group_count} grupos</span><span>, estão indo a </span><span class="fw7">%{event_count} eventos futuros</span><span> e lendo </span><span class="fw7">%{post_count} postagens</span><span>. </span><span><i>O paraíso da perversão!</i></span>
-    stats_members: Membros
-    stats_details: estão compartilhando <strong class="fw7 silver">%{picture_count} fotos</strong> e <strong class="fw7 silver">%{video_count} vídeos</strong>, participando em <strong class="fw7 silver">%{discussion_count} discussões</strong> em <strong class="fw7 silver">%{group_count} grupos</strong>, estão indo a <strong class="fw7 silver">%{event_count} eventos futuros</strong>, e lendo <strong class="fw7 silver">%{post_count} postagens</strong>. <span><span class="i">O paraíso da perversão!</span>
     login_button: Acessar FetLife
     signup_button: Cadastrar-se em FetLife
+    stats_details: estão compartilhando <strong class="fw7 silver">%{picture_count} fotos</strong> e <strong class="fw7 silver">%{video_count} vídeos</strong>, participando em <strong class="fw7 silver">%{discussion_count} discussões</strong> em <strong class="fw7 silver">%{group_count} grupos</strong>, estão indo a <strong class="fw7 silver">%{event_count} eventos futuros</strong>, e lendo <strong class="fw7 silver">%{post_count} postagens</strong>. <span><span class="i">O paraíso da perversão!</span>
+    stats_members: Membros
     subtitle: Como o Facebook, mas criada por pervertidos como você e eu. Nós achamos que é mais divertido assim. Você não acha?
     title: FetLife é a Rede Social para a comunidade de BDSM e fetiche.
   legalese:

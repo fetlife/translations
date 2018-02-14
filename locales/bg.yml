@@ -120,11 +120,11 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    stats_members: членa
-    stats_details: споделят <strong class="fw7 silver">%{picture_count} снимки</strong> и <strong class="fw7 silver">%{video_count} клипа</strong>, участват в <strong class="fw7 silver">%{discussion_count} дискусии</strong> в <strong class="fw7 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw7 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw7 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
     footer: <span class="fw7">%{member_count} члена</span><span> споделят </span><span class="fw7">%{picture_count} снимки</span><span> и </span><span class="fw7">%{video_count} клипа</span><span>, участват в </span><span class="fw7">%{discussion_count} дискусии</span><span> в </span><span class="fw7">%{group_count} групи</span><span>, ще ходят на </span><span class="fw7">%{event_count} предстоящи събития</span><span>, и четат </span><span class="fw7">%{post_count} публикации</span><span>. </span><span><i>Извратен рай!</i></span>
     login_button: Влизане във FetLife
     signup_button: Регистрация във FetLife
+    stats_details: споделят <strong class="fw7 silver">%{picture_count} снимки</strong> и <strong class="fw7 silver">%{video_count} клипа</strong>, участват в <strong class="fw7 silver">%{discussion_count} дискусии</strong> в <strong class="fw7 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw7 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw7 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
+    stats_members: членa
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
     title: FetLife е Социалната Мрежа за BDSM, Fetish & Kinky общностите.
   legalese:

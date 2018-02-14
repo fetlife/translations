@@ -92,7 +92,7 @@ zh:
     tab_email: 邮箱
     tab_mobile: 手机号
   guidelines:
-    last_updated: '最近更新于：'
+    last_updated: 最近更新于：
     subnav:
       community: 社群
       content: 内容
@@ -108,8 +108,8 @@ zh:
     invitations_sent: 邀请已发出
     labels:
       email: 邮箱地址
-      friends_email: '发送邀请至：'
-      friends_email_sub: "剩余 %{count} 个邀请名额"
+      friends_email: 发送邀请至：
+      friends_email_sub: 剩余 %{count} 个邀请名额
     next_step: 下一步
     return_to_feed: 返回动态页
     subtitle_step1:
@@ -123,6 +123,8 @@ zh:
     footer: <span class="fw7">%{member_count} 个用户</span><span> 分享了 </span><span class="fw7">%{picture_count} 张图片</span><span>和</span><span class="fw7">%{video_count} 部视频</span><span>，在 </span><span class="fw7">%{group_count} 个小组中</span><span>参与了 </span><span class="fw7">%{discussion_count} 次讨论</span><span>，准备参与 </span><span class="fw7">%{event_count} 次线下活动</span><span>，并读了 </span><span class="fw7">%{post_count} 篇博文</span><span>。</span><span><i>Kink の天堂！</i></span>
     login_button: 登录 FetLife
     signup_button: 注册 FetLife
+    stats_details: are sharing <strong class="fw7 silver">%{picture_count} pictures</strong> and <strong class="fw7 silver">%{video_count} videos</strong>, participating in <strong class="fw7 silver">%{discussion_count} discussions</strong> in <strong class="fw7 silver">%{group_count} groups</strong>, going to <strong class="fw7 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
+    stats_members: Members
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
   legalese:
@@ -220,7 +222,7 @@ zh:
     language_notice: FetLife 对英语以外的语言支持并不完善。如果你选择非英语的语言的话，网站仍可能有一部分以英语显示。
     new_password_label: 新密码
     nickname_cta: 更改昵称
-    nickname_label: '把你的昵称从 "JohnBaku" 改为：'
+    nickname_label: 把你的昵称从 "JohnBaku" 改为：
     nickname_notice: "<strong>友情提示：</strong>想清楚再改噢。每 28 天内你仅可更改一次昵称。别反悔。"
     nickname_placeholder: 新昵称
     page_title: 更改密码 - 设置
@@ -351,7 +353,7 @@ zh:
     subtitle_invite: "%{name} 邀请你加入 FetLife。"
     title: 欢迎到家
   signup_avatar:
-    pro_tip: '<strong>友情提示</strong>：如果你害羞并不想使用你的照片的话，别犹豫，展现创造力用别的图片表达你自己！你也可以暂时 <a class="silver" href="%{next_step_path}">跳过此步</a>。'
+    pro_tip: <strong>友情提示</strong>：如果你害羞并不想使用你的照片的话，别犹豫，展现创造力用别的图片表达你自己！你也可以暂时 <a class="silver" href="%{next_step_path}">跳过此步</a>。
     say_cheese: 说「茄子」！
     subtitle: 统计数据显示，有了头像的 kinkster 比其它用户多出 69 倍的欢愉喔。
     title: 上传头像
@@ -426,7 +428,7 @@ zh:
       item_7: "@你的动态可向前滚动的历史变长<span>25 倍</span>。"
       item_8: 如你所愿<span>自定义你的动态页</span>。
       item_9: 第一时间<span>体验最新功能</span>！
-      list_description: '每月只要 $5 美元，除了支持 FetLife 的开发维护外，你还能：'
+      list_description: 每月只要 $5 美元，除了支持 FetLife 的开发维护外，你还能：
       list_footer: 比一瓶润滑剂还便宜呢……不过我们还是不建议你用菜籽油来代替润滑剂……不是那么好用。
       thank_you: 没有你的赞助，就没有 FetLife。FetLife 大家庭忠心向你表示感谢！
       title: 赞助 FetLife 我能得到啥？
