@@ -3,7 +3,7 @@ es:
   2fa:
     5strike:
       return: Volver a la portada
-      subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar conectarse de nuevo.
+      subtitle: Caramba, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar conectarse de nuevo.
       title: Regla de los cinco intentos
     cta: Soy yo, ¡déjame entrar!
     error: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación de arriba parece incorrecto. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelva a intentarlo."
@@ -68,11 +68,11 @@ es:
     mobile:
       5strike:
         return: volver a la portada
-        subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentarlo de nuevo.
+        subtitle: Caramba, por razones de seguridad, tendrá que esperar dos horas antes de poder intentarlo de nuevo.
         title: Regla de los cinco intentos
       cta: Envíeme un Mensaje de Texto
       error_country_code: "<strong>Operador Kinky:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
-      error_quota: "<strong>Operador Kinky:</strong> Mecachis, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
+      error_quota: "<strong>Operador Kinky:</strong> Caramba, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
       pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       step1:
         page_title: Restablecer Contraseña a través de Mensajes de Texto
@@ -360,7 +360,7 @@ es:
   signup_five_strikes:
     page_title: Regla de los cinco intentos
     return_to_front: regresar a la portada
-    subtitle_error: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar acceder de nuevo.
+    subtitle_error: Caramba, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar acceder de nuevo.
     title: Regla de los cinco intentos
   signup_follow:
     follow: Seguir
