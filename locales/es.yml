@@ -46,7 +46,11 @@ es:
     following: Siguiendo
   footer:
     about: Acerca de
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Ayuda
+    language: Language
     privacy: Privacidad
   forgot_password:
     email:
@@ -278,6 +282,7 @@ es:
     caretaking: Cuidadores
     change_language: Cambiar idioma
     close: Cerrar
+    contact_us: Contact Us
     edit_profile: Editar Perfil
     edit_settings: Editar Configuración
     events: Eventos

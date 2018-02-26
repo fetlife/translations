@@ -46,7 +46,11 @@ nl:
     following: ik volg
   footer:
     about: informatie over
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Help
+    language: Language
     privacy: Privacy
   forgot_password:
     email:
@@ -278,6 +282,7 @@ nl:
     caretaking: Concierge
     change_language: Wijzig taal
     close: sluiten
+    contact_us: Contact Us
     edit_profile: Profiel bewerken
     edit_settings: Instellingen bewerken
     events: Bijeenkomsten

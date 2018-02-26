@@ -47,7 +47,11 @@ sk:
     following: Sledovaný
   footer:
     about: O stránke
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Pomoc
+    language: Language
     privacy: Privacy
   forgot_password:
     email:
@@ -283,6 +287,7 @@ sk:
     caretaking: Správcovia
     change_language: Zmeniť jazyk
     close: zatvoriť
+    contact_us: Contact Us
     edit_profile: Upraviť profil
     edit_settings: Upraviť nastavenia
     events: Udalosti

@@ -46,7 +46,11 @@ gr:
     following: Ακολουθώ
   footer:
     about: Σχετικά
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Βοήθεια
+    language: Language
     privacy: Privacy
   forgot_password:
     email:
@@ -278,6 +282,7 @@ gr:
     caretaking: Caretaking
     change_language: Αλλαγή Γλώσσας
     close: Κλείσιμο
+    contact_us: Contact Us
     edit_profile: Επεξεργασία Προφίλ
     edit_settings: Επεξεργασία Ρυθμίσεων
     events: Εκδηλώσεις

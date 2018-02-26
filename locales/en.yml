@@ -45,8 +45,12 @@ en:
     follow: Follow
     following: Following
   footer:
-    about: About
+    about: 关于
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Help
+    language: Language
     privacy: Privacy
   forgot_password:
     email:
@@ -270,7 +274,7 @@ en:
     subtitle: Just in case you forget your password.
     title: Update Email Address
   sidebar:
-    about_fetlife: About Fetlife
+    about_fetlife: Meet the Team
     ad_stats: Ad Stats
     advertising: Advertising
     androidapp: Install FetLife Android App
@@ -278,6 +282,7 @@ en:
     caretaking: Caretaker Tools
     change_language: Change Language
     close: close
+    contact_us: Contact Us
     edit_profile: Edit Profile
     edit_settings: Edit Settings
     events: Events

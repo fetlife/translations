@@ -46,7 +46,11 @@ de:
     following: Ich Folge
   footer:
     about: Information
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Hilfe
+    language: Language
     privacy: Privatsphäre
   forgot_password:
     email:
@@ -278,6 +282,7 @@ de:
     caretaking: Hausmeister Werkzeuge
     change_language: Sprache Wechseln
     close: schließen
+    contact_us: Contact Us
     edit_profile: Profil Bearbeiten
     edit_settings: Einstellungen Bearbeiten
     events: Veranstaltungen

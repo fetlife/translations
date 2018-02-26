@@ -46,7 +46,11 @@ bg:
     following: Following
   footer:
     about: Информация
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Помощ
+    language: Language
     privacy: Поверителност
   forgot_password:
     email:
@@ -278,6 +282,7 @@ bg:
     caretaking: Надзирателство
     change_language: Смени езика
     close: затвори
+    contact_us: Contact Us
     edit_profile: Промени профила
     edit_settings: Промени настройките
     events: Събития
