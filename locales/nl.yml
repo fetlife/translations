@@ -45,12 +45,11 @@ nl:
     follow: Volgen
     following: ik volg
   footer:
-    about: informatie over
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: Adverteren
+    contact: Contacteer ons
+    glossary: Woordenlijst
     help: Help
-    language: Language
+    language: Taal
     privacy: Privacy
   forgot_password:
     email:
@@ -274,7 +273,7 @@ nl:
     subtitle: Voor het geval je je wachtwoord mocht vergeten.
     title: Email Adres bijwerken
   sidebar:
-    about_fetlife: Over Fetlife
+    about_fetlife: Ontmoet het team
     ad_stats: Advertentie Statistieken
     advertising: Adverteren
     androidapp: Installeer FetLife's Android Applicatie
