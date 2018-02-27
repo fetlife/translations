@@ -45,9 +45,9 @@ es:
     follow: Sigue
     following: Siguiendo
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: Anúnciese
+    contact: Contáctenos
+    glossary: Glosario
     help: Ayuda
     privacy: Privacidad
   forgot_password:
@@ -55,7 +55,7 @@ es:
       cta: Envíame un correo electrónico con instrucciones
       error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
-      error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
+      error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
       step1:
         page_title: Restablecer Contraseña por Correo Electrónico
@@ -221,7 +221,7 @@ es:
     email_label: Correo Electrónico
     email_placeholder: Dirección de Correo Electrónico
     language_cta: Actualiza el Idioma por Defecto
-    language_notice: FetLife aún no está totalmente disponible en idiomas distintos al Inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
+    language_notice: FetLife aún no está totalmente disponible en idiomas distintos al inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
     new_password_label: Nueva Contraseña
     nickname_cta: Cambiar Apodo
     nickname_label: 'Cambia su apodo de "JohnBaku" a:'
@@ -235,7 +235,7 @@ es:
   settings_notifications:
     cta: Actualiza el idioma por defecto
     language_label: Idioma
-    notice: FetLife aún no está totalmente disponible en idiomas distintos al Inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
+    notice: FetLife aún no está totalmente disponible en idiomas distintos al inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
     page_title: Ajustes de idioma
     subtitle: "¿Cuál es su idioma preferido?"
     title: Idioma
@@ -272,7 +272,7 @@ es:
     subtitle: Sólo en caso de que olvide su contraseña.
     title: Actualiza la Dirección de Correo Electrónico
   sidebar:
-    about_fetlife: Sobre FetLife
+    about_fetlife: Conozca a nuestro equipo
     ad_stats: Estadísticas de Anuncios
     advertising: Anuncios
     androidapp: Instalar app de FetLife para Android
@@ -280,7 +280,7 @@ es:
     caretaking: Cuidadores
     change_language: Cambiar idioma
     close: Cerrar
-    contact_us: Contact Us
+    contact_us: Contáctenos
     edit_profile: Editar Perfil
     edit_settings: Editar Configuración
     events: Eventos
