@@ -179,6 +179,7 @@ it:
     home: Home
     places: Luoghi
     search_placeholder: Cerca
+    videos: Videos
     writings: Writings
   page_break:
     of: di

@@ -179,6 +179,7 @@ en:
     home: Home
     places: Places
     search_placeholder: Search FetLife
+    videos: Videos
     writings: Writings
   page_break:
     of: of
@@ -282,7 +283,7 @@ en:
     close: close
     contact_us: Contact Us
     edit_profile: Edit Profile
-    edit_settings: Edit Settings
+    edit_settings: Update Settings
     events: Events
     fetishes: Fetishes
     following: Following
