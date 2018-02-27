@@ -45,7 +45,9 @@ hu:
     follow: Követés
     following: Követed
   footer:
-    about: Leírás
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Segítség
     privacy: Privacy
   forgot_password:
@@ -278,6 +280,7 @@ hu:
     caretaking: Ügyfélszolgálat
     change_language: Nyelv kiválasztása
     close: bezárás
+    contact_us: Contact Us
     edit_profile: Profil szerkesztése
     edit_settings: Beállítások szerkesztése
     events: Események

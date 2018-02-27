@@ -45,7 +45,9 @@ nl:
     follow: Volgen
     following: ik volg
   footer:
-    about: informatie over
+    advertising: Adverteren
+    contact: Contacteer ons
+    glossary: Woordenlijst
     help: Help
     privacy: Privacy
   forgot_password:
@@ -270,7 +272,7 @@ nl:
     subtitle: Voor het geval je je wachtwoord mocht vergeten.
     title: Email Adres bijwerken
   sidebar:
-    about_fetlife: Over Fetlife
+    about_fetlife: Ontmoet het team
     ad_stats: Advertentie Statistieken
     advertising: Adverteren
     androidapp: Installeer FetLife's Android Applicatie
@@ -278,6 +280,7 @@ nl:
     caretaking: Concierge
     change_language: Wijzig taal
     close: sluiten
+    contact_us: Contact Us
     edit_profile: Profiel bewerken
     edit_settings: Instellingen bewerken
     events: Bijeenkomsten

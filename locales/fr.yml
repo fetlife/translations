@@ -45,7 +45,9 @@ fr:
     follow: Suivre
     following: Suivi
   footer:
-    about: À propos
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Aide
     privacy: Privacy
   forgot_password:
@@ -278,6 +280,7 @@ fr:
     caretaking: Outils de gestion
     change_language: Changer de langue
     close: fermer
+    contact_us: Contact Us
     edit_profile: Modifier profil
     edit_settings: Modifier paramètres
     events: Événements

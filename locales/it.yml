@@ -45,7 +45,9 @@ it:
     follow: Segui
     following: Segui già
   footer:
-    about: Informazioni
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: Aiuto
     privacy: Privacy
   forgot_password:
@@ -278,6 +280,7 @@ it:
     caretaking: Caretaking
     change_language: Cambia lingua
     close: chiudi
+    contact_us: Contact Us
     edit_profile: Modifica il profile
     edit_settings: Modifica le impostazioni
     events: Eventi

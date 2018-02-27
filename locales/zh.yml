@@ -45,7 +45,9 @@ zh:
     follow: 关注
     following: 关注中
   footer:
-    about: 关于
+    advertising: Advertising
+    contact: Contact Us
+    glossary: Glossary
     help: 帮助
     privacy: 隐私
   forgot_password:
@@ -278,6 +280,7 @@ zh:
     caretaking: 社区管理工具
     change_language: 更改语言
     close: 关闭
+    contact_us: Contact Us
     edit_profile: 更改资料
     edit_settings: 更改设置
     events: 线下活动
