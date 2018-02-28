@@ -460,7 +460,7 @@ es:
       canceled: La transacción ha sido cancelada por el usuario.
       city_blank: La ciudad no puede estar en blanco
       country_blank: Tiene que seleccionar un país
-      double_failsafe: ¿Está seguro de que quiere apoyarnos otra vez? No se equivoque, apreciamos el apoyo, pero no queremos cobrarle dos veces por error. Si tiene alguna pregunta por favor no dude en enviarnos un correo a <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      double_failsafe: ¿Está seguro de que quiere apoyarnos otra vez? No se equivoque, apreciamos el apoyo, pero no queremos cobrarle dos veces por error. Si tiene alguna pregunta, por favor no dude en enviarnos un correo a <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
       email_blank: El correo electrónico no puede estar en blanco
       first_name_blank: El nombre no puede estar en blanco
       iban_blank: El IBAN no puede estar en blanco
