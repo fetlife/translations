@@ -55,7 +55,7 @@ es:
       cta: Envíame un correo electrónico con instrucciones
       error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
-      error_quota: Solo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
+      error_quota: Solo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
       step1:
         page_title: Restablecer Contraseña por Correo Electrónico
@@ -215,7 +215,7 @@ es:
     title: Elija su idioma
   settings_account:
     2fa_cta: Activar autentificación en dos pasos
-    2fa_label: Autentificaión en dos pasos
+    2fa_label: Autentificación en dos pasos
     anti_pro_tip: <strong>Consejo “Anti-Pro”:</strong> Puede <a href="#">desactivar</a> o <a href="#">eliminar</a> su cuenta si realmente quiere, pero tres de cada cuatro Papas lo desaconseja vehementemente.
     current_password_label: Contraseña Actual
     email_cta: Actualiza la Dirección de Correo Electrónico
@@ -388,7 +388,7 @@ es:
     label: Código de Verificación
     notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}">actualice su número y le enviaremos un nuevo código de verificación</a>.
     page_title: Ingrese el Código de Verificación
-    placeholder: Código de verificaión de 6 dígitos
+    placeholder: Código de verificación de 6 dígitos
     subtitle: "¡¿A que no fue para tanto?!"
     title: Último Paso
   subnav:
@@ -430,8 +430,8 @@ es:
       item_5: Ver <span>todo lo que usted haya amado alguna vez</span>.
       item_6: Ir <span>25x más allá</span> en el Registro de actividad de sus amigos.
       item_7: Ir <span>25x más allá</span> en su Registro de actividad @You.
-      item_8: "<span>Personalizar su Registro de actividad de sus amigos</span> tanto como desee."
-      item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
+      item_8: "<span>Personalizar su registro de actividad de sus amigos</span> tanto como desee."
+      item_9: "¡Conseguir antes <span>acceso a nuevas características</span>!"
       list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino también consigue:'
       list_footer: Todo esto por menos de precio de una botella de lubricante… aunque no recomendamos que sustituya lubricante con aceite de colza… no funciona muy allá.
       thank_you: Sin su apoyo FetLife no existiría. ¡Gracias de parte de toda la familia de FetLife!
@@ -472,7 +472,7 @@ es:
       state_blank: State can't be blank
     faq:
       cc_a_part_1: Entendemos que es una gran molestia para muchos de ustedes. Pero debido la cantidad de restricciones de contenido que lleva el aceptar tarjetas de crédito, la comunidad en su conjunto ha decidido que es mejor no aceptarlas para nuestra salud y viabilidad a largo plazo.
-      cc_a_part_2: Si quisiésemos aceptar tajetas de crédito no podríamos permitir a kinksters debatir sobre watersports, hipnosis, sexo con la regla, juegos con sangre, edge play, no consentimiento consentido y muchos otros kinks comúnmente aceptados por la comunidad kinky.
+      cc_a_part_2: Si quisiésemos aceptar tarjetas de crédito no podríamos permitir a kinksters debatir sobre watersports, hipnosis, sexo con la regla, juegos con sangre, edge play, no consentimiento consentido y muchos otros kinks comúnmente aceptados por la comunidad kinky.
       cc_a_part_3: Como comunidad necesitamos de un lugar seguro donde adultos que consienten puedan expresarse sexualmente de manera libre. Si aceptásemos tarjetas de crédito o PayPal, perderíamos esa libertad.
       cc_q: P. ¿Por qué FetLife no admite tarjetas de crédito o PayPal?
       gift_a: Eso ha sido muy amable por su parte. Solo tiene que visitar su perfil y hacer click en el enlace &ldquo;Gift Support&rdquo; bajo &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
@@ -750,7 +750,7 @@ es:
       secure: Tan seguro como Fort Knox ademas no guardamos ninguna información personal.
       title: Pago con Teleingreso
     thank_you:
-      body: No, de veras, <span>un enorme gracias por su apoyo</span>. Significa mucho para nostros que haya contribuido con su dinero ganado con su esfuerzo para ayudar a mantener la continua mejora y desarrollo de FetLife.
+      body: No, de veras, <span>un enorme gracias por su apoyo</span>. Significa mucho para nosotros que haya contribuido con su dinero ganado con su esfuerzo para ayudar a mantener la continua mejora y desarrollo de FetLife.
       cta_home: Lléveme a casa
       gift_affirm: "¡Es usted el mejor!"
       gift_cta_profile: Visite el perfil de %{nickname}
