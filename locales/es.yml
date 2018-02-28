@@ -66,7 +66,7 @@ es:
         subtitle: Si existe un perfil asociado al correo electrónico <span class='fw7'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡&ldquo;Podría&rdquo; Ud. tener correo!"
       update_email: actualiza la dirección de correo electrónico
-      warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
+      warning: "<strong>Advertencia:</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
     mobile:
       5strike:
         return: volver a la portada
@@ -83,7 +83,7 @@ es:
       step2:
         cta: Verificar que usted es usted &#8482;
         error_code_match: "<strong>Operador Kinky:</strong> El código de verificación que ha introducido es incorrecto. Compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo. Esto es una grabación."
-        inexisting_number: Si después de un par de minutos no recibe un mensaje de texto de nosotros, entonces es probable porque no tenemos un perfil conectado a su número. Recomendamos que <a href="%{forgot_password_email_path}"> intente reinicializar su contraseña utilizando otro método </a> o <a href="%{signup_path}">cree un nuevo perfil en FetLife </a>.
+        inexisting_number: Si después de un par de minutos no recibe un mensaje de texto de nosotros, entonces es probable porque no tenemos un perfil conectado a su número. Recomendamos que <a href="%{forgot_password_email_path}">intente reinicializar su contraseña utilizando otro método</a> o <a href="%{signup_path}">cree un nuevo perfil en FetLife</a>.
         label: Código de verificación de seis dígitos
         page_title: Introducir el Código de Verificación
         subtitle: Por favor introduzca el código de seis dígitos que "puede" que le acabemos de enviar al número de teléfono %{phone_number}.
@@ -288,7 +288,7 @@ es:
     fetishes: Fetiches
     following: Siguiendo
     fp: Fresco & Pervertido
-    funny_quote: Si no puede leer esto … ¡es probable que necesite gafas! - Juan 4:69
+    funny_quote: Si no puede leer esto… ¡es probable que necesite gafas! - Juan 4:69
     gift_support: Regalar Apoyo a FetLife
     glossary: Glosario
     groups: Grupos
@@ -338,7 +338,7 @@ es:
     error_role_required: Se requiere su rol.
     error_sexual_orientation_required: Se requiere su orientación sexual.
     error_state_missing: Debe seleccionar un Estado/Provincia.
-    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}"> Normas de la comunidad</a> y<a class="silver" href="%{tou_path}"> Términos de Uso</a> &hellip; no se admiten devoluciones.
+    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}">Normas de la comunidad</a> y <a class="silver" href="%{tou_path}">Términos de Uso</a>&hellip; no se admiten devoluciones.
     label:
       birthdate: Fecha de Nacimiento
       city: Ciudad
@@ -373,7 +373,7 @@ es:
     title: "¿Alguna persona llama su atención?"
   signup_phone:
     cta: Enviarme un Código de verificación
-    error_blocked: "<strong>Operador Kinky:</strong> Desafortunadamente ,en estos momentos no admitimos registrarse usando un número de %{carrier_name}."
+    error_blocked: "<strong>Operador Kinky:</strong> Desafortunadamente, en estos momentos no admitimos registrarse usando un número de %{carrier_name}."
     error_cant_send: "<strong>Operador Kinky:</strong> Tenemos problemas en el envío del mensaje de texto. Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., además de no estar tratando de enviar un mensaje de texto a un teléfono fijo."
     error_quota: "<strong>Operador Kinky:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
     explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar a todo el mundo antes de se unan. Algo que creemos que podrá apreciar una vez que estén dentro.
@@ -386,7 +386,7 @@ es:
     cta: Complete la Registración y Verificación
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de Verificación
-    notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
+    notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}">actualice su número y le enviaremos un nuevo código de verificación</a>.
     page_title: Ingrese el Código de Verificación
     placeholder: Código de verificaión de 6 dígitos
     subtitle: "¡¿A que no fue para tanto?!"
@@ -434,7 +434,7 @@ es:
       item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
       list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino también consigue:'
       list_footer: Todo esto por menos de precio de una botella de lubricante… aunque no recomendamos que sustituya lubricante con aceite de colza… no funciona muy allá.
-      thank_you: Sin su apoyo FetLife no existiría.¡Gracias de parte de toda la familia de FetLife!
+      thank_you: Sin su apoyo FetLife no existiría. ¡Gracias de parte de toda la familia de FetLife!
       title: "¿Que saco yo por apoyar a FetLife?"
     cta_labels:
       ach: Bank Transfer (ACH)
@@ -481,7 +481,7 @@ es:
       month_q: P. ¿Por qué no puedo apoyar solo un mes?
       name_a: 'Aparecerá como: BitLove Inc.'
       name_q: P. ¿Cómo aparecerá esto en el extracto bancario?
-      question_a: Si tiene alguna pregunta no dude en mandarnos un correo electrónico a &nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
+      question_a: Si tiene alguna pregunta no dude en mandarnos un correo electrónico a&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: P. ¿Tiene usted alguna pregunta?
       renew_a: Jamás. Queremos ganarnos su apoyo cada vez.
       renew_q: P. ¿Renuevan mi apoyo automáticamente?
