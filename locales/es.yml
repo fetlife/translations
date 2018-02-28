@@ -55,7 +55,7 @@ es:
       cta: Envíame un correo electrónico con instrucciones
       error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
-      error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
+      error_quota: Solo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
       step1:
         page_title: Restablecer Contraseña por Correo Electrónico
@@ -74,7 +74,7 @@ es:
         title: Regla de los cinco intentos
       cta: Envíeme un Mensaje de Texto
       error_country_code: "<strong>Operador Kinky:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
-      error_quota: "<strong>Operador Kinky:</strong> Caramba, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
+      error_quota: "<strong>Operador Kinky:</strong> Caramba, solo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
       pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       step1:
         page_title: Restablecer Contraseña a través de Mensajes de Texto
@@ -179,7 +179,7 @@ es:
     home: Principal
     places: Lugares
     search_placeholder: Buscar en FetLife
-    videos: Videos
+    videos: Vídeos
     writings: Escritos
   page_break:
     of: de
@@ -205,7 +205,7 @@ es:
     label_enter: Nueva contraseña
     label_re_enter: Reescriba su nueva contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.
-    subtitle: No demasiado corto, no demasiado largo, sólo el…
+    subtitle: No demasiado corto, no demasiado largo, solo el…
     title: Restablecer la contraseña
   select_language:
     button: Cambiar idioma por defecto
@@ -226,7 +226,7 @@ es:
     new_password_label: Nueva Contraseña
     nickname_cta: Cambiar Apodo
     nickname_label: 'Cambia su apodo de "JohnBaku" a:'
-    nickname_notice: "<strong>Sugerencia Pro:</strong> Vise y revise. Sólo puede cambiar su apodo una vez cada 28 días. No se admiten devoluciones."
+    nickname_notice: "<strong>Sugerencia Pro:</strong> Vise y revise. Solo puede cambiar su apodo una vez cada 28 días. No se admiten devoluciones."
     nickname_placeholder: Nuevo Apodo
     page_title: Cambiar contraseña - Configuración
     password_cta: Actualiza Contraseña
@@ -270,7 +270,7 @@ es:
     email_label: Actualiza la Dirección de Correo Electrónico
     email_placeholder: Dirección de Correo Electrónico
     page_title: Actualización de Dirección de Correo Electrónico - Configuración
-    subtitle: Sólo en caso de que olvide su contraseña.
+    subtitle: Solo en caso de que olvide su contraseña.
     title: Actualiza la Dirección de Correo Electrónico
   sidebar:
     about_fetlife: Sobre FetLife
@@ -425,7 +425,7 @@ es:
     benefits:
       item_1: Una placa sexy de <span>I Support FetLife</span> para su perfil.
       item_2: Mironear <span>las %{number} imágenes, vídeos, etc.</span> más amados de hoy.
-      item_3: Ver <span>todos los %{number}+ videos</span> compartidos por la comunidad.
+      item_3: Ver <span>todos los %{number}+ vídeos</span> compartidos por la comunidad.
       item_4: Mironear <span>todas las %{number}+ imágenes</span> según se comparten.
       item_5: Ver <span>todo lo que usted haya amado alguna vez</span>.
       item_6: Ir <span>25x más allá</span> en el Registro de actividad de sus amigos.
