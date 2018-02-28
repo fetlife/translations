@@ -155,7 +155,7 @@ es:
       password: Contraseña
       remember_me: Acuérdese de mí, vuelvo enseguida.
     not_a_member: "¿No es miembro todavía? Regístrese en FetLife"
-    subtitle: Le hemos echado de menos... ¡a lo grande!
+    subtitle: Le hemos echado de menos… ¡a lo grande!
     title: Bienvenido a Casa
   logout:
     log_in: Volver a loguearse
@@ -205,7 +205,7 @@ es:
     label_enter: Nueva contraseña
     label_re_enter: Reescriba su nueva contraseña
     status_flash_success: Su contraseña ha sido cambiada con éxito.
-    subtitle: No demasiado corto, no demasiado largo, sólo el...
+    subtitle: No demasiado corto, no demasiado largo, sólo el…
     title: Restablecer la contraseña
   select_language:
     button: Cambiar idioma por defecto
@@ -288,7 +288,7 @@ es:
     fetishes: Fetiches
     following: Siguiendo
     fp: Fresco & Pervertido
-    funny_quote: Si no puede leer esto ... ¡es probable que necesite gafas! - Juan 4:69
+    funny_quote: Si no puede leer esto … ¡es probable que necesite gafas! - Juan 4:69
     gift_support: Regalar Apoyo a FetLife
     glossary: Glosario
     groups: Grupos
@@ -433,7 +433,7 @@ es:
       item_8: "<span>Personalizar su Registro de actividad de sus amigos</span> tanto como desee."
       item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
       list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino tambien consigue:'
-      list_footer: Todo esto por menos de precio de una botella de lubricante... aunque no recomendamos que sustituya lubricante con aceite de colza... no funciona muy allá.
+      list_footer: Todo esto por menos de precio de una botella de lubricante… aunque no recomendamos que sustituya lubricante con aceite de colza… no funciona muy allá.
       thank_you: Sin su apoyo FetLife no existiría.¡Gracias de parte de toda la familia de FetLife!
       title: "¿Que saco yo por apoyar a FetLife?"
     cta_labels:
