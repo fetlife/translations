@@ -113,7 +113,7 @@ es:
       friends_email: Dirección de correo electrónico de su amigo
       friends_email_sub: "%{count} invitaciones restantes"
     next_step: próximo paso
-    return_to_feed: volver al Feed
+    return_to_feed: volver al feed
     subtitle_step1:
       one: Le queda una invitación.
       other: Le quedan %{count_with_delimiter} invitaciones.
@@ -222,7 +222,7 @@ es:
     email_label: Correo Electrónico
     email_placeholder: Dirección de Correo Electrónico
     language_cta: Actualiza el Idioma por Defecto
-    language_notice: FetLife aún no está totalmente disponible en idiomas distintos al Inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
+    language_notice: FetLife aún no está totalmente disponible en idiomas distintos al inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
     new_password_label: Nueva Contraseña
     nickname_cta: Cambiar Apodo
     nickname_label: 'Cambia su apodo de "JohnBaku" a:'
@@ -236,14 +236,14 @@ es:
   settings_notifications:
     cta: Actualiza el idioma por defecto
     language_label: Idioma
-    notice: FetLife aún no está totalmente disponible en idiomas distintos al Inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
+    notice: FetLife aún no está totalmente disponible en idiomas distintos al inglés. Si cambia la configuración aquí, no todas las páginas estarán traducidas.
     page_title: Ajustes de idioma
     subtitle: "¿Cuál es su idioma preferido?"
     title: Idioma
   settings_privacy:
     blocked_list_subtitle: Para aquellos en su lista negra.
     blocked_list_title: Lista de bloqueados
-    cb_feed: Permitir a los no amigos que me sigan en su Feed de actividad.
+    cb_feed: Permitir a los no amigos que me sigan en su feed de actividad.
     cb_fp: Permitir que mis mensajes no privados aparezcan en Fresco&Pervertido.
     cb_kp: Permitir que mis mensajes no privados aparezcan en Kinky&Popular.
     content_privacy: Privacidad del contenido
@@ -323,8 +323,8 @@ es:
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Ud. es demasiado viejo.
     error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
-    error_city_missing: Tiene que seleccionar una Ciudad.
-    error_country_missing: Tiene que seleccionar un País.
+    error_city_missing: Tiene que seleccionar una ciudad.
+    error_country_missing: Tiene que seleccionar un país.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
     error_email_taken: El correo electrónico ya esta ocupado.
     error_gender_required: Se requiere su género.
@@ -337,7 +337,7 @@ es:
     error_password_required: Se requiere su contraseña.
     error_role_required: Se requiere su rol.
     error_sexual_orientation_required: Se requiere su orientación sexual.
-    error_state_missing: Debe seleccionar un Estado/Provincia.
+    error_state_missing: Debe seleccionar un estado/provincia.
     footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}">Normas de la comunidad</a> y <a class="silver" href="%{tou_path}">Términos de Uso</a>&hellip; no se admiten devoluciones.
     label:
       birthdate: Fecha de Nacimiento
@@ -428,8 +428,8 @@ es:
       item_3: Ver <span>todos los %{number}+ vídeos</span> compartidos por la comunidad.
       item_4: Mironear <span>todas las %{number}+ imágenes</span> según se comparten.
       item_5: Ver <span>todo lo que usted haya amado alguna vez</span>.
-      item_6: Ir <span>25x más allá</span> en el Registro de actividad de sus amigos.
-      item_7: Ir <span>25x más allá</span> en su Registro de actividad @You.
+      item_6: Ir <span>25x más allá</span> en el registro de actividad de sus amigos.
+      item_7: Ir <span>25x más allá</span> en su registro de actividad @You.
       item_8: "<span>Personalizar su registro de actividad de sus amigos</span> tanto como desee."
       item_9: "¡Conseguir antes <span>acceso a nuevas características</span>!"
       list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino también consigue:'
@@ -538,7 +538,7 @@ es:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en europa.
+        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
         title: Transferencia bancaria europea(SEPA)
       teleingreso:
         extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para quienes tienen una cuenta bancaria en España.
@@ -548,7 +548,7 @@ es:
       120_info: "$5/mes"
       120_title: "$120 por 24 meses"
       240_info: "<i>No tiene precio</i>"
-      240_title: "$240 ¡De por vida!"
+      240_title: "$240 ¡de por vida!"
       30_info: "$5/mes"
       30_title: "$30 por 6 meses"
       60_info: "$5/mes"
@@ -762,7 +762,7 @@ es:
       tab_title: Gracias
       thank_you: "¡Gracias de nuevo!"
     thank_you_interac:
-      cta_home: Llévame a mi Registro de actividad
+      cta_home: Llévame a mi registro de actividad
       next_steps_final_default: lo asociaremos a su perfil.
       next_steps_final_gift: lo asociaremos al perfil de %{nickname}.
       next_steps_first: Puede <span>tardar un par de horas</span> el recibir su Interac e-Transfer, pero en cuanto lo tengamos lo
