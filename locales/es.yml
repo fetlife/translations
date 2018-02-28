@@ -34,7 +34,7 @@ es:
     love: Amor
     loved_hover: "¡Rompecorazones! :-("
     loves_count:
-      one: Un Amor
+      one: 1 Amor
       other: "%{count_with_delimiter} Amores"
     modal:
       close: cerrar
