@@ -179,6 +179,7 @@ pt:
     home: Home
     places: Locais
     search_placeholder: Buscar
+    videos: Videos
     writings: Writings
   page_break:
     of: de
