@@ -178,7 +178,7 @@ es:
     groups: Grupos
     home: Principal
     places: Lugares
-    search_placeholder: Buscar en Fetlife
+    search_placeholder: Buscar en FetLife
     videos: Videos
     writings: Escritos
   page_break:
@@ -473,11 +473,11 @@ es:
     faq:
       cc_a_part_1: Entendemos que es una gran molestia para muchos de ustedes. Pero debido la cantidad de restricciones de contenido que lleva el aceptar tarjetas de crédito, la comunidad en su conjunto ha decidido que es mejor no aceptarlas para nuestra salud y viabilidad a largo plazo.
       cc_a_part_2: Si quisiésemos aceptar tajetas de crédito no podríamos permitir a kinksters debatir sobre watersports, hipnosis, sexo con la regla, juegos con sangre, edge play, no consentimiento consentido y muchos otros kinks comúnmente aceptados por la comunidad kinky.
-      cc_a_part_3: Como comunidad necesitamos de un lugar seguro donde adultos que consienten puedan expresarse sexualmente de manera libre. Si aceptásemos tarjetas de crédito o paypal, perderíamos esa libertad.
-      cc_q: P. ¿Por qué FetLife no admite tarjetas de crédito o Paypal?
+      cc_a_part_3: Como comunidad necesitamos de un lugar seguro donde adultos que consienten puedan expresarse sexualmente de manera libre. Si aceptásemos tarjetas de crédito o PayPal, perderíamos esa libertad.
+      cc_q: P. ¿Por qué FetLife no admite tarjetas de crédito o PayPal?
       gift_a: Eso ha sido muy amable por su parte. Solo tiene que visitar su perfil y hacer click en el enlace &ldquo;Gift Support&rdquo; bajo &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
-      gift_q: P. ¿Quiere regalar a alguien Apoyo a Fetlife?
-      month_a: Porque, como en Costco, tenemos que vender al por mayor para que siga siendo barato Apoyar a Fetlife!
+      gift_q: P. ¿Quiere regalar a alguien Apoyo a FetLife?
+      month_a: Porque, como en Costco, tenemos que vender al por mayor para que siga siendo barato Apoyar a FetLife!
       month_q: P. ¿Por qué no puedo apoyar solo un mes?
       name_a: 'Aparecerá como: BitLove Inc.'
       name_q: P. ¿Cómo aparecerá esto en el extracto bancario?
@@ -492,15 +492,15 @@ es:
       title: Preguntas frecuentes
     gift:
       affirm: "¡Eres el mejor!"
-      confirm: Quiero regalar "Apoyo a Fetlife" a  %{nickname}
+      confirm: Quiero regalar "Apoyo a FetLife" a  %{nickname}
       header: Apoye a FetLife hoy mismo.
       subheader: Y consiga todos los <a href='%{link}'>kinkyliciosos beneficios</a> de ser un apoyo por solo $5 al mes.
       thank_you: "¡Gracias por su apoyo!"
-      title: Regalar "Apoyo a Fetlife" a %{nickname}
-      yourself: Comprar "Apoyo a Fetlife" para usted mismo.
+      title: Regalar "Apoyo a FetLife" a %{nickname}
+      yourself: Comprar "Apoyo a FetLife" para usted mismo.
     header:
       subheader: Y consiga todos los <a href="%{link}">beneficios sexis</a> que vienen al apoyarnos.
-      title: "¡Apoye a Fetlife hoy mismo!"
+      title: "¡Apoye a FetLife hoy mismo!"
     step1:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
@@ -723,7 +723,7 @@ es:
       country_label: País
       country_placeholder: País
       country_sub_label: asociado a la cuenta bancaria
-      cta: Apoyar a Fetlife ahora
+      cta: Apoyar a FetLife ahora
       first_name_label: Nombre
       first_name_sub_label: asociado a la cuenta bancaria
       iban_label: IBAN
@@ -750,11 +750,11 @@ es:
       secure: Tan seguro como Fort Knox ademas no guardamos ninguna información personal.
       title: Pago con Teleingreso
     thank_you:
-      body: No, de veras, <span>un enorme gracias por su apoyo</span>. Significa mucho para nostros que haya contribuido con su dinero ganado con su esfuerzo para ayudar a mantener la continua mejora y desarrollo de Fetlife.
+      body: No, de veras, <span>un enorme gracias por su apoyo</span>. Significa mucho para nostros que haya contribuido con su dinero ganado con su esfuerzo para ayudar a mantener la continua mejora y desarrollo de FetLife.
       cta_home: Lléveme a casa
       gift_affirm: "¡Es usted el mejor!"
       gift_cta_profile: Visite el perfil de %{nickname}
-      gift_next_body: Mientras usted lee esto le estamos dando a su regalo de "Apoyo a Fetlife" a <a href="%{link}">%{nickname}</a> y avisándole por correo electrónico de su generosidad.
+      gift_next_body: Mientras usted lee esto le estamos dando a su regalo de "Apoyo a FetLife" a <a href="%{link}">%{nickname}</a> y avisándole por correo electrónico de su generosidad.
       gift_next_title: "¿Y qué sigue ahora?"
       page_title: "¡Gracias!"
       questions_body: Si tiene alguna pregunta, por favor no dude en enviarnos un correo a <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
@@ -770,4 +770,4 @@ es:
       page_title: Agradecimientos <span class='baskerville i'>&amp;</span> Siguientes pasos
       tab_title: Agradecimientos y siguientes pasos
       thank_you: "¡Gracias!"
-    title: "¡Ayude apoyando a Fetlife!"
+    title: "¡Ayude apoyando a FetLife!"
