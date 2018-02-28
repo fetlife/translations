@@ -2,7 +2,7 @@
 es:
   2fa:
     5strike:
-      return: Volver a la portada
+      return: volver a la portada
       subtitle: Caramba, por razones de seguridad, tendrá que esperar dos horas antes de poder intentar conectarse de nuevo.
       title: Regla de los cinco intentos
     cta: Soy yo, ¡déjame entrar!
@@ -65,7 +65,7 @@ es:
         page_title: Ud. “PODRÍA” tener correo
         subtitle: Si existe un perfil asociado al correo electrónico <span class='fw7'>%{given_email}</span> a continuación, hemos le enviamos instrucciones sobre cómo restablecer su contraseña.
         title: "¡&ldquo;Podría&rdquo; ud. tener correo!"
-      update_email: Actualiza la dirección de correo electrónico
+      update_email: actualiza la dirección de correo electrónico
       warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
     mobile:
       5strike:
@@ -158,7 +158,7 @@ es:
     subtitle: Le hemos echado de menos… ¡a lo grande!
     title: Bienvenido a Casa
   logout:
-    log_in: Volver a loguearse
+    log_in: volver a loguearse
     subtitle: Vuelva pronto a vernos.
     title: “¡Le echaremos de menos!"
   member_stats:
@@ -280,7 +280,7 @@ es:
     bug_bounty: Bug Bounty
     caretaking: Cuidadores
     change_language: Cambiar idioma
-    close: Cerrar
+    close: cerrar
     contact_us: Contact Us
     edit_profile: Editar Perfil
     edit_settings: Editar Configuración
