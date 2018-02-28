@@ -432,7 +432,7 @@ es:
       item_7: Ir <span>25x mas allá</span> en su Registro de actividad @You.
       item_8: "<span>Personalizar su Registro de actividad de sus amigos</span> tanto como desee."
       item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
-      list_description: 'Con solo 5$ al mes, no solo apoya el continuo desarrollo de FetLife sino tambien consigue:'
+      list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino tambien consigue:'
       list_footer: Todo esto por menos de precio de una botella de lubricante... aunque no recomendamos que sustituya lubricante con aceite de colza... no funciona muy allá.
       thank_you: Sin su apoyo FetLife no existiría.¡Gracias de parte de toda la familia de FetLife!
       title: "¿Que saco yo por apoyar a FetLife?"
@@ -494,7 +494,7 @@ es:
       affirm: "¡Eres el mejor!"
       confirm: Quiero regalar "Apoyo a Fetlife" a  %{nickname}
       header: Apoye a FetLife hoy mismo.
-      subheader: Y consiga todos los <a href='%{link}'>kinkyliciosos beneficios</a> de ser un apoyo por solo 5$ al mes.
+      subheader: Y consiga todos los <a href='%{link}'>kinkyliciosos beneficios</a> de ser un apoyo por solo $5 al mes.
       thank_you: "¡Gracias por su apoyo!"
       title: Regalar "Apoyo a Fetlife" a %{nickname}
       yourself: Comprar "Apoyo a Fetlife" para usted mismo.
