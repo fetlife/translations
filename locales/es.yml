@@ -493,11 +493,11 @@ es:
     gift:
       affirm: "¡Eres el mejor!"
       confirm: Quiero regalar "Apoyo a FetLife" a  %{nickname}
-      header: Apoye a FetLife hoy mismo.
+      header: Apoye a FetLife hoy mismo
       subheader: Y consiga todos los <a href='%{link}'>kinkyliciosos beneficios</a> de ser un apoyo por solo $5 al mes.
       thank_you: "¡Gracias por su apoyo!"
       title: Regalar "Apoyo a FetLife" a %{nickname}
-      yourself: Comprar "Apoyo a FetLife" para usted mismo.
+      yourself: Comprar "Apoyo a FetLife" para usted mismo
     header:
       subheader: Y consiga todos los <a href="%{link}">beneficios sexis</a> que vienen al apoyarnos.
       title: "¡Apoye a FetLife hoy mismo!"
