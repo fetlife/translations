@@ -98,7 +98,7 @@ es:
     subnav:
       community: Comunidad
       content: Contenido
-      group_leader: Lider de Grupo
+      group_leader: Líder de Grupo
     title: Directrices
   invite_a_friend:
     cancel_button: cancelar
@@ -124,7 +124,7 @@ es:
   landing_page:
     footer: <span class="fw7">%{member_count} miembros</span><span> están compartiendo </span><span class="fw7">%{picture_count} fotos</span><span> y </span><span class="fw7">%{video_count} vídeos</span><span>, participan en </span><span class="fw7">%{discussion_count}</span><span> discusiones en </span><span class="fw7">%{group_count} grupos</span><span>, van a </span><span class="fw7">%{event_count} próximos eventos</span><span> y leen </span><span class="fw7">%{post_count} entradas de blogs</span><span>. </span><span><i>¡Paraíso Kinky!</i></span>
     login_button: Iniciar sesión en FetLife
-    signup_button: Regístrarse en FetLife
+    signup_button: Registrarse en FetLife
     stats_details: están compartiendo <strong class="fw7 silver">%{picture_count} fotos</strong> y <strong class="fw7 silver">%{video_count} vídeos</strong>, participan en <strong class="fw7 silver">%{discussion_count} discusiones</strong> en <strong class="fw7 silver">%{group_count} grupos</strong>, van a <strong class="fw7 silver">%{event_count} próximos eventos</strong>, y leen <strong class="fw7 silver">%{post_count} entradas de blogs</strong>. <span><span class="i">¡Paraíso Kinky!</span>
     stats_members: Miembros
     subtitle: Al igual que Facebook, pero dirigido por kinksters como Ud. y yo. Creemos que así es más divertido. ¿Verdad?
@@ -143,9 +143,9 @@ es:
     button: Iniciar sesión en FetLife
     error_flash: Por favor, póngase en contacto con <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que podamos ayudarle a volver a entrar.
     error_login_blank: El usuario no puede estar en blanco.
-    error_not_authenticated: Lo siento amigo mio, tiene que estar logueado para acceder a esa página. Si aún no es miembro, se tarda menos de un minuto en inscribirse.
-    error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYUSCULAS de minúsculas)
-    error_password_blacklist: La contraseña escogida es fácil de adivinar. Por favor utilice una mas complicada.
+    error_not_authenticated: Lo siento amigo mío, tiene que estar logueado para acceder a esa página. Si aún no es miembro, se tarda menos de un minuto en inscribirse.
+    error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYÚSCULAS de minúsculas)
+    error_password_blacklist: La contraseña escogida es fácil de adivinar. Por favor utilice una más complicada.
     error_password_blank: La contraseña no puede estar en blanco.
     error_password_email: Su contraseña no puede ser su usuario de correo.
     error_password_nickname: Su contraseña no puede ser la misma que su apodo.
@@ -322,7 +322,7 @@ es:
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Ud. es demasiado viejo.
-    error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o mas para unirse.
+    error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
     error_city_missing: Tiene que seleccionar una Ciudad.
     error_country_missing: Tiene que seleccionar un País.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
@@ -374,7 +374,7 @@ es:
   signup_phone:
     cta: Enviarme un Código de verificación
     error_blocked: "<strong>Operador Kinky:</strong> Desafortunadamente ,en estos momentos no admitimos registrarse usando un número de %{carrier_name}."
-    error_cant_send: "<strong>Operador Kinky:</strong> Tenemos problemas en el envío del mensaje de texto. Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., ademas de no estar tratando de enviar un mensaje de texto a un teléfono fijo."
+    error_cant_send: "<strong>Operador Kinky:</strong> Tenemos problemas en el envío del mensaje de texto. Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., además de no estar tratando de enviar un mensaje de texto a un teléfono fijo."
     error_quota: "<strong>Operador Kinky:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
     explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar a todo el mundo antes de se unan. Algo que creemos que podrá apreciar una vez que estén dentro.
     label: Número del Teléfono Móvil
@@ -400,7 +400,7 @@ es:
       kp: Kinky <span class="a-ampersand">&amp;</span>Popular
       kp_short: Popular
     profile:
-      about: Sobre mi
+      about: Sobre mí
       about_short: Acerca de
       latest: Actividad más reciente
       latest_short: Recientes
@@ -424,15 +424,15 @@ es:
   support:
     benefits:
       item_1: Una placa sexy de <span>I Support FetLife</span> para su perfil.
-      item_2: Mironear <span>las %{number} imágenes, vídeos, etc.</span> mas amados de hoy.
+      item_2: Mironear <span>las %{number} imágenes, vídeos, etc.</span> más amados de hoy.
       item_3: Ver <span>todos los %{number}+ videos</span> compartidos por la comunidad.
       item_4: Mironear <span>todas las %{number}+ imágenes</span> según se comparten.
       item_5: Ver <span>todo lo que usted haya amado alguna vez</span>.
-      item_6: Ir <span>25x mas allá</span> en el Registro de actividad de sus amigos.
-      item_7: Ir <span>25x mas allá</span> en su Registro de actividad @You.
+      item_6: Ir <span>25x más allá</span> en el Registro de actividad de sus amigos.
+      item_7: Ir <span>25x más allá</span> en su Registro de actividad @You.
       item_8: "<span>Personalizar su Registro de actividad de sus amigos</span> tanto como desee."
       item_9: "¡Conseguir antes <span>aceso a nuevas características</span>!"
-      list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino tambien consigue:'
+      list_description: 'Con solo $5 al mes, no solo apoya el continuo desarrollo de FetLife sino también consigue:'
       list_footer: Todo esto por menos de precio de una botella de lubricante… aunque no recomendamos que sustituya lubricante con aceite de colza… no funciona muy allá.
       thank_you: Sin su apoyo FetLife no existiría.¡Gracias de parte de toda la familia de FetLife!
       title: "¿Que saco yo por apoyar a FetLife?"
@@ -452,7 +452,7 @@ es:
       teleingreso: Teleingreso
     errors:
       account_number_blank: El número de cuenta no puede estar en blanco
-      address_blank: La direccion no puede estar en blanco
+      address_blank: La dirección no puede estar en blanco
       answer_blank: Answer can't be blank
       bankcode_blank: Bank can't be blank
       bic_blank: El BIC no puede estar en blanco
@@ -485,9 +485,9 @@ es:
       question_q: P. ¿Tiene usted alguna pregunta?
       renew_a: Jamás. Queremos ganarnos su apoyo cada vez.
       renew_q: P. ¿Renuevan mi apoyo automáticamente?
-      return_a: Si en siete días no esta satisfecho le devolvemos su dinero. Sin embargo, desafortunadamente, si usted nos apoya canjeando una tarjeta regalo, usando POLi o Paysafecard, debido a como funcionan estos servicios, estas compras son definitivas.
-      return_q: P. ¿Cual es su política de devoluciones?
-      secure_a: Si, mucho. Los servidores de FetLife no almacenan ninguna información personal. Solo la usamos para procesar los cargos y nada más.
+      return_a: Si en siete días no está satisfecho le devolvemos su dinero. Sin embargo, desafortunadamente, si usted nos apoya canjeando una tarjeta regalo, usando POLi o Paysafecard, debido a cómo funcionan estos servicios, estas compras son definitivas.
+      return_q: P. ¿Cuál es su política de devoluciones?
+      secure_a: Sí, mucho. Los servidores de FetLife no almacenan ninguna información personal. Solo la usamos para procesar los cargos y nada más.
       secure_q: P. ¿Esto es seguro?
       title: Preguntas frecuentes
     gift:
@@ -524,7 +524,7 @@ es:
       mail:
         extra_info: Si es usted de la vieja escuela, aceptamos giros postales, cheques o efectivo mediante carta.
         title: Correo físico
-      more_options: enseñeme mas opciones
+      more_options: enséñeme más opciones
       paygarden:
         extra_info: Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, Home Depot, Build-A-Bear, and Toys'R'Us.
         title: Major Brand Gift Card Trade-In
@@ -733,7 +733,7 @@ es:
       last_name_sub_label: asociados a la cuenta bancaria
       postal_code_label: Código postal
       postal_code_sub_label: asociado a la cuenta bancaria
-      secure: Tan seguro como Fort Knox ademas no guardamos ninguna información personal.
+      secure: Tan seguro como Fort Knox además no guardamos ninguna información personal.
       title: Información de pago SEPA
     step3_teleingreso:
       address_label: Dirección
@@ -762,7 +762,7 @@ es:
       tab_title: Gracias
       thank_you: "¡Gracias de nuevo!"
     thank_you_interac:
-      cta_home: Llevame a mi Registro de actividad
+      cta_home: Llévame a mi Registro de actividad
       next_steps_final_default: lo asociaremos a su perfil.
       next_steps_final_gift: lo asociaremos al perfil de %{nickname}.
       next_steps_first: Puede <span>tardar un par de horas</span> el recibir su Interac e-Transfer, pero en cuanto lo tengamos lo
