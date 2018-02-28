@@ -45,9 +45,9 @@ es:
     follow: Sigue
     following: Siguiendo
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: Anúnciese
+    contact: Contáctenos
+    glossary: Glosario
     help: Ayuda
     privacy: Privacidad
   forgot_password:
@@ -273,7 +273,7 @@ es:
     subtitle: Solo en caso de que olvide su contraseña.
     title: Actualiza la dirección de correo electrónico
   sidebar:
-    about_fetlife: Sobre FetLife
+    about_fetlife: Conozca a nuestro equipo
     ad_stats: Estadísticas de anuncios
     advertising: Anuncios
     androidapp: Instalar app de FetLife para Android
@@ -281,7 +281,7 @@ es:
     caretaking: Cuidadores
     change_language: Cambiar idioma
     close: cerrar
-    contact_us: Contact Us
+    contact_us: Contáctenos
     edit_profile: Editar perfil
     edit_settings: Editar configuración
     events: Eventos
