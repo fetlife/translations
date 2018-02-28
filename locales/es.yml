@@ -77,7 +77,7 @@ es:
       error_quota: "<strong>Operador Kinky:</strong> Caramba, solo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
       pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       step1:
-        page_title: Restablecer Contraseña a través de Mensajes de Texto
+        page_title: Restablecer Contraseña a Través de Mensajes de Texto
         subtitle: Déjeme ayudarle con eso.
         title: "¿Se le olvidó su contraseña?"
       step2:
@@ -128,7 +128,7 @@ es:
     stats_details: están compartiendo <strong class="fw7 silver">%{picture_count} fotos</strong> y <strong class="fw7 silver">%{video_count} vídeos</strong>, participan en <strong class="fw7 silver">%{discussion_count} discusiones</strong> en <strong class="fw7 silver">%{group_count} grupos</strong>, van a <strong class="fw7 silver">%{event_count} próximos eventos</strong>, y leen <strong class="fw7 silver">%{post_count} entradas de blogs</strong>. <span><span class="i">¡Paraíso Kinky!</span>
     stats_members: Miembros
     subtitle: Al igual que Facebook, pero dirigido por kinksters como Ud. y yo. Creemos que así es más divertido. ¿Verdad?
-    title: FetLife es la Red Social para la comunidad BDSM, Fetichista y Kinky.
+    title: FetLife es la Red Social para la Comunidad BDSM, Fetichista y Kinky.
   legalese:
     subnav:
       2257_exempt: Exento de 2257
@@ -314,7 +314,7 @@ es:
     upload_video: Subir Vídeo
     videos: Vídeos
     view_friends: Ver Amigos
-    whats_new: Qué hay de Nuevo
+    whats_new: Qué Hay de Nuevo
     write_post: Escribir publicación
     writings: Escritos
   signup:
@@ -372,7 +372,7 @@ es:
     subtitle: Siga kinksters que despierten su interés.
     title: "¿Alguna persona llama su atención?"
   signup_phone:
-    cta: Enviarme un Código de verificación
+    cta: Enviarme un Código de Verificación
     error_blocked: "<strong>Operador Kinky:</strong> Desafortunadamente, en estos momentos no admitimos registrarse usando un número de %{carrier_name}."
     error_cant_send: "<strong>Operador Kinky:</strong> Tenemos problemas en el envío del mensaje de texto. Asegúrese de que comience su número con el código de país: +1 para los EE. UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., además de no estar tratando de enviar un mensaje de texto a un teléfono fijo."
     error_quota: "<strong>Operador Kinky:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
