@@ -45,9 +45,9 @@ bg:
     follow: Follow
     following: Following
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: Рекламиране
+    contact: Връзка с нас
+    glossary: Тълковен речник
     help: Помощ
     privacy: Поверителност
   forgot_password:
@@ -178,7 +178,7 @@ bg:
     groups: Групи
     home: Начало
     places: Места
-    search_placeholder: Търсене
+    search_placeholder: Търси във FetLife
     videos: Videos
     writings: Writings
   page_break:
@@ -273,7 +273,7 @@ bg:
     subtitle: Просто в случай че си забравиш паролата.
     title: Смени имейл адреса
   sidebar:
-    about_fetlife: За FetLife
+    about_fetlife: Екипът ни
     ad_stats: Рекламна статистика
     advertising: Рекламиране
     androidapp: Инсталирай FetLife за Android
@@ -281,7 +281,7 @@ bg:
     caretaking: Надзирателство
     change_language: Смени езика
     close: затвори
-    contact_us: Contact Us
+    contact_us: Връзка с нас
     edit_profile: Промени профила
     edit_settings: Промени настройките
     events: Събития
