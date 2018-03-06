@@ -124,7 +124,7 @@ de:
   landing_page:
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
-    stats_details: teilen <strong class="silver">%{picture_count} Bilder</strong> und <strong class="silver">%{video_count} Videos</strong>, nehmen an <strong class="silver">%{discussion_count} Diskussionen</strong> in <strong class="silver">%{group_count} Gruppen</strong> teil, besuchen <strong class="silver">%{event_count} demnächst stattfindende Veranstaltungen</strong>, und lesen <strong class="silver">%{post_count} Blog-Einträge</strong>. <span><span class="i">Perverses Paradies!</span>
+    stats_details: teilen <strong class="fw4 silver">%{picture_count} Bilder</strong> und <strong class="fw4 silver">%{video_count} Videos</strong>, nehmen an <strong class="fw4 silver">%{discussion_count} Diskussionen</strong> in <strong class="fw4 silver">%{group_count} Gruppen</strong> teil, besuchen <strong class="fw4 silver">%{event_count} demnächst stattfindende Veranstaltungen</strong>, und lesen <strong class="fw4 silver">%{post_count} Blog-Einträge</strong>. <span><span class="i">Perverses Paradies!</span>
     stats_members: Mitglieder
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?
     title: FetLife ist ein Soziales Netzwerk für BDSM, Fetisch & sexy Gemeinschaft.

@@ -124,7 +124,7 @@ en:
   landing_page:
     login_button: Login to FetLife
     signup_button: Signup to FetLife
-    stats_details: are sharing <strong class="silver">%{picture_count} pictures</strong> and <strong class="silver">%{video_count} videos</strong>, participating in <strong class="silver">%{discussion_count} discussions</strong> in <strong class="silver">%{group_count} groups</strong>, going to <strong class="silver">%{event_count} upcoming events</strong>, and reading <strong class="silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
+    stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     stats_members: Members
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
     title: FetLife is the Social Network for the BDSM, Fetish & Kinky Community.

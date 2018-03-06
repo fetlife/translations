@@ -124,7 +124,7 @@ gr:
   landing_page:
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
-    stats_details: μοιράζονται <strong class="silver">%{picture_count} εικόνες</strong> και <strong class="silver">%{video_count} βίντεο</strong>, συμμετέχουν σε <strong class="silver">%{discussion_count} συζητήσεις</strong> σε <strong class="silver">%{group_count} ομάδες</strong>, πηγαίνουν σε <strong class="silver">%{event_count} επερχόμενες εκδηλώσεις</strong>, και διαβάζουν <strong class="silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky παράδεισος!</span>
+    stats_details: μοιράζονται <strong class="fw4 silver">%{picture_count} εικόνες</strong> και <strong class="fw4 silver">%{video_count} βίντεο</strong>, συμμετέχουν σε <strong class="fw4 silver">%{discussion_count} συζητήσεις</strong> σε <strong class="fw4 silver">%{group_count} ομάδες</strong>, πηγαίνουν σε <strong class="fw4 silver">%{event_count} επερχόμενες εκδηλώσεις</strong>, και διαβάζουν <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky παράδεισος!</span>
     stats_members: Τα μέλη
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
     title: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
