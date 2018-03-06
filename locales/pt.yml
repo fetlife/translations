@@ -124,7 +124,7 @@ pt:
   landing_page:
     login_button: Acessar FetLife
     signup_button: Cadastrar-se em FetLife
-    stats_details: estão compartilhando <strong class="silver">%{picture_count} fotos</strong> e <strong class="silver">%{video_count} vídeos</strong>, participando em <strong class="silver">%{discussion_count} discussões</strong> em <strong class="silver">%{group_count} grupos</strong>, estão indo a <strong class="silver">%{event_count} eventos futuros</strong>, e lendo <strong class="silver">%{post_count} postagens</strong>. <span><span class="i">O paraíso da perversão!</span>
+    stats_details: estão compartilhando <strong class="fw4 silver">%{picture_count} fotos</strong> e <strong class="fw4 silver">%{video_count} vídeos</strong>, participando em <strong class="fw4 silver">%{discussion_count} discussões</strong> em <strong class="fw4 silver">%{group_count} grupos</strong>, estão indo a <strong class="fw4 silver">%{event_count} eventos futuros</strong>, e lendo <strong class="fw4 silver">%{post_count} postagens</strong>. <span><span class="i">O paraíso da perversão!</span>
     stats_members: Membros
     subtitle: Como o Facebook, mas criada por pervertidos como você e eu. Nós achamos que é mais divertido assim. Você não acha?
     title: FetLife é a Rede Social para a comunidade de BDSM e fetiche.

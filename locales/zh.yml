@@ -124,7 +124,7 @@ zh:
   landing_page:
     login_button: 登录 FetLife
     signup_button: 注册 FetLife
-    stats_details: are sharing <strong class="silver">%{picture_count} pictures</strong> and <strong class="silver">%{video_count} videos</strong>, participating in <strong class="silver">%{discussion_count} discussions</strong> in <strong class="silver">%{group_count} groups</strong>, going to <strong class="silver">%{event_count} upcoming events</strong>, and reading <strong class="silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
+    stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     stats_members: Members
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
