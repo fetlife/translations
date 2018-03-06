@@ -122,10 +122,9 @@ hu:
     title_step2: Meghívó elküldve
     view_invitations: Meghívások megtekintése
   landing_page:
-    footer: <span>Ebben a pillanatban </span><span class="fw7">%{member_count} felhasználó</span> <span class="fw7">%{picture_count} képet</span><span> és </span><span class="fw7">%{video_count} videót</span><span> oszt meg, </span><span class="fw7">%{group_count} csoport</span> <span class="fw7">%{discussion_count} beszélgetésében</span><span> vesz részt, </span><span class="fw7">%{event_count} közelgő esemény</span><span> iránt érdeklődik, és </span><span class="fw7">%{post_count} blog bejegyzés</span><span> közül szemezget. </span><span><i>Ez itt kérem az extrém erotika fellegvára!</i></span>
     login_button: Belépés
     signup_button: Regisztráció
-    stats_details: felhasználó <strong class="fw7 silver">%{picture_count} képet</strong> és <strong class="fw7 silver">%{video_count} videót</strong> oszt meg, <strong class="fw7 silver">%{group_count} csoport</strong> <strong class="fw7 silver">%{discussion_count} beszélgetésében</strong> vesz részt, <strong class="fw7 silver">%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong class="fw7 silver">%{post_count} blog bejegyzés</strong> közül szemezget. <span><span class="i">Ez itt kérem az extrém erotika fellegvára!</span>
+    stats_details: felhasználó <strong class="silver">%{picture_count} képet</strong> és <strong class="silver">%{video_count} videót</strong> oszt meg, <strong class="silver">%{group_count} csoport</strong> <strong class="silver">%{discussion_count} beszélgetésében</strong> vesz részt, <strong class="silver">%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong class="silver">%{post_count} blog bejegyzés</strong> közül szemezget. <span><span class="i">Ez itt kérem az extrém erotika fellegvára!</span>
     stats_members: Ebben a pillanatban
     subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)
     title: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé
