@@ -492,7 +492,7 @@ hu:
     gift:
       affirm: You're the best!
       confirm: I want to Gift Support to %{nickname}
-      header: Support FetLife Today
+      header: Support FetLife Today!
       subheader: And get all the <a href='%{link}'>sexy benefits</a> that come with being a supporter.
       thank_you: Thank you for the support!
       title: Gift Support to %{nickname}
