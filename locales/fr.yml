@@ -493,13 +493,13 @@ fr:
     gift:
       affirm: Vous êtes le⋅la meilleur⋅e !
       confirm: Je veux offrir le support à %{nickname}
-      header: Supporter FetLife aujourd’hui
-      subheader: Et obtenez tous les <a href='%{link}'>kinkélicieux avantages</a> à être un supporter pour seulement $5/mois.
+      header: Supporter FetLife aujourd’hui!
+      subheader: Et obtenez tous les <a href='%{link}'>sexy avantages</a> qui vont avec le statut de supporter.
       thank_you: Merci pour le support !
       title: Support offert à %{nickname}
       yourself: Achetez le support pour vous-même
     header:
-      subheader: Et obtenez tous les <a href='%{link}'>kinkélicieux avantages</a> qui vont avec le statut de supporter.
+      subheader: Et obtenez tous les <a href='%{link}'>sexy avantages</a> qui vont avec le statut de supporter.
       title: Supporter FetLife aujourd’hui !
     step1:
       ach:

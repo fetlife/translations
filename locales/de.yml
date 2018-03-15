@@ -493,8 +493,8 @@ de:
     gift:
       affirm: Du bist super!
       confirm: Ich möchte %{nickname} FetLife-Unterstützung schenken.
-      header: Unterstütze FetLife Heute
-      subheader: Und erhalte all die <a href='%{link}'>kink-köstlichen Vorteile</a>, die damit einhergehen für nur $5/Monat.
+      header: Unterstütze FetLife Heute!
+      subheader: Und erhalte all die <a href="%{link}">sexy Vorteile</a>, die damit einhergehen.
       thank_you: Danke für die Unterstützung!
       title: Schenke %{nickname} FetLife-Untestützung
       yourself: Kaufe FetLife-Unterstützung für Dich selbst
