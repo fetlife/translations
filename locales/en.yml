@@ -123,7 +123,7 @@ en:
     view_invitations: view your invitations
   landing_page:
     login_button: Login to FetLife
-    signup_button: Sign Up to FetLife
+    signup_button: Join FetLife
     stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     stats_members: Members
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
@@ -306,7 +306,7 @@ en:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Recommendations
-    signup: Sign Up
+    signup: Join FetLife
     subscriptions: Subscriptions
     support: Support FetLife
     terms: Terms
