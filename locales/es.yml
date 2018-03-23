@@ -123,7 +123,7 @@ es:
     view_invitations: ver sus invitaciones
   landing_page:
     login_button: Iniciar sesión en FetLife
-    signup_button: Registrarse en FetLife
+    signup_button: Únase a FetLife
     stats_details: están compartiendo <strong class="fw4 silver">%{picture_count} fotos</strong> y <strong class="fw4 silver">%{video_count} vídeos</strong>, participan en <strong class="fw4 silver">%{discussion_count} discusiones</strong> en <strong class="fw4 silver">%{group_count} grupos</strong>, van a <strong class="fw4 silver">%{event_count} próximos eventos</strong>, y leen <strong class="fw4 silver">%{post_count} entradas de blogs</strong>. <span><span class="i">¡Paraíso Kinky!</span>
     stats_members: Miembros
     subtitle: Al igual que Facebook, pero dirigido por kinksters como usted y yo. Creemos que así es más divertido. ¿Verdad?
@@ -306,7 +306,7 @@ es:
     preservation_requests: Peticiones de preservación
     privacy: Privacidad
     recommendations: Recomendaciones
-    signup: Registro
+    signup: Únase a FetLife
     subscriptions: Subscripciones
     support: Apoyar a FetLife
     terms: Términos
