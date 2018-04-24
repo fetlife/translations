@@ -439,6 +439,7 @@ fr:
     cta_labels:
       ach: Virement bancaire (ACH)
       bitcoin: Bitcoin
+      coingate: Bitcoin
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -506,6 +507,9 @@ fr:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire aux États Unis.
         title: Virement bancaire US (ACH)
       bitcoin:
+        extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
+        title: Bitcoin
+      coingate:
         extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
         title: Bitcoin
       eps:
@@ -592,6 +596,15 @@ fr:
       zip_label: Code ZIP
       zip_sub_label: associé au compte bancaire
     step3_bitcoin:
+      cta: Supporter FetLife avec des Bitcoin
+      intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'
+      secure: Aussi sûr que Fort Knox.
+      title: "“How To” pour Bitcoin"
+      title_html: "&ldquo;How To&rdquo; pour Bitcoin"
+      wallets_list_header: 'Nous avons eu une bonne expérience avec les deux fournisseurs de porte-monnaie suivants :'
+      wallets_title: Porte-monnaie Bitcoin recommandés
+      what: Qu’est-ce que le Bitcoin ?
+    step3_coingate:
       cta: Supporter FetLife avec des Bitcoin
       intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'
       secure: Aussi sûr que Fort Knox.

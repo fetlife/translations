@@ -439,6 +439,7 @@ pt:
     cta_labels:
       ach: Bank Transfer (ACH)
       bitcoin: Bitcoin
+      coingate: Bitcoin
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -506,6 +507,9 @@ pt:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
       bitcoin:
+        extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
+        title: Bitcoin
+      coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
       eps:
@@ -592,6 +596,15 @@ pt:
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
     step3_bitcoin:
+      cta: Support FetLife via Bitcoin
+      intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Bitcoin"
+      title_html: "&ldquo;How To&rdquo; for Bitcoin"
+      wallets_list_header: 'We''ve had good experience with the following two wallet providers:'
+      wallets_title: Recommended Bitcoin Wallets
+      what: What is Bitcoin?
+    step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
       secure: Secure as Fort Knox
