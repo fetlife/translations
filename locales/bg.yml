@@ -306,7 +306,6 @@ bg:
     preservation_requests: Preservation Requests
     privacy: Поверителност
     recommendations: Препоръчани
-    schwag: Schwag
     signup: Регистрация
     subscriptions: Subscriptions
     support: Подкрепи FetLife
@@ -315,6 +314,7 @@ bg:
     upload_video: Качи клип
     videos: Videos
     view_friends: Виж приятелите
+    wallpapers: FetLife Wallpapers
     whats_new: Какво ново
     write_post: Напиши публикация
     writings: Writings

@@ -311,7 +311,6 @@ sk:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Odporúčania
-    schwag: Schwag
     signup: Signup
     subscriptions: Subscriptions
     support: Podpor FetLife
@@ -320,6 +319,7 @@ sk:
     upload_video: Nahraj video
     videos: Videos
     view_friends: Zobraz priateľov
+    wallpapers: FetLife Wallpapers
     whats_new: Čo nové?
     write_post: Napísať príspevok
     writings: Writings
