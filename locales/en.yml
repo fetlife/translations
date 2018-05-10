@@ -764,7 +764,7 @@ en:
       thank_you: Thanks Again!
     thank_you_interac:
       cta_home: Take Me to My Feed
-      next_steps_final_default: will attach it to your profile.
+      next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: will attach it to %{nickname}'s profile.
       next_steps_first: It can <span>take a couple of hours</span> before we receive your Interac e-Transfer, but once we get it we
       next_steps_title: 'Next Steps:'
