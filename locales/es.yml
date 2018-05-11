@@ -764,7 +764,7 @@ es:
       thank_you: "¡Gracias de nuevo!"
     thank_you_interac:
       cta_home: Llévame a mi registro de actividad
-      next_steps_final_default: lo asociaremos a su perfil.
+      next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: lo asociaremos al perfil de %{nickname}.
       next_steps_first: Puede <span>tardar un par de horas</span> el recibir su Interac e-Transfer, pero en cuanto lo tengamos lo
       next_steps_title: 'Siguientes pasos:'
