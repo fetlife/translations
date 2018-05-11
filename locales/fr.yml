@@ -764,7 +764,7 @@ fr:
       thank_you: Encore merci !
     thank_you_interac:
       cta_home: Ramenez-moi sur mon fil
-      next_steps_final_default: nous allons l’attacher à votre profil.
+      next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: nous allons l’attacher au profil de %{nickname}.
       next_steps_first: Cela peut <span>prendre une heure ou deux</span> avant que nous ne recevions votre Interac e-Transfer, mais dès que nous l’avons
       next_steps_title: 'Étapes suivantes :'
