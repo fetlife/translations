@@ -1,366 +1,368 @@
 ---
-en:
+pl:
   2fa:
     5strike:
-      return: return to front page
-      subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try to login again.
-      title: Five Strike Rule
-    cta: It's me, let me in!
-    error: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code above seems off. Please verify that the number above matches what you received from us and try again."
-    label: Authentication Code
-    page_title: 2-Factor Authentication
-    subtitle: 2-Factor me baby!
-    title: Secret Code
+      return: powrót na stronę główną
+      subtitle: Eh... ze względów bezpieczeństwa musisz odczekać dwie godziny zanim będzie można się znów zalogować.
+      title: Zasada Pięciu Prób
+    cta: To ja, wpuść mnie!
+    error: "<strong>Kinky operator:</strong> Yhm&hellip; powyższy kod weryfikacyjny niezbyt się zgadza. Upewnij się że to ten, który Ci wysłaliśmy i spróbuj ponownie."
+    label: Kod autoryzacyjny
+    page_title: Weryfikacja dwuetapowa
+    subtitle: Weź mnie na dwa etapy!
+    title: Tajny kod
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
-    europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
+    contact_info: Informacje kontaktowe
+    email_us: Napisz do nas pod <a href="mailto:support@fetlife.com">support@fetlife.com</a> a odpiszemy jak z bicza trzasł!
+    europe: Europa
+    got_question: Masz pytanie? Potrzebujesz pomocy?
+    north_america: Ameryka Północna
     one_love: One love, one life, and a whole lot of kink.
-    snail_mail: Snail Mail
-    sub_header: Not to be confused with the Spartans.
+    snail_mail: Prawdziwa poczta
+    sub_header: Nie mylić ze Spartanami.
     title: We. Are. FetLife!
   components:
-    step: Step
+    step: Krok
   feed:
-    comment: Comment
+    comment: Skomentuj
     comments_count:
-      one: 1 Comment
-      other: "%{count_with_delimiter} Comments"
+      one: 1 komentarz
+      few: "%{count_with_delimiter} komentarze"
+      other: "%{count_with_delimiter} komentarzy"
     composer:
-      button: Say It
-      placeholder: What say you?
-    love: Love
-    loved_hover: Heart Breaker! :-(
+      button: Powiedz to!
+      placeholder: I co Ty na to?
+    love: Pokochaj
+    loved_hover: Łamacz serc! :-(
     loves_count:
-      one: 1 Love
-      other: "%{count_with_delimiter} Loves"
+      one: 1 Serducho
+      few: "%{count_with_delimiter} serducha"
+      other: "%{count_with_delimiter} serduch"
     modal:
-      close: close
-      more: more
-      reply: Reply
-    title: Activity Feed
+      close: zamknij
+      more: więcej
+      reply: Odpowiedz
+    title: Dziennik aktywności
   following:
-    follow: Follow
-    following: Following
+    follow: Śledź
+    following: Śledzę
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
-    help: Help
-    privacy: Privacy
+    advertising: Reklama
+    contact: Skontaktuj się z nami
+    glossary: Słowniczek
+    help: Pomoc
+    privacy: Prywatność
   forgot_password:
     email:
-      cta: Send me Email with Instructions
-      error_forgot_email: Email address is required.
-      error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
-      error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
-      placeholder: Email Address
+      cta: Wyślij mi e-mail z instrukcjami
+      error_forgot_email: Adress e-mail jest wymagany.
+      error_invalid_email: To nie wygląda mi na poprawny adres e-mail. Możesz zerknąć i wysłać jeszcze raz?
+      error_quota: Możemy wysłać tylko dwa e-maile na godzinę do każdego adresu. Sprawdź proszę czy nasz e-mail nie wylądował w Spamie. Jeśli na pewno nic tam nie ma to polecam wykorzystać jedną z powyższych metod aby dostać się na swoje konto.
+      placeholder: Adres e-mail
       step1:
-        page_title: Reset Password via Email
-        subtitle: Let me help you with that.
-        title: Forgot Password?
+        page_title: Zmiana hasła poprzez e-mail
+        subtitle: Niech no Ci pomogę.
+        title: Zapomniane hasło?
       step2:
-        page_title: You "MIGHT" Have Mail
-        subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
-        title: You &ldquo;Might&rdquo; Have Mail!
-      update_email: update email address
-      warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."
+        page_title: MOŻE dostałeś mejla!
+        subtitle: Jeśli istnieje jakiś profil powiązany z adresem <span class='fw7'>%{given_email}</span>, to wysłaliśmy na niego instrukcje jak zmienić Twoje hasło.
+        title: &ldquo;Może&rdquo; dostałeś mejla!
+      update_email: zaktualizuj adres e-mail
+      warning: "<strong>Ostrzeżenie ordynatora:</strong> Ze względów bezpieczeństwa, nie możemy Ci powiedzieć czy dany adres e-mail istnieje w naszej bazie czy nie. Jeśli nie masz nic w skrzynce, to najprawdopodobniej nie mamy konta powiązanego z tym adresem."
     mobile:
       5strike:
-        return: return to front page
-        subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
-        title: Five Strike Rule
-      cta: Send me Text Message
-      error_country_code: "<strong>Kinky Operator:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
-      error_quota: "<strong>Kinky Operator:</strong> Shoot, we can only try to send up to 3 text messages every 24 hours to any mobile number. If the number exists in our database or not."
-      pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
+        return: powrót do strony głównej
+        subtitle: Eh... ze względów bezpieczeństwa musisz odczekać dwie godziny zanim będzie można się znów zalogować.
+        title: Zasada Pięciu Prób
+      cta: Wyślij mi SMSa
+      error_country_code: "<strong>Kinky Operator:</strong> Upewnij się że Twój numer zaczyna się od kodu kraju: +48 dla Polski, +1 dla Stanów Zjednoczonych i Kanady, +44 dla Wielkiej Brytanii, +61 dla Australii, +31 dla Holandii, +49 dla Niemiec, +33 dla Francji, itd."
+      error_quota: "<strong>Kinky Operator:</strong> No sorry, ale możemy wysłać tylko 3 SMSy na dobę do dowolnego numeru. Niezależnie od tego czy istnieje w naszej bazie czy nie."
+      pro_tip: "<strong>Wskazówka:</strong> Upewnij się że Twój numer zaczyna się od kodu kraju: +48 dla Polski, +1 dla Stanów Zjednoczonych i Kanady, +44 dla Wielkiej Brytanii, +61 dla Australii, +31 dla Holandii, +49 dla Niemiec, +33 dla Francji, itd."
       step1:
-        page_title: Reset Password via Text Message
-        subtitle: Let me help you with that.
-        title: Forgot Password?
+        page_title: Zmiana hasła SMSem
+        subtitle: Niech no Ci pomogę.
+        title: Zapomniane hasło?
       step2:
-        cta: Verify You are You &#8482;
-        error_code_match: "<strong>Kinky Operator:</strong> Verification code you entered is incorrect. Verify that the number above matches what you received from us and please try again. This is a recording."
-        inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recommend you either <a href="%{forgot_password_email_path}">try resetting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
-        label: 6-digit Verification Code
-        page_title: Enter Verification Code
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
-        title: Enter Verification Code
-      warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if a mobile number exists in our database or not. If you don't get a text message from us, it's most likely because we don't have an account associated with that number."
-    next_step: next step
-    return_to_login: return to login
-    tab_email: Email
-    tab_mobile: Mobile
+        cta: Udowodnij że Ty to Ty &#8482;
+        error_code_match: "<strong>Kinky Operator:</strong> Podany kod weryfikacyjny jest niepoprawny. Upewnij się że powyższy kod zgadza się z tym co Ci wysłaliśmy."
+        inexisting_number: Jeśli po kilku minutach nie masz od nas żadnego SMSa, to prawdopodobnie nie mamy profilu powiązanego z takim numerem. Polecamy albo <a href="%{forgot_password_email_path}">spróbować zmienić hasło używając innej metody</a> albo <a href="%{signup_path}">założyć nowy profil na FetLife</a>.
+        label: 6-cyfrowy numer weryfikacyjny.
+        page_title: Podaj kod weryfikacyjny
+        subtitle: Wprowadź proszę 6-cyfrowy kod weryfikacyjny który "być może" właśnie wysłaliśmy pod numer %{phone_number}.
+        title: Podaj kod weryfikacyjny
+      warning: "<strong>Ostrzeżenie ordynatora:</strong> Ze względów bezpieczeństwa, nie możemy Ci powiedzieć czy dany numer telefonu istnieje w naszej bazie czy nie. Jeśli nie masz żadnego SMSa od nas, to najprawdopodobniej nie mamy konta powiązanego z tym numerem."
+    next_step: następny krok
+    return_to_login: powrót do strony logowania
+    tab_email: E-mail
+    tab_mobile: Telefon
   guidelines:
-    last_updated: 'Last updated:'
+    last_updated: 'Ostatnio zaktualizowane:'
     subnav:
-      community: Community
-      content: Content
-      group_leader: Group Leader
-    title: Guidelines
+      community: Społeczność
+      content: Zawartość
+      group_leader: Lider grupy
+    title: Wytyczne
   invite_a_friend:
-    cancel_button: cancel
-    cancel_notice: The invitation to %{email} has been canceled.
-    cta: Invite Your Friend to Join FetLife
-    error: We're having problems sending an invite to the above email address. We recommend you verify the spelling or try a different one.
-    error_forgot_email: Email address is required.
-    invitations_accepted: Invitations Accepted
-    invitations_sent: Invitations Sent Out
+    cancel_button: anuluj
+    cancel_notice: Anulowano zaproszenie dla %{email}.
+    cta: Zaproś znajomych na FetLife
+    error: Były kłopoty z wysłaniem zaproszenia pod powyższy adres. Sprawdź pisownię albo spróbuj jakiegoś innego.
+    error_forgot_email: Adres e-mail jest wymagany.
+    invitations_accepted: Przyjęte zaproszenia
+    invitations_sent: Wysłane zaproszenia
     labels:
-      email: Email Address
-      friends_email: 'Send invite to:'
-      friends_email_sub: "%{count} invitations remaining"
-    next_step: next step
-    return_to_feed: return to feed
+      email: Adres e-mail
+      friends_email: 'Wyślij zaproszenie do:'
+      friends_email_sub: "Pozostało zaproszeń: %{count}"
+    next_step: następny krok
+    return_to_feed: powrót do dziennika
     subtitle_step1:
-      one: You have 1 invite left.
-      other: You have %{count_with_delimiter} invites left.
-    subtitle_step2: We've sent an invite from you to %{email}.
-    title_step1: Invite a Friend
-    title_step2: Invitation Sent
-    view_invitations: view your invitations
+      one: Zostało Ci 1 zaproszenie.
+      other: "Pozostało zaproszeń: %{count_with_delimiter}."
+    subtitle_step2: Wysłaliśmy zaproszenie od Ciebie dla %{email}.
+    title_step1: Zaproś znajomego
+    title_step2: Zaproszenie wysłane
+    view_invitations: pokaż zaproszenia
   landing_page:
-    login_button: Login to FetLife
-    signup_button: Join FetLife
-    stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
-    stats_members: Members
-    subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
-    title: FetLife is the Social Network for the BDSM, Fetish & Kinky Community.
+    login_button: Zaloguj się do FetLife
+    signup_button: Dołącz do FetLife
+    stats_details: udostępniają <strong class="fw4 silver">%{picture_count} obrazków</strong> i <strong class="fw4 silver">%{video_count} filmików</strong>, biorą udział w <strong class="fw4 silver">%{discussion_count} dyskusjach</strong> w <strong class="fw4 silver">%{group_count} grupach</strong>, idą na <strong class="fw4 silver">%{event_count} nadchodzących wydarzeń</strong>, i czytają <strong class="fw4 silver">%{post_count} wpisów na blogach</strong>. <span><span class="i">Raj dla kinksterów!</span>
+    stats_members: Członkowie
+    subtitle: Jak Facebook, ale robiony przez kinksterów takich jak Ty czy ja. Tak jest chyba fajniej, nie?
+    title: FetLife to sieć społecznościowa o tematyce BDSM, fetyszy i perwersji.
   legalese:
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
-      privacy: Privacy Policy
-      terms: Terms of Use
+      privacy: Polityka prywatności
+      terms: Zasady użytkowania
     title: Legalese
   lockout:
-    subtitle: You've tripped our security system.
-    title: Security, Security, Security!
+    subtitle: Aktywowałeś nasz system alarmowy.
+    title: Straż, straż, straaaż!
   login:
-    button: Login to FetLife
-    error_flash: Please contact <a href="mailto:support@fetlife.com">support@fetlife.com</a> so we can help you get back in.
-    error_login_blank: Nickname or email can't be blank.
-    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
-    error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
-    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
-    error_password_blank: Password can't be blank.
-    error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname.
-    forgot_info: Forgot your login information?
+    button: Zaloguj się do FetLife.
+    error_flash: Skontaktuj się z <a href="mailto:support@fetlife.com">support@fetlife.com</a> żebyśmy mogli Ci pomóc się zalogować.
+    error_login_blank: Ksywka ani e-email nie mogą być puste.
+    error_not_authenticated: Przepraszamy, ale musisz się zalogować żeby wejść na tą stronę. Jeśli nie masz jeszcze konta, możesz je założyć w mniej niż minutę.
+    error_not_found: Hmmm, no coś nie możemy Cię znaleźć. Czy ksywka i hasło są podane poprawnie? (WiElKoŚć LiTeR ma znaczenie w hasłach) 
+    error_password_blacklist: Wybrane hasło jest zbyt łatwe do zgadnięcia. Wybierz inne.
+    error_password_blank: Hasło nie może być puste.
+    error_password_email: Twoje hasło nie może być takie samo jak użytkownik e-mail.
+    error_password_nickname: Twoje hasło nie może być takie samo jak ksywka.
+    forgot_info: Nie pamiętasz informacji do zalogowania?
     labels:
-      nickname: Nickname or Email
-      password: Password
-      remember_me: Remember me, I'll be back.
-    not_a_member: Not a member yet? Signup to FetLife
-    subtitle: We've missed you… big time!
-    title: Welcome Home
+      nickname: Ksywka lub e-mail
+      password: Hasło
+      remember_me: Zapamiętaj mnie, jeszcze tu wrócę.
+    not_a_member: Nie masz jeszcze konta? Dołącz do FetLife!
+    subtitle: Tęskniliśmy… okropnie!
+    title: Witaj w domu
   logout:
-    log_in: log back in
-    subtitle: Make sure to come back and see us soon.
-    title: We'll Miss You!
+    log_in: zaloguj się z powrotem
+    subtitle: Obiecaj że niedługo wrócisz!
+    title: Będziemy tęsknić!
   member_stats:
     pics:
-      one: 1 pic
-      other: "%{count_with_delimiter} pics"
+      one: 1 fotka
+      other: "fotki: %{count_with_delimiter}"
     posts:
       one: 1 post
-      other: "%{count_with_delimiter} posts"
+      other: "posty: %{count_with_delimiter}"
     vids:
-      one: 1 vid
-      other: "%{count_with_delimiter} vids"
+      one: 1 filmik
+      other: "filmiki: %{count_with_delimiter}"
   nav:
-    events: Events
-    explore: Explore
-    fetishes: Fetishes
-    groups: Groups
-    home: Home
-    places: Places
-    search_placeholder: Search FetLife
-    videos: Videos
-    writings: Writings
+    events: Wydarzenia
+    explore: Eksploruj
+    fetishes: Fetysze
+    groups: Grupy
+    home: Główna
+    places: Miejsca
+    search_placeholder: Wyszukaj na FetLife
+    videos: Filmiki
+    writings: Wpisy
   page_break:
-    of: of
+    of: z
   profile:
-    about_title: Friend List
-    pictures_title: Pictures
-    videos_title: Videos
+    about_title: Lista znajomych
+    pictures_title: Fotki
+    videos_title: Filmiki
   promote_following:
-    button: Turn Following On
-    ps: P.S. You can turn following off at any time.
-    skip: Don't turn following on for me
-    subtitle: Separate your friends from your followers.
-    title: Introducing Following
+    button: Włącz śledzenie
+    ps: P.S. Możesz wyłączyć śledzenie kiedy chcesz.
+    skip: Nie włączaj u mnie śledzenia
+    subtitle: Rozróżnij znajomych od śledzących.
+    title: Przedstawiamy Śledzenie
   recommendations:
-    title: Recommendations
+    title: Polecane
   reset_password:
-    cta: Reset My Password
-    error_confirmation_match: Password confirmation doesn't match Password.
-    error_password_range: Password needs to be between 8 and 100 characters.
-    error_token_expired: Reset password token has expired, please request a new one.
-    error_token_invalid: Reset password token is invalid.
-    footnote: "<b>Pro Tip:</b> Remember your password."
-    label_enter: New Password
-    label_re_enter: Re-Enter New Password
-    status_flash_success: Your password has been changed successfully.
-    subtitle: Not too short, not too long, just the…
-    title: Reset Password
+    cta: Zmiana hasła
+    error_confirmation_match: Hasło w obu polach nie zgadza się.
+    error_password_range: Hasło musi mieć między 8 a 100 znaków.
+    error_token_expired: Token resetujący hasło wygasł, spróbuj z nowym.
+    error_token_invalid: Token resetujący hasło jest nieprawidłowy.
+    footnote: "<b>Wskazówka:</b> Pamiętaj swoje hasło"
+    label_enter: Nowe hasło
+    label_re_enter: Potwierdź hasło
+    status_flash_success: Twoje hasło zostało zmienione.
+    subtitle: Nie za krótkie, nie za długie, po prostu…
+    title: Zmiana hasła
   select_language:
-    button: Change Default Language
-    help_translate: Visit our <a class="silver" href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
-    language_name: English
+    button: Zmień domyślny język
+    help_translate: Odwiedź nasz <a class="silver" href="https://github.com/fetlife/translations">projekt tłumaczeń</a> na GitHubie i pomóż uczynić FetLife bardziej atrakcyjnym dla większej liczby przyjaciół i społeczeństw.
+    language_name: Polski
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
-    title: Select Language
+    title: Wybierz język
   settings_account:
-    2fa_cta: Turn On 2-Factor Authentication
-    2fa_label: 2-Factor Authentication
-    anti_pro_tip: <strong>Anti-Pro Tip:</strong> You can <a href="#">deactivate</a> or <a href="#">delete</a> your account if you really want to but three in four Popes highly discourage it.
-    current_password_label: Current Password
-    email_cta: Update Email Address
+    2fa_cta: Włącz uwierzytelnianie dwuetapowe
+    2fa_label: Uwierzytelnianie dwuetapowe
+    anti_pro_tip: <strong>Antywskazówka:</strong> Możesz <a href="#">zdezaktywować</a> lub <a href="#">usunąć</a> swoje konto jeśli bardzo chcesz, ale trzech na czterech papieży silnie to odradza.
+    current_password_label: Obecne hasło
+    email_cta: Zaktualizuj adres e-mail
     email_label: Email
-    email_placeholder: Email Address
-    language_cta: Update Default Language
-    language_notice: FetLife isn’t yet fully available in languages other than English. If you change the setting here, not all of the website will be translated.
-    new_password_label: New Password
-    nickname_cta: Change Nickname
-    nickname_label: 'Change your nickname from "JohnBaku" to:'
-    nickname_notice: "<strong>Pro Tip:</strong> Measure twice, cut once. You can only change your nickname once every 28 days. No take backs."
-    nickname_placeholder: New Nickname
-    page_title: Change Password - Settings
-    password_cta: Update Password
-    repeat_password_label: Repeat Password
-    subtitle: Don't press the big red button.
-    title: Account Settings
+    email_placeholder: Adres Email
+    language_cta: Zmień domyślny język
+    language_notice: FetLife jeszcze nie jest w pełni dostępny w językach inny niż angielski. Jeśli wybierzesz inny język, nie cała strona będzie przetłumaczona.
+    new_password_label: Nowe hasło
+    nickname_cta: Zmień ksywkę
+    nickname_label: 'Zmień ksywkę z "JohnBaku" na:'
+    nickname_notice: "<strong>Wskazówka:</strong> Zastanów się trzy razy, zanim zmienisz ksywkę. Można to zrobić tylko raz na 28 dni. Nie ma cofanek."
+    nickname_placeholder: Nowa ksywka
+    page_title: Zmień hasło - ustawienia
+    password_cta: Zaktualizuj hasło
+    repeat_password_label: Powtórz hasło
+    subtitle: Nie wciskać dużego czerwonego guzika.
+    title: Ustawienia konta
   settings_notifications:
-    cta: Update Default Language
-    language_label: Language
-    notice: FetLife isn’t yet fully available in languages other than English. If you change the setting here, not all of the website will be translated.
-    page_title: Language - Settings
-    subtitle: What's your preferred language?
-    title: Language
+    cta: Zmień domyślny język
+    language_label: Język
+    notice: FetLife jeszcze nie jest w pełni dostępny w językach inny niż angielski. Jeśli wybierzesz inny język, nie cała strona będzie przetłumaczona.
+    page_title: Język - ustawienia
+    subtitle: Jaki jest twój ulubiony język?
+    title: Język
   settings_privacy:
-    blocked_list_subtitle: For those on your naughty list.
-    blocked_list_title: Blocked List
-    cb_feed: Allow non-friends to follow me on their activity feed.
-    cb_fp: Allow my non-private posts to appear on Fresh&Pervy.
-    cb_kp: Allow my non-private posts to appear on Kinky&Popular.
-    content_privacy: Content Privacy
-    cta: Save Privacy Settings
-    following: Following
-    page_title: Privacy Settings
-    subtitle: Served the way you like it.
-    title: Privacy
-    warning: "<strong>Extremely Important</strong>: Turning off following will unfollow everyone who is currently following you. No take backs. Seriously."
+    blocked_list_subtitle: Dla tych nieposłusznych.
+    blocked_list_title: Lista zablokowanych
+    cb_feed: Pozwól nieznajomym na śledzenie mnie w ich dzienniku aktywności.
+    cb_fp: Pozwól żeby moje nie-prywatne posty pojawiały się w Fresh&Pervy.
+    cb_kp: Pozwól żeby moje nie-prywatne posty pojawiały się w Kinky&Popular.
+    content_privacy: Prywatność treści
+    cta: Zapisz ustawienia prywatności
+    following: Śledzenie
+    page_title: Ustawienia prywatności
+    subtitle: Podano tak jak lubisz.
+    title: Prywatność
+    warning: "<strong>Niezmiernie ważne</strong>: Wyłączenie śledzenia spowoduje że każdy kto obecnie Cię śledzi - przestanie. Nie ma cofanek. Serio."
   settings_profile:
-    about_you_label: About You
-    add_website: "+ add another website"
-    cta: Update Your Profile
-    dob_label: Date of Birth
-    location_label: Location
-    looking_for_label: Looking For
-    page_title: Update Profile
-    subtitle: Personal growth is a good thing.
-    title: Your Profile
-    websites_label: Websites
+    about_you_label: O Tobie
+    add_website: "+ dodaj następną stronę WWW"
+    cta: Zaktualizuj swój profil
+    dob_label: Data urodzenia
+    location_label: Lokalizacja
+    looking_for_label: Szukam
+    page_title: Aktualizacja profilu
+    subtitle: Samorozwój to dobra rzecz.
+    title: Twój profil
+    websites_label: Strony WWW
     websites_placeholder: https://fetlife.com
   settings_support:
-    cta: Update Email Address
-    email_label: Update Email Address
-    email_placeholder: Email Address
-    page_title: Update Email Address - Settings
-    subtitle: Just in case you forget your password.
-    title: Update Email Address
+    cta: Zaktualizuj adres e-mail
+    email_label: Zaktualizuj adres e-mail
+    email_placeholder: Adres e-mail
+    page_title: Zaktualizuj adres e-mail - ustawienia
+    subtitle: Na wszelki wypadek, jeśli zapomnisz hasła.
+    title: Zaktualizuj adres e-mail
   sidebar:
-    about_fetlife: Meet the Team
-    ad_stats: Ad Stats
-    advertising: Advertising
-    already_member: Already a member?
-    androidapp: Install FetLife Android App
-    bug_bounty: Bug Bounty
-    caretaking: Caretaker Tools
-    change_language: Change Language
-    close: close
-    contact_us: Contact Us
-    edit_profile: Edit Profile
-    edit_settings: Update Settings
-    events: Events
-    fetishes: Fetishes
-    following: Following
+    about_fetlife: Poznaj nasz team
+    ad_stats: Statystyki reklam
+    advertising: Reklama
+    already_member: Jesteś już członkiem?
+    androidapp: Zainstaluj appkę na Androida
+    bug_bounty: Premia za znalezienie bugów
+    caretaking: Narzędzia dla opiekunów
+    change_language: Zmień język
+    close: zamknij
+    contact_us: Kontakt
+    edit_profile: Edytuj profil
+    edit_settings: Edytuj ustawienia
+    events: Wydarzenia
+    fetishes: Fetysze
+    following: Śledzenie
     fp: Fresh & Pervy
-    funny_quote: If you can't read this ... you probably need glasses! - John 4:69
-    gift_support: Gift FetLife Support
-    glossary: Glossary
-    groups: Groups
-    guidelines: Guidelines
-    home: Home
-    invite_a_friend: Invite a Friend (%{count})
+    funny_quote: Jeśli nie możesz tego przeczytać ... to pewnie potrzebujesz okularów! - John 4:69
+    gift_support: Podaruj FetLife Support
+    glossary: Słowniczek
+    groups: Grupy
+    guidelines: Wytyczne
+    home: Start
+    invite_a_friend: Zaproś znajomych (%{count})
     kp: Kinky & Popular
-    legalese: Legalese
-    log_out: Logout
-    login: Log In
-    loved_stuff: Stuff You Love
-    need_help: Need Help?
+    legalese: Kwestie prawne
+    log_out: Wyloguj się
+    login: Zaloguj się
+    loved_stuff: To co kochasz
+    need_help: Potrzebujesz pomocy?
     open_source: Open Source
-    places: Places
+    places: Lokalizacje
     preservation_requests: Preservation Requests
-    privacy: Privacy
-    recommendations: Recommendations
-    signup: Join FetLife
-    subscriptions: Subscriptions
-    support: Support FetLife
-    terms: Terms
-    upload_picture: Upload Picture
-    upload_video: Upload Video
-    videos: Videos
-    view_friends: View Friends
-    whats_new: What's New
-    write_post: Write Post
-    writings: Writings
+    privacy: Prywatność
+    recommendations: Rekomendacje
+    signup: Dołącz do FetLife
+    subscriptions: Subskrypcje
+    support: Wesprzyj FetLife
+    terms: Zasady
+    upload_picture: Wgraj obrazek
+    upload_video: Wgraj filmik
+    videos: Filmiki
+    view_friends: Pokaż znajomych
+    whats_new: Co nowego
+    write_post: Napisz posta
+    writings: Wpisy
   signup:
-    almost_there: Almost There!
-    error_bar: Dallas, we have a problem. Scroll down for more info.
-    error_birthdate: Date of birth is required.
-    error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: Sorry, you must be 18 or older to join.
-    error_city_missing: City has to be selected.
-    error_country_missing: Country has to be selected.
-    error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
-    error_email_taken: Email has already been taken.
-    error_gender_required: Gender has to be selected.
-    error_nickname: Nickname is already taken.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
-    error_nickname_required: Nickname is required.
-    error_password_range: Password needs to be between 8 and 100 characters.
-    error_password_required: Password is required.
-    error_role_required: Role has to be selected.
-    error_sexual_orientation_required: Sexual Orientation has to be selected.
-    error_state_missing: State/Province has to be selected.
-    footnote: By clicking the button above you agree to respect and follow our <a class="silver" href="%{guidelines_path}">Community Guidelines</a> and <a class="silver" href="%{tou_path}">Terms of Use</a>&hellip; no take backs.
+    almost_there: Już prawie!
+    error_bar: Houston, mamy problem. Zjedź niżej po więcej informacji.
+    error_birthdate: Data urodzenia jest wymagana.
+    error_birthdate_too_old: Jesteś za stary.
+    error_birthdate_too_young: Sorry, musisz mieć co najmniej 18 lat żeby do nas dołączyć.
+    error_city_missing: Musisz zaznaczyć miasto.
+    error_country_missing: Musisz zaznaczyć kraj.
+    error_email: Mamy kłopoty z powyższym adresem e-mail. Sprawdź pisownię albo spróbuj innego.
+    error_email_taken: Adres e-mail jest już używany.
+    error_gender_required: Musisz podać płeć.
+    error_nickname: Ksywka jest już używana.
+    error_nickname_bad_word: Ksywka nie może zawierać '%{word}'.
+    error_nickname_characters: Ksywka może zawierać tylko litery, cyfry, myślniki i podkreślniki; nie może zawierać spacji.
+    error_nickname_length: Ksywka musi mieć długość od 2 do 16 znaków.
+    error_nickname_required: Ksywka jest wymagana.
+    error_password_range: Hasło musi mieć długość od 8 do 100 znaków.
+    error_password_required: Hasło jest wymagane.
+    error_role_required: Rola jest wymagana.
+    error_sexual_orientation_required: Orientacja seksualna jest wymagana.
+    error_state_missing: Województwo/stan/prowincja jest wymagana.
+    footnote: Klikając powyższy przycisk zgadzasz się szanować i podążać za naszymi <a class="silver" href="%{guidelines_path}">Wytycznymi Społeczności</a> oraz <a class="silver" href="%{tou_path}">Zasadmi Korzystania</a>&hellip; nie ma cofanek.
     label:
-      birthdate: Birthdate
-      city: City
-      country: Country
-      email: Email Address
-      gender: Gender
-      location: Location
-      nickname: Nickname
-      password: Password
-      role: Role
-      sexual_orientation: Sexual Orientation
-      state: State/Province
-    page_title: Join
-    return_to_login: Already a member? Login to FetLife
-    subtitle: Tell us a little bit about yourself.
-    subtitle_invite: "%{name} invited you to join FetLife."
-    title: Welcome Home
+      birthdate: Data urodzenia
+      city: Miasto
+      country: Kraj
+      email: Adres e-mail
+      gender: Płeć
+      location: Lokalizacja
+      nickname: Ksywka
+      password: Hasło
+      role: Rola
+      sexual_orientation: Orientacja seksualna
+      state: Województwo/stan/prowincja
+    page_title: Dołącz do nas
+    return_to_login: Jesteś już członkiem? Zaloguj się do FetLife
+    subtitle: Powiedz coś o sobie.
+    subtitle_invite: "%{name} zaprosił(a) Cię do FetLife."
+    title: Witaj w domu
   signup_avatar:
-    pro_tip: '<strong>Pro Tip</strong>: If you''re shy and prefer not to show your face, don''t hesitate to get creative and show a different side of you! Or if you prefer, you can <a class="silver" href="%{next_step_path}">skip this step</a> for now.'
-    say_cheese: Say Cheese!
-    subtitle: Kinksters with an avatar have 69x more fun.
-    title: Upload an Avatar
+    pro_tip: '<strong>Wskazówka</strong>: Jeśli się wstydzisz i wolisz nie pokazywać swojej twarzy, wykaż się kreatywnością i pokaż coś innego! Albo jeśli wolisz, możesz na razie <a class="silver" href="%{next_step_path}">pominąć ten krok</a>.'
+    say_cheese: Uśmiech!
+    subtitle: Ludzie z fotką profilową mają 69x więcej zabawy.
+    title: Wyślij fotkę profilową
   signup_five_strikes:
     page_title: Five Strike Rule
     return_to_front: return to front page
