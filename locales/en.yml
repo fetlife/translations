@@ -339,7 +339,7 @@ en:
     error_role_required: Role has to be selected.
     error_sexual_orientation_required: Sexual Orientation has to be selected.
     error_state_missing: State/Province has to be selected.
-    footnote: By clicking the button above you agree to respect and follow our <a class="silver" href="%{guidelines_path}">Community Guidelines</a> and <a class="silver" href="%{tou_path}">Terms of Use</a>&hellip; no take backs.
+    footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Birthdate
       city: City

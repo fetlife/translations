@@ -339,7 +339,7 @@ bg:
     error_role_required: Трябва да избереш роля.
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
     error_state_missing: Трябва да избереш област.
-    footnote: С натискането на горния бутон се съгласяваш да уважаваш и следваш нашите <a class="silver" href="%{guidelines_path}">Правила на общността</a> и <a class="silver" href="%{tou_path}">Условия за ползване</a>&hellip; без право на рекламации.
+    footnote: By clicking "Довърши регистрацията & потвърждението" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Дата на раждане
       city: Град
