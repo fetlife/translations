@@ -339,7 +339,7 @@ zh:
     error_role_required: 角色必选。
     error_sexual_orientation_required: 性取向必选。
     error_state_missing: 省份/州份必选。
-    footnote: 点击以上按钮意味着你已经同意遵守我们的<a class="silver" href="%{guidelines_path}">社区守则</a>和<a class="silver" href="%{tou_path}">使用条款</a>&hellip;别反悔。
+    footnote: By clicking "完成注册认证" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: 出生日期
       city: 城市
