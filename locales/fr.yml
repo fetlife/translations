@@ -439,6 +439,7 @@ fr:
       title: Qu’est-ce que je gagne en supportant FetLife ?
     cta_labels:
       ach: Virement bancaire (ACH)
+      cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -506,6 +507,9 @@ fr:
       ach:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire aux États Unis.
         title: Virement bancaire US (ACH)
+      cc_curo:
+        extra_info: Use Mastercard, Maestro, Visa, or VPay from any country. Easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
         title: Bitcoin
@@ -592,6 +596,14 @@ fr:
       type_savings: Économies
       zip_label: Code ZIP
       zip_sub_label: associé au compte bancaire
+    step3_cc_curo:
+      cta: Make Credit Card Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Supporter FetLife avec des Bitcoin
       intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'

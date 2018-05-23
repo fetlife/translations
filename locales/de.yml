@@ -439,6 +439,7 @@ de:
       title: Was bekomme ich, wenn ich FetLife unterstütze?
     cta_labels:
       ach: Bank Transfer (ACH)
+      cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -506,6 +507,9 @@ de:
       ach:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für die, die in den USA wohnen.
         title: US Kontoabbuchung (ACH)
+      cc_curo:
+        extra_info: Use Mastercard, Maestro, Visa, or VPay from any country. Easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den uneingeweihten, helfen wir durch den Prozess.
         title: Bitcoin
@@ -592,6 +596,14 @@ de:
       type_savings: Savings
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
+    step3_cc_curo:
+      cta: Make Credit Card Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Unterstütze FetLife via Bitcoin
       intro: 'Bitcoin ist eine digitale Währung. Einige Einführungsvideos, die wir gerne angeschaut haben:'
