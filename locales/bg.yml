@@ -94,7 +94,23 @@ bg:
     tab_email: Имейл
     tab_mobile: Телефон
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Последна промяна:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: На общността
       content: За съдържанието
@@ -129,6 +145,11 @@ bg:
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
     title: FetLife е Социалната Мрежа на BDSM, Fetish & Kinky обществото.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: Освободени от 2257
       legal_requests: Правни искания
@@ -182,6 +203,8 @@ bg:
     writings: Writings
   page_break:
     of: от
+  privacy:
+    title: Privacy
   profile:
     about_title: Списък с приятели
     pictures_title: Снимки

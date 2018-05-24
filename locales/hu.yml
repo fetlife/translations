@@ -94,7 +94,23 @@ hu:
     tab_email: Email
     tab_mobile: Mobil
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Utolsó frissítés:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Közösség
       content: Tartalom
@@ -129,6 +145,11 @@ hu:
     subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)
     title: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
@@ -182,6 +203,8 @@ hu:
     writings: Writings
   page_break:
     of: "/"
+  privacy:
+    title: Privacy
   profile:
     about_title: Ismerősök
     pictures_title: Képek

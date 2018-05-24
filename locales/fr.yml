@@ -94,7 +94,23 @@ fr:
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Dernière mise à jour :'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Communauté
       content: Contenu
@@ -129,6 +145,11 @@ fr:
     subtitle: Comme Facebook, mais géré par des kinksters comme toi et moi. On pense que c’est plus amusant comme ça. Pas toi ?
     title: FetLife est le réseau social de la communauté BDSM, fétiche & kinky.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: Exemption 2257
       legal_requests: Requêtes légales
@@ -182,6 +203,8 @@ fr:
     writings: Writings
   page_break:
     of: de
+  privacy:
+    title: Privacy
   profile:
     about_title: Liste d’ami⋅e⋅s
     pictures_title: Photos

@@ -94,7 +94,23 @@ gr:
     tab_email: Email
     tab_mobile: Κινητό
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Πρόσφατη Ενημέρωση:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Κοινότητα
       content: Περιεχόμενα
@@ -129,6 +145,11 @@ gr:
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
     title: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Εξαίρεση
       legal_requests: Legal Requests
@@ -182,6 +203,8 @@ gr:
     writings: Writings
   page_break:
     of: of
+  privacy:
+    title: Privacy
   profile:
     about_title: Λίστα φίλων
     pictures_title: Εικόνες

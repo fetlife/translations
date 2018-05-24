@@ -94,7 +94,23 @@ zh:
     tab_email: 邮箱
     tab_mobile: 手机号
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 最近更新于：
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: 社群
       content: 内容
@@ -129,6 +145,11 @@ zh:
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 豁免条款
       legal_requests: 法务请求
@@ -182,6 +203,8 @@ zh:
     writings: 写作
   page_break:
     of: of
+  privacy:
+    title: Privacy
   profile:
     about_title: 好友列表
     pictures_title: 图片
