@@ -94,11 +94,23 @@ de:
     tab_email: E-Mail
     tab_mobile: Handy
   guidelines:
+    header: FetLife Guidelines & Legalese
     headers:
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
     last_updated: 'Zuletzt aktualisiert:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Gemeinschaft
       content: Inhalt
