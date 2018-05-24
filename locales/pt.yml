@@ -94,6 +94,10 @@ pt:
     tab_email: Email
     tab_mobile: Telemovel
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Última atualização:'
     subnav:
       community: Comunidade
@@ -129,6 +133,11 @@ pt:
     subtitle: Como o Facebook, mas criada por pervertidos como você e eu. Nós achamos que é mais divertido assim. Você não acha?
     title: FetLife é a Rede Social para a comunidade de BDSM e fetiche.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Requesitos Legais
@@ -182,6 +191,8 @@ pt:
     writings: Writings
   page_break:
     of: de
+  privacy:
+    title: Privacy
   profile:
     about_title: Lista de Amigos
     pictures_title: Fotos

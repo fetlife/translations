@@ -94,6 +94,10 @@ de:
     tab_email: E-Mail
     tab_mobile: Handy
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Zuletzt aktualisiert:'
     subnav:
       community: Gemeinschaft
@@ -129,6 +133,11 @@ de:
     subtitle: Wie Facebook, aber betrieben von BDSMler_innen wie Dir und mir. Wir denken, dass es so viel spaßiger ist. Du nicht?
     title: FetLife ist ein Soziales Netzwerk für BDSM, Fetisch & sexy Gemeinschaft.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Rechtliche Anfragen
@@ -182,6 +191,8 @@ de:
     writings: Writings
   page_break:
     of: von
+  privacy:
+    title: Privacy
   profile:
     about_title: Freund_innen
     pictures_title: Bilder

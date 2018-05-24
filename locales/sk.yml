@@ -95,6 +95,10 @@ sk:
     tab_email: Email
     tab_mobile: Mobil
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Naposledy aktualizovné:'
     subnav:
       community: Komunita
@@ -131,6 +135,11 @@ sk:
     subtitle: Ako Facebook, ale plný kinksterov, ako si ty a my. Myslíme si, že je to viac zábavy touto cestou. Čo myslíš?.
     title: FetLife je sociálna sieť pre BDSM, Fetish & Kinky komunitu.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
@@ -187,6 +196,8 @@ sk:
     writings: Writings
   page_break:
     of: z
+  privacy:
+    title: Privacy
   profile:
     about_title: Zoznam priateľov
     pictures_title: Fotky

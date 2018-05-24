@@ -94,6 +94,10 @@ nl:
     tab_email: Email
     tab_mobile: Mobiel
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Laatst bijgewerkt:'
     subnav:
       community: Gemeenschap
@@ -129,6 +133,11 @@ nl:
     subtitle: Zoiets als Facebook, maar gemaakt door kinksters zoals jij en ik. Wij denken dat dat veel leuker is. Jij ook?
     title: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 vrijwaring
       legal_requests: Legal Requests
@@ -182,6 +191,8 @@ nl:
     writings: Writings
   page_break:
     of: van
+  privacy:
+    title: Privacy
   profile:
     about_title: Vrienden lijst
     pictures_title: Foto's

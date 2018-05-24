@@ -94,6 +94,10 @@ it:
     tab_email: Email
     tab_mobile: Cellulare
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Ultimo aggiornamento:'
     subnav:
       community: Community
@@ -129,6 +133,11 @@ it:
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?
     title: FetLife è il social network per la Comunità BDSM, Fetish & Kinky.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
@@ -182,6 +191,8 @@ it:
     writings: Writings
   page_break:
     of: di
+  privacy:
+    title: Privacy
   profile:
     about_title: Lista amici
     pictures_title: Foto

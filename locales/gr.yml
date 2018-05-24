@@ -94,6 +94,10 @@ gr:
     tab_email: Email
     tab_mobile: Κινητό
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Πρόσφατη Ενημέρωση:'
     subnav:
       community: Κοινότητα
@@ -129,6 +133,11 @@ gr:
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
     title: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Εξαίρεση
       legal_requests: Legal Requests
@@ -182,6 +191,8 @@ gr:
     writings: Writings
   page_break:
     of: of
+  privacy:
+    title: Privacy
   profile:
     about_title: Λίστα φίλων
     pictures_title: Εικόνες

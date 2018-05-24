@@ -94,6 +94,10 @@ bg:
     tab_email: Имейл
     tab_mobile: Телефон
   guidelines:
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Последна промяна:'
     subnav:
       community: На общността
@@ -129,6 +133,11 @@ bg:
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
     title: FetLife е Социалната Мрежа на BDSM, Fetish & Kinky обществото.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: Освободени от 2257
       legal_requests: Правни искания
@@ -182,6 +191,8 @@ bg:
     writings: Writings
   page_break:
     of: от
+  privacy:
+    title: Privacy
   profile:
     about_title: Списък с приятели
     pictures_title: Снимки
