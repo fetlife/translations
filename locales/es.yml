@@ -94,23 +94,23 @@ es:
     tab_email: Correo electrónico
     tab_mobile: Móvil
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: Directrices de FetLife y Cháchara legal
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: Directrices de la comunidad
+      content: Directrices de contenido
+      group_leader: Directrices de Líder de grupo
     last_updated: 'Última actualización:'
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: Para ayudar a hacer FetLife un lugar divertido para todos, le pedimos amablemente a todo el mundo que siga nuestras directrices de contenido, comunidad y grupos.
+        title: Directrices
       legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
+        description: Esta sección contiene las condiciones de uso que todos los miembros aceptan cuando se registran en FetLife. ¡Hemos intenado mantener las cosas tan sencillas y claras como nos ha sido posible!
+        title: Cháchara legal
       privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+        description: ¿Cuán seguros están tus datos y qué está haciendo FetLife para protegerlos? En FetLife, tratamos sus datos como queremos que traten los nuestros.
+        title: Privacidad
+    subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
       community: Comunidad
       content: Contenido
@@ -146,15 +146,15 @@ es:
     title: FetLife es la red social para la comunidad BDSM, fetichista y kinky.
   legalese:
     headers:
-      2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      2257_exempt: Exento del 2257
+      guidelines_for_legal_requests: Peticiones legales
+      privacy_policy: Política de privacidad
+      terms_of_use: Condiciones de uso
     subnav:
-      2257_exempt: Exento de 2257
+      2257_exempt: Exento del 2257
       legal_requests: Peticiones legales
       privacy: Política de privacidad
-      terms: Términos de uso
+      terms: Condiciones de uso
     title: Cháchara legal
   lockout:
     subtitle: Ha hecho saltar la alarma.
@@ -204,7 +204,7 @@ es:
   page_break:
     of: de
   privacy:
-    title: Privacy
+    title: Privacidad
   profile:
     about_title: Lista de amigos
     pictures_title: Imágenes
