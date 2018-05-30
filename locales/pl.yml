@@ -7,7 +7,7 @@ en:
       title: Five Strike Rule
     cta: To ja, wpuść mnie!
     error: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code above seems off. Please verify that the number above matches what you received from us and try again."
-    label: Authentication Code
+    label: Kod Autoryzacji
     page_title: 2-Factor Authentication
     subtitle: 2-Factor me baby!
     title: Secret Code
@@ -15,52 +15,52 @@ en:
     contact_info: Contact Info
     email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
     europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
+    got_question: Masz pytania? Potrzebujesz pomocy?
+    north_america: Ameryka Północna
     one_love: One love, one life, and a whole lot of kink.
     snail_mail: Snail Mail
     sub_header: Not to be confused with the Spartans.
     title: We. Are. FetLife!
   components:
-    step: Step
+    step: Krok
   feed:
-    comment: Comment
+    comment: Komentarz
     comments_count:
-      one: 1 Comment
-      other: "%{count_with_delimiter} Comments"
+      one: Jeden komentarz
+      other: "Komentarze %{count_with_delimiter}"
     composer:
       button: Say It
       placeholder: What say you?
-    love: Love
+    love: Polub
     loved_hover: Heart Breaker! :-(
     loves_count:
-      one: 1 Love
-      other: "%{count_with_delimiter} Loves"
+      one: Jedno polubienie
+      other: "Polubienia: %{count_with_delimiter}"
     modal:
-      close: close
-      more: more
-      reply: Reply
+      close: zamknij
+      more: więcej
+      reply: Odpowiedz
     title: Activity Feed
   following:
-    follow: Follow
-    following: Following
+    follow: Śledź
+    following: Śledzisz
   footer:
     advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
-    help: Help
-    privacy: Privacy
+    contact: Kontakt
+    glossary: Słowniczek
+    help: Pomoc
+    privacy: Polityka Prywatności
   forgot_password:
     email:
-      cta: Send me Email with Instructions
-      error_forgot_email: Email address is required.
+      cta: Wyślij mi email z instrukcją
+      error_forgot_email: Adres email jest wymagany
       error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
       error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
-      placeholder: Email Address
+      placeholder: Adres Email
       step1:
-        page_title: Reset Password via Email
-        subtitle: Let me help you with that.
-        title: Forgot Password?
+        page_title: Zresetuj hasło przez email
+        subtitle: Spokojnie, zaraz Ci pomożemy
+        title: Zapomniałeś hasła?
       step2:
         page_title: You "MIGHT" Have Mail
         subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
@@ -119,27 +119,27 @@ en:
   invite_a_friend:
     cancel_button: cancel
     cancel_notice: The invitation to %{email} has been canceled.
-    cta: Invite Your Friend to Join FetLife
+    cta: Zaprość znajomego na FetLife
     error: We're having problems sending an invite to the above email address. We recommend you verify the spelling or try a different one.
     error_forgot_email: Email address is required.
-    invitations_accepted: Invitations Accepted
+    invitations_accepted: Zaproszenia Zaakceptowane
     invitations_sent: Invitations Sent Out
     labels:
-      email: Email Address
-      friends_email: 'Send invite to:'
-      friends_email_sub: "%{count} invitations remaining"
-    next_step: next step
+      email: Adres Email
+      friends_email: 'Wyślij zaproszenie do:'
+      friends_email_sub: "Liczba zaproszeń: %{count}"
+    next_step: następny krok
     return_to_feed: return to feed
     subtitle_step1:
-      one: You have 1 invite left.
-      other: You have %{count_with_delimiter} invites left.
-    subtitle_step2: We've sent an invite from you to %{email}.
-    title_step1: Invite a Friend
-    title_step2: Invitation Sent
-    view_invitations: view your invitations
+      one: Pozostało Ci tylko jedno zaproszenie.
+      other: Liczba pozostałych zaproszeń to %{count_with_delimiter} .
+    subtitle_step2: Wysłaliśmy Twoje zaproszenie do %{email}.
+    title_step1: Zaproś Znajomego
+    title_step2: Wysłano Zaproszenie
+    view_invitations: sprawdź swoje zaproszenia
   landing_page:
-    login_button: Login to FetLife
-    signup_button: Join FetLife
+    login_button: Zaloguj się do FetLife
+    signup_button: Dołącz do FetLife
     stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
     stats_members: Members
     subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
@@ -160,63 +160,63 @@ en:
     subtitle: You've tripped our security system.
     title: Security, Security, Security!
   login:
-    button: Login to FetLife
-    error_flash: Please contact <a href="mailto:support@fetlife.com">support@fetlife.com</a> so we can help you get back in.
-    error_login_blank: Nickname or email can't be blank.
-    error_not_authenticated: Sorry my friend, you need to be logged in to get to that page. If you are not already a member it takes less than a minute to sign-up.
-    error_not_found: Hmmm, we were not able to find you. You sure you entered your nickname and password correctly? (Passwords are CaSe-SeNsItIvE)
-    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
-    error_password_blank: Password can't be blank.
-    error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname.
-    forgot_info: Forgot your login information?
+    button: Zaloguj się do FetLife
+    error_flash: Prosimy o kontakt z <a href="mailto:support@fetlife.com">support@fetlife.com</a>. Postaramy się pomóc.
+    error_login_blank: Pole nie może być puste!
+    error_not_authenticated: Niestety ale musisz być zalogowany żeby zobaczyć tą stronę! If you are not already a member it takes less than a minute to sign-up.
+    error_not_found: Niestety ale nie możemy Cię odnaleźć. Sprawdź czy podałeś poprawne dane. Pamiętaj hasło rozróżnia małe i duże litery.
+    error_password_blacklist: Twoje hasło jest zbyt łatwe. Wybierz silniejsze hasło.
+    error_password_blank: Hasło nie może być puste.
+    error_password_email: Twoje hasło nie może być takie samo jak Twój adres email.
+    error_password_nickname: Twoje hasło nie może być takie samo jak Twój login.
+    forgot_info: Zapomniałeś swoich danych?
     labels:
-      nickname: Nickname or Email
-      password: Password
-      remember_me: Remember me, I'll be back.
-    not_a_member: Not a member yet? Signup to FetLife
-    subtitle: We've missed you… big time!
-    title: Welcome Home
+      nickname: Login lub Email
+      password: Hasło
+      remember_me: Zapamiętaj mnie!
+    not_a_member: Nie masz jeszcze konta? Zarejestruj się!
+    subtitle: Tęskniliśmy...
+    title: Witaj
   logout:
-    log_in: log back in
+    log_in: zaloguj się ponownie
     subtitle: Make sure to come back and see us soon.
-    title: We'll Miss You!
+    title: Tęskniliśmy...
   member_stats:
     pics:
-      one: 1 pic
-      other: "%{count_with_delimiter} pics"
+      one: Jedno zdjęcie
+      other: "Zdjęcia: %{count_with_delimiter}"
     posts:
-      one: 1 post
-      other: "%{count_with_delimiter} posts"
+      one: Jeden post
+      other: "Posty: %{count_with_delimiter}"
     vids:
-      one: 1 vid
-      other: "%{count_with_delimiter} vids"
+      one: Jeden film
+      other: "Filmy: %{count_with_delimiter}"
   nav:
-    events: Events
+    events: Imprezy
     explore: Explore
-    fetishes: Fetishes
-    groups: Groups
+    fetishes: Fetysze
+    groups: Grupy
     home: Home
-    places: Places
-    search_placeholder: Search FetLife
-    videos: Videos
-    writings: Writings
+    places: Miejsca
+    search_placeholder: Przeszukaj FetLife
+    videos: Filmy
+    writings: Artykuły
   page_break:
-    of: of
+    of: z
   privacy:
-    title: Privacy
+    title: Polityka Prywatności
   profile:
-    about_title: Friend List
-    pictures_title: Pictures
-    videos_title: Videos
+    about_title: Lista Znajomych
+    pictures_title: Zdjęcia
+    videos_title: Filmy
   promote_following:
-    button: Turn Following On
-    ps: P.S. You can turn following off at any time.
-    skip: Don't turn following on for me
-    subtitle: Separate your friends from your followers.
-    title: Introducing Following
+    button: Włącz śledzenie
+    ps: PS możesz to zmienić w dowolnym momencie 
+    skip: Nie włączaj opcji śledzenie
+    subtitle: Oddziel znajomych od nieznajomych, tych którzy Cię tylko śledzą
+    title: Wprowadzamy opcję śledzenia
   recommendations:
-    title: Recommendations
+    title: Rekomendacje
   reset_password:
     cta: Reset My Password
     error_confirmation_match: Password confirmation doesn't match Password.
@@ -230,7 +230,7 @@ en:
     subtitle: Not too short, not too long, just the…
     title: Reset Password
   select_language:
-    button: Change Default Language
+    button: Zmień Domyślny Język
     help_translate: Visit our <a class="silver" href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
     language_name: English
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
@@ -424,27 +424,27 @@ en:
       kp: Kinky<span class="a-ampersand">&amp;</span>Popular
       kp_short: Popular
     profile:
-      about: About Me
-      about_short: About
-      latest: Latest Activity
-      latest_short: Latest
-      pictures: Pictures
-      pictures_short: Pics
-      videos: Videos
-      videos_short: Vids
-      writings: Writings
-      writings_short: Writings
+      about: O Mnie
+      about_short: O Mnie
+      latest: Ostatnie Aktywności
+      latest_short: Aktywności
+      pictures: Zdjęcia
+      pictures_short: Zdjęcia
+      videos: Filmy
+      videos_short: Filmy
+      writings: Artykuły
+      writings_short: Artykuły
     settings:
-      account: Account
-      account_short: Account
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profile
-      profile_short: Profile
-      support: Support
-      support_short: Support
+      account: Ustawienia Konta
+      account_short: Konto
+      notifications: Powiadomienia
+      notifications_short: Powiadomienia
+      privacy: Prywatność
+      privacy_short: Prywatność
+      profile: Mój Profil
+      profile_short: Profil
+      support: Wesprzyj FetLife
+      support_short: Wesprzyj
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -806,4 +806,4 @@ en:
       page_title: Thank You <span class='baskerville i'>&amp;</span> Next Steps
       tab_title: Thank You & Next Steps
       thank_you: Thank You!
-    title: Help Support FetLife!
+    title: Wesprzyj FetLife!
