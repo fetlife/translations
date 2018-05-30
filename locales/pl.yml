@@ -3,16 +3,16 @@ en:
   2fa:
     5strike:
       return: wróć na stronę główną
-      subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try to login again.
+      subtitle: Przykro nam ale musisz odczekać dwie godziny zanim będziesz mógł spróbować ponownie.
       title: Five Strike Rule
     cta: To ja, wpuść mnie!
     error: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code above seems off. Please verify that the number above matches what you received from us and try again."
     label: Kod Autoryzacji
-    page_title: 2-Factor Authentication
-    subtitle: 2-Factor me baby!
-    title: Secret Code
+    page_title: Weryfikacja Dwuetapowa 
+    subtitle: Wyższy poziom bezpieczeństwa!
+    title: Sekretny Kod
   about:
-    contact_info: Contact Info
+    contact_info: Informacje Kontaktowe
     email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
     europe: Europe
     got_question: Masz pytania? Potrzebujesz pomocy?
@@ -29,8 +29,8 @@ en:
       one: Jeden komentarz
       other: "Komentarze %{count_with_delimiter}"
     composer:
-      button: Say It
-      placeholder: What say you?
+      button: Wyślij
+      placeholder: Czym ciekawym chcesz się podzielić?
     love: Polub
     loved_hover: Heart Breaker! :-(
     loves_count:
@@ -40,12 +40,12 @@ en:
       close: zamknij
       more: więcej
       reply: Odpowiedz
-    title: Activity Feed
+    title: Tablica Aktywności
   following:
     follow: Śledź
     following: Śledzisz
   footer:
-    advertising: Advertising
+    advertising: Reklama
     contact: Kontakt
     glossary: Słowniczek
     help: Pomoc
@@ -62,24 +62,24 @@ en:
         subtitle: Spokojnie, zaraz Ci pomożemy
         title: Zapomniałeś hasła?
       step2:
-        page_title: You "MIGHT" Have Mail
+        page_title: Jest szansa że masz wiadomość
         subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
         title: You &ldquo;Might&rdquo; Have Mail!
       update_email: update email address
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."
     mobile:
       5strike:
-        return: return to front page
+        return: wróć na stronę główną
         subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
         title: Five Strike Rule
-      cta: Send me Text Message
+      cta: Wyślij mi SMS
       error_country_code: "<strong>Kinky Operator:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
       error_quota: "<strong>Kinky Operator:</strong> Shoot, we can only try to send up to 3 text messages every 24 hours to any mobile number. If the number exists in our database or not."
       pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
       step1:
-        page_title: Reset Password via Text Message
+        page_title: Zresetuj moje hasło przez SMS
         subtitle: Let me help you with that.
-        title: Forgot Password?
+        title: Zapomniałeś hasła?
       step2:
         cta: Verify You are You &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> Verification code you entered is incorrect. Verify that the number above matches what you received from us and please try again. This is a recording."
@@ -90,7 +90,7 @@ en:
         title: Enter Verification Code
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if a mobile number exists in our database or not. If you don't get a text message from us, it's most likely because we don't have an account associated with that number."
     next_step: next step
-    return_to_login: return to login
+    return_to_login: powrót do logowania
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
@@ -218,35 +218,35 @@ en:
   recommendations:
     title: Rekomendacje
   reset_password:
-    cta: Reset My Password
+    cta: Zresetuj Hasło
     error_confirmation_match: Password confirmation doesn't match Password.
     error_password_range: Password needs to be between 8 and 100 characters.
     error_token_expired: Reset password token has expired, please request a new one.
     error_token_invalid: Reset password token is invalid.
     footnote: "<b>Pro Tip:</b> Remember your password."
-    label_enter: New Password
-    label_re_enter: Re-Enter New Password
+    label_enter: Nowe Hasło
+    label_re_enter: Powtórz Nowe Hasło
     status_flash_success: Your password has been changed successfully.
     subtitle: Not too short, not too long, just the…
-    title: Reset Password
+    title: Resetuj Hasło
   select_language:
     button: Zmień Domyślny Język
     help_translate: Visit our <a class="silver" href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
     language_name: English
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
-    title: Select Language
+    title: Wybierz Język
   settings_account:
     2fa_cta: Turn On 2-Factor Authentication
-    2fa_label: 2-Factor Authentication
+    2fa_label: Weryfikacja Dwuetapowa
     anti_pro_tip: <strong>Anti-Pro Tip:</strong> You can <a href="#">deactivate</a> or <a href="#">delete</a> your account if you really want to but three in four Popes highly discourage it.
-    current_password_label: Current Password
-    email_cta: Update Email Address
+    current_password_label: Obecne Hasło
+    email_cta: Uaktualnij Adres Email
     email_label: Email
-    email_placeholder: Email Address
-    language_cta: Update Default Language
+    email_placeholder: Adres Email
+    language_cta: Zmień Domyślny Język
     language_notice: FetLife isn’t yet fully available in languages other than English. If you change the setting here, not all of the website will be translated.
-    new_password_label: New Password
-    nickname_cta: Change Nickname
+    new_password_label: Nowe Hasło
+    nickname_cta: Zmień Login
     nickname_label: 'Change your nickname from "JohnBaku" to:'
     nickname_notice: "<strong>Pro Tip:</strong> Measure twice, cut once. You can only change your nickname once every 28 days. No take backs."
     nickname_placeholder: New Nickname
@@ -256,12 +256,12 @@ en:
     subtitle: Don't press the big red button.
     title: Account Settings
   settings_notifications:
-    cta: Update Default Language
-    language_label: Language
+    cta: Zmień Domyślny Język
+    language_label: Język
     notice: FetLife isn’t yet fully available in languages other than English. If you change the setting here, not all of the website will be translated.
-    page_title: Language - Settings
-    subtitle: What's your preferred language?
-    title: Language
+    page_title: Ustawienia Języka
+    subtitle: Jaki jest Twój preferowany język?
+    title: Język
   settings_privacy:
     blocked_list_subtitle: For those on your naughty list.
     blocked_list_title: Blocked List
@@ -273,74 +273,74 @@ en:
     following: Following
     page_title: Privacy Settings
     subtitle: Served the way you like it.
-    title: Privacy
+    title: Prywatność
     warning: "<strong>Extremely Important</strong>: Turning off following will unfollow everyone who is currently following you. No take backs. Seriously."
   settings_profile:
-    about_you_label: About You
-    add_website: "+ add another website"
-    cta: Update Your Profile
-    dob_label: Date of Birth
-    location_label: Location
-    looking_for_label: Looking For
-    page_title: Update Profile
+    about_you_label: O Tobie
+    add_website: "+ dodaj kolejną stronę"
+    cta: Aktualizuj Swój Profil
+    dob_label: Data Urodzenia
+    location_label: Lokalizacja
+    looking_for_label: Szukam
+    page_title: Uaktualnij Profil
     subtitle: Personal growth is a good thing.
-    title: Your Profile
-    websites_label: Websites
+    title: Twój Profil
+    websites_label: Strony Internetowe
     websites_placeholder: https://fetlife.com
   settings_support:
-    cta: Update Email Address
-    email_label: Update Email Address
-    email_placeholder: Email Address
-    page_title: Update Email Address - Settings
-    subtitle: Just in case you forget your password.
-    title: Update Email Address
+    cta: Zmień Adres Email
+    email_label: Zmień Adres Email
+    email_placeholder: Adres Email
+    page_title: Zmień Adres Email
+    subtitle: W przypadku gdy zapomnisz swojego hasła
+    title: Zmień Adres Email
   sidebar:
-    about_fetlife: Meet the Team
+    about_fetlife: Poznaj Nasz Zespół
     ad_stats: Ad Stats
-    advertising: Advertising
+    advertising: Reklama
     already_member: Already a member?
-    androidapp: Install FetLife Android App
+    androidapp: Zainstaluj Aplikację Android
     bug_bounty: Bug Bounty
-    caretaking: Caretaker Tools
-    change_language: Change Language
-    close: close
-    contact_us: Contact Us
-    edit_profile: Edit Profile
-    edit_settings: Update Settings
-    events: Events
-    fetishes: Fetishes
-    following: Following
-    fp: Fresh & Pervy
-    funny_quote: If you can't read this ... you probably need glasses! - John 4:69
+    caretaking: Opcje Wsparcia
+    change_language: Zmień Język
+    close: zamknij
+    contact_us: Kontkat
+    edit_profile: Aktualizuj Profil
+    edit_settings: Zmień Ustawienia
+    events: Imprezy
+    fetishes: Fetysze
+    following: Śledzisz
+    fp: Świeżynki 
+    funny_quote: Grzeczne dziewczynki idą do nieba, niegrzeczne mają niebo na ziemi!
     gift_support: Gift FetLife Support
-    glossary: Glossary
-    groups: Groups
-    guidelines: Guidelines
+    glossary: Słowniczek
+    groups: Grupy
+    guidelines: Zasady
     home: Home
-    invite_a_friend: Invite a Friend (%{count})
+    invite_a_friend: Zaproś Znajomych (%{count})
     kp: Kinky & Popular
     legalese: Legalese
-    log_out: Logout
-    login: Log In
-    loved_stuff: Stuff You Love
-    need_help: Need Help?
+    log_out: Wyloguj
+    login: Zaloguj
+    loved_stuff: Twoje Polubienia
+    need_help: Potrzebujesz pomocy?
     open_source: Open Source
-    places: Places
+    places: Miejsca
     preservation_requests: Preservation Requests
-    privacy: Privacy
-    recommendations: Recommendations
-    signup: Join FetLife
-    subscriptions: Subscriptions
-    support: Support FetLife
-    terms: Terms
-    upload_picture: Upload Picture
-    upload_video: Upload Video
-    videos: Videos
-    view_friends: View Friends
-    wallpapers: FetLife Wallpapers
-    whats_new: What's New
-    write_post: Write Post
-    writings: Writings
+    privacy: Polityka Prywatności
+    recommendations: Rekomendacje
+    signup: Dolącz do FetLife
+    subscriptions: Subskrybcje
+    support: Wesprzyj FetLife
+    terms: Zasady
+    upload_picture: Dodaj Zdjęcie
+    upload_video: Dodaj Film
+    videos: Filmy
+    view_friends: Znajomi
+    wallpapers: Tapety FetLife
+    whats_new: Co Nowego
+    write_post: Napisz Artykuł
+    writings: Artykuły
   signup:
     almost_there: Almost There!
     error_bar: Dallas, we have a problem. Scroll down for more info.
@@ -364,18 +364,18 @@ en:
     error_state_missing: State/Province has to be selected.
     footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
-      birthdate: Birthdate
-      city: City
-      country: Country
-      email: Email Address
-      gender: Gender
-      location: Location
-      nickname: Nickname
-      password: Password
-      role: Role
-      sexual_orientation: Sexual Orientation
-      state: State/Province
-    page_title: Join
+      birthdate: Data Urodzenia
+      city: Miasto
+      country: Region
+      email: Adres Email
+      gender: Płeć
+      location: Lokalizacja
+      nickname: Login
+      password: Hasło
+      role: Rola
+      sexual_orientation: Orientacja Seksualna
+      state: Województwo
+    page_title: Dołącz
     return_to_login: Already a member? Login to FetLife
     subtitle: Tell us a little bit about yourself.
     subtitle_invite: "%{name} invited you to join FetLife."
