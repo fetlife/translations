@@ -26,8 +26,8 @@ pl:
   feed:
     comment: Skomentuj
     comments_count:
-      one: 1 komentarz
       few: "%{count_with_delimiter} komentarze"
+      one: 1 komentarz
       other: "%{count_with_delimiter} komentarzy"
     composer:
       button: Powiedz to!
@@ -35,8 +35,8 @@ pl:
     love: Pokochaj
     loved_hover: Łamacz serc! :-(
     loves_count:
-      one: 1 Serducho
       few: "%{count_with_delimiter} serducha"
+      one: 1 Serducho
       other: "%{count_with_delimiter} serduch"
     modal:
       close: zamknij
@@ -66,7 +66,7 @@ pl:
       step2:
         page_title: MOŻE dostałeś mejla!
         subtitle: Jeśli istnieje jakiś profil powiązany z adresem <span class='fw7'>%{given_email}</span>, to wysłaliśmy na niego instrukcje jak zmienić Twoje hasło.
-        title: &ldquo;Może&rdquo; dostałeś mejla!
+        title: "&ldquo;Może&rdquo; dostałeś mejla!"
       update_email: zaktualizuj adres e-mail
       warning: "<strong>Ostrzeżenie ordynatora:</strong> Ze względów bezpieczeństwa, nie możemy Ci powiedzieć czy dany adres e-mail istnieje w naszej bazie czy nie. Jeśli nie masz nic w skrzynce, to najprawdopodobniej nie mamy konta powiązanego z tym adresem."
     mobile:
@@ -96,7 +96,23 @@ pl:
     tab_email: E-mail
     tab_mobile: Telefon
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Ostatnio zaktualizowane:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Społeczność
       content: Zawartość
@@ -113,12 +129,12 @@ pl:
     labels:
       email: Adres e-mail
       friends_email: 'Wyślij zaproszenie do:'
-      friends_email_sub: "Pozostało zaproszeń: %{count}"
+      friends_email_sub: 'Pozostało zaproszeń: %{count}'
     next_step: następny krok
     return_to_feed: powrót do dziennika
     subtitle_step1:
       one: Zostało Ci 1 zaproszenie.
-      other: "Pozostało zaproszeń: %{count_with_delimiter}."
+      other: 'Pozostało zaproszeń: %{count_with_delimiter}.'
     subtitle_step2: Wysłaliśmy zaproszenie od Ciebie dla %{email}.
     title_step1: Zaproś znajomego
     title_step2: Zaproszenie wysłane
@@ -131,6 +147,11 @@ pl:
     subtitle: Jak Facebook, ale robiony przez kinksterów takich jak Ty czy ja. Tak jest chyba fajniej, nie?
     title: FetLife to sieć społecznościowa o tematyce BDSM, fetyszy i perwersji.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 Exempt
       legal_requests: Legal Requests
@@ -145,7 +166,7 @@ pl:
     error_flash: Skontaktuj się z <a href="mailto:support@fetlife.com">support@fetlife.com</a> żebyśmy mogli Ci pomóc się zalogować.
     error_login_blank: Ksywka ani e-email nie mogą być puste.
     error_not_authenticated: Przepraszamy, ale musisz się zalogować żeby wejść na tą stronę. Jeśli nie masz jeszcze konta, możesz je założyć w mniej niż minutę.
-    error_not_found: Hmmm, no coś nie możemy Cię znaleźć. Czy ksywka i hasło są podane poprawnie? (WiElKoŚć LiTeR ma znaczenie w hasłach) 
+    error_not_found: Hmmm, no coś nie możemy Cię znaleźć. Czy ksywka i hasło są podane poprawnie? (WiElKoŚć LiTeR ma znaczenie w hasłach)
     error_password_blacklist: Wybrane hasło jest zbyt łatwe do zgadnięcia. Wybierz inne.
     error_password_blank: Hasło nie może być puste.
     error_password_email: Twoje hasło nie może być takie samo jak użytkownik e-mail.
@@ -165,13 +186,13 @@ pl:
   member_stats:
     pics:
       one: 1 fotka
-      other: "fotki: %{count_with_delimiter}"
+      other: 'fotki: %{count_with_delimiter}'
     posts:
       one: 1 post
-      other: "posty: %{count_with_delimiter}"
+      other: 'posty: %{count_with_delimiter}'
     vids:
       one: 1 filmik
-      other: "filmiki: %{count_with_delimiter}"
+      other: 'filmiki: %{count_with_delimiter}'
   nav:
     events: Wydarzenia
     explore: Eksploruj
@@ -184,6 +205,8 @@ pl:
     writings: Wpisy
   page_break:
     of: z
+  privacy:
+    title: Privacy
   profile:
     about_title: Lista znajomych
     pictures_title: Fotki
@@ -441,6 +464,7 @@ pl:
       title: What do I get for supporting FetLife?
     cta_labels:
       ach: Bank Transfer (ACH)
+      cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -508,6 +532,9 @@ pl:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
+      cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
@@ -594,6 +621,14 @@ pl:
       type_savings: Savings
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
+    step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
