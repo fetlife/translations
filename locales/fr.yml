@@ -94,7 +94,23 @@ fr:
     tab_email: Email
     tab_mobile: Mobile
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 'Dernière mise à jour :'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: Communauté
       content: Contenu
@@ -129,6 +145,11 @@ fr:
     subtitle: Comme Facebook, mais géré par des kinksters comme toi et moi. On pense que c’est plus amusant comme ça. Pas toi ?
     title: FetLife est le réseau social de la communauté BDSM, fétiche & kinky.
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: Exemption 2257
       legal_requests: Requêtes légales
@@ -182,6 +203,8 @@ fr:
     writings: Writings
   page_break:
     of: de
+  privacy:
+    title: Privacy
   profile:
     about_title: Liste d’ami⋅e⋅s
     pictures_title: Photos
@@ -314,6 +337,7 @@ fr:
     upload_video: Envoyer vidéo
     videos: Videos
     view_friends: Voir ami⋅e⋅s
+    wallpapers: FetLife Wallpapers
     whats_new: Quoi de neuf
     write_post: Écrire un post
     writings: Writings
@@ -338,7 +362,7 @@ fr:
     error_role_required: Le rôle doit être sélectionné.
     error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée.
     error_state_missing: L’état/la province doit être sélectionné⋅e.
-    footnote: En cliquant sur le bouton ci-dessus vous acceptez de respecter et de suivre nos <a class="silver" href="%{guidelines_path}">Lignes directrices communautaires</a> et nos <a class="silver" href="%{tou_path}">Conditions d’utilisation</a>&hellip; Sans retour.
+    footnote: By clicking "Compléter l’inscription & la vérification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Date de naissance
       city: Ville
@@ -438,6 +462,7 @@ fr:
       title: Qu’est-ce que je gagne en supportant FetLife ?
     cta_labels:
       ach: Virement bancaire (ACH)
+      cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -505,6 +530,9 @@ fr:
       ach:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire aux États Unis.
         title: Virement bancaire US (ACH)
+      cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
         title: Bitcoin
@@ -591,6 +619,14 @@ fr:
       type_savings: Économies
       zip_label: Code ZIP
       zip_sub_label: associé au compte bancaire
+    step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Supporter FetLife avec des Bitcoin
       intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'
@@ -763,7 +799,7 @@ fr:
       thank_you: Encore merci !
     thank_you_interac:
       cta_home: Ramenez-moi sur mon fil
-      next_steps_final_default: nous allons l’attacher à votre profil.
+      next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: nous allons l’attacher au profil de %{nickname}.
       next_steps_first: Cela peut <span>prendre une heure ou deux</span> avant que nous ne recevions votre Interac e-Transfer, mais dès que nous l’avons
       next_steps_title: 'Étapes suivantes :'

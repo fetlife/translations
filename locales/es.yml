@@ -94,7 +94,23 @@ es:
     tab_email: Correo electrónico
     tab_mobile: Móvil
   guidelines:
+    header: Directrices de FetLife y Cháchara legal
+    headers:
+      community: Directrices de la comunidad
+      content: Directrices de contenido
+      group_leader: Directrices de Líder de grupo
     last_updated: 'Última actualización:'
+    sections:
+      guidelines:
+        description: Para ayudar a hacer FetLife un lugar divertido para todos, le pedimos amablemente a todo el mundo que siga nuestras directrices de contenido, comunidad y grupos.
+        title: Directrices
+      legalese:
+        description: Esta sección contiene las condiciones de uso que todos los miembros aceptan cuando se registran en FetLife. ¡Hemos intenado mantener las cosas tan sencillas y claras como nos ha sido posible!
+        title: Cháchara legal
+      privacy:
+        description: ¿Cuán seguros están tus datos y qué está haciendo FetLife para protegerlos? En FetLife, tratamos sus datos como queremos que traten los nuestros.
+        title: Privacidad
+    subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
       community: Comunidad
       content: Contenido
@@ -129,11 +145,16 @@ es:
     subtitle: Al igual que Facebook, pero dirigido por kinksters como usted y yo. Creemos que así es más divertido. ¿Verdad?
     title: FetLife es la red social para la comunidad BDSM, fetichista y kinky.
   legalese:
+    headers:
+      2257_exempt: Exento del 2257
+      guidelines_for_legal_requests: Peticiones legales
+      privacy_policy: Política de privacidad
+      terms_of_use: Condiciones de uso
     subnav:
-      2257_exempt: Exento de 2257
+      2257_exempt: Exento del 2257
       legal_requests: Peticiones legales
       privacy: Política de privacidad
-      terms: Términos de uso
+      terms: Condiciones de uso
     title: Cháchara legal
   lockout:
     subtitle: Ha hecho saltar la alarma.
@@ -182,6 +203,8 @@ es:
     writings: Escritos
   page_break:
     of: de
+  privacy:
+    title: Privacidad
   profile:
     about_title: Lista de amigos
     pictures_title: Imágenes
@@ -314,6 +337,7 @@ es:
     upload_video: Subir vídeo
     videos: Vídeos
     view_friends: Ver amigos
+    wallpapers: FetLife Wallpapers
     whats_new: Qué hay de nuevo
     write_post: Escribir publicación
     writings: Escritos
@@ -338,7 +362,7 @@ es:
     error_role_required: Se requiere su rol.
     error_sexual_orientation_required: Se requiere su orientación sexual.
     error_state_missing: Debe seleccionar un estado/provincia.
-    footnote: Al hacer clic en el botón de arriba se compromete a respetar y seguir nuestras <a class="silver" href="%{guidelines_path}">Normas de la comunidad</a> y <a class="silver" href="%{tou_path}">Términos de Uso</a>&hellip; no se admiten devoluciones.
+    footnote: Al hacer click en "Completar el registro y la verificación" aceptas respetar y seguir nuestras <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Condiciones de uso</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de privacidad</a>, y <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Directrices de la comunidad</a>.
     label:
       birthdate: Fecha de nacimiento
       city: Ciudad
@@ -383,7 +407,7 @@ es:
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Es hora de la verificación!"
   signup_verify:
-    cta: Complete la registración y verificación
+    cta: Completar el registro y la verificación
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de verificación
     notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}">actualice su número y le enviaremos un nuevo código de verificación</a>.
@@ -438,6 +462,7 @@ es:
       title: "¿Que saco yo por apoyar a FetLife?"
     cta_labels:
       ach: Bank Transfer (ACH)
+      cc_curo: Tarjeta de crédito
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -505,6 +530,9 @@ es:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
+      cc_curo:
+        extra_info: Aceptamos Visa, V Pay, Mastercard y Maestro. Es sencillo y seguro.
+        title: Tarjeta de crédito
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
@@ -591,6 +619,14 @@ es:
       type_savings: Savings
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
+    step3_cc_curo:
+      cta: Apoyar a FetLife con tarjeta de crédito
+      first_name_label: Nombre
+      first_name_sub_label: asociado con la tarjeta de crédito
+      last_name_label: Apellidos
+      last_name_sub_label: asociados con la tarjeta de crédito
+      secure: Tan seguro como Fort Knox además no guardamos ninguna información personal.
+      title: Pago con tarjeta de crédito
     step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
@@ -763,8 +799,8 @@ es:
       thank_you: "¡Gracias de nuevo!"
     thank_you_interac:
       cta_home: Llévame a mi registro de actividad
-      next_steps_final_default: lo asociaremos a su perfil.
-      next_steps_final_gift: lo asociaremos al perfil de %{nickname}.
+      next_steps_final_default: asociaremos a su perfil y se lo notificaremos.
+      next_steps_final_gift: asociaremos al perfil de %{nickname}.
       next_steps_first: Puede <span>tardar un par de horas</span> el recibir su Interac e-Transfer, pero en cuanto lo tengamos lo
       next_steps_title: 'Siguientes pasos:'
       page_title: Agradecimientos <span class='baskerville i'>&amp;</span> Siguientes pasos

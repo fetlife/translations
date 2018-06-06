@@ -94,7 +94,23 @@ zh:
     tab_email: 邮箱
     tab_mobile: 手机号
   guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
     last_updated: 最近更新于：
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
       community: 社群
       content: 内容
@@ -129,6 +145,11 @@ zh:
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
   legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
     subnav:
       2257_exempt: 2257 豁免条款
       legal_requests: 法务请求
@@ -182,6 +203,8 @@ zh:
     writings: 写作
   page_break:
     of: of
+  privacy:
+    title: Privacy
   profile:
     about_title: 好友列表
     pictures_title: 图片
@@ -314,6 +337,7 @@ zh:
     upload_video: 上传视频
     videos: 视频
     view_friends: 查看好友列表
+    wallpapers: FetLife Wallpapers
     whats_new: 有啥新鲜的
     write_post: 写文章
     writings: 写作
@@ -338,7 +362,7 @@ zh:
     error_role_required: 角色必选。
     error_sexual_orientation_required: 性取向必选。
     error_state_missing: 省份/州份必选。
-    footnote: 点击以上按钮意味着你已经同意遵守我们的<a class="silver" href="%{guidelines_path}">社区守则</a>和<a class="silver" href="%{tou_path}">使用条款</a>&hellip;别反悔。
+    footnote: By clicking "完成注册认证" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: 出生日期
       city: 城市
@@ -438,6 +462,7 @@ zh:
       title: 赞助 FetLife 我能得到啥？
     cta_labels:
       ach: Bank Transfer (ACH)
+      cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -505,6 +530,9 @@ zh:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
+      cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
@@ -591,6 +619,14 @@ zh:
       type_savings: Savings
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
+    step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
@@ -763,7 +799,7 @@ zh:
       thank_you: Thanks Again!
     thank_you_interac:
       cta_home: Take Me to My Feed
-      next_steps_final_default: will attach it to your profile.
+      next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: will attach it to %{nickname}'s profile.
       next_steps_first: It can <span>take a couple of hours</span> before we receive your Interac e-Transfer, but once we get it we
       next_steps_title: 'Next Steps:'
