@@ -1,0 +1,811 @@
+---
+pl:
+  2fa:
+    5strike:
+      return: powrót na stronę główną
+      subtitle: Eh... ze względów bezpieczeństwa musisz odczekać dwie godziny zanim będzie można się znów zalogować.
+      title: Zasada Pięciu Prób
+    cta: To ja, wpuść mnie!
+    error: "<strong>Kinky operator:</strong> Yhm&hellip; powyższy kod weryfikacyjny niezbyt się zgadza. Upewnij się że to ten, który Ci wysłaliśmy i spróbuj ponownie."
+    label: Kod autoryzacyjny
+    page_title: Weryfikacja dwuetapowa
+    subtitle: Weź mnie na dwa etapy!
+    title: Tajny kod
+  about:
+    contact_info: Informacje kontaktowe
+    email_us: Napisz do nas pod <a href="mailto:support@fetlife.com">support@fetlife.com</a> a odpiszemy jak z bicza trzasł!
+    europe: Europa
+    got_question: Masz pytanie? Potrzebujesz pomocy?
+    north_america: Ameryka Północna
+    one_love: One love, one life, and a whole lot of kink.
+    snail_mail: Prawdziwa poczta
+    sub_header: Nie mylić ze Spartanami.
+    title: We. Are. FetLife!
+  components:
+    step: Krok
+  feed:
+    comment: Skomentuj
+    comments_count:
+      few: "%{count_with_delimiter} komentarze"
+      one: 1 komentarz
+      other: "%{count_with_delimiter} komentarzy"
+    composer:
+      button: Powiedz to!
+      placeholder: I co Ty na to?
+    love: Pokochaj
+    loved_hover: Łamacz serc! :-(
+    loves_count:
+      few: "%{count_with_delimiter} serducha"
+      one: 1 Serducho
+      other: "%{count_with_delimiter} serduch"
+    modal:
+      close: zamknij
+      more: więcej
+      reply: Odpowiedz
+    title: Dziennik aktywności
+  following:
+    follow: Śledź
+    following: Śledzę
+  footer:
+    advertising: Reklama
+    contact: Skontaktuj się z nami
+    glossary: Słowniczek
+    help: Pomoc
+    privacy: Prywatność
+  forgot_password:
+    email:
+      cta: Wyślij mi e-mail z instrukcjami
+      error_forgot_email: Adress e-mail jest wymagany.
+      error_invalid_email: To nie wygląda mi na poprawny adres e-mail. Możesz zerknąć i wysłać jeszcze raz?
+      error_quota: Możemy wysłać tylko dwa e-maile na godzinę do każdego adresu. Sprawdź proszę czy nasz e-mail nie wylądował w Spamie. Jeśli na pewno nic tam nie ma to polecam wykorzystać jedną z powyższych metod aby dostać się na swoje konto.
+      placeholder: Adres e-mail
+      step1:
+        page_title: Zmiana hasła poprzez e-mail
+        subtitle: Niech no Ci pomogę.
+        title: Zapomniane hasło?
+      step2:
+        page_title: MOŻE dostałeś mejla!
+        subtitle: Jeśli istnieje jakiś profil powiązany z adresem <span class='fw7'>%{given_email}</span>, to wysłaliśmy na niego instrukcje jak zmienić Twoje hasło.
+        title: "&ldquo;Może&rdquo; dostałeś mejla!"
+      update_email: zaktualizuj adres e-mail
+      warning: "<strong>Ostrzeżenie ordynatora:</strong> Ze względów bezpieczeństwa, nie możemy Ci powiedzieć czy dany adres e-mail istnieje w naszej bazie czy nie. Jeśli nie masz nic w skrzynce, to najprawdopodobniej nie mamy konta powiązanego z tym adresem."
+    mobile:
+      5strike:
+        return: powrót do strony głównej
+        subtitle: Eh... ze względów bezpieczeństwa musisz odczekać dwie godziny zanim będzie można się znów zalogować.
+        title: Zasada Pięciu Prób
+      cta: Wyślij mi SMSa
+      error_country_code: "<strong>Kinky Operator:</strong> Upewnij się że Twój numer zaczyna się od kodu kraju: +48 dla Polski, +1 dla Stanów Zjednoczonych i Kanady, +44 dla Wielkiej Brytanii, +61 dla Australii, +31 dla Holandii, +49 dla Niemiec, +33 dla Francji, itd."
+      error_quota: "<strong>Kinky Operator:</strong> No sorry, ale możemy wysłać tylko 3 SMSy na dobę do dowolnego numeru. Niezależnie od tego czy istnieje w naszej bazie czy nie."
+      pro_tip: "<strong>Wskazówka:</strong> Upewnij się że Twój numer zaczyna się od kodu kraju: +48 dla Polski, +1 dla Stanów Zjednoczonych i Kanady, +44 dla Wielkiej Brytanii, +61 dla Australii, +31 dla Holandii, +49 dla Niemiec, +33 dla Francji, itd."
+      step1:
+        page_title: Zmiana hasła SMSem
+        subtitle: Niech no Ci pomogę.
+        title: Zapomniane hasło?
+      step2:
+        cta: Udowodnij że Ty to Ty &#8482;
+        error_code_match: "<strong>Kinky Operator:</strong> Podany kod weryfikacyjny jest niepoprawny. Upewnij się że powyższy kod zgadza się z tym co Ci wysłaliśmy."
+        inexisting_number: Jeśli po kilku minutach nie masz od nas żadnego SMSa, to prawdopodobnie nie mamy profilu powiązanego z takim numerem. Polecamy albo <a href="%{forgot_password_email_path}">spróbować zmienić hasło używając innej metody</a> albo <a href="%{signup_path}">założyć nowy profil na FetLife</a>.
+        label: 6-cyfrowy numer weryfikacyjny.
+        page_title: Podaj kod weryfikacyjny
+        subtitle: Wprowadź proszę 6-cyfrowy kod weryfikacyjny który "być może" właśnie wysłaliśmy pod numer %{phone_number}.
+        title: Podaj kod weryfikacyjny
+      warning: "<strong>Ostrzeżenie ordynatora:</strong> Ze względów bezpieczeństwa, nie możemy Ci powiedzieć czy dany numer telefonu istnieje w naszej bazie czy nie. Jeśli nie masz żadnego SMSa od nas, to najprawdopodobniej nie mamy konta powiązanego z tym numerem."
+    next_step: następny krok
+    return_to_login: powrót do strony logowania
+    tab_email: E-mail
+    tab_mobile: Telefon
+  guidelines:
+    header: FetLife Guidelines & Legalese
+    headers:
+      community: Community Guidelines
+      content: Content Guidelines
+      group_leader: Group Leader Guidelines
+    last_updated: 'Ostatnio zaktualizowane:'
+    sections:
+      guidelines:
+        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
+        title: Guidelines
+      legalese:
+        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
+        title: Legalese
+      privacy:
+        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        title: Privacy
+    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+    subnav:
+      community: Społeczność
+      content: Zawartość
+      group_leader: Lider grupy
+    title: Wytyczne
+  invite_a_friend:
+    cancel_button: anuluj
+    cancel_notice: Anulowano zaproszenie dla %{email}.
+    cta: Zaproś znajomych na FetLife
+    error: Były kłopoty z wysłaniem zaproszenia pod powyższy adres. Sprawdź pisownię albo spróbuj jakiegoś innego.
+    error_forgot_email: Adres e-mail jest wymagany.
+    invitations_accepted: Przyjęte zaproszenia
+    invitations_sent: Wysłane zaproszenia
+    labels:
+      email: Adres e-mail
+      friends_email: 'Wyślij zaproszenie do:'
+      friends_email_sub: 'Pozostało zaproszeń: %{count}'
+    next_step: następny krok
+    return_to_feed: powrót do dziennika
+    subtitle_step1:
+      one: Zostało Ci 1 zaproszenie.
+      other: 'Pozostało zaproszeń: %{count_with_delimiter}.'
+    subtitle_step2: Wysłaliśmy zaproszenie od Ciebie dla %{email}.
+    title_step1: Zaproś znajomego
+    title_step2: Zaproszenie wysłane
+    view_invitations: pokaż zaproszenia
+  landing_page:
+    login_button: Zaloguj się do FetLife
+    signup_button: Dołącz do FetLife
+    stats_details: udostępniają <strong class="fw4 silver">%{picture_count} obrazków</strong> i <strong class="fw4 silver">%{video_count} filmików</strong>, biorą udział w <strong class="fw4 silver">%{discussion_count} dyskusjach</strong> w <strong class="fw4 silver">%{group_count} grupach</strong>, idą na <strong class="fw4 silver">%{event_count} nadchodzących wydarzeń</strong>, i czytają <strong class="fw4 silver">%{post_count} wpisów na blogach</strong>. <span><span class="i">Raj dla kinksterów!</span>
+    stats_members: Członkowie
+    subtitle: Jak Facebook, ale robiony przez kinksterów takich jak Ty czy ja. Tak jest chyba fajniej, nie?
+    title: FetLife to sieć społecznościowa o tematyce BDSM, fetyszy i perwersji.
+  legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Legal Requests
+      privacy_policy: Privacy Policy
+      terms_of_use: Terms of Use
+    subnav:
+      2257_exempt: 2257 Exempt
+      legal_requests: Legal Requests
+      privacy: Polityka prywatności
+      terms: Zasady użytkowania
+    title: Legalese
+  lockout:
+    subtitle: Aktywowałeś nasz system alarmowy.
+    title: Straż, straż, straaaż!
+  login:
+    button: Zaloguj się do FetLife.
+    error_flash: Skontaktuj się z <a href="mailto:support@fetlife.com">support@fetlife.com</a> żebyśmy mogli Ci pomóc się zalogować.
+    error_login_blank: Ksywka ani e-email nie mogą być puste.
+    error_not_authenticated: Przepraszamy, ale musisz się zalogować żeby wejść na tą stronę. Jeśli nie masz jeszcze konta, możesz je założyć w mniej niż minutę.
+    error_not_found: Hmmm, no coś nie możemy Cię znaleźć. Czy ksywka i hasło są podane poprawnie? (WiElKoŚć LiTeR ma znaczenie w hasłach)
+    error_password_blacklist: Wybrane hasło jest zbyt łatwe do zgadnięcia. Wybierz inne.
+    error_password_blank: Hasło nie może być puste.
+    error_password_email: Twoje hasło nie może być takie samo jak użytkownik e-mail.
+    error_password_nickname: Twoje hasło nie może być takie samo jak ksywka.
+    forgot_info: Nie pamiętasz informacji do zalogowania?
+    labels:
+      nickname: Ksywka lub e-mail
+      password: Hasło
+      remember_me: Zapamiętaj mnie, jeszcze tu wrócę.
+    not_a_member: Nie masz jeszcze konta? Dołącz do FetLife!
+    subtitle: Tęskniliśmy… okropnie!
+    title: Witaj w domu
+  logout:
+    log_in: zaloguj się z powrotem
+    subtitle: Obiecaj że niedługo wrócisz!
+    title: Będziemy tęsknić!
+  member_stats:
+    pics:
+      one: 1 fotka
+      other: 'fotki: %{count_with_delimiter}'
+    posts:
+      one: 1 post
+      other: 'posty: %{count_with_delimiter}'
+    vids:
+      one: 1 filmik
+      other: 'filmiki: %{count_with_delimiter}'
+  nav:
+    events: Wydarzenia
+    explore: Eksploruj
+    fetishes: Fetysze
+    groups: Grupy
+    home: Główna
+    places: Miejsca
+    search_placeholder: Wyszukaj na FetLife
+    videos: Filmiki
+    writings: Wpisy
+  page_break:
+    of: z
+  privacy:
+    title: Privacy
+  profile:
+    about_title: Lista znajomych
+    pictures_title: Fotki
+    videos_title: Filmiki
+  promote_following:
+    button: Włącz śledzenie
+    ps: P.S. Możesz wyłączyć śledzenie kiedy chcesz.
+    skip: Nie włączaj u mnie śledzenia
+    subtitle: Rozróżnij znajomych od śledzących.
+    title: Przedstawiamy Śledzenie
+  recommendations:
+    title: Polecane
+  reset_password:
+    cta: Zmiana hasła
+    error_confirmation_match: Hasło w obu polach nie zgadza się.
+    error_password_range: Hasło musi mieć między 8 a 100 znaków.
+    error_token_expired: Token resetujący hasło wygasł, spróbuj z nowym.
+    error_token_invalid: Token resetujący hasło jest nieprawidłowy.
+    footnote: "<b>Wskazówka:</b> Pamiętaj swoje hasło"
+    label_enter: Nowe hasło
+    label_re_enter: Potwierdź hasło
+    status_flash_success: Twoje hasło zostało zmienione.
+    subtitle: Nie za krótkie, nie za długie, po prostu…
+    title: Zmiana hasła
+  select_language:
+    button: Zmień domyślny język
+    help_translate: Odwiedź nasz <a class="silver" href="https://github.com/fetlife/translations">projekt tłumaczeń</a> na GitHubie i pomóż uczynić FetLife bardziej atrakcyjnym dla większej liczby przyjaciół i społeczeństw.
+    language_name: Polski
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
+    title: Wybierz język
+  settings_account:
+    2fa_cta: Włącz uwierzytelnianie dwuetapowe
+    2fa_label: Uwierzytelnianie dwuetapowe
+    anti_pro_tip: <strong>Antywskazówka:</strong> Możesz <a href="#">zdezaktywować</a> lub <a href="#">usunąć</a> swoje konto jeśli bardzo chcesz, ale trzech na czterech papieży silnie to odradza.
+    current_password_label: Obecne hasło
+    email_cta: Zaktualizuj adres e-mail
+    email_label: Email
+    email_placeholder: Adres Email
+    language_cta: Zmień domyślny język
+    language_notice: FetLife jeszcze nie jest w pełni dostępny w językach inny niż angielski. Jeśli wybierzesz inny język, nie cała strona będzie przetłumaczona.
+    new_password_label: Nowe hasło
+    nickname_cta: Zmień ksywkę
+    nickname_label: 'Zmień ksywkę z "JohnBaku" na:'
+    nickname_notice: "<strong>Wskazówka:</strong> Zastanów się trzy razy, zanim zmienisz ksywkę. Można to zrobić tylko raz na 28 dni. Nie ma cofanek."
+    nickname_placeholder: Nowa ksywka
+    page_title: Zmień hasło - ustawienia
+    password_cta: Zaktualizuj hasło
+    repeat_password_label: Powtórz hasło
+    subtitle: Nie wciskać dużego czerwonego guzika.
+    title: Ustawienia konta
+  settings_notifications:
+    cta: Zmień domyślny język
+    language_label: Język
+    notice: FetLife jeszcze nie jest w pełni dostępny w językach inny niż angielski. Jeśli wybierzesz inny język, nie cała strona będzie przetłumaczona.
+    page_title: Język - ustawienia
+    subtitle: Jaki jest twój ulubiony język?
+    title: Język
+  settings_privacy:
+    blocked_list_subtitle: Dla tych nieposłusznych.
+    blocked_list_title: Lista zablokowanych
+    cb_feed: Pozwól nieznajomym na śledzenie mnie w ich dzienniku aktywności.
+    cb_fp: Pozwól żeby moje nie-prywatne posty pojawiały się w Fresh&Pervy.
+    cb_kp: Pozwól żeby moje nie-prywatne posty pojawiały się w Kinky&Popular.
+    content_privacy: Prywatność treści
+    cta: Zapisz ustawienia prywatności
+    following: Śledzenie
+    page_title: Ustawienia prywatności
+    subtitle: Podano tak jak lubisz.
+    title: Prywatność
+    warning: "<strong>Niezmiernie ważne</strong>: Wyłączenie śledzenia spowoduje że każdy kto obecnie Cię śledzi - przestanie. Nie ma cofanek. Serio."
+  settings_profile:
+    about_you_label: O Tobie
+    add_website: "+ dodaj następną stronę WWW"
+    cta: Zaktualizuj swój profil
+    dob_label: Data urodzenia
+    location_label: Lokalizacja
+    looking_for_label: Szukam
+    page_title: Aktualizacja profilu
+    subtitle: Samorozwój to dobra rzecz.
+    title: Twój profil
+    websites_label: Strony WWW
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Zaktualizuj adres e-mail
+    email_label: Zaktualizuj adres e-mail
+    email_placeholder: Adres e-mail
+    page_title: Zaktualizuj adres e-mail - ustawienia
+    subtitle: Na wszelki wypadek, jeśli zapomnisz hasła.
+    title: Zaktualizuj adres e-mail
+  sidebar:
+    about_fetlife: Poznaj nasz team
+    ad_stats: Statystyki reklam
+    advertising: Reklama
+    already_member: Jesteś już członkiem?
+    androidapp: Zainstaluj appkę na Androida
+    bug_bounty: Premia za znalezienie bugów
+    caretaking: Narzędzia dla opiekunów
+    change_language: Zmień język
+    close: zamknij
+    contact_us: Kontakt
+    edit_profile: Edytuj profil
+    edit_settings: Edytuj ustawienia
+    events: Wydarzenia
+    fetishes: Fetysze
+    following: Śledzenie
+    fp: Fresh & Pervy
+    funny_quote: Jeśli nie możesz tego przeczytać ... to pewnie potrzebujesz okularów! - John 4:69
+    gift_support: Podaruj FetLife Support
+    glossary: Słowniczek
+    groups: Grupy
+    guidelines: Wytyczne
+    home: Start
+    invite_a_friend: Zaproś znajomych (%{count})
+    kp: Kinky & Popular
+    legalese: Kwestie prawne
+    log_out: Wyloguj się
+    login: Zaloguj się
+    loved_stuff: To co kochasz
+    need_help: Potrzebujesz pomocy?
+    open_source: Open Source
+    places: Lokalizacje
+    preservation_requests: Preservation Requests
+    privacy: Prywatność
+    recommendations: Rekomendacje
+    signup: Dołącz do FetLife
+    subscriptions: Subskrypcje
+    support: Wesprzyj FetLife
+    terms: Zasady
+    upload_picture: Wgraj obrazek
+    upload_video: Wgraj filmik
+    videos: Filmiki
+    view_friends: Pokaż znajomych
+    wallpapers: Tapety FetLife
+    whats_new: Co nowego
+    write_post: Napisz posta
+    writings: Wpisy
+  signup:
+    almost_there: Już prawie!
+    error_bar: Houston, mamy problem. Zjedź niżej po więcej informacji.
+    error_birthdate: Data urodzenia jest wymagana.
+    error_birthdate_too_old: Jesteś za stary.
+    error_birthdate_too_young: Sorry, musisz mieć co najmniej 18 lat żeby do nas dołączyć.
+    error_city_missing: Musisz zaznaczyć miasto.
+    error_country_missing: Musisz zaznaczyć kraj.
+    error_email: Mamy kłopoty z powyższym adresem e-mail. Sprawdź pisownię albo spróbuj innego.
+    error_email_taken: Adres e-mail jest już używany.
+    error_gender_required: Musisz podać płeć.
+    error_nickname: Ksywka jest już używana.
+    error_nickname_bad_word: Ksywka nie może zawierać '%{word}'.
+    error_nickname_characters: Ksywka może zawierać tylko litery, cyfry, myślniki i podkreślniki; nie może zawierać spacji.
+    error_nickname_length: Ksywka musi mieć długość od 2 do 16 znaków.
+    error_nickname_required: Ksywka jest wymagana.
+    error_password_range: Hasło musi mieć długość od 8 do 100 znaków.
+    error_password_required: Hasło jest wymagane.
+    error_role_required: Rola jest wymagana.
+    error_sexual_orientation_required: Orientacja seksualna jest wymagana.
+    error_state_missing: Województwo/stan/prowincja jest wymagana.
+    footnote: Klikając powyższy przycisk zgadzasz się szanować i podążać za naszymi <a class="silver" href="%{guidelines_path}">Wytycznymi Społeczności</a> oraz <a class="silver" href="%{tou_path}">Zasadmi Korzystania</a>&hellip; nie ma cofanek.
+    label:
+      birthdate: Data urodzenia
+      city: Miasto
+      country: Kraj
+      email: Adres e-mail
+      gender: Płeć
+      location: Lokalizacja
+      nickname: Ksywka
+      password: Hasło
+      role: Rola
+      sexual_orientation: Orientacja seksualna
+      state: Województwo/stan/prowincja
+    page_title: Dołącz do nas
+    return_to_login: Jesteś już członkiem? Zaloguj się do FetLife
+    subtitle: Powiedz coś o sobie.
+    subtitle_invite: "%{name} zaprosił(a) Cię do FetLife."
+    title: Witaj w domu
+  signup_avatar:
+    pro_tip: '<strong>Wskazówka</strong>: Jeśli się wstydzisz i wolisz nie pokazywać swojej twarzy, wykaż się kreatywnością i pokaż coś innego! Albo jeśli wolisz, możesz na razie <a class="silver" href="%{next_step_path}">pominąć ten krok</a>.'
+    say_cheese: Uśmiech!
+    subtitle: Ludzie z fotką profilową mają 69x więcej zabawy.
+    title: Wyślij fotkę profilową
+  signup_five_strikes:
+    page_title: Five Strike Rule
+    return_to_front: return to front page
+    subtitle_error: Shoot, for security reasons, you'll have to wait two hours before being able to try to sign up again.
+    title: Five Strike Rule
+  signup_follow:
+    follow: Follow
+    next_step: Next Step
+    subtitle: Follow kinksters that pique your interest.
+    title: Anyone Catch Your Eye?
+  signup_phone:
+    cta: Send Me a Verification Code
+    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
+    error_cant_send: "<strong>Kinky Operator:</strong> We're having problems sending you a text message. Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc. and that you are not trying to send a text message to your landline."
+    error_quota: "<strong>Kinky Operator:</strong> We can't send more than 3 text messages to the same number in a 24 hour period. Please try again later."
+    explanation: We know it's a lot to ask, but to maintain a healthy and vibrant community, we need to verify everyone before they join. Something we think you will appreciate once you are on the other side.
+    label: Mobile Phone Number
+    page_title: Send Verification Code
+    pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
+    subtitle: One-time anonymous text message.
+    title: Verification Time!
+  signup_verify:
+    cta: Complete Signup & Verification
+    incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
+    label: Verification Code
+    notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="silver" href="%{back_path}">update your number and we'll send you a new verification code</a>.
+    page_title: Enter Verification Code
+    placeholder: 6-Digit Verification Code
+    subtitle: That was a bit painful wasn't it?!?!
+    title: Last Step
+  subnav:
+    feed:
+      activity_feed: Activity Feed
+      activity_feed_short: Home
+      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
+      fp_short: Fresh
+      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
+      kp_short: Popular
+    profile:
+      about: About Me
+      about_short: About
+      latest: Latest Activity
+      latest_short: Latest
+      pictures: Pictures
+      pictures_short: Pics
+      videos: Videos
+      videos_short: Vids
+      writings: Writings
+      writings_short: Writings
+    settings:
+      account: Account
+      account_short: Account
+      notifications: Notifications
+      notifications_short: Notifications
+      privacy: Privacy
+      privacy_short: Privacy
+      profile: Profile
+      profile_short: Profile
+      support: Support
+      support_short: Support
+  support:
+    benefits:
+      item_1: A sexy <span>I Support FetLife</span> badge on your profile.
+      item_2: Perv <span>today’s %{number}+ most loved</span> pics, vids, etc.
+      item_3: Watch <span>all %{number}+ videos</span> shared by the community.
+      item_4: Perv <span>all %{number}+ pictures</span> as they are shared.
+      item_5: View <span>everything you’ve ever loved</span>.
+      item_6: Go back <span>25x further</span> in your Friend Feed.
+      item_7: Go back <span>25x further</span> in your @You Feed.
+      item_8: "<span>Customize your Friend Feed</span> to your heart's content."
+      item_9: Get early <span>access to new features</span>!
+      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
+      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
+      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
+      title: What do I get for supporting FetLife?
+    cta_labels:
+      ach: Bank Transfer (ACH)
+      cc_curo: Credit Card
+      coingate: Bitcoin
+      eps: EPS
+      giropay: giropay
+      ideal: iDEAL
+      interac: Interac e-Transfer
+      mail: Physical Mail
+      paygarden: Major Gift Card
+      paysafe: paysafecard
+      poli: POLi Payments
+      przelewy: Przelewy24
+      sepa: SEPA Direct Debit
+      teleingreso: Teleingreso
+    errors:
+      account_number_blank: Account Number can't be blank
+      address_blank: Address can't be blank
+      answer_blank: Answer can't be blank
+      bankcode_blank: Bank can't be blank
+      bic_blank: BIC can't be blank
+      bic_format: Invalid BIC
+      canceled: Transaction cancelled by user.
+      city_blank: City can't be blank
+      country_blank: Country has to be selected
+      double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: Email can't be blank
+      first_name_blank: First name can't be blank
+      iban_blank: IBAN can't be blank
+      info_missing: Some information is missing. Please try again.
+      last_name_blank: Last name can't be blank
+      postal_code_blank: Postal Code can't be blank
+      question_blank: Security question can't be blank
+      routing_number_blank: Routing Number can't be blank
+      state_blank: State can't be blank
+    faq:
+      cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
+      cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
+      cc_a_part_3: As a community, we need a safe space for consenting adults to be able to be freely express themselves sexually. And if we accept credit cards or paypal, we would lose that freedom.
+      cc_q: Q. Why doesn't FetLife accept Credit Cards or Paypal?
+      gift_a: That’s super nice of you. Just visit their profile and click &ldquo;Gift Support&rdquo; link under &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
+      gift_q: Q. Want to gift support to someone?
+      month_a: Like Costco, we have to sell in bulk, to keep the monthly cost of supporting FetLife low!
+      month_q: Q. Why can’t I do 1-month?
+      name_a: 'It will appear as: BitLove Inc.'
+      name_q: Q. How will this appear on my bank statement?
+      question_a: If you have any questions, please don't hesitate to email us at&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
+      question_q: Q. Have any questions?
+      renew_a: Never. We want to earn your support everytime.
+      renew_q: Q. Do you automatically renew my support?
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, or Paysafecard, due to the nature of how they work, they are final sale.
+      return_q: Q. What’s your return policy?
+      secure_a: Yes, very. FetLife doesn’t store any of your personal info on our servers.  We just use the info you provide us to process your transaction and that's it.
+      secure_q: Q. Is this secure?
+      title: Frequently Asked Questions
+    gift:
+      affirm: You're the best!
+      confirm: I want to Gift Support to %{nickname}
+      header: Support FetLife Today!
+      subheader: And get all the <a href='%{link}'>sexy benefits</a> that come with being a supporter.
+      thank_you: Thank you for the support!
+      title: Gift Support to %{nickname}
+      yourself: Buy Support for Yourself
+    header:
+      subheader: And get all the <a href="%{link}">sexy benefits</a> that come with being a supporter.
+      title: Support FetLife Today!
+    step1:
+      ach:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
+        title: US Bank Transfer (ACH)
+      cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      coingate:
+        extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
+        title: Bitcoin
+      eps:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
+        title: Austrian Bank Transfer (EPS)
+      giropay:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports giropay in Germany.
+        title: German Bank Transfer (giropay)
+      ideal:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports iDEAL in the Netherlands.
+        title: Dutch Bank Transfer (iDEAL)
+      interac:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Canada.
+        title: Canadian Interac e-Transfer
+      less_options: hide additional options
+      mail:
+        extra_info: If you're old school, we accept money order, checks, or cash through the mail.
+        title: Physical Mail
+      more_options: show me more options
+      paygarden:
+        extra_info: Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, Home Depot, and Build-A-Bear.
+        title: Major Brand Gift Card Trade-In
+      paysafe:
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries worldwide.
+        title: Prepaid Paysafecard
+      poli:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Australia or New Zealand.
+        title: AU/NZ Bank Transfer (POLi)
+      przelewy:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
+        title: Przelewy24
+      sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
+      teleingreso:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account in Spain.
+        title: Teleingreso
+      title: Select a Payment Method
+    step2:
+      120_info: "$5/month"
+      120_title: "$120 for 24 Months"
+      240_info: "<i>Priceless</i>"
+      240_title: "$240 for Lifetime!"
+      30_info: "$5/month"
+      30_title: "$30 for 6 Months"
+      60_info: "$5/month"
+      60_title: "$60 for 12 Months"
+      return_info: 7-day no questions asked money back guarantee.
+      title: How much do you love FetLife?
+    step2_paygarden:
+      confirm: I Have a Gift Card I Want to Trade for Support
+      list_footer: and <a href='%{link}'>100s of other major brands.</a>
+      list_header: We Accept Gift Cards From
+      secure: Secure as Fort Knox
+      tips: If you live outside of the United States, we recommend you use a VPN/Proxy and buy a gift card in USD from Starbucks or Targets US online stores.
+      tips_header: Tips &amp; Tricks
+      title: Buy a Gift Card from a Major Brand
+    step3_ach:
+      account_number_label: 'Account #'
+      account_number_placeholder: Account Number
+      account_number_sub_label: between 6 and 16 digits
+      account_type: Account Type
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      check_hide: hide check
+      check_question: Where do I find these numbers on a check?
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Support FetLife Today
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      routing_number_label: 'Bank Routing #'
+      routing_number_placeholder: Bank Routing Number
+      routing_number_sub_label: 9 digit number
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      state_label: State
+      state_placeholder: State
+      state_sub_label: associated w/ bank account
+      title: Online Check / Bank Transfer
+      type_checking: Checking
+      type_savings: Savings
+      zip_label: Zip Code
+      zip_sub_label: associated w/ bank account
+    step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_coingate:
+      cta: Support FetLife via Bitcoin
+      intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Bitcoin"
+      title_html: "&ldquo;How To&rdquo; for Bitcoin"
+      wallets_list_header: 'We''ve had good experience with the following two wallet providers:'
+      wallets_title: Recommended Bitcoin Wallets
+      what: What is Bitcoin?
+    step3_eps:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make EPS Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: EPS Payment
+    step3_giropay:
+      account_number_label: 'Account #'
+      account_number_placeholder: Account Number
+      account_number_sub_label: Valid Bank Account Number
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make giropay Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      routing_number_label: BIC / SWIFT Code
+      routing_number_placeholder: Bank Identifier Code
+      routing_number_sub_label: 8 or 11 characters long
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: giropay Payment
+    step3_ideal:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make iDEAL Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: iDEAL Payment
+    step3_interac:
+      amount: 'Amount:'
+      answer_label: 'Answer:'
+      answer_placeholder: Answer
+      cta: I've Sent the Interac e-Transfer
+      question_label: 'Security Question:'
+      question_placeholder: Security Question
+      send: 'Send to:'
+      thank_you: Thank You!
+      title: Send Interac e-Transfer
+    step3_mail:
+      accept_options: Money Order, Check, or Cash
+      accept_title: 'We Accept:'
+      amount: 'Amount:'
+      cta: Email Me the Above Info
+      email_to: We will email it to %{email}.
+      memo: 'Memo/Re:'
+      send: 'Send to:'
+      title: Send Mail
+      to_options: BitLove Inc. or Cash
+      to_title: 'Payable to:'
+      update_email: update email
+    step3_paysafe:
+      cta: I Already Have a Paysafecard
+      notice_body: Unfortunately, Paysafecards bought in the USA are not supported due to constraints imposed by the bank that they use in the USA. Paysafecards purchased in all other countries are accepted.
+      notice_title: Important Information for our American Friends
+      secure: Secure as Fort Knox
+      stores: You can find stores within walking distance of you that sell paysafecards. Don't believe us?
+      stores_link: Find the closest stores to me that sell paysafecards
+      title: Buy a Prepaid Paysafecard
+      where: Where can I buy a paysafecard?
+    step3_poli:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      country_label: Country
+      country_placeholder: Country
+      country_sub_label: associated w/ bank account
+      cta: Make POLi Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      state_label: State / Province
+      state_sub_label: associated w/ bank account
+      title: POLi Payment
+    step3_przelewy:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make Przelewy24 Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Przelewy24 Payment
+    step3_sepa:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      bic_label: BIC / SWIFT Code
+      bic_placeholder: Bank Identifier Code
+      bic_sub_label: 8 or 11 characters long
+      city_label: City
+      city_sub_label: associated w/ bank account
+      country_label: Country
+      country_placeholder: Country
+      country_sub_label: associated w/ bank account
+      cta: Support FetLife Now
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      iban_label: IBAN
+      iban_placeholder: International Bank Account Number
+      iban_sub_label: up to 34 alphanumeric characters
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: SEPA Payment Information
+    step3_teleingreso:
+      address_label: Address
+      address_sub_label: associated w/ bank account
+      city_label: City
+      city_sub_label: associated w/ bank account
+      cta: Make Teleingreso Payment
+      first_name_label: First Name
+      first_name_sub_label: associated w/ bank account
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ bank account
+      postal_code_label: Postal Code
+      postal_code_sub_label: associated w/ bank account
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Teleingreso Payment
+    thank_you:
+      body: No seriously, <span>a big thank you for your support</span>. It means a lot to us that you've contributed your hard earned money to help support FetLife’s continued improvement and development.
+      cta_home: Take Me Home
+      gift_affirm: You're the best!
+      gift_cta_profile: Visit %{nickname}'s Profile
+      gift_next_body: While you're reading this we are giving your gift of support to <a href="%{link}">%{nickname}</a> and notifying them via email of your generous gift.
+      gift_next_title: What's next?
+      page_title: Thank You!
+      questions_body: If you have any questions, please don’t hesitate to email us at <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
+      questions_title: Got Questions?
+      tab_title: Thank You
+      thank_you: Thanks Again!
+    thank_you_interac:
+      cta_home: Take Me to My Feed
+      next_steps_final_default: will attach it to your profile and notify you.
+      next_steps_final_gift: will attach it to %{nickname}'s profile.
+      next_steps_first: It can <span>take a couple of hours</span> before we receive your Interac e-Transfer, but once we get it we
+      next_steps_title: 'Next Steps:'
+      page_title: Thank You <span class='baskerville i'>&amp;</span> Next Steps
+      tab_title: Thank You & Next Steps
+      thank_you: Thank You!
+    title: Help Support FetLife!
