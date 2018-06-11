@@ -1,0 +1,809 @@
+---
+ru:
+  2fa:
+    5strike:
+      return: вернуться на главную страницу
+      subtitle: Ой, из-за соображений безопасности вам необходимо подождать два часа перед повторной попыткой.
+      title: Правило Пяти Ошибок
+    cta: Это я, впустите!
+    error: "<strong>Оператор:</strong> Хм&hellip; код подтверждения не подходит. Убедитесь, что введённый номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
+    label: Код Аутентификации
+    page_title: Двухфакторная аутентификация
+    subtitle: В два этапа, детка!
+    title: Секретный Код
+  about:
+    contact_info: Контактная Информация
+    email_us: Напишите нам на <a href="mailto:support@fetlife.com">support@fetlife.com</a> и мы сразу ответим!
+    europe: Европа
+    got_question: Есть вопросы? Нужна помощь?
+    north_america: Северная Америка
+    one_love: Одна любовь, одна жизнь, и целая куча соблазнов.
+    snail_mail: Обычная Почта
+    sub_header: Не путать со спартанцами.
+    title: Мы FetLife!
+  components:
+    step: Шаг
+  feed:
+    comment: Комментарий
+    comments_count:
+      one: 1 Комментарий
+      other: "%{count_with_delimiter} Комментариев"
+    composer:
+      button: Отправить
+      placeholder: Написать комментарий
+    love: Нравится
+    loved_hover: Не нравится :-(
+    loves_count:
+      one: 1 Лайк
+      other: "%{count_with_delimiter} Лайков"
+    modal:
+      close: закрыть
+      more: ещё
+      reply: Ответить
+    title: Лента Новостей
+  following:
+    follow: Читать
+    following: Читают
+  footer:
+    advertising: Реклама
+    contact: Связаться с Нами
+    glossary: Глоссарий
+    help: Помощь
+    privacy: Конфиденциальность
+  forgot_password:
+    email:
+      cta: Получить Письмо с Инструкциями
+      error_forgot_email: Укажите адрес электронной почты.
+      error_invalid_email: Это не похоже на настоящий адрес электронной почты. Проверьте и попытайтесь снова.
+      error_quota: Мы можем отправить только два письма в час на любой указанный адрес. Убедитесь, что наше письмо не попало в папку Спам. Если вы не нашли письмо в папке Спам, то мы советуем воспользоваться другими методами, чтобы вернуть доступ к своему аккаунту.
+      placeholder: Адрес Электронной Почты
+      step1:
+        page_title: Сбросить Пароль по Электронной Почте
+        subtitle: Позвольте вам помочь.
+        title: Забыли Пароль?
+      step2:
+        page_title: Письмо "ВОЗМОЖНО" было отправлено
+        subtitle: Если существует профиль, привязанный к <span class='fw7'>%{given_email}</span>, то мы отправили вам инструкции как сбросить пароль.
+        title: Письмо &ldquo;Возможно&rdquo; было отправлено!
+      update_email: обновить адрес электронной почты
+      warning: "<strong>Предупреждение:</strong> По причинам безопасности мы не можем вам сказать, существует ли адрес электронной почты в нашей базе данных или нет. Если вы не получили письмо от нас, скорее всего это из-за того, что у нас нет аккаунта привязанного к этому почтовому адресу."
+    mobile:
+      5strike:
+        return: вернуться на главную страницу
+        subtitle: Ой, из-за соображений безопасности вам необходимо подождать два часа перед повторной попыткой.
+        title: Правило Пяти Ошибок
+      cta: Получить СМС
+      error_country_code: "<strong>Оператор:</strong> Убедитесь, что номер начинается с кода страны: +1 для США и Канады, +44 для Великобритании, +61 для Австралии, +31 для Нидерландов, +49 для Германии, +33 для Франции, и т.д."
+      error_quota: "<strong>Оператор:</strong> Ой, мы можем отправить только 3 СМС каждые 24 часа на любой мобильный номер. Вне зависимости от того, есть этот номер в нашей базе данных или нет."
+      pro_tip: "<strong>Подсказка:</strong> Убедитесь, что номер начинается с кода страны: +1 для США и Канады, +44 для Великобритании, +61 для Австралии, +31 для Нидерландов, +49 для Германии, +33 для Франции, и т.д."
+      step1:
+        page_title: Сбросить пароль через СМС
+        subtitle: Позвольте вам помочь.
+        title: Забыли Пароль?
+      step2:
+        cta: Подтвердите, что это Вы &#8482;
+        error_code_match: "<strong>Оператор:</strong> Введенный код подтверждения неверен. Убедитесь, что введенный номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
+        inexisting_number: Если через несколько минут вы не получили СМС от нас, возможно это из-за того, что у нас нет профиля, привязанного к этому номеру. Мы советуем вам либо <a href="%{forgot_password_email_path}">попытаться сбросить пароль другим способом</a> либо <a href="%{signup_path}">создать новый профиль на FetLife</a>.
+        label: 6-значный Код Подтверждения
+        page_title: Введите Код Подтверждения
+        subtitle: Пожалуйста введите 6-значный код, который мы "возможно" только что отправили вам на %{phone_number}.
+        title: Введите Код Подтверждения
+      warning: "<strong>Предупреждение:</strong> По причинам безопасности мы не можем вам сказать, существует ли номер телефона в нашей базе данных или нет. Если вы не получили от нас СМС, скорее всего это из-за того, что у нас нет аккаунта привязанного к этому номеру."
+    next_step: следующий шаг
+    return_to_login: вернуться к входу
+    tab_email: Эл.Почта
+    tab_mobile: Телефон
+  guidelines:
+    header: Правила и Принципы FetLife
+    headers:
+      community: Правила Сообщества
+      content: Правила Контента
+      group_leader: Правила Руководителей Групп
+    last_updated: 'Последнее изменение:'
+    sections:
+      guidelines:
+        description: Чтобы FetLife был интересным местом для всех, просим вас следовать нашим правилам.
+        title: Правила
+      legalese:
+        description: Этот раздел содержит Условия Использования, с которыми все участники соглашаются, когда они регистрируются на FetLife. Мы постарались сделать все как можно проще и понятнее.
+        title: Юридическая Информация
+      privacy:
+        description: Насколько безопасна информация и что FetLife делает для её защиты? В FetLife мы храним ваши данные так же, как свои собственные.
+        title: Конфиденциальность
+    subheader: Здесь вы найдете наши правила, юридическую документацию и политику конфиденциальности.
+    subnav:
+      community: Сообщество
+      content: Содержание
+      group_leader: Руководитель Группы
+    title: Правила
+  invite_a_friend:
+    cancel_button: отмена
+    cancel_notice: Приглашение для %{email} было отозвано.
+    cta: Пригласите Своего Друга Присоединиться к FetLife
+    error: У нас возникли проблемы с отправкой приглашения на указанный выше адрес электронной почты. Мы рекомендуем вам проверить написание или попробовать другой.
+    error_forgot_email: Укажите адрес электронной почты.
+    invitations_accepted: Приглашения Приняты
+    invitations_sent: Приглашения Отправлены
+    labels:
+      email: Адрес Эл.почты
+      friends_email: 'Отправить приглашение:'
+      friends_email_sub: "%{count} приглашений осталось"
+    next_step: следующий шаг
+    return_to_feed: вернуться к ленте
+    subtitle_step1:
+      one: У вас осталось 1 приглашение.
+      other: У вас осталось %{count_with_delimiter} приглашений.
+    subtitle_step2: Мы отправили ваше приглашение %{email}.
+    title_step1: Пригласить Друга
+    title_step2: Приглашение Отправлено
+    view_invitations: посмотреть ваши приглашения
+  landing_page:
+    login_button: Войти в FetLife
+    signup_button: Присоединиться к FetLife
+    stats_details: делятся <strong class="fw4 silver">%{picture_count} фото</strong> и <strong class="fw4 silver">%{video_count} видео</strong>, участвуют в <strong class="fw4 silver">%{discussion_count} обсуждений</strong> в <strong class="fw4 silver">%{group_count} группах</strong>, посещают <strong class="fw4 silver">%{event_count} предстоящих мероприятий</strong>, и читают <strong class="fw4 silver">%{post_count} публикаций</strong>. <span><span class="i">Развратный рай!</span>
+    stats_members: Пользователей
+    subtitle: Как и Facebook, но созданный развратниками как ты и я. Мы считаем, что это намного круче. Не так ли?
+    title: FetLife является Социальной Сетью для Сообщества БДСМ, Фетиш и Любителей Разврата.
+  legalese:
+    headers:
+      2257_exempt: 2257 Exempt
+      guidelines_for_legal_requests: Юридические Запросы
+      privacy_policy: Политика Конфиденциальности
+      terms_of_use: Условия Использования
+    subnav:
+      2257_exempt: 2257 Exempt
+      legal_requests: Юридические Запросы
+      privacy: Политика Конфиденциальности
+      terms: Условия Использования
+    title: Юридическая Информация
+  lockout:
+    subtitle: Вы активировали нашу систему сигнализации.
+    title: Охрана, Охрана, Охрана!
+  login:
+    button: Войти в FetLife
+    error_flash: Пожалуйста напишите на <a href="mailto:support@fetlife.com">support@fetlife.com</a>, чтобы мы помогли вам войти.
+    error_login_blank: Никнейм или эл.почта не могут быть пустыми.
+    error_not_authenticated: Извините, но вам нужно войти, чтобы попасть на эту страницу. Если у вас ещё нет аккаунта, процедура регистрации займёт меньше минуты.
+    error_not_found: Хммм, мы не смогли вас найти. Вы уверены, что вы ввели свой никнейм и пароль верно? (Пароли ЧуВсТвИтЕлЬнЫ-к-РеГиСтРу)
+    error_password_blacklist: Пароль, который вы выбрали, слишком простой. Пожалуйста, используйте более сложный пароль.
+    error_password_blank: Пароль не может быть пустым.
+    error_password_email: Ваш пароль не может быть вашим именем пользователя электронной почты.
+    error_password_nickname: Ваш пароль не может быть таким же как никнейм.
+    forgot_info: Забыли логин?
+    labels:
+      nickname: Никнейм или Электронная Почта
+      password: Пароль
+      remember_me: Запомнить меня, я вернусь.
+    not_a_member: Еще не зарегистрированы? Зарегистрироваться в FetLife
+    subtitle: Мы так по вам скучали!
+    title: Добро пожаловать домой
+  logout:
+    log_in: войти снова
+    subtitle: Не забудьте вернуться в ближайшее время.
+    title: Мы будем по вам скучать!
+  member_stats:
+    pics:
+      one: 1 фото
+      other: "%{count_with_delimiter} фото"
+    posts:
+      one: 1 пост
+      other: "%{count_with_delimiter} постов"
+    vids:
+      one: 1 видео
+      other: "%{count_with_delimiter} видео"
+  nav:
+    events: Мероприятия
+    explore: Исследовать
+    fetishes: Фетиши
+    groups: Группы
+    home: Домой
+    places: Места
+    search_placeholder: Искать на FetLife
+    videos: Видео
+    writings: Истории
+  page_break:
+    of: из
+  privacy:
+    title: Конфиденциальность
+  profile:
+    about_title: Список Друзей
+    pictures_title: Фото
+    videos_title: Видео
+  promote_following:
+    button: Включить Подписчиков
+    ps: P.S. Вы можете отключить подписчиков в любое время.
+    skip: Не включать подписчиков
+    subtitle: Отделить друзей от подписчиков.
+    title: Представляем Подписчиков
+  recommendations:
+    title: Рекомендации
+  reset_password:
+    cta: Сбросить Мой Пароль
+    error_confirmation_match: Подтверждение Пароля не совпадает с Паролем.
+    error_password_range: Пароль должен быть длиной от 8 до 100 символов.
+    error_token_expired: Токен сброса пароля истёк, пожалуйста, запросите новый.
+    error_token_invalid: Токен сброса пароля недействителен.
+    footnote: "<b>Подсказка:</b> Запомните ваш пароль."
+    label_enter: Новый Пароль
+    label_re_enter: Повторите Новый Пароль
+    status_flash_success: Ваш пароль был успешно изменён.
+    subtitle: Не слишком короткий, не слишком длинный, в самый раз…
+    title: Сбросить Пароль
+  select_language:
+    button: Сменить Язык по Умолчанию
+    help_translate: Посетите наш <a class="silver" href="https://github.com/fetlife/translations">проект с переводами</a> на GitHub и помогите сделать FetLife доступным для большего количества наших развратных друзей <span class="amp">&amp</span> сообществ.
+    language_name: Русский
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好!
+    title: Выбрать Язык
+  settings_account:
+    2fa_cta: Включить 2-Факторную Аутентификацию
+    2fa_label: 2-Факторная Аутентификация
+    anti_pro_tip: <strong>Вредный Совет:</strong> Вы можете <a href="#">деактивировать</a> или <a href="#">удалить</a> свой аккаунт, если вы действительно этого хотите, но трое из четырёх попов настоятельно советуют этого не делать.
+    current_password_label: Текущий Пароль
+    email_cta: Обновить Адрес Эл.Почты
+    email_label: Эл.Почта
+    email_placeholder: Адрес Эл.Почты
+    language_cta: Обновить Язык по Умолчанию
+    language_notice: FetLife еще не полностью доступен на других языках, кроме английского. Если вы измените настройки здесь, не все веб-страницы будут переведены.
+    new_password_label: Новый Пароль
+    nickname_cta: Сменить Никнейм
+    nickname_label: 'Сменить никнейм с "JohnBaku" на:'
+    nickname_notice: "<strong>Подсказка:</strong> Семь раз отмерь, один раз отрежь. Вы можете сменить свой никнейм один раз в 28 дней. Никаких исключений."
+    nickname_placeholder: Новый Никнейм
+    page_title: Сменить Пароль - Настройки
+    password_cta: Обновить Пароль
+    repeat_password_label: Повторите Пароль
+    subtitle: Не нажимайте большую красную кнопку.
+    title: Настройки Аккаунта
+  settings_notifications:
+    cta: Обновить Язык по Умолчанию
+    language_label: Язык
+    notice: FetLife еще не полностью доступен на других языках, кроме английского. Если вы измените настройки здесь, не все веб-страницы будут переведены.
+    page_title: Язык - Настройки
+    subtitle: Какой язык для вас предпочтительней?
+    title: Язык
+  settings_privacy:
+    blocked_list_subtitle: Для тех, кто в вашем списке для непослушных.
+    blocked_list_title: Чёрный Список
+    cb_feed: Разрешить не-друзьям следить за моей лентой новостей.
+    cb_fp: Разрешить показывать мои не-приватные записи в Свежее&Пошлое.
+    cb_kp: Разрешить показывать мои не-приватные записи в Развратное&Популярное.
+    content_privacy: Приватность Контента
+    cta: Сохранить Настройки Приватности
+    following: Подписки
+    page_title: Настройки Приватности
+    subtitle: Всё как вам нравится.
+    title: Приватность
+    warning: "<strong>Очень Важно</strong>: Отключение подписчиков уберёт из подписчиков всех, кто на вас сейчас подписан. Безвозвратно. Серьёзно."
+  settings_profile:
+    about_you_label: О Себе
+    add_website: "+ добавить другой вебсайт"
+    cta: Обновить Ваш Профиль
+    dob_label: Дата Рождения
+    location_label: Местоположение
+    looking_for_label: Ищу
+    page_title: Обновить Профиль
+    subtitle: Личностный рост это хорошо.
+    title: Ваш Профиль
+    websites_label: Вебсайты
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Обновить Адрес Эл.Почты
+    email_label: Обновить Адрес Эл.Почты
+    email_placeholder: Адрес Электронной Почты
+    page_title: Обновить Адрес Эл.Почты - Настройки
+    subtitle: На случай, если вы забудете свой пароль.
+    title: Обновить Адрес Эл.Почты
+  sidebar:
+    about_fetlife: Наша Команда
+    ad_stats: Рекламная Статистика
+    advertising: Реклама
+    already_member: Уже зарегистрированы?
+    androidapp: Установить Приложение для Android
+    bug_bounty: Сообщить об Ошибке
+    caretaking: Caretaker Tools
+    change_language: Сменить Язык
+    close: закрыть
+    contact_us: Написать Нам
+    edit_profile: Редактировать Профиль
+    edit_settings: Обновить Настройки
+    events: Мероприятия
+    fetishes: Фетиши
+    following: Подписки
+    fp: Свежее & Пошлое
+    funny_quote: Если вы не можете это прочитать ... вероятно, вам нужны очки! - Иоанн 4:69
+    gift_support: Подарить премиум на FetLife
+    glossary: Глоссарий
+    groups: Группы
+    guidelines: Правила
+    home: Home
+    invite_a_friend: Пригласить Друга (%{count})
+    kp: Развратное & Популярное
+    legalese: Условия Использования
+    log_out: Выйти
+    login: Войти
+    loved_stuff: Избранное
+    need_help: Нужна Помощь?
+    open_source: Опенсорс
+    places: Места
+    preservation_requests: Preservation Requests
+    privacy: Приватность
+    recommendations: Рекомендации
+    signup: Присоединиться к FetLife
+    subscriptions: Подписки
+    support: Поддержать FetLife
+    terms: Условия
+    upload_picture: Загрузить Фото
+    upload_video: Загрузить Видео
+    videos: Видео
+    view_friends: Посмотреть Друзей
+    wallpapers: FetLife Обои
+    whats_new: Что Нового
+    write_post: Написать Пост
+    writings: Записи
+  signup:
+    almost_there: Мы почти закончили!
+    error_bar: Хьюстон, у нас проблема. Прокрутите вниз для получения дополнительной информации.
+    error_birthdate: Укажите дату рождения.
+    error_birthdate_too_old: Вы слишком стары.
+    error_birthdate_too_young: Извините, вам должно быть 18 или больше, чтобы зарегистрироваться.
+    error_city_missing: Необходимо указать Город.
+    error_country_missing: Необходимо указать Страну.
+    error_email: У нас возникли проблемы с обработкой вышеуказанного адреса электронной почты. Мы рекомендуем вам проверить написание или попробовать другой.
+    error_email_taken: Электронная почта уже занята.
+    error_gender_required: Необходимо указать Пол.
+    error_nickname: Никнейм уже занят.
+    error_nickname_bad_word: Никнейм не может содержать в себе слово '%{word}'.
+    error_nickname_characters: Никнейм может только содержать буквы, цифры, тире и нижнее подчёркивание; без пробелов.
+    error_nickname_length: Никнейм должен быть длиной от 2 до 16 символов.
+    error_nickname_required: Укажите никнейм.
+    error_password_range: Пароль должен быть длиной от 8 до 100 символов.
+    error_password_required: Укажите пароль.
+    error_role_required: Необходимо указать Роль.
+    error_sexual_orientation_required: Необходимо указать Сексуальную Ориентацию.
+    error_state_missing: Необходимо указать Штат/Область.
+    footnote: Нажимая "Завершить Регистрацию & Подтверждение", вы соглашаетесь уважать и следовать нашим <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Правилам Использования</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Политике Конфиденциальности</a>, и <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Правилам Сообщества</a>.
+    label:
+      birthdate: Дата Рождения
+      city: Город
+      country: Страна
+      email: Адрес Эл.Почты
+      gender: Пол
+      location: Местоположение
+      nickname: Никнейм
+      password: Пароль
+      role: Роль
+      sexual_orientation: Сексуальная Ориентация
+      state: Штат/Область
+    page_title: Присоединиться
+    return_to_login: Уже зарегистрированы? Войти
+    subtitle: Расскажите нам немного о себе.
+    subtitle_invite: "%{name} пригласил вас присоединиться к FetLife."
+    title: Добро Пожаловать Домой
+  signup_avatar:
+    pro_tip: '<strong>Подсказка</strong>: Если вы стесняетесь и предпочитаете не показывать свое лицо, будьте креативными и покажите себя с другой стороны! Или, если хотите, вы можете <a class="silver" href="%{next_step_path}">пропустить этот шаг</a> на данный момент.'
+    say_cheese: Скажите Сыыр!
+    subtitle: Пользователи с аватаром получают в 69 раз больше наслаждения.
+    title: Загрузить Аватар
+  signup_five_strikes:
+    page_title: Правило Пяти Ошибок
+    return_to_front: вернуться на главную страницу
+    subtitle_error: Ой, из-за соображений безопасности вам необходимо подождать два часа перед повторной попыткой зарегистрироваться.
+    title: Правило Пяти Ошибок
+  signup_follow:
+    follow: Подписаться
+    next_step: Следующий Шаг
+    subtitle: Подпишитесь на людей, которые вас заинтересовали.
+    title: Кто-нибудь приглянулся?
+  signup_phone:
+    cta: Отправьте Мне Код Подтверждения
+    error_blocked: "<strong>Оператор:</strong> К сожалению, в данный момент мы не разрешаем регистрироваться с помощью %{carrier_name} номера."
+    error_cant_send: "<strong>Оператор:</strong> У нас возникли проблемы с отправкой СМС. Убедитесь, что номер начинается с кода страны: +1 для США и Канады, +44 для Великобритании, +61 для Австралии, +31 для Нидерландов, +49 для Германии, +33 для Франции, и т.д., и что вы не пытаетесь отправить СМС на стационарный телефон."
+    error_quota: "<strong>Оператор:</strong> Мы не можем отправить более 3 СМС на один и тот же номер в течение 24 часов. Пожалуйста, повторите попытку позже."
+    explanation: Мы понимаем, что просим о многом, но для того, чтобы содержать наше сообщество в чистоте, нам необходимо подтвердить каждого, перед тем как они могут присоединиться к сообществу. Вы по достоинству это оцените, когда окажетесь с нами.
+    label: Номер Мобильного Телефона
+    page_title: Отправить Код Подтверждения
+    pro_tip: "<strong>Подсказка:</strong> Убедитесь, что номер начинается с кода страны: +1 для США и Канады, +44 для Великобритании, +61 для Австралии, +31 для Нидерландов, +49 для Германии, +33 для Франции, и т.д."
+    subtitle: Одноразовое анонимное СМС.
+    title: Время Подтверждения!
+  signup_verify:
+    cta: Завершить Регистрацию & Подтверждение
+    incorrect_code: "<strong>Оператор:</strong> Хм&hellip; код подтверждения не подходит. Пожалуйста, убедитесь, что введённый номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
+    label: Код Подтверждения
+    notice: Мы отправили код подтверждения на <strong>%{phone_number}</strong>. Если через несколько минут вы не получили от нас СМС, <a class="silver" href="%{back_path}">обновите свой номер, и мы отправим вам новый код подтверждения</a>.
+    page_title: Введите Код Подтверждения
+    placeholder: 6-значный Код Подтверждения
+    subtitle: Было не так уж и сложно, не так ли?
+    title: Последний Шаг
+  subnav:
+    feed:
+      activity_feed: Лента Новостей
+      activity_feed_short: Home
+      fp: Свежее<span class="a-ampersand">&amp;</span>Пошлое
+      fp_short: Свежее
+      kp: Развратное<span class="a-ampersand">&amp;</span>Популярное
+      kp_short: Популярное
+    profile:
+      about: Обо Мне
+      about_short: Обо Мне
+      latest: Последняя Активность
+      latest_short: Последнее
+      pictures: Фото
+      pictures_short: Фото
+      videos: Видео
+      videos_short: Видео
+      writings: Записи
+      writings_short: Записи
+    settings:
+      account: Аккаунт
+      account_short: Аккаунт
+      notifications: Оповещения
+      notifications_short: Оповещения
+      privacy: Конфиденциальность
+      privacy_short: Конфиденциальность
+      profile: Профиль
+      profile_short: Профиль
+      support: Поддержка
+      support_short: Поддержка
+  support:
+    benefits:
+      item_1: Сексуальный значок <span>I Support FetLife</span> на своём профиле.
+      item_2: Сможете увидеть <span>сегодняшние %{number}+ избранные</span> фото, видео, и т.д.
+      item_3: Сможете увидеть <span>все %{number}+ видео</span> в сообществе.
+      item_4: Сможете увидеть <span>все %{number}+ фото</span> после их публикации.
+      item_5: Сможете увидеть <span>всё, что вы лайкали</span>.
+      item_6: Углубиться <span>в 25 раз дальше</span> в Ленту Новостей Друзей.
+      item_7: Углубиться <span>в 25 раз дальше</span> в Вашу Собственную Ленту Новостей.
+      item_8: "<span>Сможете настроить Ленту Друзей</span> на свой вкус."
+      item_9: Получите ранний <span>доступ к новым функциям</span>!
+      list_description: 'Всего за 5 долларов в месяц вы не только поддержите развитие FetLife, но и получите:'
+      list_footer: Всего за сумму меньше стоимости смазки… хотя в то же время мы не советуем заменять смазку растительным маслом… оно не так хорошо в применении.
+      thank_you: Без вашей поддержки не было бы FetLife. Спасибо всем членам семьи FetLife!
+      title: Что я получу за финансовую поддержку FetLife?
+    cta_labels:
+      ach: Банковский Перевод (ACH)
+      cc_curo: Кредитная Карта
+      coingate: Биткоин
+      eps: EPS
+      giropay: giropay
+      ideal: iDEAL
+      interac: Interac e-Transfer
+      mail: Physical Mail
+      paygarden: Major Gift Card
+      paysafe: paysafecard
+      poli: POLi Payments
+      przelewy: Przelewy24
+      sepa: SEPA Direct Debit
+      teleingreso: Teleingreso
+    errors:
+      account_number_blank: Номер Аккаунта не может быть пустым
+      address_blank: Адрес не может быть пустым
+      answer_blank: Ответ не может быть пустым
+      bankcode_blank: Банк не может быть пустым
+      bic_blank: BIC не может быть пустым
+      bic_format: Неверный BIC
+      canceled: Транзакция отменена пользователем.
+      city_blank: Город не может быть пустым
+      country_blank: Необходимо указать Страну
+      double_failsafe: Вы уверены, что хотите снова поддержать нас? Не поймите нас неправильно, мы ценим поддержку, но в то же время мы не хотим снимать деньги по ошибке. Если у вас есть какие-либо вопросы, не стесняйтесь обращаться по электронной почте <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: Эл.почта не может быть пустой
+      first_name_blank: Имя не может быть пустым
+      iban_blank: IBAN не может быть пустым
+      info_missing: Некоторая информация отсутствует. Пожалуйста, попробуйте еще раз.
+      last_name_blank: Фамилия не может быть пустой
+      postal_code_blank: Почтовый Индекс не может быть пустым
+      question_blank: Контрольный Вопрос не может быть пустым
+      routing_number_blank: Routing Number не может быть пустым
+      state_blank: Штат не может быть пустым
+    faq:
+      cc_a_part_1: Мы понимаем, что это большое разочарование для многих из вас. Но из-за количества ограничений, связанных с обработкой платежей с кредитных карт, сообщество в целом решило, что для нашего долгосрочного благополучия от них стоит отказаться.
+      cc_a_part_2: Если бы мы захотели принимать кредитные карты, мы не смогли бы позволить пользователям на FetLife золотой дождь, гипноз, секс во время месячных, игры с кровью, экстремальные игры и многие другие извращения, принятые в БДСМ сообществе.
+      cc_a_part_3: Как сообществу, нам необходимо безопасное место для взрослых, чтобы они могли свободно выражать себя в сексуальном плане. И если мы будем принимать кредитные карты или paypal, мы потеряем эту свободу.
+      cc_q: В. Почему FetLife не принимает кредитные карты или Paypal?
+      gift_a: Это очень мило с вашей стороны. Просто посетите их профиль и нажмите ссылку &ldquo;Подарить Премиум&rdquo; под &ldquo;Написать Участнику&rdquo; <i>#ИмПонравится</i>
+      gift_q: В. Хотите подарить кому-то премиум?
+      month_a: Как и в Costco, нам приходится продавать оптом, чтобы ежемесячная цена премиума была низкой!
+      month_q: В. Почему я не могу оплатить только 1 месяц?
+      name_a: 'Это будет выглядеть как: BitLove Inc.'
+      name_q: В. Как это будет выглядеть в моей банковской выписке?
+      question_a: Если у вас есть какие-либо вопросы, не стесняйтесь писать нам на электронную почту&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
+      question_q: В. Есть вопросы?
+      renew_a: Никогда. Мы хотим, чтобы вы сами предоставляли нам поддержку каждый раз.
+      renew_q: В. Вы автоматически продляете мой премиум?
+      return_a: Мы предоставляем 7-дневную гарантию возврата. Но к сожалению, если вы покупаете премиум, используя Подарочные Карты, POLi, или Paysafecard, из-за характера того, как они работают, они являются окончательной продажей.
+      return_q: В. Какие у вас условия возврата?
+      secure_a: Да, очень. FetLife не хранит никакую вашу личную информацию на своих серверах. Мы используем информацию, предоставленную вами для проведения платежа, только и всего.
+      secure_q: В. Это надёжно?
+      title: Часто Задаваемые Вопросы
+    gift:
+      affirm: Вы лучше всех!
+      confirm: Я хочу подарить Премиум %{nickname}
+      header: Станьте Спонсором FetLife Сегодня!
+      subheader: И получите все <a href='%{link}'>секси преимущества</a>, который получает каждый спонсор.
+      thank_you: Спасибо за поддержку!
+      title: Подарить Премиум %{nickname}
+      yourself: Купить Премиум для Себя
+    header:
+      subheader: И получите все <a href='%{link}'>секси преимущества</a>, который получает каждый спонсор.
+      title: Поддержите FetLife Сегодня!
+    step1:
+      ach:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Соединённых Штатах.
+        title: Американский Банковский Перевод (ACH)
+      cc_curo:
+        extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
+        title: Кредитная Карта
+      coingate:
+        extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
+        title: Биткоин
+      eps:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает EPS в Австрии.
+        title: Austrian Bank Transfer (EPS)
+      giropay:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает giropay в Германии.
+        title: German Bank Transfer (giropay)
+      ideal:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает iDEAL в Нидерландах.
+        title: Dutch Bank Transfer (iDEAL)
+      interac:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Канаде.
+        title: Canadian Interac e-Transfer
+      less_options: скрыть дополнительные варианты
+      mail:
+        extra_info: Если вы старой закалки, мы принимаем денежные переводы, чеки или наличные деньги по почте.
+        title: Простая Почта
+      more_options: показать ещё варианты
+      paygarden:
+        extra_info: Обменяйте подарочные карты 100+ компаний, включая Starbucks, Best Buy, Target, Walmart, Home Depot и Build-A-Bear.
+        title: Обмен на Подарочные Карты Крупных Компаний
+      paysafe:
+        extra_info: Вы можете купить карту Paysafecard и использовать её для поддержки FetLife в более, чем 500,000 магазинах, расположенных в 43 странах по всему миру.
+        title: Предоплатная Карта Paysafecard
+      poli:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Австралии или Новой Зеландии.
+        title: AU/NZ Bank Transfer (POLi)
+      przelewy:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Польше.
+        title: Przelewy24
+      sepa:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает SEPA в Европе.
+        title: European Bank Transfer (SEPA)
+      teleingreso:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Испании.
+        title: Teleingreso
+      title: Выберите Способ Оплаты
+    step2:
+      120_info: "$5/месяц"
+      120_title: "$120 за 24 Месяца"
+      240_info: "<i>Бесценно</i>"
+      240_title: "$240 на всю жизнь!"
+      30_info: "$5/месяц"
+      30_title: "$30 за 6 Месяцев"
+      60_info: "$5/месяц"
+      60_title: "$60 за 12 Месяцев"
+      return_info: 7-дневная безоговорочная гарантия возврата денег.
+      title: Как сильно вы любите FetLife?
+    step2_paygarden:
+      confirm: У меня есть Подарочная Карта, которую я хочу обменять на Премиум
+      list_footer: и <a href='%{link}'>сотни других известных фирм.</a>
+      list_header: Мы Принимаем Подарочные Карты от
+      secure: Надёжно как Форт Нокс
+      tips: Если вы живёте за пределами Соединённых Штатов, мы советуем вам использовать ВПН/Прокси и купить подарочную карту за доллары в американских онлайн-магазинах Starbucks или Target.
+      tips_header: Советы &amp; Подсказки
+      title: Купить Подарочную Карту Известной Фирмы
+    step3_ach:
+      account_number_label: 'Счёт #'
+      account_number_placeholder: Номер Счёта
+      account_number_sub_label: от 6 до 16 цифр
+      account_type: Тип Счёта
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      check_hide: hide check
+      check_question: Где я могу найти эти цифры на чеке?
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Поддержите FetLife Сегодня
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      routing_number_label: 'Bank Routing #'
+      routing_number_placeholder: Bank Routing Number
+      routing_number_sub_label: 9 значное число
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      state_label: Штат
+      state_placeholder: Штат
+      state_sub_label: связанный с банковским счётом
+      title: Электронный Чек / Банковский Перевод
+      type_checking: Checking
+      type_savings: Savings
+      zip_label: Почтовый Индекс
+      zip_sub_label: связанный с банковским счётом
+    step3_cc_curo:
+      cta: Поддержать FetLife при помощи Кредитной Карты
+      first_name_label: Имя
+      first_name_sub_label: связанное с кредитной картой
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с кредитной картой
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Платёж Кредитной Картой
+    step3_coingate:
+      cta: Поддержать FetLife при помощи Биткоинов
+      intro: 'Биткоин это цифровая валюта. Вот некоторые полезные видео:'
+      secure: Надёжно как Форт Нокс
+      title: "Как пользоваться Биткоинами"
+      title_html: "Как пользоваться Биткоинами"
+      wallets_list_header: 'Мы советуем пользоваться следующими кошельками:'
+      wallets_title: Рекомендованный Биткоин Кошельки
+      what: Что такое Биткоин?
+    step3_eps:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Совершить EPS Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: EPS Платёж
+    step3_giropay:
+      account_number_label: 'Счёт #'
+      account_number_placeholder: Номер Счёта
+      account_number_sub_label: Действительный Номер Банковского Счёта
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Совершить giropay Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      routing_number_label: BIC / SWIFT Code
+      routing_number_placeholder: Bank Identifier Code
+      routing_number_sub_label: 8 или 11 символов
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: giropay Платёж
+    step3_ideal:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Совершить iDEAL Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: iDEAL Платёж
+    step3_interac:
+      amount: 'Сумма:'
+      answer_label: 'Ответ:'
+      answer_placeholder: Ответ
+      cta: Я отправил Interac e-Transfer
+      question_label: 'Контрольный Вопрос:'
+      question_placeholder: Контрольный Вопрос
+      send: 'Отправить:'
+      thank_you: Спасибо!
+      title: Отправить Interac e-Transfer перевод
+    step3_mail:
+      accept_options: Денежный Перевод, Чек, или Наличные
+      accept_title: 'Мы Принимаем:'
+      amount: 'Сумма:'
+      cta: Отправить мне информацию по эл.почте
+      email_to: Мы отправим вам на %{email}.
+      memo: 'Memo/Re:'
+      send: 'Send to:'
+      title: Отправить Письмо
+      to_options: BitLove Inc. или Наличные
+      to_title: 'Payable to:'
+      update_email: обновить эл.почту
+    step3_paysafe:
+      cta: У меня уже есть карта Paysafecard
+      notice_body: К сожалению, Paysafecards, купленные в США, не поддерживаются из-за ограничений, налагаемых банком, который они используют в США. Paysafecards, купленные во всех других странах, принимаются.
+      notice_title: Важная Информация для наших Американских Друзей
+      secure: Надёжно как Форт Нокс
+      stores: Вы можете найти магазины, которые продают карты paysafecard в шаговой доступности. Не верите?
+      stores_link: Найти ближайшие магазины, которые продают карты paysafecards
+      title: Купить предоплатную карту Paysafecard
+      where: Где я могу купить paysafecard?
+    step3_poli:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      country_label: Страна
+      country_placeholder: Страна
+      country_sub_label: связанная с банковским счётом
+      cta: Совершить POLi Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      state_label: Штат / Область
+      state_sub_label: связанный с банковским счётом
+      title: POLi Платёж
+    step3_przelewy:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Совершить Przelewy24 Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Przelewy24 Платёж
+    step3_sepa:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      bic_label: BIC / SWIFT Code
+      bic_placeholder: Bank Identifier Code
+      bic_sub_label: 8 или 11 символов
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      country_label: Страна
+      country_placeholder: Страна
+      country_sub_label: связанная с банковским счётом
+      cta: Поддержать FetLife Сейчас
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      iban_label: IBAN
+      iban_placeholder: International Bank Account Number
+      iban_sub_label: до 34 символов
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Информация SEPA Payment
+    step3_teleingreso:
+      address_label: Адрес
+      address_sub_label: связанный с банковским счётом
+      city_label: Город
+      city_sub_label: связанный с банковским счётом
+      cta: Совершить Teleingreso Платёж
+      first_name_label: Имя
+      first_name_sub_label: связанное с банковским счётом
+      last_name_label: Фамилия
+      last_name_sub_label: связанная с банковским счётом
+      postal_code_label: Почтовый Индекс
+      postal_code_sub_label: связанный с банковским счётом
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Teleingreso Платёж
+    thank_you:
+      body: Серьёзно, <span>огромное спасибо за вашу поддержку</span>. Это много значит для нас, что вы вложили свои честно заработанные деньги, чтобы помочь поддержать дальнейшее совершенствование и развитие FetLife.
+      cta_home: Вернуться Домой
+      gift_affirm: Вы лучше всех!
+      gift_cta_profile: Посетить Страницу %{nickname}
+      gift_next_body: Пока вы это читаете, мы передаём ваш подарочный премиум <a href="%{link}">%{nickname}</a> и уведомляем их по эл.почте о вашем щедром подарке.
+      gift_next_title: Что дальше?
+      page_title: Спасибо!
+      questions_body: Если у вас есть какие-либо вопросы, не стесняйтесь писать нам на электронную почту <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
+      questions_title: Есть Вопросы?
+      tab_title: Спасибо
+      thank_you: Ещё Раз Спасибо!
+    thank_you_interac:
+      cta_home: Вернуться к Ленте
+      next_steps_final_default: добавим его к вашему профилю и оповестим вас.
+      next_steps_final_gift: добавим его к %{nickname} профилю.
+      next_steps_first: Это может <span>занять несколько часов</span> пока мы получим ваш Interac e-Transfer платёж, но сразу же как мы его получим, мы
+      next_steps_title: 'Следующие Шаги:'
+      page_title: Спасибо <span class='baskerville i'>&amp;</span> Следующие Шаги
+      tab_title: Спасибо & Следующие Шаги
+      thank_you: Спасибо!
+    title: Поддержите Финансово FetLife!
