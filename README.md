@@ -12,6 +12,7 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 - [Greek](locales/gr.yml)
 - [Hungarian](locales/hu.yml)
 - [Portuguese](locales/pt.yml)
+- [Russian](locales/ru.yml)
 - [Slovak](locales/sk.yml)
 - [Spanish](locales/es.yml)
 
