@@ -703,7 +703,7 @@ ru:
       memo: 'Memo/Re:'
       send: 'Send to:'
       title: Отправить Письмо
-      to_options: BitLove Inc. или Наличные
+      to_options: BitLove Inc.
       to_title: 'Payable to:'
       update_email: обновить эл.почту
     step3_paysafe:

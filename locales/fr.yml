@@ -703,7 +703,7 @@ fr:
       memo: 'Mémo/Re :'
       send: 'Envoyer à :'
       title: Envoyer du courrier
-      to_options: BitLove Inc., ou liquide
+      to_options: BitLove Inc.
       to_title: 'Payable à :'
       update_email: mettre à jour l’email
     step3_paysafe:

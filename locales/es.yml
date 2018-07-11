@@ -703,7 +703,7 @@ es:
       memo: 'Nota/de:'
       send: 'Enviar a:'
       title: Enviar por correos
-      to_options: BitLove Inc. o en efectivo
+      to_options: BitLove Inc.
       to_title: 'Pagable a:'
       update_email: actualizar e-mail
     step3_paysafe:

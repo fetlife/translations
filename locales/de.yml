@@ -703,7 +703,7 @@ de:
       memo: 'Notiz:'
       send: 'Sende an:'
       title: Sende Post
-      to_options: BitLove Inc. oder Bargeld
+      to_options: BitLove Inc.
       to_title: 'Bezahlbar an:'
       update_email: aktualisiere E-Mail-Adresse
     step3_paysafe:

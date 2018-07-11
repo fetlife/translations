@@ -705,7 +705,7 @@ pl:
       memo: 'Memo/Re:'
       send: 'Send to:'
       title: Send Mail
-      to_options: BitLove Inc. or Cash
+      to_options: BitLove Inc.
       to_title: 'Payable to:'
       update_email: update email
     step3_paysafe:
