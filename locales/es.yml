@@ -550,7 +550,7 @@ es:
         title: Canadian Interac e-Transfer
       less_options: ocultar opciones adicionales
       mail:
-        extra_info: Si es usted de la vieja escuela, aceptamos giros postales, cheques o efectivo mediante carta.
+        extra_info: If you're old school, we accept international money order, checks, or cash through the mail.
         title: Correo físico
       more_options: enséñeme más opciones
       paygarden:
@@ -695,7 +695,7 @@ es:
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
-      accept_options: Giro postal, cheque, o efectivo
+      accept_options: International Money Order, Check, or Cash
       accept_title: 'Aceptamos:'
       amount: 'Cantidad:'
       cta: Envíeme la información de arriba

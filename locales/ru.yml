@@ -550,7 +550,7 @@ ru:
         title: Canadian Interac e-Transfer
       less_options: скрыть дополнительные варианты
       mail:
-        extra_info: Если вы старой закалки, мы принимаем денежные переводы, чеки или наличные деньги по почте.
+        extra_info: If you're old school, we accept international money order, checks, or cash through the mail.
         title: Простая Почта
       more_options: показать ещё варианты
       paygarden:
@@ -695,7 +695,7 @@ ru:
       thank_you: Спасибо!
       title: Отправить Interac e-Transfer перевод
     step3_mail:
-      accept_options: Денежный Перевод, Чек, или Наличные
+      accept_options: International Money Order, Check, or Cash
       accept_title: 'Мы Принимаем:'
       amount: 'Сумма:'
       cta: Отправить мне информацию по эл.почте
