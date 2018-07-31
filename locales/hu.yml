@@ -633,7 +633,7 @@ hu:
       secure: Secure as Fort Knox
       title: "“How To” for Bitcoin"
       title_html: "&ldquo;How To&rdquo; for Bitcoin"
-      wallets_list_header: 'We''ve had good experience with the following two wallet providers:'
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
       wallets_title: Recommended Bitcoin Wallets
       what: What is Bitcoin?
     step3_eps:

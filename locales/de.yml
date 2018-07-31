@@ -633,7 +633,7 @@ de:
       secure: So sicher wie Fort Knox
       title: Anleitung für Bitcoin
       title_html: Anleitung für Bitcoin
-      wallets_list_header: 'Wir hatten gute Erfahrungen mit den folgenden zwei Anbietern von Brieftaschen:'
+      wallets_list_header: 'Wir hatten gute Erfahrungen mit dem folgenden Anbieter von Brieftaschen:'
       wallets_title: Empfohlende Bitcoin Brieftaschen
       what: Was ist Bitcoin?
     step3_eps:
