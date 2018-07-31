@@ -550,7 +550,7 @@ fr:
         title: Interac e-Transfer canadien
       less_options: Cacher les options additionnelles
       mail:
-        extra_info: Si vous êtes de la vieille école, nous acceptons les mandats, les chèques, ou le liquide par envoi postal.
+        extra_info: If you're old school, we accept international money order, checks, or cash through the mail.
         title: Courrier physique
       more_options: Afficher plus d’options
       paygarden:
@@ -695,7 +695,7 @@ fr:
       thank_you: Merci !
       title: Envoyer un Interac e-Transfer
     step3_mail:
-      accept_options: Mandat, chèque, ou liquide
+      accept_options: International Money Order, Check, or Cash
       accept_title: 'Nous acceptons :'
       amount: 'Montant :'
       cta: Envoyez-moi par mail les infos ci-dessus

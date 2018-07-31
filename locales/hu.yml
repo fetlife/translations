@@ -550,7 +550,7 @@ hu:
         title: Canadian Interac e-Transfer
       less_options: hide additional options
       mail:
-        extra_info: If you're old school, we accept money order, checks, or cash through the mail.
+        extra_info: If you're old school, we accept international money order, checks, or cash through the mail.
         title: Physical Mail
       more_options: show me more options
       paygarden:
@@ -695,7 +695,7 @@ hu:
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
-      accept_options: Money Order, Check, or Cash
+      accept_options: International Money Order, Check, or Cash
       accept_title: 'We Accept:'
       amount: 'Amount:'
       cta: Email Me the Above Info

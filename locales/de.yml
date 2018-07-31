@@ -550,7 +550,7 @@ de:
         title: Kanadischer Interac e-Transfer
       less_options: weitere Optionen verstecken
       mail:
-        extra_info: Wenn du von der alten Schule bist, akzeptieren wir auch Zahlungsanweisugnen, Checks oder Bargeld per Post.
+        extra_info: Wenn du von der alten Schule bist, akzeptieren wir auch internationale Zahlungsanweisugnen, Checks oder Bargeld per Post.
         title: Physikalische Post
       more_options: zeige mehr Optionen
       paygarden:
@@ -695,7 +695,7 @@ de:
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
-      accept_options: Zahlungsanweisung, Check oder Bargeld
+      accept_options: Internationale Zahlungsanweisung, Check oder Bargeld
       accept_title: 'Wir Akzeptieren:'
       amount: 'Betrag:'
       cta: Schicke mir die obige Information per E-Mail
