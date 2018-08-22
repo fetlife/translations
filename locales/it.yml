@@ -353,7 +353,7 @@ it:
     error_email_taken: Questa Email è già stata usata.
     error_gender_required: Il sesso deve essere selezionato.
     error_nickname: Il nickname è già in uso.
-    error_nickname_bad_word: Il nickname non può contenere la parola: '%{word}'.
+    error_nickname_bad_word: Il nickname non può contenere la parola &colon; '%{word}'.
     error_nickname_characters: Il nickname può contenere solo lettere, numeri, trattini alti e bassi; niente spazi.
     error_nickname_length: Il nickname deve essere compreso tra 2 e 16 caratteri.
     error_nickname_required: Il nickname è richiesto.
