@@ -46,14 +46,14 @@ it:
     following: Segui già
   footer:
     advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    contact: Contattaci 
+    glossary: Glossario
     help: Aiuto
     privacy: Privacy
   forgot_password:
     email:
       cta: Inviatemi un'email con le istruzioni
-      error_forgot_email: Email address is required.
+      error_forgot_email: L'indirizzo email è richiesto.
       error_invalid_email: Questo non sembra un indirizzo email valido. Rivedilo e rinvialo per favore.
       error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro anti-spam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
       placeholder: Indirizzo email
@@ -84,9 +84,9 @@ it:
         cta: Verifica che TU sia TU &#8482;
         error_code_match: "<strong>Operatore Kinky:</strong> Il codice di verifica inserito non è corretto. Verifica che il numero di cui sopra corrisponda a quello che hai ricevuto da noi e riprova. Questa è una registrazione."
         inexisting_number: Se dopo un paio di minuti non ricevi un messaggio di testo da noi, allora è probabile che non abbiamo un profilo collegato al numero. Ti consigliamo di <a href="%{forgot_password_email_path}">provare a reimpostare la password utilizzando un altro metodo</a> o <a href="%{signup_path}">creare un nuovo profilo su FetLife</a>.
-        label: 6-digit Verification Code
+        label: Codice di verifica a sei cifre
         page_title: Inserisci il codice di verifica
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
+        subtitle: Per favore inserisci il codice di verifica che "potremmo" averti appena inviato al %{phone_number}.
         title: Inserisci il codice di verifica
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un numero di cellulare esiste nel nostro database oppure no. Se non si riceve un messaggio di testo da noi, è probabile che non abbiamo un account associato a quel numero."
     next_step: passo successivo
@@ -94,36 +94,36 @@ it:
     tab_email: Email
     tab_mobile: Cellulare
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: Linee guida e documenti legali di Fetlife
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: Linee guida per la Community
+      content: Linee guida per i contenuti 
+      group_leader: Linee guida per gli amministratori dei gruppi
     last_updated: 'Ultimo aggiornamento:'
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: Per fare sì che Fetlife sia un posto divertente per tutti, chiediamo di rispettare le linee guida per i contenuti, per la community, e per i gruppi.
+        title: Linee guida
       legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
+        description: Questa sezione contiene i termini di utilizzo che tutti i membri accettano quando si iscrivono a Fetlife. Abbiamo provato a renderli il più semplici e chiari possibile!
+        title: Documenti legali
       privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        description: Quanto sono al sicuro i tuoi dati? Cosa fa Fetlife per salvaguardarli? Noi di Fetlife trattiamo i tuoi dati come vorremmo che fossero trattati i nostri.
         title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+    subheader: Qui troverai le nostre linee guida, i documenti legali e la privacy policy.
     subnav:
       community: Community
       content: Contenuti
-      group_leader: Capo del gruppo
+      group_leader: Amministratore del gruppo
     title: Linee guida
   invite_a_friend:
     cancel_button: annulla
     cancel_notice: L'invito a %{email} è stato cancellato.
     cta: Invita un* amic* a venire su FetLife
     error: Stiamo avendo problemi a mandare un invito all'indirizzo di posta elettronica di cui sopra. Ti consigliamo di verificare l'ortografia o provarne uno diverso.
-    error_forgot_email: Email address is required.
+    error_forgot_email: L'indirizzo email è richiesto.
     invitations_accepted: Inviti accettati
-    invitations_sent: Inviti mandati
+    invitations_sent: Inviti inoltrati
     labels:
       email: Indirizzo email
       friends_email: L'indirizzo email dell'amic*
@@ -135,7 +135,7 @@ it:
       other: Hai %{count_with_delimiter} inviti rimasti.
     subtitle_step2: Abbiamo mandato un invito da te a %{email}.
     title_step1: Invita un* amic*
-    title_step2: Invio mandato
+    title_step2: Invito mandato
     view_invitations: visualizza i tuoi inviti
   landing_page:
     login_button: Accedi a FetLife
@@ -147,15 +147,15 @@ it:
   legalese:
     headers:
       2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Legal Requests
+      guidelines_for_legal_requests: Richieste legali
       privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      terms_of_use: Condizioni d'uso
     subnav:
       2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
+      legal_requests: Richieste legali
       privacy: Politica sulla privacy
       terms: Condizioni d'uso
-    title: Legalese
+    title: Documenti legali
   lockout:
     subtitle: Hai fatto inciampare il nostro sistema di sicurezza.
     title: Sicurezza, Sicurezza, Sicurezza!
@@ -163,12 +163,12 @@ it:
     button: Accedi a FetLife
     error_flash: Per favore contatta <a href="mailto:support@fetlife.com">support@fetlife.com</a> in modo che possiamo aiutarti a tornare dentro.
     error_login_blank: Il login non può essere vuoto.
-    error_not_authenticated: Mi dispiace amic* ma è necessario aver effettuato l'accesso per arrivare a quella pagina. Se non sei già un* utente richiede meno di un minuto iscriversi.
-    error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La password CaSe-SeNsItIvE)
-    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
+    error_not_authenticated: Mi dispiace amic* ma è necessario aver effettuato l'accesso per arrivare a quella pagina. Se non sei già un* utente, puoi iscriverti in meno di un minuto!
+    error_not_found: Hmmm, non siamo stati in grado di trovarti. Sei sicur* di aver inserito correttamente il tuo nickname e password? (La password è CaSe-SeNsItIvE)
+    error_password_blacklist: La password che hai scelto è facile da indovinare. Per favore usa una password più sicura.
     error_password_blank: La password non può essere vuota.
-    error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname.
+    error_password_email: La password non può essere il tuo indirizzo email.
+    error_password_nickname: La ua password non può essere il tuo nickname.
     forgot_info: Hai dimenticato le credenziali d'accesso?
     labels:
       nickname: Nickname o email
@@ -199,8 +199,8 @@ it:
     home: Home
     places: Luoghi
     search_placeholder: Cerca
-    videos: Videos
-    writings: Writings
+    videos: Video
+    writings: Diario
   page_break:
     of: di
   privacy:
@@ -298,14 +298,14 @@ it:
     about_fetlife: A proposito di Fetlife
     ad_stats: Statistiche annunci
     advertising: Pubblicità
-    already_member: Already a member?
-    androidapp: Install FetLife's Android App
+    already_member: Sei già un membro?
+    androidapp: Installa l'applicazione Android di Fetlife
     bug_bounty: Caccia ai bug
     caretaking: Caretaking
     change_language: Cambia lingua
     close: chiudi
-    contact_us: Contact Us
-    edit_profile: Modifica il profile
+    contact_us: Contattaci
+    edit_profile: Modifica il profilo
     edit_settings: Modifica le impostazioni
     events: Eventi
     fetishes: Feticci
@@ -313,7 +313,7 @@ it:
     fp: Fresh & Pervy
     funny_quote: Se non riesci a leggere questo... probabilmente hai bisogno degli occhiali! - John 4:69
     gift_support: Regala il Support di FetLife
-    glossary: Glossary
+    glossary: Glossario
     groups: Gruppi
     guidelines: Linee guida
     home: Home
@@ -329,18 +329,18 @@ it:
     preservation_requests: Preservation Requests
     privacy: Privacy
     recommendations: Raccomandazioni
-    signup: Signup
-    subscriptions: Subscriptions
+    signup: Iscriviti
+    subscriptions: Sottoscrizioni
     support: Supporta FetLife
     terms: Terms
     upload_picture: Carica una foto
     upload_video: Carica un video
-    videos: Videos
+    videos: Video
     view_friends: Visualizza gli amici
-    wallpapers: FetLife Wallpapers
+    wallpapers: Sfondi di Fetlife
     whats_new: Cosa c'è di nuovo
     write_post: Scrivi un post
-    writings: Writings
+    writings: Diario
   signup:
     almost_there: Quasi fatto!
     error_bar: Dallas, abbiamo un problema. Scorri verso il basso per ulteriori informazioni.
@@ -350,33 +350,33 @@ it:
     error_city_missing: La città deve essere selezionata.
     error_country_missing: La nazione deve essere selezionata.
     error_email: Stiamo avendo problemi ad elaborare l'email di cui sopra. Ti consigliamo di verificare l'ortografia o provarne una diversa.
-    error_email_taken: Email has already been taken.
+    error_email_taken: Questa Email è già stata usata.
     error_gender_required: Il sesso deve essere selezionato.
     error_nickname: Il nickname è già in uso.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_bad_word: Il nickname non può contenere la parola &colon; '%{word}'.
+    error_nickname_characters: Il nickname può contenere solo lettere, numeri, trattini alti e bassi; niente spazi.
+    error_nickname_length: Il nickname deve essere compreso tra 2 e 16 caratteri.
     error_nickname_required: Il nickname è richiesto.
     error_password_range: La password deve essere tra 8 e 100 caratteri.
     error_password_required: La password è richiesta.
     error_role_required: Il ruolo deve essere selezionato.
     error_sexual_orientation_required: L'orientamento sessuale deve essere selezionato.
     error_state_missing: Lo stato/provincia deve essere selezionato.
-    footnote: By clicking "Completa l'iscrizione e la verifica" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: Cliccando "Completa l'iscrizione e la verifica" Accetti di rispettare le nostre <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Condizioni d'uso</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, e <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Linee guida</a>.
     label:
       birthdate: Data di nascita
       city: Città
       country: Nazione
       email: Indirizzo email
       gender: Sesso
-      location: Ubicazione
+      location: residenza
       nickname: Nickname
       password: Password
       role: Ruolo
       sexual_orientation: Orientamento Sessuale
       state: Stato/provincia
-    page_title: Unisciti
-    return_to_login: Already a member? Login to FetLife
+    page_title: Iscriviti
+    return_to_login: Sei già un membro? Fai login in Fetlife!
     subtitle: Parlaci un po' di te.
     subtitle_invite: "%{name} ti ha invitat* ad iscriverti a FetLife."
     title: Benvenuto a casa
@@ -393,7 +393,7 @@ it:
   signup_follow:
     follow: Segui
     next_step: Passo successivo
-    subtitle: Seguire kinksters che più ti interessano.
+    subtitle: Segui i kinkster che più ti interessano.
     title: Qualcuno attira la tua attenzione?
   signup_phone:
     cta: Inviami un codice di verifica
@@ -432,8 +432,8 @@ it:
       pictures_short: Foto
       videos: Video
       videos_short: Video
-      writings: Scritti
-      writings_short: Scritti
+      writings: Diario
+      writings_short: Diario
     settings:
       account: Account
       account_short: Account
