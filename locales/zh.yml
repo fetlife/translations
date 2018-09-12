@@ -45,9 +45,9 @@ zh:
     follow: 关注
     following: 关注中
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: 广告
+    contact: 联系我们
+    glossary: 术语表
     help: 帮助
     privacy: 隐私
   forgot_password:
@@ -94,27 +94,27 @@ zh:
     tab_email: 邮箱
     tab_mobile: 手机号
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: FetLife 指南与守则
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: 社区守则
+      content: 内容守则
+      group_leader: 小组管理员守则
     last_updated: 最近更新于：
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: 为保证每个人都能享受 FetLife，我们请求所有用户遵守我们的内容、社群及小组守则。
+        title: 守则
       legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
+        description: 此部分为所有用户注册 FetLife 时所同意的使用条款。我们已让其尽可能简洁明了。
+        title: 条款
       privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+        description: FetLife 怎样保护你的数据安全？在 FetLife，我们如同对待自己的数据一样保护你的数据隐私。
+        title: 隐私
+    subheader: 你能在这里看到我们的网站守则、法律信息以及隐私政策。
     subnav:
       community: 社群
       content: 内容
-      group_leader: 小组长
+      group_leader: 小组管理员
     title: 守则
   invite_a_friend:
     cancel_button: 取消
@@ -140,16 +140,16 @@ zh:
   landing_page:
     login_button: 登录 FetLife
     signup_button: 注册 FetLife
-    stats_details: are sharing <strong class="fw4 silver">%{picture_count} pictures</strong> and <strong class="fw4 silver">%{video_count} videos</strong>, participating in <strong class="fw4 silver">%{discussion_count} discussions</strong> in <strong class="fw4 silver">%{group_count} groups</strong>, going to <strong class="fw4 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw4 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
-    stats_members: Members
+    stats_details: 在此分享 <strong class="fw4 silver">%{picture_count} 张图片</strong>、<strong class="fw4 silver">%{video_count} 部视频</strong>、在 <strong class="fw4 silver">%{group_count} 个小组中</strong>参与 <strong class="fw4 silver">%{discussion_count} 次讨论</strong>，并前往 <strong class="fw4 silver">%{event_count} 次即将举办的线下活动</strong>，还在阅读 <strong class="fw4 silver">%{post_count} 篇博文</strong>。<span><span class="i">Kink の天堂！</span>
+    stats_members: 名会员
     subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
   legalese:
     headers:
-      2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      2257_exempt: 2257 豁免条款
+      guidelines_for_legal_requests: 法务请求
+      privacy_policy: 隐私政策
+      terms_of_use: 使用条款
     subnav:
       2257_exempt: 2257 豁免条款
       legal_requests: 法务请求
@@ -171,8 +171,8 @@ zh:
     error_password_nickname: 你的密码和用户名不能一样。
     forgot_info: 忘了你的登录信息？
     labels:
-      nickname: 昵称或密码
-      password: 登录
+      nickname: 昵称或邮箱
+      password: 密码
       remember_me: 记住我，我还来。
     not_a_member: 还不是注册用户？现在注册 FetLife
     subtitle: 我们想死你啦
@@ -199,12 +199,12 @@ zh:
     home: 首页
     places: 地方
     search_placeholder: 搜索 FetLife
-    videos: Videos
+    videos: 视频
     writings: 写作
   page_break:
     of: of
   privacy:
-    title: Privacy
+    title: 隐私
   profile:
     about_title: 好友列表
     pictures_title: 图片
@@ -247,7 +247,7 @@ zh:
     language_notice: FetLife 对英语以外的语言支持并不完善。如果你选择非英语的语言的话，网站仍可能有一部分以英语显示。
     new_password_label: 新密码
     nickname_cta: 更改昵称
-    nickname_label: 把你的昵称从 "JohnBaku" 改为：
+    nickname_label: 把你的昵称从「JohnBaku」改为：
     nickname_notice: "<strong>友情提示：</strong>想清楚再改噢。每 28 天内你仅可更改一次昵称。别反悔。"
     nickname_placeholder: 新昵称
     page_title: 更改密码 - 设置
@@ -298,13 +298,13 @@ zh:
     about_fetlife: 关于 Fetlife
     ad_stats: 广告统计
     advertising: 广告
-    already_member: Already a member?
+    already_member: 已经注册过？
     androidapp: 安装 FetLife Android 应用
     bug_bounty: 悬赏 Bug
     caretaking: 社区管理工具
     change_language: 更改语言
     close: 关闭
-    contact_us: Contact Us
+    contact_us: 联系我们
     edit_profile: 更改资料
     edit_settings: 更改设置
     events: 线下活动
@@ -337,7 +337,7 @@ zh:
     upload_video: 上传视频
     videos: 视频
     view_friends: 查看好友列表
-    wallpapers: FetLife Wallpapers
+    wallpapers: FetLife 壁纸
     whats_new: 有啥新鲜的
     write_post: 写文章
     writings: 写作
@@ -362,7 +362,7 @@ zh:
     error_role_required: 角色必选。
     error_sexual_orientation_required: 性取向必选。
     error_state_missing: 省份/州份必选。
-    footnote: By clicking "完成注册认证" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: 点击「完成注册认证」代表你同意我们的<a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">使用守则</a>、<a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">隐私政策</a>和<a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">社区守则</a>。
     label:
       birthdate: 出生日期
       city: 城市
