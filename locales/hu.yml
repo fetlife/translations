@@ -46,15 +46,15 @@ hu:
     following: Követed
   footer:
     advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    contact: Kapcsolat
+    glossary: Fogalomtár
     help: Segítség
     privacy: Privacy
   forgot_password:
     email:
       cta: Kérek egy emailt az instrukciókkal
-      error_forgot_email: Email address is required.
-      error_invalid_email: Ez nem tűnik egy valós email címnek. Megtennéd, hogy leellenorzöd.
+      error_forgot_email: Email cím kötelező.
+      error_invalid_email: Ez nem tűnik egy valós email címnek. Megtennéd, hogy leellenőrzöd.
       error_quota: Naponta csak két emailt küldhetünk egy adott email címre. Megtennéd, hogy megnézed nem került-e a korábbi email a levélszemét mappádba? Ha nincs meg, kérlek válassz egy másikat a fenti lehetőségek közül, hogy hozzáférhess a fiókodhoz.
       placeholder: Email cím
       step1:
@@ -83,10 +83,10 @@ hu:
       step2:
         cta: Bizonyítsd be, hogy te vagy te &#8482;
         error_code_match: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
-        inexisting_number: Amennyiben néhány percen belül sem kapsz SMS-t, akkor feltehetoleg nem létezik felhasználói fiók az adott telefonszámhoz. Ez esetben próbáld meg <a href="%{forgot_password_email_path}">visszaállítani a jelszavadat egy másik módszerrel</a> vagy <a href="%{signup_path}">hozz létre egy új FetLife profilt</a>.
-        label: 6-digit Verification Code
+        inexisting_number: Amennyiben néhány percen belül sem kapsz SMS-t, akkor feltehetőleg nem létezik felhasználói fiók az adott telefonszámhoz. Ez esetben próbáld meg <a href="%{forgot_password_email_path}">visszaállítani a jelszavadat egy másik módszerrel</a> vagy <a href="%{signup_path}">hozz létre egy új FetLife profilt</a>.
+        label: 6 jegyű hitelesítő kód
         page_title: Add meg a hitelesítő kódot
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
+        subtitle: Kérjük add meg a 6 jegyű hitelesítő kódot, amit "talán" elküldtünk a %{phone_number} számra.
         title: Add meg a hitelesítő kódot
       warning: "<strong>Egészségügyi figyelmeztetés:</strong> Biztonsági okokból nem árulhatjuk el, hogy létezik-e már felhasználói fiók a megadott telefonszámhoz. Ha nem kapsz tőlünk SMS-t az könnyen lehet, hogy azért van, mert még nem regisztráltál ezzel a telefonszámmal."
     next_step: következő lépés
@@ -147,12 +147,12 @@ hu:
   legalese:
     headers:
       2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      guidelines_for_legal_requests: Jogi kérések
+      privacy_policy: Adatvédelmi szavályzat
+      terms_of_use: Felhasználási feltételek
     subnav:
       2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
+      legal_requests: Jogi kérések
       privacy: Adatvédelmi szabályzat
       terms: Felhasználási feltételek
     title: Legalizáció
@@ -165,10 +165,10 @@ hu:
     error_login_blank: Meg kell adnod a felhasználó neved.
     error_not_authenticated: Bocs haver, de be kell lépned, hogy megnézhesd ezt az oldalt. Ha még nem vagy tag szánj rá egy percet a regisztrációra és már bent is vagy.
     error_not_found: 'Hmmm, nem tűnsz ismerősnek. Biztos hogy jól adtad meg a felhasználóneved és a jelszavad? (Ne felejtsd: a kis és a nagy betű különböző)'
-    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
+    error_password_blacklist: A választott jelszót túl könnyű kitalálni. Kérlek használj erősebb jelszót.
     error_password_blank: Meg kell adnod a jelszavadat.
-    error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname.
+    error_password_email: A jelszavad nem lehet az email címed.
+    error_password_nickname: A jelszavad nem lehet a beceneved.
     forgot_info: Valamit elfelejtettél?
     labels:
       nickname: Felhasználónév vagy email cím
@@ -199,12 +199,12 @@ hu:
     home: Otthon
     places: Helyek
     search_placeholder: Keresés
-    videos: Videos
-    writings: Writings
+    videos: Videók
+    writings: Irások
   page_break:
     of: "/"
   privacy:
-    title: Privacy
+    title: Adatvédelem
   profile:
     about_title: Ismerősök
     pictures_title: Képek
