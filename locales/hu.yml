@@ -231,10 +231,10 @@ hu:
     title: Jelszó helyreállítása
   select_language:
     button: Nyelv megváltoztatása
-    help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetové tenni a FetLife-ot? Látogass el a <a class="silver" href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!
+    help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetővé tenni a FetLife-ot? Látogass el a <a class="silver" href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!
     language_name: Magyar
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
-    title: Válasz nyelvet magadnak
+    title: Válassz nyelvet magadnak
   settings_account:
     2fa_cta: Két lépcsős azonosítás bekapcsolása
     2fa_label: Két lépcsős azonosítás
@@ -299,12 +299,12 @@ hu:
     ad_stats: Hirdetési statisztikák
     advertising: Hirdetés
     already_member: Already a member?
-    androidapp: Install FetLife's Android App
+    androidapp: FetLife Android App telepítése
     bug_bounty: Hiba vadászat
     caretaking: Ügyfélszolgálat
     change_language: Nyelv kiválasztása
     close: bezárás
-    contact_us: Contact Us
+    contact_us: Kapcsolat
     edit_profile: Profil szerkesztése
     edit_settings: Beállítások szerkesztése
     events: Események
@@ -332,15 +332,15 @@ hu:
     signup: Signup
     subscriptions: Subscriptions
     support: Támogasd a FetLife-ot
-    terms: Terms
+    terms: Feltételek
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
-    videos: Videos
+    videos: Videók
     view_friends: Ismerősök
     wallpapers: FetLife Wallpapers
     whats_new: Újdonságok
     write_post: Bejegyzés közzététele
-    writings: Writings
+    writings: Irások
   signup:
     almost_there: Szinte kész!
     error_bar: Van egy kis gond. Görgess lejjebb, hogy lásd mi is a probléma pontosan.
