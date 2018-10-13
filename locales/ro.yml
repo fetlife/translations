@@ -2,31 +2,31 @@
 en:
   2fa:
     5strike:
-      return: return to front page
-      subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try to login again.
-      title: Five Strike Rule
-    cta: It's me, let me in!
+      return: reveniți pe prima pagină
+      subtitle: Arunca, din motive de securitate, va trebui să așteptați două ore înainte de a putea încerca să vă autentificați din nou.
+      title: Regulă de cinci
+    cta: Eu sunt, lasa-ma inauntru!
     error: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code above seems off. Please verify that the number above matches what you received from us and try again."
-    label: Authentication Code
-    page_title: 2-Factor Authentication
+    label: Cod de Autentificare
+    page_title: 2-Factor de Autentificare
     subtitle: 2-Factor me baby!
-    title: Secret Code
+    title: Cod secret
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
-    europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
+    contact_info: Informatii de contact
+    email_us: Trimiteți-ne un e-mail la <a href="mailto:support@fetlife.com">support@fetlife.com</a> și ne vom întoarce la tine!
+    europe: Europa
+    got_question: Ai o întrebare? Nevoie de ajutor?
+    north_america: America de Nord
     one_love: One love, one life, and a whole lot of kink.
     snail_mail: Snail Mail
-    sub_header: Not to be confused with the Spartans.
-    title: We. Are. FetLife!
+    sub_header: Să nu fii confuz cu spartanii.
+    title: Noi. Sunteți. FetLife!
   components:
     step: Step
   feed:
-    comment: Comment
+    comment: Cometariu
     comments_count:
-      one: 1 Comment
+      one: 1 Cometariu
       other: "%{count_with_delimiter} Comments"
     composer:
       button: Say It
@@ -39,28 +39,28 @@ en:
     modal:
       close: close
       more: more
-      reply: Reply
-    title: Activity Feed
+      reply: Răspuns
+    title: Feed de Activitate
   following:
-    follow: Follow
-    following: Following
+    follow: Urma
+    following: Urmare
   footer:
-    advertising: Advertising
+    advertising: Reclamă
     contact: Contact Us
-    glossary: Glossary
+    glossary: Glosar
     help: Help
-    privacy: Privacy
+    privacy: Intimitate
   forgot_password:
     email:
-      cta: Send me Email with Instructions
-      error_forgot_email: Email address is required.
-      error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
-      error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
-      placeholder: Email Address
+      cta: Trimiteți-mi e-mail cu instrucțiuni
+      error_forgot_email: Este necesară o adresă de e-mail.
+      error_invalid_email: Aceasta nu arata ca o adresa de e-mail valida. Revedeți-o și trimiteți-o din nou.
+      error_quota: Putem trimite doar două e-mailuri pe oră către orice adresă de e-mail dată. Verificați dublu că e-mailul nostru nu a ajuns în filtrul pentru spam. Dacă nu găsiți nimic în filtrul de spam vă recomandăm să utilizați una dintre celelalte metode de mai sus pentru a vă întoarce în contul.
+      placeholder: Adresă de e-mail
       step1:
-        page_title: Reset Password via Email
-        subtitle: Let me help you with that.
-        title: Forgot Password?
+        page_title: Resetați parola prin e-mail
+        subtitle: Lasă-mă să te ajut cu asta.
+        title: Ați uitat parola?
       step2:
         page_title: You "MIGHT" Have Mail
         subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
