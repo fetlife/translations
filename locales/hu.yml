@@ -447,19 +447,19 @@ hu:
       support_short: Támogatás
   support:
     benefits:
-      item_1: A sexy <span>I Support FetLife</span> badge on your profile.
-      item_2: Perv <span>today’s %{number}+ most loved</span> pics, vids, etc.
-      item_3: Watch <span>all %{number}+ videos</span> shared by the community.
-      item_4: Perv <span>all %{number}+ pictures</span> as they are shared.
-      item_5: View <span>everything you’ve ever loved</span>.
-      item_6: Go back <span>25x further</span> in your Friend Feed.
-      item_7: Go back <span>25x further</span> in your @You Feed.
-      item_8: "<span>Customize your Friend Feed</span> to your heart's content."
-      item_9: Get early <span>access to new features</span>!
-      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
-      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
-      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
-      title: What do I get for supporting FetLife?
+      item_1: Egy szexy <span>I Support FetLife</span> jelvény a profilodon.
+      item_2: Böngéssz <span>napi %{number}+ legtöbbet kedvelt</span> képeit, videóit és még sok minden mást.
+      item_3: Nézz <span>minden %{number}+ videót</span> a közösség által megosztva.
+      item_4: Nézz <span>minden %{number}+ képet</span> amint megosztják.
+      item_5: Néz vissza <span>mindent amit csak kedveltél</span>.
+      item_6: Lépj vissza <span>25-szörösen </span> a barátaid tevékenységeiben.
+      item_7: Lépj vissza <span>25-szörösen</span> a te @Tevékenységeid között.
+      item_8: "<span>Szabd személyre a barátaid látható tevékenységeit</span> kedved szerint."
+      item_9: Korai <span>hozzáférés az új funkciókhoz</span>!
+      list_description: 'Mindössze $5 havonta, amivel nem csak a FetLife további fennmaradását támogatod:'
+      list_footer: Mindezt kevesebb, mint egy üveg sikosító áráért...
+      thank_you: A támogatásod nélkül nem lenne FetLife. Köszönjük a teljes FetLife család nevében!
+      title: Mit kapok a FetLife támogatásáért cserébe?
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
