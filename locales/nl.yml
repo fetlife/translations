@@ -13,7 +13,7 @@ nl:
     title: Geheime code
   about:
     contact_info: Contact informatie
-    email_us: stuur een email aan ons op <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij reageren als op een zweepslag.
+    email_us: stuur een e-mail aan ons op <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij reageren als op een zweepslag.
     europe: Europa
     got_question: Heb je een vraag? Heb je hulp nodig?
     north_america: Noord Amerika
@@ -52,30 +52,30 @@ nl:
     privacy: Privacy
   forgot_password:
     email:
-      cta: Stuur mij een Email met instructies
-      error_forgot_email: Email address is required.
-      error_invalid_email: Dat lijkt niet op een juist email adres. Graag even nakijken en opnieuw verzenden.
-      error_quota: We kunnen maar twee emails per uur sturen naar een email adres. Controleer alsjeblieft even of onze email niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
-      placeholder: Email adres
+      cta: Stuur mij een e-mail met instructies
+      error_forgot_email: E-mailadres is verplicht.
+      error_invalid_email: Dat lijkt niet op een juist e-mail adres. Graag even nakijken en opnieuw verzenden.
+      error_quota: We kunnen maar twee e-mails per uur sturen naar een e-mailadres. Controleer alsjeblieft even of onze e-mail niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
+      placeholder: E-mailadres
       step1:
-        page_title: Herstel wachtwoord via Email
+        page_title: Herstel wachtwoord via e-mail
         subtitle: Laat me je hiermee helpen.
         title: Wachtwoord vergeten?
       step2:
         page_title: Je "ZOU" een bericht kunnen hebben
-        subtitle: Wanneer er een profiel gekoppeld is met dit email adres <span class='fw7'>%{given_email}</span> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
+        subtitle: Wanneer er een profiel gekoppeld is met dit e-mailadres <span class='fw7'>%{given_email}</span> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
         title: Je hebt &ldquo;misschien&rdquo; een bericht!
-      update_email: email adres aanpassen
-      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je email adres al bestaat in onze database. Wanneer je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat email adres."
+      update_email: e-mailadres aanpassen
+      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je e-mailadres al bestaat in onze database. Wanneer je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat e-mailadres."
     mobile:
       5strike:
         return: terug naar de startpagina
         subtitle: Auw, vanwege veiligheidsredenen moet je nu twee uur wachten voordat je opnieuw kunt proberen om aan te melden.
         title: Vijf slag regel
       cta: Stuur mij een SMS
-      error_country_code: "<strong>Kinky Operator:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+      error_country_code: "<strong>Kinky Operator:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor België, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc."
       error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Ongeacht of het bestaat in onze database."
-      pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+      pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc."
       step1:
         page_title: Herstel je wachtwoord via SMS
         subtitle: Laat me je daarbij helpen.
@@ -84,33 +84,33 @@ nl:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
         inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
-        label: 6-digit Verification Code
-        page_title: Controle Code invoeren
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
-        title: Controle Code invoeren
+        label: 6-cijferige verificatiecode
+        page_title: Controle code invoeren
+        subtitle: Voer de 6-cijferige code in die we zojuist "mogelijk" naar %{phone_number} hebben gestuurd.
+        title: Controle code invoeren
       warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat mobiele nummer."
     next_step: volgende stap
     return_to_login: terug naar aanmelden
-    tab_email: Email
+    tab_email: E-mail
     tab_mobile: Mobiel
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: FetLife-richtlijnen & Juridisch jargon
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: Community richtlijnen
+      content: Inhoudsrichtlijnen
+      group_leader: Groepsleider richtlijnen
     last_updated: 'Laatst bijgewerkt:'
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: Om FetLife een leuke plek voor iedereen te maken, vragen we iedereen vriendelijk om onze richtlijnen voor Inhoud, Community en Groep te volgen.
+        title: Richtlijnen
       legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
+        description: Dit gedeelte bevat de gebruiksvoorwaarden waarmee alle leden akkoord gaan wanneer zij zich aanmelden voor FetLife. We hebben geprobeerd de dingen zo eenvoudig en duidelijk mogelijk te houden!
+        title: Juridisch jargon
       privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
+        description: Hoe veilig zijn je gegevens en wat doet FetLife om het te beschermen? Bij FetLife behandelen we je gegevens zoals we zouden willen dat die van ons worden behandeld.
         title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+    subheader: Je vindt onze siterichtlijnen, juridische documentatie en privacybeleid hier.
     subnav:
       community: Gemeenschap
       content: Inhoud
@@ -120,14 +120,14 @@ nl:
     cancel_button: afbreken
     cancel_notice: De uitnodiging van %{email} is afgebroken.
     cta: Nodig een vriend uit om deel te nemen aan FetLife
-    error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande email adres. We adviseren om de spelling te conroleren of een andere te proberen.
-    error_forgot_email: Email address is required.
+    error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande e-mailadres. We adviseren om de spelling te conroleren of een andere te proberen.
+    error_forgot_email: E-mailadres is verplicht.
     invitations_accepted: Uitnodigingen geaccepteerd
     invitations_sent: Uitnodigingen verstuurd
     labels:
-      email: Email adres
-      friends_email: Vriend's Email Adres
-      friends_email_sub: "%{count} invitations remaining"
+      email: E-mailadres
+      friends_email: 'Uitnodiging versturen naar:'
+      friends_email_sub: "%{count} resterende uitnodigingen"
     next_step: volgende stap
     return_to_feed: terug naar activiteiten overzicht
     subtitle_step1:
@@ -146,32 +146,32 @@ nl:
     title: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
   legalese:
     headers:
-      2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
+      2257_exempt: 2257 Vrijgesteld
+      guidelines_for_legal_requests: Juridische verzoeken
+      privacy_policy: Privacybeleid
+      terms_of_use: Gebruiksvoorwaarden
     subnav:
-      2257_exempt: 2257 vrijwaring
-      legal_requests: Legal Requests
-      privacy: Geheimhoudings beleid
-      terms: Gebruiks voorwaarden
+      2257_exempt: 2257 Vrijgesteld
+      legal_requests: Juridische verzoeken
+      privacy: Privacybeleid
+      terms: Gebruiksvoorwaarden
     title: Legaliseren
   lockout:
-    subtitle: You've tripped our security system.
-    title: Security, Security, Security!
+    subtitle: Je hebt ons beveiligingssysteem geactiveerd.
+    title: Beveiliging, beveiliging, beveiliging!
   login:
     button: Aanmelden bij FetLife
-    error_flash: Neem alsjeblief contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.
+    error_flash: Neem alsjeblieft contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.
     error_login_blank: Aanmeldveld mag niet leeg zijn.
     error_not_authenticated: Sorry mijn vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
     error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
-    error_password_blacklist: The password you've chosen is easy to guess. Please use a stronger password.
+    error_password_blacklist: Het wachtwoord dat je hebt gekozen, is gemakkelijk te raden. Gebruik alstublieft een sterker wachtwoord.
     error_password_blank: Wachtwoord mag niet leeg zijn.
-    error_password_email: Your password cannot be your email username.
-    error_password_nickname: Your password cannot be the same as your nickname.
-    forgot_info: Je aanmeld gegevens vergeten?
+    error_password_email: Je wachtwoord kan niet je gebruikersnaam voor e-mail zijn.
+    error_password_nickname: Je wachtwoord kan niet hetzelfde zijn als je bijnaam.
+    forgot_info: Je aanmeldgegevens vergeten?
     labels:
-      nickname: Alias of Email
+      nickname: Alias of E-mail
       password: Wachtwoord
       remember_me: Onthoud mij, ik kom zeker weer terug.
     not_a_member: Nog geen deelnemer? Schrijf je nu in bij FetLife
@@ -206,7 +206,7 @@ nl:
   privacy:
     title: Privacy
   profile:
-    about_title: Vrienden lijst
+    about_title: Vriendenlijst
     pictures_title: Foto's
     videos_title: Filmpjes
   promote_following:
@@ -231,18 +231,18 @@ nl:
     title: Herstel wachtwoord
   select_language:
     button: Wijzig standaard taal
-    help_translate: Bezoek ons <a class="silver" href="https://github.com/fetlife/translations">vertaal project</a> op GitHub en help mee FetLife toegangkelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
+    help_translate: Bezoek ons <a class="silver" href="https://github.com/fetlife/translations">vertaal project</a> op GitHub en help mee FetLife toegankelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
     language_name: Nederlands
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
     title: Selecteer taal
   settings_account:
-    2fa_cta: Activeer 2-stap verificatie
-    2fa_label: 2-stap verificatie
+    2fa_cta: Activeer 2-staps verificatie
+    2fa_label: 2-staps verificatie
     anti_pro_tip: <strong>Anti-Pro Tip:</strong> Je kunt je lidmaatschap <a href="#">deactiveren</a> of <a href="#">verwijderen</a> wanneer je echt wilt, maar drie van de vier Pausen raden dit ten zeerste af.
     current_password_label: Huidig wachtwoord
-    email_cta: Email adres bijwerken
-    email_label: Email
-    email_placeholder: Email adres
+    email_cta: E-mailadres bijwerken
+    email_label: E-mail
+    email_placeholder: Em-ailadres
     language_cta: Standaard taal bijwerken
     language_notice: FetLife is nog niet geheel beschikbaar in andere talen anders dan Engels. Wanneer je de instelling hier wijzigt, kan het zijn dat niet de gehele website vertaald wordt.
     new_password_label: Nieuw wachtwoord
@@ -265,15 +265,15 @@ nl:
   settings_privacy:
     blocked_list_subtitle: Voor deelnemers op jouw straflijst.
     blocked_list_title: Straflijst
-    cb_feed: Niet vrienden mogen mij volgen op hun activiteiten overzicht.
-    cb_fp: Mijn niet prive berichten mogen op Fresh&Pervy verschijnen.
-    cb_kp: Mijn niet prive berichten mogen op Kinky&Popular verschijnen.
-    content_privacy: Inhoud geheimhouding
-    cta: bewaar geheimhouding instellingen
+    cb_feed: Niet-vrienden mogen mij volgen op hun activiteiten overzicht.
+    cb_fp: Mijn niet-prive berichten mogen op Fresh&Pervy verschijnen.
+    cb_kp: Mijn niet-prive berichten mogen op Kinky&Popular verschijnen.
+    content_privacy: Inhoud Privacy
+    cta: Bewaar privacy-instellingen
     following: Volgen
-    page_title: Geheimhouding instellingen
+    page_title: Privacy instellingen
     subtitle: Opgediend zoals jij het wenst.
-    title: Geheimhouding
+    title: Privacy
     warning: "<strong>Extreem Belangrijk</strong>: Het uitschakelen van volgen verwijdert iedereen uit jouw volg lijst die jou momenteel volgt. Geen herstel mogelijk. Dat is geen geintje."
   settings_profile:
     about_you_label: Over jou
@@ -289,11 +289,11 @@ nl:
     websites_placeholder: https://fetlife.com
   settings_support:
     cta: Email Adres bijwerken
-    email_label: Email Adres bijwerken
-    email_placeholder: Email Adres
-    page_title: Email Adres bijwerken - Instellingen
+    email_label: E-mailadres bijwerken
+    email_placeholder: E-mailadres
+    page_title: E-mailadres bijwerken - Instellingen
     subtitle: Voor het geval je je wachtwoord mocht vergeten.
-    title: Email Adres bijwerken
+    title: E-mailadres bijwerken
   sidebar:
     about_fetlife: Ontmoet het team
     ad_stats: Advertentie Statistieken
@@ -304,7 +304,7 @@ nl:
     caretaking: Concierge
     change_language: Wijzig taal
     close: sluiten
-    contact_us: Contact Us
+    contact_us: Neem contact met ons op
     edit_profile: Profiel bewerken
     edit_settings: Instellingen bewerken
     events: Bijeenkomsten
@@ -313,29 +313,29 @@ nl:
     fp: Fris & Pervy
     funny_quote: Wanneer je dit niet kunt lezen, heb je enorm goeie ogen! - John 4:69
     gift_support: Gift ter ondersteuning van FetLife
-    glossary: Glossary
+    glossary: Woordenlijst
     groups: Groepen
     guidelines: Richtlijnen
     home: Thuis
     invite_a_friend: Nodig een vriend uit (%{count})
     kp: Kinky & Populair
-    legalese: Juristen Latijn
+    legalese: juridisch jargon
     log_out: Afmelden
     login: Aanmelden
     loved_stuff: Snoepjes
     need_help: Hulp nodig?
     open_source: Open bron
     places: Plaatsen
-    preservation_requests: Preservation Requests
+    preservation_requests: Bewaarverzoeken
     privacy: Privacy
     recommendations: Aanbevelingen
     signup: Registreren
-    subscriptions: Subscriptions
+    subscriptions: Abonnementen
     support: Ondersteun FetLife
     terms: Terms
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
-    videos: Videos
+    videos: Video's
     view_friends: Vrienden bekijken
     wallpapers: FetLife Wallpapers
     whats_new: Wat is nieuw
@@ -349,8 +349,8 @@ nl:
     error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
-    error_email: We hebben een probleem bij het verwerken van bovenstaand email adres. Controleer de spelling of probeer een andere.
-    error_email_taken: Email is al in gebruik.
+    error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
+    error_email_taken: E-mail is al in gebruik.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
     error_nickname_bad_word: Bijnaam kan niet het woord '%{word}' bevatten.
@@ -360,20 +360,20 @@ nl:
     error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.
     error_role_required: Rol moet worden gekozen.
-    error_sexual_orientation_required: Sexuele orientatie moet worden gekozen.
+    error_sexual_orientation_required: Sexuele oriëntatie moet worden gekozen.
     error_state_missing: Provincie moet worden geselecteerd.
     footnote: Door het klikken op "Voltooi inschrijving & controle" ga ja akkoord met het respecteren en volgen van onze <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Gebruikersvoorwaarden</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacybeleid</a>, en <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Gemeenschap Richtlijnen</a>.
     label:
       birthdate: Geboortedatum
       city: Plaats
       country: Land
-      email: Email adres
+      email: E-mailadres
       gender: Geslacht
       location: Locatie
       nickname: Alias
       password: Wachtwoord
       role: Rol
-      sexual_orientation: Sexuele Orientatie
+      sexual_orientation: Sexuele Oriëntatie
       state: Provincie
     page_title: Deelnemen
     return_to_login: Al een lid? Meld je hier aan bij FetLife
@@ -397,13 +397,13 @@ nl:
     title: Iemand die je is opgevallen?
   signup_phone:
     cta: Stuur me een controle code
-    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
-    error_cant_send: "<strong>Kinky Operator:</strong> We hebben een probleem met het sturen van een SMS bericht. Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc. en probeer geen SMS naar een vast nummer te sturen."
+    error_blocked: "<strong>Kinky Operator:</strong> Helaas staan we momenteel niet toe dat mensen zich aanmelden met een mobiel nummer van %{carrier_name}."
+    error_cant_send: "<strong>Kinky Operator:</strong> We hebben een probleem met het sturen van een SMS bericht. Begin je nummer met je landcode: +31 voor Nederland, +32 voor België, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc. en probeer geen SMS naar een vast nummer te sturen."
     error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Probeer het later nog eens."
     explanation: Het is misschien veel gevraagd, maar we willen een gezonde en levendige gemeenschap hebben, daarom controleren we iedereen voordat ze lid worden. Iets wat je waarschijnlijk wel waardeert wanneer je door het proces heen bent.
     label: Mobiel nummer
     page_title: Stuur controle code
-    pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor Belgie, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australie, etc."
+    pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor België, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc."
     subtitle: Eenmalig anoniem SMS bericht.
     title: Controle Tijd!
   signup_verify:
@@ -439,62 +439,62 @@ nl:
       account_short: Account
       notifications: Meldingen
       notifications_short: Meldingen
-      privacy: Geheimhouding
-      privacy_short: Geheimhouding
+      privacy: Privacy
+      privacy_short: Privacy
       profile: Profiel
       profile_short: Profiel
       support: Ondersteuning
       support_short: Ondersteuning
   support:
     benefits:
-      item_1: A sexy <span>I Support FetLife</span> badge on your profile.
-      item_2: Perv <span>today’s %{number}+ most loved</span> pics, vids, etc.
-      item_3: Watch <span>all %{number}+ videos</span> shared by the community.
-      item_4: Perv <span>all %{number}+ pictures</span> as they are shared.
-      item_5: View <span>everything you’ve ever loved</span>.
-      item_6: Go back <span>25x further</span> in your Friend Feed.
-      item_7: Go back <span>25x further</span> in your @You Feed.
-      item_8: "<span>Customize your Friend Feed</span> to your heart's content."
-      item_9: Get early <span>access to new features</span>!
-      list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
-      list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
-      thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
-      title: What do I get for supporting FetLife?
+      item_1: Een sexy <span>I Support FetLife</span> badge op uw profiel.
+      item_2: Perv <span>de %{number}+ meest geliefde</span> foto's, filmpjes, etc.
+      item_3: Bekijk <span>alle %{number}+ filmpjes</span> gedeeld door de community.
+      item_4: Perv <span>alle %{number}+ foto's</span> als ze worden gedeeld.
+      item_5: Bekijk <span>alles waar je ooit van gehouden hebt</span>.
+      item_6: Ga <span>25x verder terug</span> in je vriendenlijst..
+      item_7: Ga <span>25x verder</span> in je eigen lijst.
+      item_8: "<span>Personaliseer je vriendenlijst</span> naar hartenlust."
+      item_9: Krijg vroege <span>toegang tot nieuwe functies</span>!
+      list_description: 'Voor slechts $ 5 per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
+      list_footer: Alles voor minder dan de prijs van een fles glijmiddel ... hoewel we je niet aanraden canola-olie te vervangen voor glijmiddel ... het werkt niet zo goed.
+      thank_you: Zonder jouw steun zou er geen FetLife zijn. Bedankt namens de hele FetLife-familie!
+      title: Wat krijg ik voor het ondersteunen van FetLife?
     cta_labels:
-      ach: Bank Transfer (ACH)
+      ach: Bankoverschrijving
       cc_curo: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
-      mail: Physical Mail
+      mail: Fysieke post
       paygarden: Major Gift Card
       paysafe: paysafecard
-      poli: POLi Payments
+      poli: POLi Betalingen
       przelewy: Przelewy24
       sepa: SEPA Direct Debit
       teleingreso: Teleingreso
     errors:
-      account_number_blank: Account Number can't be blank
-      address_blank: Address can't be blank
-      answer_blank: Answer can't be blank
-      bankcode_blank: Bank can't be blank
-      bic_blank: BIC can't be blank
-      bic_format: Invalid BIC
-      canceled: Transaction cancelled by user.
-      city_blank: City can't be blank
-      country_blank: Country has to be selected
-      double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
-      email_blank: Email can't be blank
-      first_name_blank: First name can't be blank
-      iban_blank: IBAN can't be blank
+      account_number_blank: Accountnummer mag niet leeg zijn
+      address_blank: Adres mag niet leeg zijn
+      answer_blank: Antwoord mag niet leeg zijn
+      bankcode_blank: Bank mag niet leeg zijn
+      bic_blank: BIC mag niet leeg zijn
+      bic_format: Ongeldige BIC
+      canceled: Transactie geannuleerd door gebruiker.
+      city_blank: Stad mag niet leeg zijn
+      country_blank: Land moet geselecteerd worden
+      double_failsafe: Weet je zeker dat je ons opnieuw wilt ondersteunen? Begrijp ons niet verkeerd, we waarderen de ondersteuning, maar we willen je ook niet per ongeluk dubbel belasten. Als je vragen hebt, aarzel dan niet om te mailen naar <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: E-mail mag niet leeg zijn
+      first_name_blank: Voornaam mag niet leeg zijn
+      iban_blank: IBAN mag niet leeg zijn
       info_missing: Some information is missing. Please try again.
-      last_name_blank: Last name can't be blank
-      postal_code_blank: Postal Code can't be blank
-      question_blank: Security question can't be blank
-      routing_number_blank: Routing Number can't be blank
-      state_blank: State can't be blank
+      last_name_blank: Last name mag niet leeg zijn
+      postal_code_blank: Postal Code mag niet leeg zijn
+      question_blank: Security question mag niet leeg zijn
+      routing_number_blank: Routing Number mag niet leeg zijn
+      state_blank: State mag niet leeg zijn
     faq:
       cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
       cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
