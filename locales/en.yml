@@ -350,7 +350,6 @@ en:
     error_city_missing: City has to be selected.
     error_country_missing: Country has to be selected.
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
-    error_email_taken: Email has already been taken.
     error_gender_required: Gender has to be selected.
     error_nickname: Nickname is already taken.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.

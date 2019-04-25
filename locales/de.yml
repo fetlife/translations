@@ -350,7 +350,6 @@ de:
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
-    error_email_taken: Email has already been taken.
     error_gender_required: Gender muss gewählt werden.
     error_nickname: Der Name ist schon vergeben.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.

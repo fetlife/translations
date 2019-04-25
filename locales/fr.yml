@@ -350,7 +350,6 @@ fr:
     error_city_missing: La ville doit être sélectionnée.
     error_country_missing: Le pays doit être sélectionné.
     error_email: Nous avons des problèmes avec le traitement de l’adresse mail ci-dessus. Nous vous recommandons d’en vérifier l’orthographe ou d’en essayer une autre.
-    error_email_taken: Email has already been taken.
     error_gender_required: Le genre doit être sélectionné.
     error_nickname: Ce pseudo est déjà pris.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
