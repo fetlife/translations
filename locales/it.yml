@@ -350,7 +350,6 @@ it:
     error_city_missing: La città deve essere selezionata.
     error_country_missing: La nazione deve essere selezionata.
     error_email: Stiamo avendo problemi ad elaborare l'email di cui sopra. Ti consigliamo di verificare l'ortografia o provarne una diversa.
-    error_email_taken: Questa Email è già stata usata.
     error_gender_required: Il sesso deve essere selezionato.
     error_nickname: Il nickname è già in uso.
     error_nickname_bad_word: Il nickname non può contenere la parola &colon; '%{word}'.

@@ -350,7 +350,6 @@ bg:
     error_city_missing: Трябва да избереш град.
     error_country_missing: Трябва да избереш държава.
     error_email: Имаме проблем с обработването на този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.
-    error_email_taken: Имейлът вече е зает.
     error_gender_required: Трябва да избереш пол.
     error_nickname: Прякорът е вече зает.
     error_nickname_bad_word: Прякорът не може да съдържа думата '%{word}'.

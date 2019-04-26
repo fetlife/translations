@@ -355,7 +355,6 @@ sk:
     error_city_missing: Mesto je povinné.
     error_country_missing: Krajina je povinná.
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.
-    error_email_taken: Email has already been taken.
     error_gender_required: Pohlavie je povinné.
     error_nickname: Prezývka je už obsadená.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.

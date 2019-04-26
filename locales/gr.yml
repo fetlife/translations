@@ -350,7 +350,6 @@ gr:
     error_city_missing: Πρέπει να επιλέξετε πόλη.
     error_country_missing: Πρέπει να επιλέξετε χώρα.
     error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
-    error_email_taken: Email has already been taken.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείται ήδη.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.

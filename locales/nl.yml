@@ -350,7 +350,6 @@ nl:
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
     error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
-    error_email_taken: E-mail is al in gebruik.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
     error_nickname_bad_word: Bijnaam kan niet het woord '%{word}' bevatten.

@@ -350,7 +350,6 @@ hu:
     error_city_missing: A város megadása kötelező.
     error_country_missing: Az ország megadása kötelező.
     error_email: A megadott email cím nem tűnik megfelelőnek. Kérlek ellenőrízd, hogy nem irtad-e el, esetleg adj meg egy másikat.
-    error_email_taken: Email has already been taken.
     error_gender_required: Márpedig a nemed fontos nekünk.
     error_nickname: Az a felhasználó név már foglalt.
     error_nickname_bad_word: Nickname can't have the word '%{word}' in it.

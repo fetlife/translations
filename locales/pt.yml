@@ -350,7 +350,6 @@ pt:
     error_city_missing: Uma Cidade deve ser escolhida.
     error_country_missing: Um País deve ser escolhido.
     error_email: Estamos a ter problemas em processar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou então tente um diferente.
-    error_email_taken: Esse e-mail já está registado.
     error_gender_required: Um Género deve ser selecionado.
     error_nickname: Esse Nome de Utilizador já está registado.
     error_nickname_bad_word: O Nome de Utilizador não pode incluir a palavra '%{word}'.

@@ -350,7 +350,6 @@ zh:
     error_city_missing: 城市必填。
     error_country_missing: 国家必填。
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。
-    error_email_taken: 邮箱地址已被占用。
     error_gender_required: 性别必选。
     error_nickname: 昵称已被占用。
     error_nickname_bad_word: 昵称中不能包含 '%{word}' 这个词。
