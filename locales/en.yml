@@ -93,6 +93,26 @@ en:
     return_to_login: return to login
     tab_email: Email
     tab_mobile: Mobile
+  groups:
+    new_responsive:
+      page_title: 'Start a New Group'
+      title_title: 'Create a New Group'
+      title_description: 'A group is where kinksters can come together to share experiences, common interests, make plans, and more!'
+      name_label: 'Name'
+      name_placeholder: What's the name of your group?
+      description_label: Description
+      description_placeholder: What's the group about?
+      rules_label: Rules
+      rules_placeholder: What are the group's rules?
+      membership_restrictions_label: Restricted to
+      membership_restrictions_placeholder: ex. submissives...
+      membership_restrictions_sub_label: leave blank if open to everyone
+      loader_text: Oh no you didn't!
+      submit_button_text: Create my New Group
+      return_to_groups_link_text: return to your groups
+      terms_and_conditions_community_guidelines_link: 'Community Guidelines'
+      terms_and_conditions_group_leader_guidelines_link: 'Group Leader Guidelines'
+      terms_and_conditions_terms_of_use_link: 'Terms of Use'
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
