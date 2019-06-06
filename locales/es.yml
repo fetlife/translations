@@ -108,7 +108,7 @@ es:
         description: Esta sección contiene las condiciones de uso que todos los miembros aceptan cuando se registran en FetLife. ¡Hemos intenado mantener las cosas tan sencillas y claras como nos ha sido posible!
         title: Cháchara legal
       privacy:
-        description: ¿Cuán seguros están tus datos y qué está haciendo FetLife para protegerlos? En FetLife, tratamos sus datos como queremos que traten los nuestros.
+        description: "¿Cuán seguros están tus datos y qué está haciendo FetLife para protegerlos? En FetLife, tratamos sus datos como queremos que traten los nuestros."
         title: Privacidad
     subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
@@ -350,7 +350,6 @@ es:
     error_city_missing: Tiene que seleccionar una ciudad.
     error_country_missing: Tiene que seleccionar un país.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
-    error_email_taken: El correo electrónico ya esta ocupado.
     error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
     error_nickname_bad_word: El apodo no puede contener la palabra '%{word}'.
