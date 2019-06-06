@@ -55,7 +55,7 @@ bg:
       cta: Пратете ми имейл с указания
       error_forgot_email: Имейл адресът е задължителен.
       error_invalid_email: Това не прилича на валиден имейл адрес. Прегледай го и го изпрати отново, моля.
-      error_quota: Можем да изпращаме само два имейла на час към даден имейл адрес. Моля, провери дали имейла ни не е попаднал в спам папката ти. Ако не намираш нищо в спам папката, препоръчваме ти да използваш някой от другите методи да се върнеш в профила си.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Имейл адрес
       step1:
         page_title: Смени паролата по имейл

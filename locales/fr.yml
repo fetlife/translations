@@ -55,7 +55,7 @@ fr:
       cta: Envoie-moi un email avec instructions
       error_forgot_email: Email address is required.
       error_invalid_email: Ça ne ressemble pas à une adresse mail valide. Veuillez la relire et la re-soumettre.
-      error_quota: Nous ne pouvons envoyer que deux emails par heure à une même adresse. Veuillez revérifier que notre email n’a pas fini dans votre dossier spam. Si vous ne trouvez rien dans votre pourriel je vous recommande d’utiliser l’une des autres méthodes ci-dessus pour revenir à votre compte.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Adresse mail
       step1:
         page_title: Réinitialiser le mot de passe par mail

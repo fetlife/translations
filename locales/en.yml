@@ -55,7 +55,7 @@ en:
       cta: Send me Email with Instructions
       error_forgot_email: Email address is required.
       error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
-      error_quota: We can only send two emails per hour to any given email address. Please double check that our email didn't end up in your spam filter. If you can't find anything in your spam filter I recommend using one of the other above methods to get back into your account.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Email Address
       step1:
         page_title: Reset Password via Email
@@ -95,24 +95,24 @@ en:
     tab_mobile: Mobile
   groups:
     new_responsive:
-      page_title: 'Start a New Group'
-      title_title: 'Create a New Group'
-      title_description: 'A group is where kinksters can come together to share experiences, common interests, make plans, and more!'
-      name_label: 'Name'
-      name_placeholder: What's the name of your group?
       description_label: Description
       description_placeholder: What's the group about?
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
+      loader_text: Oh no you didn't!
       membership_restrictions_label: Restricted to
       membership_restrictions_placeholder: ex. submissives...
       membership_restrictions_sub_label: leave blank if open to everyone
-      loader_text: Oh no you didn't!
-      submit_button_text: Create my New Group
+      name_label: Name
+      name_placeholder: What's the name of your group?
+      page_title: Start a New Group
       return_to_groups_link_text: return to your groups
-      terms_and_conditions_community_guidelines_link: 'Community Guidelines'
-      terms_and_conditions_group_leader_guidelines_link: 'Group Leader Guidelines'
-      terms_and_conditions_terms_of_use_link: 'Terms of Use'
+      rules_label: Rules
+      rules_placeholder: What are the group's rules?
+      submit_button_text: Create my New Group
+      terms_and_conditions_community_guidelines_link: Community Guidelines
+      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
+      terms_and_conditions_terms_of_use_link: Terms of Use
+      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
+      title_title: Create a New Group
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:

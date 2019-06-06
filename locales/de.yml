@@ -55,7 +55,7 @@ de:
       cta: Sende mir eine E-Mail mit Anweisungen
       error_forgot_email: Die E-Mail-Addresse ist erforderlich.
       error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und sende es dann wieder ab.
-      error_quota: Wir können nur zwei E-Mails pro Stunde an eine E-Mail-Adresse schicken. Bitte prüfe nochmal, ob unsere E-Mail nicht im Spamfilter gelandet ist. Wenn Du dort nichts findest, empfehle ich eine der anderen obigen Möglichkeiten zu nutzen, um wieder in Dein Mitgliedskonto zu kommen.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: E-Mail-Adresse
       step1:
         page_title: Setze Dein Passwort via E-Mail zurück

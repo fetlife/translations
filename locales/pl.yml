@@ -57,7 +57,7 @@ pl:
       cta: Wyślij mi e-mail z instrukcjami
       error_forgot_email: Adress e-mail jest wymagany.
       error_invalid_email: To nie wygląda mi na poprawny adres e-mail. Możesz zerknąć i wysłać jeszcze raz?
-      error_quota: Możemy wysłać tylko dwa e-maile na godzinę do każdego adresu. Sprawdź proszę czy nasz e-mail nie wylądował w Spamie. Jeśli na pewno nic tam nie ma to polecam wykorzystać jedną z powyższych metod aby dostać się na swoje konto.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Adres e-mail
       step1:
         page_title: Zmiana hasła poprzez e-mail

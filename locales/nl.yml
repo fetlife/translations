@@ -55,7 +55,7 @@ nl:
       cta: Stuur mij een e-mail met instructies
       error_forgot_email: E-mailadres is verplicht.
       error_invalid_email: Dat lijkt niet op een juist e-mail adres. Graag even nakijken en opnieuw verzenden.
-      error_quota: We kunnen maar twee e-mails per uur sturen naar een e-mailadres. Controleer alsjeblieft even of onze e-mail niet in de spam filter is gekomen. Wanneer je niets kunt vinden in jouw spam filter dan raad ik aan om een van de andere bovenstaande methoden te proberen om weer in je account te komen.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: E-mailadres
       step1:
         page_title: Herstel wachtwoord via e-mail

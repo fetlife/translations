@@ -55,7 +55,7 @@ es:
       cta: Envíame un correo electrónico con instrucciones
       error_forgot_email: Email address is required.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
-      error_quota: Solo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Dirección de correo electrónico
       step1:
         page_title: Restablecer contraseña por correo electrónico
