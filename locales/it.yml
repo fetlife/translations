@@ -55,7 +55,7 @@ it:
       cta: Inviatemi un'email con le istruzioni
       error_forgot_email: L'indirizzo email è richiesto.
       error_invalid_email: Questo non sembra un indirizzo email valido. Rivedilo e rinvialo per favore.
-      error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro anti-spam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Indirizzo email
       step1:
         page_title: Reimposta la password via email

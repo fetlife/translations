@@ -55,7 +55,7 @@ ru:
       cta: Получить Письмо с Инструкциями
       error_forgot_email: Укажите адрес электронной почты.
       error_invalid_email: Это не похоже на настоящий адрес электронной почты. Проверьте и попытайтесь снова.
-      error_quota: Мы можем отправить только два письма в час на любой указанный адрес. Убедитесь, что наше письмо не попало в папку Спам. Если вы не нашли письмо в папке Спам, то мы советуем воспользоваться другими методами, чтобы вернуть доступ к своему аккаунту.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Адрес Электронной Почты
       step1:
         page_title: Сбросить Пароль по Электронной Почте

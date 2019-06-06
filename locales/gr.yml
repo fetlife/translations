@@ -55,7 +55,7 @@ gr:
       cta: Στείλτε μου Email με οδηγίες
       error_forgot_email: Email address is required.
       error_invalid_email: Δεν μοιάζει με έγκυρο email. Παρακαλώ ελέγξτε ξανά και υποβάλετε εκ νέου.
-      error_quota: Μπορούμε να στείλουμε μόνο δύο emails ανά ώρα σε μία συγκεκριμένη διεύθυνση email. Παρακαλώ βεβαιωθείτε ότι το email μας δεν βρέθηκε στον φάκελο της ανεπιθύμητης αλληλογραφίας. Αν δεν μπορείτε να το βρείτε σε αυτό τον φάκελο, συνιστούμε να χρησιμοποιήσετε μία από τις άλλες μεθόδους για να ξαναμπείτε στο λογαριασμό σας.
+      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Διεύθυνση Email
       step1:
         page_title: Επαναφέρετε τον κωδικό μέσω Email
