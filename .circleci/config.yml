@@ -49,7 +49,6 @@ workflows:
             branches:
               only:
                 - master
-                - circleci2
 
 notify:
   webhooks:
