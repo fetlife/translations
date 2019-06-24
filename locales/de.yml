@@ -95,19 +95,19 @@ de:
     tab_mobile: Handy
   groups:
     new:
-      description_label: Description
-      description_placeholder: What's the group about?
+      description_label: Beschreibung
+      description_placeholder: Worum geht es in der Gruppe?
       loader_text: Oh no you didn't!
       membership_restrictions_label: Restricted to
       membership_restrictions_placeholder: ex. submissives...
       membership_restrictions_sub_label: leave blank if open to everyone
       name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
+      name_placeholder: Wie lautet der Name deiner Gruppe?
+      page_title: Neue Gruppe starten
+      return_to_groups_link_text: zurück zu Deinen Gruppen
+      rules_label: Regeln
+      rules_placeholder: Welche Regeln gelten in der Gruppe?
+      submit_button_text: Meine neue Gruppe erstellen
       terms_and_conditions_community_guidelines_link: Community Guidelines
       terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
       terms_and_conditions_terms_of_use_link: Terms of Use
