@@ -1,0 +1,55 @@
+version: 2
+jobs:
+  check:
+    working_directory: ~/translations
+    docker:
+      - image: circleci/ruby:2.3-jessie
+    parallelism: 1
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: bundle-{{ arch }}-{{ checksum "Gemfile.lock" }}
+
+      - run: bundle check --path=vendor/bundle || time bundle install --path=vendor/bundle --jobs=1 --retry=3
+
+      - save_cache:
+          key: bundle-{{ arch }}-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      - run:
+          name: Check translations
+          command: |
+            bundle exec i18n-tasks missing
+            bundle exec yaml-lint locales
+
+  deploy:
+    working_directory: ~/translations
+    docker:
+      - image: circleci/ruby:2.3-jessie
+    parallelism: 1
+    steps:
+      - checkout
+
+      - run:
+          name: Deploy
+          command: |
+            ./scripts/deploy.sh
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - check
+      - deploy:
+          requires:
+            - check
+          filters:
+            branches:
+              only:
+                - master
+
+notify:
+  webhooks:
+    - url: https://fetlife-johnny5.herokuapp.com/circleci

@@ -94,7 +94,7 @@ fr:
     tab_email: Email
     tab_mobile: Mobile
   groups:
-    new_responsive:
+    new:
       description_label: Description
       description_placeholder: What's the group about?
       loader_text: Oh no you didn't!

@@ -94,25 +94,25 @@ ru:
     tab_email: Эл.Почта
     tab_mobile: Телефон
   groups:
-    new_responsive:
-      description_label: Description
-      description_placeholder: What's the group about?
-      loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
-      name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
-      terms_and_conditions_community_guidelines_link: Community Guidelines
-      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
-      terms_and_conditions_terms_of_use_link: Terms of Use
-      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+    new:
+      description_label: Описание
+      description_placeholder: О чем эта группа?
+      loader_text: Да неужели?!
+      membership_restrictions_label: 'Ограничения: только для'
+      membership_restrictions_placeholder: например Сабмиссивы ...
+      membership_restrictions_sub_label: оставте пустым если группа без ограничений
+      name_label: Имя
+      name_placeholder: Имя вашей группы
+      page_title: Создать новую группу
+      return_to_groups_link_text: вернуться к своим группам
+      rules_label: Правила
+      rules_placeholder: Какие правила вашей группы?
+      submit_button_text: Создать мою Новую Группу
+      terms_and_conditions_community_guidelines_link: Правила Сообщества
+      terms_and_conditions_group_leader_guidelines_link: Правила Руководителей Групп
+      terms_and_conditions_terms_of_use_link: Условия Использования
+      title_description: Группа, это место где кинкстеры вместе делятся переживаниями, общими интересами, создают планы, и многое другое!
+      title_title: Создать Новую Группу
   guidelines:
     header: Правила и Принципы FetLife
     headers:
