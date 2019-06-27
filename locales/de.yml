@@ -94,7 +94,7 @@ de:
     tab_email: E-Mail
     tab_mobile: Handy
   groups:
-    new_responsive:
+    new:
       description_label: Beschreibung
       description_placeholder: Worum geht's in der Gruppe?
       loader_text: Oh nein, hast Du nicht.
