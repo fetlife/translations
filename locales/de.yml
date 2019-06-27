@@ -55,7 +55,7 @@ de:
       cta: E-Mail mit Anweisungen zusenden
       error_forgot_email: Die E-Mail-Adresse ist erforderlich.
       error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und versuche es erneut.
-      error_quota: Wir haben vor Kurzem eine Rücksetz-E-Mail an diese Adresse gesendet. Es kann fünf bis zehn Minuten dauern, bis sie in deinem Postfach auftaucht. Bitte sieh zusätzlich in deinem Spam-Ordner nach, ob sie nicht dort gelandet ist. Falls die E-Mail nach zehn Minuten immer noch nicht da ist, kannst du eine neue E-Mail anfordern.
+      error_quota: Wir haben vor Kurzem eine Rücksetz-E-Mail an diese Adresse gesendet. Es kann fünf bis zehn Minuten dauern, bis sie in Deinem Postfach auftaucht. Bitte sieh zusätzlich in Deinem Spam-Ordner nach, ob sie nicht dort gelandet ist. Falls die E-Mail nach zehn Minuten immer noch nicht da ist, kannst Du eine neue E-Mail anfordern.
       placeholder: E-Mail-Adresse
       step1:
         page_title: Setze Dein Passwort via E-Mail zurück
@@ -97,12 +97,12 @@ de:
     new_responsive:
       description_label: Beschreibung
       description_placeholder: Worum geht's in der Gruppe?
-      loader_text: Oh nein, hast du nicht.
+      loader_text: Oh nein, hast Du nicht.
       membership_restrictions_label: Beschränkt auf
       membership_restrictions_placeholder: bspw. Subs …
       membership_restrictions_sub_label: leer lassen, falls die Gruppe für alle offen ist
       name_label: Name
-      name_placeholder: Wie soll deine Gruppe heißen?
+      name_placeholder: Wie soll Deine Gruppe heißen?
       page_title: Neue Gruppe eröffnen
       return_to_groups_link_text: Zurück zu Deinen Gruppen
       rules_label: Regeln
@@ -148,15 +148,15 @@ de:
       email: E-Mail-Adresse
       friends_email: E-Mail-Adresse der Person
       friends_email_sub: "%{count} invitations remaining"
-    next_step: nächster Schritt
-    return_to_feed: zurück zur Aktivitätschronik
+    next_step: Nächster Schritt
+    return_to_feed: Zurück zur Aktivitätschronik
     subtitle_step1:
       one: Du hast noch 1 Einladung übrig.
       other: Du hast %{count_with_delimiter} Einladungen übrig.
     subtitle_step2: Wir haben eine Einladung von Dir an %{email} versandt.
     title_step1: Lade jemanden ein
     title_step2: Einladung versandt
-    view_invitations: schaue Deine Einladungen an
+    view_invitations: Schaue Deine Einladungen an
   landing_page:
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
@@ -187,8 +187,8 @@ de:
     error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß-/KlEiNsChReIbUnG des Passworts.)
     error_password_blacklist: Das Passwort, das Du Dir ausgesucht hast, ist leicht zu erraten. Bitte benutze ein stärkeres.
     error_password_blank: Das Passwort ist erforderlich.
-    error_password_email: Dein Passwort kann nicht das gleiche sein wie deine E-Mail.
-    error_password_nickname: Dein Passwort kann nicht das gleiche sein wie dein Benutzername.
+    error_password_email: Dein Passwort kann nicht das gleiche sein wie Deine E-Mail.
+    error_password_nickname: Dein Passwort kann nicht das gleiche sein wie Dein Benutzername.
     forgot_info: Hast Du Deine Zugangsdaten vergessen?
     labels:
       nickname: Name oder E-Mail
@@ -395,12 +395,12 @@ de:
       sexual_orientation: Sexuelle Orientierung
       state: Staat/Bundesland
     page_title: Mitglied werden
-    return_to_login: Bereits Mitglied? Logg dich bei FetLife ein.
+    return_to_login: Bereits Mitglied? Logg Dich bei FetLife ein.
     subtitle: Erzähl uns ein bisschen über Dich.
     subtitle_invite: "%{name} hat Dich eingeladen, Mitglied bei FetLife zu werden."
     title: Willkommen zuhause
   signup_avatar:
-    pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und dein Gesicht lieber für dich behältst, lass deiner Kreativität freien Lauf und zeig uns eine andere Seite von Dir! Oder wenn Dir das lieber ist, kannst Du <a class="silver" href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
+    pro_tip: '<strong>Profi-Tipp</strong>: Wenn Du schüchtern bist und Dein Gesicht lieber für Dich behältst, lass Deiner Kreativität freien Lauf und zeig uns eine andere Seite von Dir! Oder wenn Dir das lieber ist, kannst Du <a class="silver" href="%{next_step_path}">diesen Schritt fürs Erste überspringen</a>.'
     say_cheese: Bitte lächeln!
     subtitle: Kinksters mit Avataren haben 69-mal so viel Spaß!
     title: Lade einen Avatar hoch
@@ -475,7 +475,7 @@ de:
       item_7: Gehe <span>25x weiter</span> in Deiner @You-Aktivitätschronik zurück.
       item_8: "<span>Passe</span> Deine Freund_innen-Aktivitätschronik nach Belieben <span>an</span>."
       item_9: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
-      list_description: 'Für nur $5 pro Monat hilfst du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
+      list_description: 'Für nur $5 pro Monat hilfst Du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
       list_footer: Alles für weniger als den Preis einer Flasche Gleitmittel… Jedoch empfehlen wir nicht Gleitmittel durch Rapsöl zu ersetzen… Das funktioniert nicht so gut.
       thank_you: Ohne Deine Unterstützung gäbe es kein FetLife. Danke Dir von der ganzen FetLife-Familie!
       title: Was bekomme ich, wenn ich FetLife unterstütze?
@@ -504,7 +504,7 @@ de:
       canceled: Transaktion wurde abgebrochen.
       city_blank: Stadt ist erforderlich
       country_blank: Das Land muss gewählt werden
-      double_failsafe: Bist Du sicher, dass Du uns wieder unterstützen willst? Verstehe uns nicht falsch, wir schätzen die Unterstützung, aber wir wollen Dir auch nicht versehentlich zweimal eine Rechnung stellen. Wenn du Fragen hast, zögere bitte nicht, eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> zu schicken.
+      double_failsafe: Bist Du sicher, dass Du uns wieder unterstützen willst? Verstehe uns nicht falsch, wir schätzen die Unterstützung, aber wir wollen Dir auch nicht versehentlich zweimal eine Rechnung stellen. Wenn Du Fragen hast, zögere bitte nicht, eine E-Mail an <a href="mailto:support@fetlife.com">support@fetlife.com</a> zu schicken.
       email_blank: E-Mail ist erforderlich
       first_name_blank: Vorname ist erforderlich
       iban_blank: IBAN ist erforderlich
@@ -519,8 +519,8 @@ de:
       cc_a_part_2: Wenn wir Kreditkarten annehmen wollten, dürften wir unseren Kinkstern auf FetLife nicht erlauben, sich über Wassersport, Hypnose, Sex während der Periode, Blood-Play, Edge-Play, einvernehmliche Nicht-Einvernehmlichkeit und andere von der Gemeinschaft akzeptierte Kinks auszutauschen.
       cc_a_part_3: Als Gemeinschaft brauchen wir einen sicheren Raum, in dem sich Erwachsene ungezwungen sexuell ausdrücken können, und wenn wir Kreditkarten oder PayPal akzeptieren würden, würden wir diese Freiheit verlieren.
       cc_q: Q. Warum akzeptiert FetLife weder Kreditkarten noch PayPal?
-      gift_a: Das ist superlieb von dir. Jetzt geh zum Profil des/der Beschenkten und klicke auf den „Unterstützung schenken“-Link unterhalb von „Kinkster anschreiben“ <i>#siewerdeneslieben</i>
-      gift_q: Q. Möchtest du jemandem die Unterstützung schenken?
+      gift_a: Das ist superlieb von Dir. Jetzt geh zum Profil des/der Beschenkten und klicke auf den „Unterstützung schenken“-Link unterhalb von „Kinkster anschreiben“ <i>#siewerdeneslieben</i>
+      gift_q: Q. Möchtest Du jemandem die Unterstützung schenken?
       month_a: Wie die METRO müssen wir Großmengen verkaufen, damit die monatlichen Kosten für FetLife-Unterstützung niedrig bleiben!
       month_q: Q. Warum bekomme ich keinen einzelnen Monat?
       name_a: 'Es wird erscheinen als: BitLove Inc.'
@@ -569,7 +569,7 @@ de:
         title: Kanadischer Interac e-Transfer
       less_options: weitere Optionen verstecken
       mail:
-        extra_info: Wenn du von der alten Schule bist, akzeptieren wir auch internationale Zahlungsanweisugnen, Schecks oder Bargeld per Post.
+        extra_info: Wenn Du von der alten Schule bist, akzeptieren wir auch internationale Zahlungsanweisugnen, Schecks oder Bargeld per Post.
         title: Briefpost
       more_options: Mehr Optionen anzeigen
       paygarden:
@@ -607,7 +607,7 @@ de:
       list_footer: und <a href='%{link}'>hunderte andere bekannte Marken.</a>
       list_header: Wir akzeptieren Geschenkkarten von
       secure: So sicher wie Fort Knox
-      tips: Wenn du außerhalb der USA wohnst, empfehlen wir ein VPN/Proxy zu nutzen oder Geschenkkarten in US-Dollar in Starbucks- oder Targets-US-Online-Shops zu kaufen.
+      tips: Wenn Du außerhalb der USA wohnst, empfehlen wir ein VPN/Proxy zu nutzen oder Geschenkkarten in US-Dollar in Starbucks- oder Targets-US-Online-Shops zu kaufen.
       tips_header: Tipps &amp; Tricks
       title: Kaufe eine Geschenkkarte einer bekannten Marke
     step3_ach:
@@ -730,7 +730,7 @@ de:
       notice_body: Leider werden Paysafecards, die in den USA erstanden wurden, wegen Beschränkungen durch die beteiligte Bank nicht unterstützt. Paysafecards aus allen anderen Ländern werden dagegen unterstützt.
       notice_title: Wichtige Information an unsere amerikanischen Freunde
       secure: So sicher wie Fort Knox
-      stores: Du kannst Läden, die Paysafe-Karten verkaufen, in Laufweite finden. Das glaubst du nicht?
+      stores: Du kannst Läden, die Paysafe-Karten verkaufen, in Laufweite finden. Das glaubst Du nicht?
       stores_link: Finde die Dir nächsten Läden, die Paysafe-Karten verkaufen
       title: Kaufe eine Prepaid-Paysafecard
       where: Wo kann ich eine paysafecard kaufen?
