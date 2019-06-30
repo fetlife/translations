@@ -253,7 +253,7 @@ bg:
     button: Смени основния език
     help_translate: Посети <a class="silver" href="https://github.com/fetlife/translations">проекта ни за превод</a> в GitHub и помогни да направим FetLife достъпен за повече от извратените ни приятели <span class="amp">&amp</span> общности.
     language_name: Български
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, Merhaba!
     title: Избери език
   settings_account:
     2fa_cta: Включи двуетапното удостоверяване

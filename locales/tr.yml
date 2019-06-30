@@ -1,0 +1,836 @@
+# @Author: Yelkovan, Yigiter
+# @Date:   30/06/2019 00:10
+# @Email:  yigiter.yelkovan@vbt.com.tr
+# @Last modified by:   Yelkovan, Yigiter
+# @Last modified time: 30/06/2019 04:30
+
+
+
+---
+tr:
+  2fa:
+    5strike:
+      return: ön sayfaya dön
+      subtitle: Güvenlik nedeniyle tekrar giriş yapmayı denemeden önce iki saat beklemeniz gerekir.
+      title: Beş Hata Kuralı
+    cta: Benim, içeri girmeme izin ver!
+    error: "<strong>Kinky Operatör:</strong> Doh&hellip; Yukarıdaki doğrulama kodu kapalı görünüyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
+    label: Kimlik Doğrulama Kodu
+    page_title: 2 Faktörlü Kimlik Doğrulama
+    subtitle: 2-Factor me baby!
+    title: Gizli Kod
+  about:
+    contact_info: İletişim Bilgisi
+    email_us: Bize <a href="mailto:support@fetlife.com"> support@fetlife.com </a> adresinden e-posta gönderin; size hızlı bir şekilde geri döneceğiz!
+    europe: Avrupa
+    got_question: Bir sorun mu var? Yardıma mı ihtiyacınız var?
+    north_america: Kuzey Amerika
+    one_love: Bir aşk, bir hayat ve çok fazla Kink.
+    snail_mail: Normal Posta
+    sub_header: Spartalılar'la karıştırılmaması gerekir.
+    title: Biz. Hepimiz. Fetlife!
+  components:
+    step: Adım
+  feed:
+    comment: Yorum
+    comments_count:
+      one: 1 Yorum
+      other: "%{count_with_delimiter} Yorumlar"
+    composer:
+      button: Söyle
+      placeholder: Ne söylüyorsun?
+    love: Beğeni
+    loved_hover: Kalp Kırıcı! :-(
+    loves_count:
+      one: 1 Beğeni
+      other: "%{count_with_delimiter} Beğeniler"
+    modal:
+      close: kapat
+      more: daha
+      reply: Cevapla
+    title: Etkinlik Akışı
+  following:
+    follow: Takip
+    following: Takip Edilen
+  footer:
+    advertising: Reklam
+    contact: Bize Ulaşın
+    glossary: Sözlük
+    help: Yardım
+    privacy: Gizlilik
+  forgot_password:
+    email:
+      cta: Bana Talimatları ile e-posta gönder
+      error_forgot_email: E-posta adresi gerekli.
+      error_invalid_email: Geçerli bir e-posta adresi gibi görünmüyor. Lütfen gözden geçirin ve tekrar gönderin.
+      error_quota: Geçenlerde yukarıdaki e-posta adresine bir sıfırlama e-postası gönderdik. Bir e-postanın gelen kutunuzda görünmesi 5-10 dakika sürebilir. Lütfen e-postanın spam klasörünüzde kalmadığından emin olun. 10 dakika sonra e-postayı almadıysanız, şifrenizi sıfırlamayı tekrar deneyebilirsiniz.
+      placeholder: Eposta Adresi
+      step1:
+        page_title: Şifreyi E-postayla Sıfırla
+        subtitle: Sana bu konuda yardım etmeme izin ver.
+        title: Şifreni Mi Unuttun?
+      step2:
+        page_title: "Büyük İhtimalle" Postanız Var
+        subtitle: Eğer <span class='fw7'>%{given_email}</span> ile ilişkilendirilmiş bir profil varsa, size şifrenizi nasıl sıfırlayacağınızla ilgili talimatları gönderdik.
+        title: &ldquo;Büyük İhtimalle&rdquo; Epostanız Var!
+      update_email: eposta adresini güncelle
+      warning: "<strong>Genel Cerrahın Uyarısı:</strong> Güvenlik nedeniyle, veritabanımızda bir e-posta adresi olup olmadığını söyleyemeyiz. Bizden bir e-posta almazsanız, bunun nedeni büyük olasılıkla o e-posta adresiyle ilişkilendirilmiş bir hesabımızın olmamasıdır. "
+    mobile:
+      5strike:
+        return: ön sayfaya dön
+        subtitle: Güvenlik nedeniyle, tekrar denemeden önce iki saat beklemeniz gerekir.
+        title: Beş Hata Kuralı
+      cta: Bana Kısa Mesaj (SMS) Gönder
+      error_country_code: "<strong>Kinky Operatör:</strong> Numaranıza ülke kodunuzla başladığınızdan emin olun: Türkiye için +90, ABD ve Kanada için +1, İngiltere için +44, Avustralya için +61, Hollanda için +31, Almanya için +49, Fransa için +33, vb."
+      error_quota: "<strong>Kinky Operatör:</strong>  Numaranız veri tabanımızda mevcut olsun veya olmasın her 24 saatte bir cep telefonuna yalnızca 3 metin mesajı göndermeyi deneyebiliriz."
+      pro_tip: "<strong>İpucu:</strong> Numaranıza ülke kodunuzla başladığınızdan emin olun: Türkiye için +90, ABD ve Kanada için +1, İngiltere için +44, Avustralya için +61, Hollanda için +31, Almanya için +49, Fransa için +33, vb."
+      step1:
+        page_title: Şifreyi Kısa Mesajla Sıfırla
+        subtitle: Sana bu konuda yardım etmeme izin ver.
+        title: Şifrenizi Mi Unuttunuz?
+      step2:
+        cta: Sen Olduğunu Doğrula &#8482;
+        error_code_match: "<strong>Kinky Operatör:</strong> Girdiğiniz doğrulama kodu yanlış. Yukarıdaki sayının bizden aldıklarınızla eşleştiğini doğrulayın ve lütfen tekrar deneyin. Bu bir kayıttır."
+        inexisting_number: Birkaç dakika sonra bizden bir metin mesajı almazsanız, bunun sebebi muhtemelen numaranıza bir profil eklememiş olmamızdır. Size <a href="%{forgot_password_email_path ""> başka bir yöntem kullanarak şifrenizi sıfırlamayı denemenizi </a> veya <a href="{{signup_path ""> FetLife'da yeni bir profil hazırlamanızı öneririz</a>.
+        label: 6 Basamaklı Doğrulama Kodu
+        page_title: Doğrulama Kodunu Giriniz
+        subtitle: Lütfen %{phone_number} telefon numarasına "byük ihtimalle" göndermiş olduğumu 6 basamaklı doğrulama kodunu giriniz.
+        title: Dogrulama Kodunu Giriniz
+      warning: "<strong>Genel Cerrahın Uyarısı:</strong> Güvenlik nedeniyle veritabanımızda bir cep telefonu numarası olup olmadığını söyleyemeyiz. Eğer bizden kısa mesaj alamazsanız, büyük olasılıkla bu numarayla ilişkili bir hesabımız olmadığı içindir."
+    next_step: sonraki adım
+    return_to_login: girişe dön
+    tab_email: Eposta
+    tab_mobile: Mobil
+  groups:
+    new:
+      description_label: Açıklama
+      description_placeholder: Grup neyle ilgili?
+      loader_text: Oh hayır yapmadın!
+      membership_restrictions_label: Sınırlı
+      membership_restrictions_placeholder: ör. itaatkarlar...
+      membership_restrictions_sub_label: herkese açık olmasını istiyorsanız boş bırakın
+      name_label: İsim
+      name_placeholder: Grubunun adı ne?
+      page_title: Yeni Bir Grup Başlat
+      return_to_groups_link_text: gruplarına geri dön
+      rules_label: Kurallar
+      rules_placeholder: Grubun kuralları nelerdir?
+      submit_button_text: Yeni Grubumu Oluştur
+      terms_and_conditions_community_guidelines_link: Topluluk Rehberleri
+      terms_and_conditions_group_leader_guidelines_link: Grup Lideri Rehberleri
+      terms_and_conditions_terms_of_use_link: Kullanım Şartları
+      title_description: Tecrübeleri, ortak çıkarları, planlarını yapmak ve daha fazlasını paylaşmak için ortakların bir araya gelebileceği bir grup!
+      title_title: Yeni Grup Oluştur
+  guidelines:
+    header: FetLife Kuralları ve Yasal
+    headers:
+      community: Topluluk Rehberleri
+      content: İçerik Guidelines
+      group_leader: Grup Lideri Rehberleri
+    last_updated: 'Son güncelleme:'
+    sections:
+      guidelines:
+        description: FetLife'ı herkes için eğlenceli bir yer haline getirmek için, herkesten İçeriğimizi, Topluluğumuzu ve Grup kurallarımıza uymalarını rica ediyoruz.
+        title: Rehberler
+      legalese:
+        description: Bu bölümde yer alan Kullanım Koşullarını tüm üyeler FetLife'a kaydoldukları zaman kabul etmiş sayılır. Herşeyi olabildiğince basit ve açık tutmaya çalıştık!
+        title: Yasal
+      privacy:
+        description:Verileriniz ne kadar güvende ve FetLife onu korumak için ne yapıyor? FetLife'da verilerimize, bizim nasıl davranılmasını istediğimizi ele alıyoruz.
+        title: Gizlilik
+    subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
+    subnav:
+      community: Topluluk
+      content: İçerik
+      group_leader: Grup Lideri
+    title: Rehberler
+  invite_a_friend:
+    cancel_button: iptal
+    cancel_notice: %{email}'e gönderilen davet iptal edildi.
+    cta: Arkadaşını FetLife'a Davet Et
+    error: Yukarıdaki e-posta adresine davetiye göndermekte sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.
+    error_forgot_email: E-posta adresi gerekli.
+    invitations_accepted: Kabul Edilen Davetiyeler
+    invitations_sent: Gönderilen Davetiyeler
+    labels:
+      email: Eposta Adresi
+      friends_email: 'Adresine davetiye gönder:'
+      friends_email_sub: "%{count} davet kaldı"
+    next_step: sonraki adım
+    return_to_feed: akışa geri dön
+    subtitle_step1:
+      one: 1 adet davetiyeniz kaldı.
+      other: %{count_with_delimiter} adet davetiyeniz kaldı.
+    subtitle_step2: Sizden %{email} adresine bir davetiye gönderdik.
+    title_step1: Arkadaşını Davet Et
+    title_step2: Davet Gönderildi
+    view_invitations: davetlerini görüntüle
+  landing_page:
+    login_button: FetLife'a Giriş Yapın
+    signup_button: FetLife'a Katılın
+    stats_details: <strong class="fw4 silver">%{picture_count} fotoğraf</strong> ve <strong class="fw4 silver">%{video_count} video</strong> paylaşıyor, <strong class="fw4 silver">%{group_count} grupta</strong> <strong class="fw4 silver">%{discussion_count} tartışamaya</strong> katılıyor, <strong class="fw4 silver">%{event_count} tane yaklaşan etkinliğe</strong> katılıyor ve <strong class="fw4 silver">%{post_count} blog gönderisi</strong> okuyor. <span><span class="i">Kinky Cennet!</span>
+    stats_members: Üye
+    subtitle: Facebook gibi, ama sen ve ben gibi kinksterlar tarafından yönetiliyor. Bu şekilde daha eğlenceli olduğunu düşünüyoruz. Değil mi
+    title: FetLife, BDSM, Fetiş ve Kinky Topluluğu'nun Sosyal Ağıdır.
+  legalese:
+    headers:
+      2257_exempt: 2257 Muaf
+      guidelines_for_legal_requests: Yasal İstekler
+      privacy_policy: Gizlilik Politikası
+      terms_of_use: Kullanım Şartları
+    subnav:
+      2257_exempt: 2257 Muaf
+      legal_requests: Yasal İstekler
+      privacy: Gizlilik Politikası
+      terms: Kullanım Şartları
+    title: Yasal
+  lockout:
+    subtitle: Güvenlik sistemimizi açtın.
+    title: Güvenlik, Güvenlik, Güvenlik!
+  login:
+    button: FetLife'a Giriş Yapın
+    error_flash: Lütfen size yardım edebilmek için <a href="mailto:support@fetlife.com">support@fetlife.com</a> adresiyle iletişime geçiniz.
+    error_login_blank: Rumuz veya e-posta boş bırakılamaz.
+    error_not_authenticated: Üzgünüm arkadaşım, o sayfaya ulaşmak için giriş yapmış olman gerekiyor. Eğer halihazırda üye değilseniz kayıt olmak bir dakikadan az sürer.
+    error_not_found: Hmmm, seni bulamadık. Rumuzunuzu ve şifrenizi doğru girdiğinizden emin misiniz? (Şifreler BüYüK-kÜçÜk-HaRf-DuYaRLı'dır)
+    error_password_blacklist: Seçtiğiniz şifrenin tahmin edilmesi çok kolay. Lütfen daha güçlü bir şifre kullanın.
+    error_password_blank: Şifre boş olamaz.
+    error_password_email: Şifreniz e-posta kullanıcı adınız  ile aynı olamaz.
+    error_password_nickname: Şifreniz rumuzunuz ile aynı olamaz.
+    forgot_info: Giriş bilgilerinizi mi unuttunuz?
+    labels:
+      nickname: Rumuz veya Eposta
+      password: Şifre
+      remember_me: Beni hatırla, geri döneceğim.
+    not_a_member: Henüz üye değil misiniz? FetLife'a Kaydolun
+    subtitle: Seni özledik… uzun zaman olmuştu!
+    title: Eve Hoşgeldin
+  logout:
+    log_in: tekrar giriş yap
+    subtitle: Geri gelip bizi göreceğinizden emin olun.
+    title: Sizi Özledik!
+  member_stats:
+    pics:
+      one: 1 resim
+      other: "%{count_with_delimiter} resim"
+    posts:
+      one: 1 gönderi
+      other: "%{count_with_delimiter} gönderi"
+    vids:
+      one: 1 video
+      other: "%{count_with_delimiter} video"
+  nav:
+    events: Etkinlikler
+    explore: Keşfet
+    fetishes: Fetişler
+    groups: Gruplar
+    home: Anasayfa
+    places: Yerler
+    search_placeholder: FetLife'da Ara
+    videos: Videolar
+    writings: Gönderiler
+  page_break:
+    of:
+  privacy:
+    title: Gizlilik
+  profile:
+    about_title: Arkadaş Listesi
+    pictures_title: Fotoğraflar
+    videos_title: Videolar
+  promote_following:
+    button: Takip Edilmeyi Aç
+    ps: Not: Takip edilmeyi istediğiniz zaman kapatabilirsiniz.
+    skip: Takip edilmeyi benim için açma.
+    subtitle: Arkadaşlarını takipçilerinden ayır.
+    title: Takip Tanıtımı
+  recommendations:
+    title: Öneriler
+  reset_password:
+    cta: Şifremi Sıfırla
+    error_confirmation_match: Şifre onayı Şifre ile eşleşmiyor.
+    error_password_range: Şifre 8 ile 100 karakter arasında olmalıdır.
+    error_token_expired: Şifre sıfırlama kodunuzun süresi doldu, lütfen yenisini isteyin.
+    error_token_invalid: Parola sıfırlama kodu geçersiz.
+    footnote: "<b>İpucu:</b> Şifrenizi hatırlayın."
+    label_enter: Yeni Şifre
+    label_re_enter: Yeni Şifreyi Yeniden Girin
+    status_flash_success: Şifreniz başarıyla değiştirildi.
+    subtitle: Çok kısa değil, çok uzun değil, sadece…
+    title: Şifreyi Yenile
+  select_language:
+    button: Varsayılan Dili Değiştir
+    help_translate: GitHub'daki <a class="silver" href="https://github.com/fetlife/translations">çeviri proje</a>mizi ziyaret edin ve Fetlife'ın çok daha fazla kinky arkadaş  <span class="amp">&amp</span> topluluğa ulaşabilmesine yardımcı olun.
+    language_name: Türkçe
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, Merhaba!
+    title: Dil Seçin
+  settings_account:
+    2fa_cta: 2 Faktörlü Kimlik Doğrulamayı Açın
+    2fa_label: 2 Faktörlü Kimlik Doğrulama
+    anti_pro_tip: <strong>Sevimsiz İpucu:</strong> Eğer gerçekten isterseniz hesabınızı <a href="#">dondurabilir</a> veya <a href="#">silebilirsiniz</a> ama her 4 kişiden üçü bunu şiddetle tavsiye etmiyor.
+    current_password_label: Şimdiki Şifre
+    email_cta: Eposta Adresini Güncelle
+    email_label: Eposta
+    email_placeholder: Eposta Adresi
+    language_cta: Varsayılan Dili Güncelle
+    language_notice: FetLife İngilizce'den başka dillerde henüz tam anlamıyla kullanılabilir değil. Buradaki ayarı değiştirirseniz, web sitesinin tamamı çevrilmeyecektir.
+    new_password_label: Yeni Şifre
+    nickname_cta: Rumuz Değiştir
+    nickname_label: '"JohnBaku" olan rumuzunuzu şu şekilde değiştirin:'
+    nickname_notice: "<strong>İpucu:</strong> İki kez ölçün, bir kez kesin. Rumuzunuzu yalnızca 28 günde bir değiştirebilirsiniz. Geri alma yok."
+    nickname_placeholder: Yeni Rumuz
+    page_title: Şifre Değiştir - Ayarlar
+    password_cta: Şifreyi Güncelle
+    repeat_password_label: Şifreyi Tekrarla
+    subtitle: Büyük kırmızı düğmeye basma.
+    title: Hesap Ayarları
+  settings_notifications:
+    cta: Varsayılan Dili Güncelle
+    language_label: Dil
+    notice: FetLife İngilizce'den başka dillerde henüz tam anlamıyla kullanılabilir değil. Buradaki ayarı değiştirirseniz, web sitesinin tamamı çevrilmeyecektir.
+    page_title: Dil - Ayarlar
+    subtitle: Tercih ettiğiniz dil nedir?
+    title: Dil
+  settings_privacy:
+    blocked_list_subtitle: Haylazlar listenizdekiler için.
+    blocked_list_title: Engelliler Listesi
+    cb_feed: Arkadaş olmayanların beni etkinlik akışlarında takip etmelerine izin ver.
+    cb_fp: Özel olmayan yayınlarımın Fresh&Pervy'de görünmesine izin ver.
+    cb_kp: Özel olmayan yayınlarımın Kinky&Popular'da görünmesine izin ver.
+    content_privacy: İçerik Gizliliği
+    cta: Gizlilik Ayarlarını Kaydet
+    following: Takip Edilen
+    page_title: Gizlilik Ayarları
+    subtitle: Tam İstediğiniz Gibi
+    title: Gizlilik
+    warning: "<strong>Son Derece Önemli</strong>: Takip edilmeyi kapatırsanız sizi şu anda takip eden tüm kullanıcıların takip ettikleri kişilerden çıkarılacaksınız. Geri dönüş yok. Gerçekten."
+  settings_profile:
+    about_you_label: Hakkınızda
+    add_website: "+ başka bir websitesi ekle"
+    cta: Profilinizi Güncelleyin
+    dob_label: Doğum Tarihi
+    location_label: Konum
+    looking_for_label: Arayışları
+    page_title: Profili Güncelle
+    subtitle: Kişisel gelişim iyi bir şeydir.
+    title: Profiliniz
+    websites_label: Websiteleri
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Eposta Adresini Güncelle
+    email_label: Eposta Adresini Güncelle
+    email_placeholder: Eposta Adresi
+    page_title: Eposta Adresini Güncelle - Ayarlar
+    subtitle: Sadece şifrenizi unutmanız durumunda.
+    title: Eposta Adresini Güncelle
+  sidebar:
+    about_fetlife: Ekiple Tanışın
+    ad_stats: Reklam İstatistikleri
+    advertising: Reklam
+    already_member: Zaten üye misiniz?
+    androidapp: FetLife Android Uygulamasını Yükle
+    bug_bounty: Ödül Avcılığı
+    caretaking: Güvenlik Araçları
+    change_language: Dil Değiştir
+    close: kapat
+    contact_us: Bize Ulaşın
+    edit_profile: Profili Düzenle
+    edit_settings: Ayarlarını Güncelle
+    events: Etkinlikler
+    fetishes: Fetişler
+    following: Takip Edilenler
+    fp: Fresh & Pervy
+    funny_quote: Eğer bunu okuyabiliyorsan, gerçekten iyi bir bakış açısına sahipsin! - John 4:69
+    gift_support: Hediye FetLife Desteği
+    glossary: Sözlük
+    groups: Gruplar
+    guidelines: Rehberler
+    home: Anasayfa
+    invite_a_friend: Arkadaşını Davet Et (%{count})
+    kp: Kinky & Popular
+    legalese: Yasal
+    log_out: Çıkış Yap
+    login: Giriş Yap
+    loved_stuff: Sevdiğiniz Şeyler
+    need_help: Yardıma Mı İhtiyacınız Var?
+    open_source: Açık Kaynak
+    places: Konumlar
+    preservation_requests: Koruma İstekleri
+    privacy: Gizlilik
+    recommendations: Öneriler
+    signup: FetLife'a Katılın
+    subscriptions: Abonelikler
+    support: FetLife'ı Destekleyin
+    terms: Şartlar
+    upload_picture: Fotoğraf Yükle
+    upload_video: Video Yükle
+    videos: Videolar
+    view_friends: Arkadaşları Gör
+    wallpapers: FetLife Duvar Kağıtları
+    whats_new: Yeni Ne Var
+    write_post: Gönderi Yaz
+    writings: Gönderiler
+  signup:
+    almost_there: Neredeyse!
+    error_bar: Dallas, bir sorunumuz var. Daha fazla bilgi için aşağı kaydırın.
+    error_birthdate: Doğum tarihi gereklidir.
+    error_birthdate_too_old: Çok yaşlısın.
+    error_birthdate_too_young: Üzgünüz, katılmak için 18 yaşında veya daha büyük olmalısınız.
+    error_city_missing: Şehir seçilmeli.
+    error_country_missing: Ülke seçilmeli.
+    error_email: Yukarıdaki e-posta adresini işleme koymakta sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.
+    error_gender_required: Cinsiyet seçilmelidir.
+    error_nickname: Rumuz zaten alınmış.
+    error_nickname_bad_word: Rumuz, '%{word}' kelimesini içeremez.
+    error_nickname_characters: Rumuz yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir; boşluk içeremez.
+    error_nickname_length: Rumuz 2 ila 16 karakter uzunluğunda olabilir.
+    error_nickname_required: Rumuz gereklidir.
+    error_password_range: Şifre 8 ile 100 karakter arasında olmalıdır.
+    error_password_required: Şifre gereklidir.
+    error_role_required: Rol seçilmelidir.
+    error_sexual_orientation_required: Cinsel Yönelim seçilmelidir.
+    error_state_missing: Eyalet/İl seçilmeli.
+    footnote: "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
+    label:
+      birthdate: Doğumgünü
+      city: Şehir
+      country: Ülke
+      email: Eposta Adresi
+      gender: Cinsiyet
+      location: Konum
+      nickname: Rumuz
+      password: Şifre
+      role: Rol
+      sexual_orientation: Cinsel Yönelim
+      state: Eyalet/İl
+    page_title: Kaydol
+    return_to_login: Zaten bir üye misiniz? FetLife'a Giriş Yapın
+    subtitle: Bize biraz kendinizden bahsedin.
+    subtitle_invite: "%{name} sizi FetLife'a davet etti."
+    title: Eve Hoşgeldiniz
+  signup_avatar:
+    pro_tip: '<strong>İpucu</strong>: Eğer utangaçsanız ve yüzünüzü göstermemeyi tercih ederseniz, yaratıcı olmaktan ve farklı bir tarafınızı göstermekten çekinmeyin! İsterseniz, şimdilik <a class="silver" href="%{next_step_path}">bu adımı atlayabilirsiniz</a>.'
+    say_cheese: Peynir Deyin!
+    subtitle: Avatarı olan kinksterler 69 kat daha eğlenceli.
+    title: Bir Avatar Yükle
+  signup_five_strikes:
+    page_title: Beş Hata Kuralı
+    return_to_front: ön sayfaya geri dön
+    subtitle_error: Güvenlik nedeniyle, tekrar kaydolmayı denemek için iki saat beklemeniz gerekir.
+    title: Beş Hata Kuralı
+  signup_follow:
+    follow: Takip
+    next_step: Sonraki Adım
+    subtitle: İlginizi çeken kinksterları takip edin.
+    title: Gözünüze Taklan Var Mı?
+  signup_phone:
+    cta: Bana Doğrulama Kodu Gönder
+    error_blocked: "<strong>Kinky Operatör:</strong> Maalesef, şu anda insanların %{carrier_name} numarası kullanarak kaydolmasına izin vermiyoruz."
+    error_cant_send: "<strong>Kinky Operatör:</strong> Size kısa mesaj gönderirken sorun yaşıyoruz. Numaranıza ülke kodunuzla başladığınızdan emin olun: Türkiye için +90, ABD ve Kanada için +1, İngiltere için +44, Avustralya için +61, Hollanda için +31, Almanya için +49, Fransa için +33, vb. Ayrıca sabit hattınıza kısa mesaj göndermeye çalışmadığınızdan da."
+    error_quota: "<strong>Kinky Operatör:</strong> 24 saatlik bir sürede aynı numaraya 3'ten fazla kısa mesaj gönderemiyoruz. Lütfen daha sonra tekrar deneyiniz."
+    explanation: Soruların çok fazla olduğunu biliyoruz, ancak sağlıklı ve canlı bir topluluk oluşturmak için, katılmadan önce herkesi doğrulamamız gerekiyor. Diğer tarafta olduğunuzda takdir edeceğinizi düşünüyoruz.
+    label: Cep Telefonu Numarası
+    page_title: Doğrulama Kodu Gönder
+    pro_tip: "<strong>İpucu:</strong> Numaranıza ülke kodunuzla başladığınızdan emin olun: Türkiye için +90, ABD ve Kanada için +1, İngiltere için +44, Avustralya için +61, Hollanda için +31, Almanya için +49, Fransa için +33, vb."
+    subtitle: Bir kerelik anonim kısa mesaj.
+    title: Doğrulama Zamanı!
+  signup_verify:
+    cta: Kaydı Tamamla ve Doğrula
+    incorrect_code: "<strong>Kinky Operatör:</strong> Hmm &hellip; girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
+    label: Doğrulama Kodu
+    notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="silver" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
+    page_title: Dogrulama Kodunu Giriniz
+    placeholder: 6 Basamaklı Doğrulama Kodu
+    subtitle: Bu biraz acı vericiydi, değil mi??!?!
+    title: Son Adım
+  subnav:
+    feed:
+      activity_feed: Etkinlik Akışı
+      activity_feed_short: Anasayfa
+      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
+      fp_short: Fresh
+      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
+      kp_short: Popular
+    profile:
+      about: Benim Hakkımda
+      about_short: Hakkımda
+      latest: Son Aktiviteler
+      latest_short: Son
+      pictures: Fotoğraflar
+      pictures_short: Resimler
+      videos: Videolar
+      videos_short: Vidolar
+      writings: Gönderiler
+      writings_short: Gönderiler
+    settings:
+      account: Hesap
+      account_short: Hesap
+      notifications: Bildirimler
+      notifications_short: Bildirimler
+      privacy: Gizlilik
+      privacy_short: Gizlilik
+      profile: Profil
+      profile_short: Profil
+      support: Destek
+      support_short: Destek
+  support:
+    benefits:
+      item_1: Profilinizde seksi bir <span>FetLife'ı destekliyorum</span> rozeti.
+      item_2: Bugünün <span>%{number}+ en beğenilen fotoğraf, videolarına</span>  vb. erişin.
+      item_3: Topluluk tarafından paylaşılan <span>%{number} + videoyu</span> izleyin.
+      item_4: Paylaşılan tüm <span>%{number}+ fotoğraflara</span> anında erişin.
+      item_5: Önceden <span>beğendiniz her şeyi görün</span>.
+      item_6: Arkadaş Akışınızda <span>25 kat daha fazla</span> geriye gidin.
+      item_7: @Sen Akışınızda <span>25 kat daha fazla</span> geriye gidin.
+      item_8: "<span>Arkadaş Akışınızı Özelleştirin</span>, kalbinizin içeriğine göre."
+      item_9: Yeni özelliklere <span>erken erişim kazanın</span>!
+      list_description: 'Ayda sadece 5 $ karşılığında, sadece FetLife'ın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
+      list_footer: Hepsi bir şişe yağın fiyatından daha düşük bir fiyatla… yine de, kanola yağıyla değiştirmenizi tavsiye etmiyoruz… çok iyi çalışmıyor.
+      thank_you: Desteğiniz olmadan FetLife olmazdı. Bütün FetLife Ailesinden teşekkür ederiz!
+      title: FetLife'ı desteklediğimde ne alabilirim?
+    cta_labels:
+      ach: Banka Transferi (ACH)
+      cc_curo: Kredi Kartı
+      coingate: Bitcoin
+      eps: EPS
+      giropay: giropay
+      ideal: iDEAL
+      interac: Interac e-Transfer
+      mail: Fiziksel Posta
+      paygarden: Ana Hediye Kartı
+      paysafe: paysafecard
+      poli: POLi Ödemeleri
+      przelewy: Przelewy24
+      sepa: SEPA Direct Debit
+      teleingreso: Teleingreso
+    errors:
+      account_number_blank: Hesap Numarası boş bırakılamaz
+      address_blank: Adres boş bırakılamaz
+      answer_blank: Cevap boş bırakılamaz
+      bankcode_blank: Banka boş bırakılamaz
+      bic_blank: BIC boş bırakılamaz
+      bic_format: Geçersiz BIC
+      canceled: İşlem kullanıcı tarafından iptal edildi.
+      city_blank: Şehir boş bırakılamaz
+      country_blank: Ülke seçilmeli
+      double_failsafe: Bizi tekrar desteklemek istediğinden emin misin? Bizi yanlış anlamayın, destek için teşekkür ederiz, ancak sizi yanlışlıkla iki kez faturalandırmak istemiyoruz. Herhangi bir sorunuz varsa, lütfen <a href="mailto:support@fetlife.com">support@fetlife.com</a> adresine e-posta göndermekten çekinmeyin.
+      email_blank: Eposta boş bırakılamaz
+      first_name_blank: Ad boş bırakılamaz
+      iban_blank: IBAN boş bırakılamaz
+      info_missing: Bazı bilgiler eksik. Lütfen tekrar deneyin.
+      last_name_blank: Soyad boş bırakılamaz
+      postal_code_blank: Posta Kodu boş bırakılamaz
+      question_blank: Güvenlik sorusu boş bırakılamaz
+      routing_number_blank: Yönlendirme Numarası boş bırakılamaz
+      state_blank: Devlet boş olamaz
+    faq:
+      cc_a_part_1: Bunun birçoğunuz için büyük bir sıkıntı olduğunu biliyoruz. Ancak, kredi kartlarını kabul etmenin getirdiği içerik kısıtlamalarının zorlukları nedeniyle, topluluk bir bütün olarak kredi kartlarını kabul etmemenin, uzun vadeli sağlığımızın ve yaşayabilirliğimizin en iyisi olduğuna karar vermiştir.
+      cc_a_part_2: Kredi kartlarını kabul etmek istiyorsak, FetLife’daki kinksterların su sporları, hipnoz, regl döneminde cinsel ilişki, kan oyunu, sınır oyunları, rızası olarak tecavüz ve kinky topluluğu tarafından yaygın olarak kabul edilen diğer birçok kinkleri tartışmasına izin veremeyiz.
+      cc_a_part_3: Bir topluluk olarak, yetişkinlerin kendilerini cinsel olarak özgürce ifade edebilmelerini onaylamak için güvenli bir alana ihtiyacımız var. Ve kredi kartı veya paypal kabul edersek, bu özgürlüğü kaybederiz.
+      cc_q: S. FetLife neden Kredi Kartlarını veya Paypal'ı kabul etmiyor?
+      gift_a: Bu senin için çok iyi. Sadece profilini ziyaret et ve &ldquo;Hediye Desteği&rdquo;ni tıkla. &ldquo;Kinkstera Mesaj Gönder&rdquo; <i>#TheyWillLoveIt</i>
+      gift_q: S. Birisine hediye desteği mi vermek istiyorsunuz?
+      month_a: Costco gibi, FetLife'ı desteklemenin aylık maliyetini düşük tutmak için toplu olarak satmak zorundayız!
+      month_q: S. Neden 1 ay yapamıyorum?
+      name_a: 'BitLove Inc. olarak görünecektir.'
+      name_q: S. Bu benim banka ekstremde nasıl görünecek?
+      question_a: Herhangi bir sorunuz varsa, lütfen bize e-posta göndermekten çekinmeyin&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
+      question_q: S. Sorularınız mı var?
+      renew_a: Asla. Her zaman sizin desteğinizi istiyoruz.
+      renew_q: S. Desteğimi otomatik olarak yeniliyor musunuz?
+      return_a: 7 günlük para iade garantimiz var. Maalesef, Hediye Kartı Takas Alımı, POLi, Bitcoin veya Paysafecard'ı kullanaak destek veriyorsanız, çalışma biçimlerinin doğası gereği, bunlar nihai satıştır.
+      return_q: S. İade politikanız nedir?
+      secure_a: Evet, çok. FetLife hiçbir kişisel bilginizi sunucularımızda saklamıyor. İşleminizi yaparken bize verdiğiniz bilgileri kullanıyoruz, hepsi bu.
+      secure_q: S. Bu güvenli mi?
+      title: Sıkça Sorulan Sorular
+    gift:
+      affirm: En iyisi sensin!
+      confirm: %{nickname} İsimli Kullanıcıya Hediye Desteği Vermek İstiyorum
+      header: FetLife'ı Bugün Destekleyin!
+      subheader: Destekçi olmakla birlikte gelen tüm <a href='%{link}'>seksi avantajları</a> elde edin.
+      thank_you: Destek için teşekkürler!
+      title: %{nickname} Kullanıcısına Hediye Desteği
+      yourself: Kendiniz İçin Destek Alın
+    header:
+      subheader: Ve destekçi olmakla birlikte gelen tüm <a href='%{link}'>seksi avantajları</a> elde edin.
+      title: FetLife'ı Bugün Destekleyin!
+    step1:
+      ach:
+        extra_info: Amerika Birleşik Devletleri'nde bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: ABD Banka Havalesi (ACH)
+      cc_curo:
+        extra_info: Visa, V Pay, Mastercard ve Maestro kabul ediyoruz. Kolay ve güvenli.
+        title: Kredi Kartı
+      coingate:
+        extra_info: Bitcoin göründüğü kadar karmaşık değildir. Ve başlatılmamış olanlar için, süreç boyunca elinizi tutacağız.
+        title: Bitcoin
+      eps:
+        extra_info: Avusturya'da EPS'yi destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Avusturya Banka Havalesi (EPS)
+      giropay:
+        extra_info: Almanya'da giropay'i destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Alman Banka Havalesi (giropay)
+      ideal:
+        extra_info: Hollanda'da iDEAL'i destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Hollanda Banka Havalesi (iDEAL)
+      interac:
+        extra_info: Kanada'da bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Kanadalı Interac e-Transfer
+      less_options: ek seçenekleri gizle
+      mail:
+        extra_info: Gelenekselciyseniz, posta yoluyla uluslararası havale, çek veya nakit para kabul ediyoruz.
+        title: Fiziksel Posta
+      more_options: bana daha fazla seçenek göster
+      paygarden:
+        extra_info: Starbucks, Best Buy, Target, Walmart, Home Depot ve Build-A-Bear dahil olmak üzere 100'den fazla markadan gelen hediye kartları.
+        title: Büyük Marka Hediye Kartı Takası
+      paysafe:
+        extra_info: Bir Paysafecard satın alabilir ve FetLife'ı dünya çapında 43 ülkede bulunan 500.000'den fazla fiziksel mağazada desteklemek için kullanabilirsiniz.
+        title: Ön Ödemeli Paysafecard
+      poli:
+        extra_info: Avustralya’da veya Yeni Zelanda’da banka hesabı olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Avustralya/Yeni Zelanda Havalesi (POLi)
+      przelewy:
+        extra_info: Polonya'da bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Przelewy24
+      sepa:
+        extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Avrupa Banka Havalesi (SEPA)
+      teleingreso:
+        extra_info: İspanya'da banka hesabı olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Teleingreso
+      title: Ödeme Yöntemini Seçin
+    step2:
+      120_info: "$5/ay"
+      120_title: "Yıllık $120"
+      240_info: "<i>Paha Biçilemez</i>"
+      240_title: "Ömür Boyu $240!"
+      30_info: "$5/ay"
+      30_title: "6 Aylık $30"
+      60_info: "$5/ay"
+      60_title: "Yıllık $60"
+      return_info: 7 gün hiçbir soru sormadan para iade garantisi vermedi.
+      title: FetLife'ı ne kadar seviyorsun?
+    step2_paygarden:
+      confirm: Destek için İşlem Yapmak İstediğim Hediye Kartım Var
+      list_footer: ve <a href='%{link}'>100lerce diğer büyük marka.</a>
+      list_header: Şuralardan Hediye Kartları Kabul Ediyoruz
+      secure: Fort Knox Kadar Güvenli
+      tips: Amerika Birleşik Devletleri dışında yaşıyorsanız, VPN / Proxy kullanmanızı ve USD cinsinden Starbucks veya Targets US çevrimiçi mağazalarından hediye kartı almanızı öneririz.
+      tips_header: İpuçları &amp; Püf Noktaları
+      title: Büyük Bir Markadan Hediye Kartı Satın Alın
+    step3_ach:
+      account_number_label: 'Hesap #'
+      account_number_placeholder: Hesap Numarası
+      account_number_sub_label: 6 ila 16 karakter
+      account_type: Hesap Tipi
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      check_hide: gizli çek
+      check_question: Bu numaraları çekin üzerinde nerede bulabilirim?
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: Bugün FetLife'ı destekleyin
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      routing_number_label: 'Banka Yönlendirme #'
+      routing_number_placeholder: Banka Yönlendirme Numarası
+      routing_number_sub_label: 9 basamaklı sayı
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      state_label: Devlet
+      state_placeholder: Devlet
+      state_sub_label: banka hesabıyla ilişkili
+      title: Online Çek / Banka Havalesi
+      type_checking: Mevduat
+      type_savings: Tasarruf
+      zip_label: Posta Kodu
+      zip_sub_label: banka hesabıyla ilişkili
+    step3_cc_curo:
+      cta: Kredi Kartı ile FetLife'ı Destekleyin
+      first_name_label: Ad
+      first_name_sub_label: kredi kartıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: kredi kartıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: Kredi kartı Ödemesi
+    step3_coingate:
+      cta: Bitcoin ile FetLife'ı destekleyin
+      intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'
+      secure: Fort Knox Kadar Güvenli
+      title: "Bitcoin ile “Nasıl”"
+      title_html: "Bitcoin ile &ldquo;Nasıl&rdquo;"
+      wallets_list_header: 'Aşağıdaki cüzdan sağlayıcısı ile iyi bir deneyimimiz oldu:'
+      wallets_title: Tavsiye Edilen Bitcoin Cüzdanlar
+      what: Bitcoin Nedir?
+    step3_eps:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: EPS Ödemesi Yapın
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: EPS Ödemesi
+    step3_giropay:
+      account_number_label: 'Hesap #'
+      account_number_placeholder: Hesap Numarası
+      account_number_sub_label: Geçerli Banka Hesap Numarası
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: giropay Ödemesi Yapın
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      routing_number_label: BIC / SWIFT Kodu
+      routing_number_placeholder: Banka Kimlik Kodu
+      routing_number_sub_label: 8 veya 11 karakter uzunluğunda
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: giropay Ödemesi
+    step3_ideal:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: iDEAL Ödemesi Yapın
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: iDEAL Ödemesi
+    step3_interac:
+      amount: 'Miktar:'
+      answer_label: 'Cevap:'
+      answer_placeholder: Cevap
+      cta: Interac e-Transfer'i gönderdim
+      question_label: 'Güvenlik Sorusu:'
+      question_placeholder: Güvenlik Sorusu
+      send: 'Gönderildi:'
+      thank_you: Teşekkürler!
+      title: Interac e-Transfer Gönder
+    step3_mail:
+      accept_options: Uluslararası Havale, Çek veya Nakit
+      accept_title: 'Kabul Ediyoruz:'
+      amount: 'Miktar:'
+      cta: Bana Yukarıdaki Bilgiyi E-postala
+      email_to: %{email} adresine e-posta göndereceğiz.
+      memo: 'Memo/Re:'
+      send: 'Göderildi:'
+      title: Posta Gönder
+      to_options: BitLove Inc.
+      to_title: 'Ödenebilir:'
+      update_email: epostayı güncelle
+    step3_paysafe:
+      cta: Zaten bir Paysafecard'ım var
+      notice_body: Ne yazık ki, ABD'de satın alınan Paysafecards, ABD'de kullandıkları bankanın getirdiği kısıtlamalar nedeniyle desteklenmiyor. Diğer tüm ülkelerde satın alınan paysafecardlar kabul edilir.
+      notice_title: Amerikalı Dostlarımız İçin Önemli Bilgiler
+      secure: Fort Knox Kadar Güvenli
+      stores: Yürüme mesafesinde paysafecards satan mağazalar bulabilirsiniz. Bize inanmıyor musunuz?
+      stores_link: Bana en yakın Paysafecard satan mağazaları bul
+      title: Ön Ödemeli Paysafecard Satın Alın
+      where: Paysafecard'ı nereden alabilirim?
+    step3_poli:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      country_label: Ülke
+      country_placeholder: Ülke
+      country_sub_label: banka hesabıyla ilişkili
+      cta: POLi Ödemesi Yapın
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      state_label: State / Province
+      state_sub_label: banka hesabıyla ilişkili
+      title: POLi Ödemesi
+    step3_przelewy:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: Make Przelewy24 Payment
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: Przelewy24 Payment
+    step3_sepa:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      bic_label: BIC / SWIFT Code
+      bic_placeholder: Banka Kimlik Kodu
+      bic_sub_label: 8 veya 11 karakter uzunluğunda
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      country_label: Ülke
+      country_placeholder: Ülke
+      country_sub_label: banka hesabıyla ilişkili
+      cta: FetLife'ı Şimdi Destekleyin
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      iban_label: IBAN
+      iban_placeholder: Uluslararası Banka Hesap Numarası
+      iban_sub_label: 34 alfanümerik karaktere kadar
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: SEPA Ödeme Bilgileri
+    step3_teleingreso:
+      address_label: Adres
+      address_sub_label: banka hesabıyla ilişkili
+      city_label: Şehir
+      city_sub_label: banka hesabıyla ilişkili
+      cta: Teleingreso Ödemesi Yapın
+      first_name_label: Ad
+      first_name_sub_label: banka hesabıyla ilişkili
+      last_name_label: Soyad
+      last_name_sub_label: banka hesabıyla ilişkili
+      postal_code_label: Posta Kodu
+      postal_code_sub_label: banka hesabıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: Teleingreso Ödemesi
+    thank_you:
+      body: Cidden hayır, <span>desteğiniz için çok teşekkür ederiz</span>. FetLife’ın sürekli iyileştirilmesi ve geliştirilmesine destek olmak için zorluklarla kazandığınız para ile bize katkıda bulunmanız bizim için çok şey ifade ediyor.
+      cta_home: Beni Eve Götür
+      gift_affirm: En iyisi sensin!
+      gift_cta_profile: %{nickname} Kullanıcısının Profilini Ziyaret Et
+      gift_next_body: Siz bu yazıyı okuyorken biz de destek hediyenizi <a href="%{link}">%{nickname}</a> kullanıcısına iletiyor ve onu sizin cömert hediyeniz hakkında eposta ile bilgilendiriyoruz.
+      gift_next_title: Sıradaki?
+      page_title: Teşekkürler!
+      questions_body: Herhangi bir sorunuz varsa, lütfen bize e-posta göndermekten çekinmeyin <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
+      questions_title: Sorunuz Mu Var?
+      tab_title: Teşekkürler
+      thank_you: Tekrardan Teşekkürler!
+    thank_you_interac:
+      cta_home: Beni Akışıma Götür
+      next_steps_final_default: bunu profilinize ekler ve sizi bilgilendiririz.
+      next_steps_final_gift: bunu %{nickname} kullanıcısının profiline ekleriz.
+      next_steps_first: nterac e-Transfer'inizi almamız <span>birkaç saat sürebilir</span>, fakat ödemenizi aldığımızda
+      next_steps_title: 'Sonraki Adımlar:'
+      page_title: Teşekkürler <span class='baskerville i'>&amp;</span> Sonraki Adımlar
+      tab_title: Teşekkürler & Sonraki Adımlar
+      thank_you: Teşekkürler!
+    title: FetLife'ı Desteklemeye Yardım Edin!
