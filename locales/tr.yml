@@ -261,7 +261,7 @@ tr:
     button: Varsayılan Dili Değiştir
     help_translate: GitHub'daki <a class="silver" href="https://github.com/fetlife/translations">çeviri proje</a>mizi ziyaret edin ve Fetlife'ın çok daha fazla kinky arkadaş  <span class="amp">&amp</span> topluluğa ulaşabilmesine yardımcı olun.
     language_name: Türkçe
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, Merhaba!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Dil Seçin
   settings_account:
     2fa_cta: 2 Faktörlü Kimlik Doğrulamayı Açın
