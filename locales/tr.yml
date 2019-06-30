@@ -222,7 +222,7 @@ tr:
     videos: Videolar
     writings: Gönderiler
   page_break:
-    of:
+    of: ''
   privacy:
     title: Gizlilik
   profile:
