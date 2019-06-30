@@ -6,7 +6,7 @@ tr:
       subtitle: Güvenlik nedeniyle tekrar giriş yapmayı denemeden önce iki saat beklemeniz gerekir.
       title: Beş Hata Kuralı
     cta: Benim, içeri girmeme izin ver!
-    error: "<strong>Kinky Operatör:</strong> Doh&hellip; Yukarıdaki doğrulama kodu kapalı görünüyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
+    error: "<strong>Kinky Operatör:</strong> Doh… Yukarıdaki doğrulama kodu kapalı görünüyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
     label: Kimlik Doğrulama Kodu
     page_title: 2 Faktörlü Kimlik Doğrulama
     subtitle: 2-Factor me baby!
@@ -62,9 +62,9 @@ tr:
         subtitle: Sana bu konuda yardım etmeme izin ver.
         title: Şifreni Mi Unuttun?
       step2:
-        page_title: "Büyük İhtimalle" Postanız Var
+        page_title: "'Büyük İhtimalle' Postanız Var"
         subtitle: Eğer <span class='fw7'>%{given_email}</span> ile ilişkilendirilmiş bir profil varsa, size şifrenizi nasıl sıfırlayacağınızla ilgili talimatları gönderdik.
-        title: &ldquo;Büyük İhtimalle&rdquo; Epostanız Var!
+        title: “Büyük İhtimalle” Epostanız Var!
       update_email: eposta adresini güncelle
       warning: "<strong>Genel Cerrahın Uyarısı:</strong> Güvenlik nedeniyle, veritabanımızda bir e-posta adresi olup olmadığını söyleyemeyiz. Bizden bir e-posta almazsanız, bunun nedeni büyük olasılıkla o e-posta adresiyle ilişkilendirilmiş bir hesabımızın olmamasıdır. "
     mobile:
@@ -81,7 +81,7 @@ tr:
         subtitle: Sana bu konuda yardım etmeme izin ver.
         title: Şifrenizi Mi Unuttunuz?
       step2:
-        cta: Sen Olduğunu Doğrula &#8482;
+        cta: Sen Olduğunu Doğrula ™
         error_code_match: "<strong>Kinky Operatör:</strong> Girdiğiniz doğrulama kodu yanlış. Yukarıdaki sayının bizden aldıklarınızla eşleştiğini doğrulayın ve lütfen tekrar deneyin. Bu bir kayıttır."
         inexisting_number: Birkaç dakika sonra bizden bir metin mesajı almazsanız, bunun sebebi muhtemelen numaranıza bir profil eklememiş olmamızdır. Size <a href="%{forgot_password_email_path ""> başka bir yöntem kullanarak şifrenizi sıfırlamayı denemenizi </a> veya <a href="{{signup_path ""> FetLife'da yeni bir profil hazırlamanızı öneririz</a>.
         label: 6 Basamaklı Doğrulama Kodu
@@ -128,7 +128,7 @@ tr:
         description: Bu bölümde yer alan Kullanım Koşullarını tüm üyeler FetLife'a kaydoldukları zaman kabul etmiş sayılır. Herşeyi olabildiğince basit ve açık tutmaya çalıştık!
         title: Yasal
       privacy:
-        description:Verileriniz ne kadar güvende ve FetLife onu korumak için ne yapıyor? FetLife'da verilerimize, bizim nasıl davranılmasını istediğimizi ele alıyoruz.
+        description: Verileriniz ne kadar güvende ve FetLife onu korumak için ne yapıyor? FetLife'da verilerimize, bizim nasıl davranılmasını istediğimizi ele alıyoruz.
         title: Gizlilik
     subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
     subnav:
@@ -138,7 +138,7 @@ tr:
     title: Rehberler
   invite_a_friend:
     cancel_button: iptal
-    cancel_notice: %{email}'e gönderilen davet iptal edildi.
+    cancel_notice: "%{email}'e gönderilen davet iptal edildi."
     cta: Arkadaşını FetLife'a Davet Et
     error: Yukarıdaki e-posta adresine davetiye göndermekte sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.
     error_forgot_email: E-posta adresi gerekli.
@@ -152,7 +152,7 @@ tr:
     return_to_feed: akışa geri dön
     subtitle_step1:
       one: 1 adet davetiyeniz kaldı.
-      other: %{count_with_delimiter} adet davetiyeniz kaldı.
+      other: "%{count_with_delimiter} adet davetiyeniz kaldı."
     subtitle_step2: Sizden %{email} adresine bir davetiye gönderdik.
     title_step1: Arkadaşını Davet Et
     title_step2: Davet Gönderildi
@@ -231,7 +231,7 @@ tr:
     videos_title: Videolar
   promote_following:
     button: Takip Edilmeyi Aç
-    ps: Not: Takip edilmeyi istediğiniz zaman kapatabilirsiniz.
+    ps: Not. Takip edilmeyi istediğiniz zaman kapatabilirsiniz.
     skip: Takip edilmeyi benim için açma.
     subtitle: Arkadaşlarını takipçilerinden ayır.
     title: Takip Tanıtımı
@@ -251,7 +251,7 @@ tr:
     title: Şifreyi Yenile
   select_language:
     button: Varsayılan Dili Değiştir
-    help_translate: GitHub'daki <a class="silver" href="https://github.com/fetlife/translations">çeviri proje</a>mizi ziyaret edin ve Fetlife'ın çok daha fazla kinky arkadaş  <span class="amp">&amp</span> topluluğa ulaşabilmesine yardımcı olun.
+    help_translate: GitHub'daki <a class="silver" href="https://github.com/fetlife/translations">çeviri proje</a>mizi ziyaret edin ve Fetlife'ın çok daha fazla kinky arkadaş  <span class="amp">&</span> topluluğa ulaşabilmesine yardımcı olun.
     language_name: Türkçe
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Dil Seçin
@@ -381,7 +381,7 @@ tr:
     error_role_required: Rol seçilmelidir.
     error_sexual_orientation_required: Cinsel Yönelim seçilmelidir.
     error_state_missing: Eyalet/İl seçilmeli.
-    footnote: "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
+    footnote: Üye olurken "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
     label:
       birthdate: Doğumgünü
       city: Şehir
@@ -427,7 +427,7 @@ tr:
     title: Doğrulama Zamanı!
   signup_verify:
     cta: Kaydı Tamamla ve Doğrula
-    incorrect_code: "<strong>Kinky Operatör:</strong> Hmm &hellip; girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
+    incorrect_code: "<strong>Kinky Operatör:</strong> Hmm … girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
     label: Doğrulama Kodu
     notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="silver" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
     page_title: Dogrulama Kodunu Giriniz
@@ -438,9 +438,9 @@ tr:
     feed:
       activity_feed: Etkinlik Akışı
       activity_feed_short: Anasayfa
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
+      fp: Fresh<span class="a-ampersand">&</span>Pervy
       fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
+      kp: Kinky<span class="a-ampersand">&</span>Popular
       kp_short: Popular
     profile:
       about: Benim Hakkımda
@@ -472,10 +472,10 @@ tr:
       item_4: Paylaşılan tüm <span>%{number}+ fotoğraflara</span> anında erişin.
       item_5: Önceden <span>beğendiniz her şeyi görün</span>.
       item_6: Arkadaş Akışınızda <span>25 kat daha fazla</span> geriye gidin.
-      item_7: @Sen Akışınızda <span>25 kat daha fazla</span> geriye gidin.
+      item_7: Kendi @Sen Akışınızda <span>25 kat daha fazla</span> geriye gidin.
       item_8: "<span>Arkadaş Akışınızı Özelleştirin</span>, kalbinizin içeriğine göre."
       item_9: Yeni özelliklere <span>erken erişim kazanın</span>!
-      list_description: 'Ayda sadece 5 $ karşılığında, sadece FetLife'ın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
+      list_description: 'Ayda sadece 5$ karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
       list_footer: Hepsi bir şişe yağın fiyatından daha düşük bir fiyatla… yine de, kanola yağıyla değiştirmenizi tavsiye etmiyoruz… çok iyi çalışmıyor.
       thank_you: Desteğiniz olmadan FetLife olmazdı. Bütün FetLife Ailesinden teşekkür ederiz!
       title: FetLife'ı desteklediğimde ne alabilirim?
@@ -519,13 +519,13 @@ tr:
       cc_a_part_2: Kredi kartlarını kabul etmek istiyorsak, FetLife’daki kinksterların su sporları, hipnoz, regl döneminde cinsel ilişki, kan oyunu, sınır oyunları, rızası olarak tecavüz ve kinky topluluğu tarafından yaygın olarak kabul edilen diğer birçok kinkleri tartışmasına izin veremeyiz.
       cc_a_part_3: Bir topluluk olarak, yetişkinlerin kendilerini cinsel olarak özgürce ifade edebilmelerini onaylamak için güvenli bir alana ihtiyacımız var. Ve kredi kartı veya paypal kabul edersek, bu özgürlüğü kaybederiz.
       cc_q: S. FetLife neden Kredi Kartlarını veya Paypal'ı kabul etmiyor?
-      gift_a: Bu senin için çok iyi. Sadece profilini ziyaret et ve &ldquo;Hediye Desteği&rdquo;ni tıkla. &ldquo;Kinkstera Mesaj Gönder&rdquo; <i>#TheyWillLoveIt</i>
+      gift_a: Bu senin için çok iyi. Sadece profilini ziyaret et ve “Hediye Desteği”ni tıkla. “Kinkstera Mesaj Gönder” <i>#TheyWillLoveIt</i>
       gift_q: S. Birisine hediye desteği mi vermek istiyorsunuz?
       month_a: Costco gibi, FetLife'ı desteklemenin aylık maliyetini düşük tutmak için toplu olarak satmak zorundayız!
       month_q: S. Neden 1 ay yapamıyorum?
       name_a: 'BitLove Inc. olarak görünecektir.'
       name_q: S. Bu benim banka ekstremde nasıl görünecek?
-      question_a: Herhangi bir sorunuz varsa, lütfen bize e-posta göndermekten çekinmeyin&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
+      question_a: Herhangi bir sorunuz varsa, lütfen bize e-posta göndermekten çekinmeyin  <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: S. Sorularınız mı var?
       renew_a: Asla. Her zaman sizin desteğinizi istiyoruz.
       renew_q: S. Desteğimi otomatik olarak yeniliyor musunuz?
@@ -536,11 +536,11 @@ tr:
       title: Sıkça Sorulan Sorular
     gift:
       affirm: En iyisi sensin!
-      confirm: %{nickname} İsimli Kullanıcıya Hediye Desteği Vermek İstiyorum
+      confirm: Rumuzu %{nickname} Olan Kullanıcıya Hediye Desteği Vermek İstiyorum
       header: FetLife'ı Bugün Destekleyin!
       subheader: Destekçi olmakla birlikte gelen tüm <a href='%{link}'>seksi avantajları</a> elde edin.
       thank_you: Destek için teşekkürler!
-      title: %{nickname} Kullanıcısına Hediye Desteği
+      title: Rumuzu %{nickname} Olan Kullanıcısına Hediye Desteği
       yourself: Kendiniz İçin Destek Alın
     header:
       subheader: Ve destekçi olmakla birlikte gelen tüm <a href='%{link}'>seksi avantajları</a> elde edin.
@@ -608,7 +608,7 @@ tr:
       list_header: Şuralardan Hediye Kartları Kabul Ediyoruz
       secure: Fort Knox Kadar Güvenli
       tips: Amerika Birleşik Devletleri dışında yaşıyorsanız, VPN / Proxy kullanmanızı ve USD cinsinden Starbucks veya Targets US çevrimiçi mağazalarından hediye kartı almanızı öneririz.
-      tips_header: İpuçları &amp; Püf Noktaları
+      tips_header: İpuçları & Püf Noktaları
       title: Büyük Bir Markadan Hediye Kartı Satın Alın
     step3_ach:
       account_number_label: 'Hesap #'
@@ -651,7 +651,7 @@ tr:
       intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'
       secure: Fort Knox Kadar Güvenli
       title: "Bitcoin ile “Nasıl”"
-      title_html: "Bitcoin ile &ldquo;Nasıl&rdquo;"
+      title_html: "Bitcoin ile “Nasıl”"
       wallets_list_header: 'Aşağıdaki cüzdan sağlayıcısı ile iyi bir deneyimimiz oldu:'
       wallets_title: Tavsiye Edilen Bitcoin Cüzdanlar
       what: Bitcoin Nedir?
@@ -718,7 +718,7 @@ tr:
       accept_title: 'Kabul Ediyoruz:'
       amount: 'Miktar:'
       cta: Bana Yukarıdaki Bilgiyi E-postala
-      email_to: %{email} adresine e-posta göndereceğiz.
+      email_to: Şu adrese e-posta göndereceğiz, %{email}.
       memo: 'Memo/Re:'
       send: 'Göderildi:'
       title: Posta Gönder
@@ -808,7 +808,7 @@ tr:
       body: Cidden hayır, <span>desteğiniz için çok teşekkür ederiz</span>. FetLife’ın sürekli iyileştirilmesi ve geliştirilmesine destek olmak için zorluklarla kazandığınız para ile bize katkıda bulunmanız bizim için çok şey ifade ediyor.
       cta_home: Beni Eve Götür
       gift_affirm: En iyisi sensin!
-      gift_cta_profile: %{nickname} Kullanıcısının Profilini Ziyaret Et
+      gift_cta_profile: Rumuzu %{nickname} Olan Kullanıcı Profilini Ziyaret Et
       gift_next_body: Siz bu yazıyı okuyorken biz de destek hediyenizi <a href="%{link}">%{nickname}</a> kullanıcısına iletiyor ve onu sizin cömert hediyeniz hakkında eposta ile bilgilendiriyoruz.
       gift_next_title: Sıradaki?
       page_title: Teşekkürler!
@@ -822,7 +822,7 @@ tr:
       next_steps_final_gift: bunu %{nickname} kullanıcısının profiline ekleriz.
       next_steps_first: nterac e-Transfer'inizi almamız <span>birkaç saat sürebilir</span>, fakat ödemenizi aldığımızda
       next_steps_title: 'Sonraki Adımlar:'
-      page_title: Teşekkürler <span class='baskerville i'>&amp;</span> Sonraki Adımlar
+      page_title: Teşekkürler <span class='baskerville i'>&</span> Sonraki Adımlar
       tab_title: Teşekkürler & Sonraki Adımlar
       thank_you: Teşekkürler!
     title: FetLife'ı Desteklemeye Yardım Edin!
