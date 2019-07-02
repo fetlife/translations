@@ -1,4 +1,4 @@
-# Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia!
+# Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
 
 With the help of the beautifully diverse community that makes up [Fetlife](https://fetlife.com/), we are working to make FetLife home to all kinksters, no matter where in the world they might be, and in the language they are most comfortable!
 
@@ -15,6 +15,7 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 - [Russian](locales/ru.yml)
 - [Slovak](locales/sk.yml)
 - [Spanish](locales/es.yml)
+- [Turkish](locales/tr.yml)
 
 
 ### How You can Help Out

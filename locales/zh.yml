@@ -253,7 +253,7 @@ zh:
     button: 修改默认语言
     help_translate: 访问我们的在 Github 上的 <a class="silver" href="https://github.com/fetlife/translations">翻译项目</a>，一起帮忙让 FetLife 能让更多 kinky 的朋友加入进来。
     language_name: 简体中文
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: 选择语言
   settings_account:
     2fa_cta: 开启两步验证

@@ -253,7 +253,7 @@ ru:
     button: Сменить Язык по Умолчанию
     help_translate: Посетите наш <a class="silver" href="https://github.com/fetlife/translations">проект с переводами</a> на GitHub и помогите сделать FetLife доступным для большего количества наших развратных друзей <span class="amp">&amp</span> сообществ.
     language_name: Русский
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Выбрать Язык
   settings_account:
     2fa_cta: Включить 2-Факторную Аутентификацию

@@ -253,7 +253,7 @@ hu:
     button: Nyelv megváltoztatása
     help_translate: Hibát találtál a fordításban? Esetleg segítenél további nyelveken is elérhetővé tenni a FetLife-ot? Látogass el a <a class="silver" href="https://github.com/fetlife/translations">nyelvi GitHub oldalunkra</a> és jelezd nekünk az észrevételed, vagy akár változtasd meg saját magad!
     language_name: Magyar
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Válassz nyelvet magadnak
   settings_account:
     2fa_cta: Két lépcsős azonosítás bekapcsolása
