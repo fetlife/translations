@@ -23,6 +23,11 @@ bg:
     title: Ние. Сме. FetLife!
   components:
     step: Step
+  edit_profile:
+    sidebar_questions:
+      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
+      pics_and_vids_discoverability_link: Go to settings
+      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Коментирай
     comments_count:

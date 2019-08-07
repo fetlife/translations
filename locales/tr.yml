@@ -23,6 +23,11 @@ tr:
     title: Biz. Hepimiz. Fetlife!
   components:
     step: Adım
+  edit_profile:
+    sidebar_questions:
+      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
+      pics_and_vids_discoverability_link: Go to settings
+      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Yorum
     comments_count:
@@ -64,7 +69,7 @@ tr:
       step2:
         page_title: "'Büyük İhtimalle' Postanız Var"
         subtitle: Eğer <span class='fw7'>%{given_email}</span> ile ilişkilendirilmiş bir profil varsa, size şifrenizi nasıl sıfırlayacağınızla ilgili talimatları gönderdik.
-        title: “Büyük İhtimalle” Epostanız Var!
+        title: "“Büyük İhtimalle” Epostanız Var!"
       update_email: eposta adresini güncelle
       warning: "<strong>Genel Cerrahın Uyarısı:</strong> Güvenlik nedeniyle, veritabanımızda bir e-posta adresi olup olmadığını söyleyemeyiz. Bizden bir e-posta almazsanız, bunun nedeni büyük olasılıkla o e-posta adresiyle ilişkilendirilmiş bir hesabımızın olmamasıdır. "
     mobile:
@@ -523,7 +528,7 @@ tr:
       gift_q: S. Birisine hediye desteği mi vermek istiyorsunuz?
       month_a: Costco gibi, FetLife'ı desteklemenin aylık maliyetini düşük tutmak için toplu olarak satmak zorundayız!
       month_q: S. Neden 1 ay yapamıyorum?
-      name_a: 'BitLove Inc. olarak görünecektir.'
+      name_a: BitLove Inc. olarak görünecektir.
       name_q: S. Bu benim banka ekstremde nasıl görünecek?
       question_a: Herhangi bir sorunuz varsa, lütfen bize e-posta göndermekten çekinmeyin  <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: S. Sorularınız mı var?
@@ -593,13 +598,13 @@ tr:
       title: Ödeme Yöntemini Seçin
     step2:
       120_info: "$5/ay"
-      120_title: "Yıllık $120"
+      120_title: Yıllık $120
       240_info: "<i>Paha Biçilemez</i>"
-      240_title: "Ömür Boyu $240!"
+      240_title: Ömür Boyu $240!
       30_info: "$5/ay"
-      30_title: "6 Aylık $30"
+      30_title: 6 Aylık $30
       60_info: "$5/ay"
-      60_title: "Yıllık $60"
+      60_title: Yıllık $60
       return_info: 7 gün hiçbir soru sormadan para iade garantisi vermedi.
       title: FetLife'ı ne kadar seviyorsun?
     step2_paygarden:
@@ -650,8 +655,8 @@ tr:
       cta: Bitcoin ile FetLife'ı destekleyin
       intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'
       secure: Fort Knox Kadar Güvenli
-      title: "Bitcoin ile “Nasıl”"
-      title_html: "Bitcoin ile “Nasıl”"
+      title: Bitcoin ile “Nasıl”
+      title_html: Bitcoin ile “Nasıl”
       wallets_list_header: 'Aşağıdaki cüzdan sağlayıcısı ile iyi bir deneyimimiz oldu:'
       wallets_title: Tavsiye Edilen Bitcoin Cüzdanlar
       what: Bitcoin Nedir?

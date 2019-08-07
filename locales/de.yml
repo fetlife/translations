@@ -23,6 +23,11 @@ de:
     title: Wir! Sind! FetLife!
   components:
     step: Schritt
+  edit_profile:
+    sidebar_questions:
+      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
+      pics_and_vids_discoverability_link: Go to settings
+      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Kommentar
     comments_count:
@@ -611,7 +616,7 @@ de:
       tips_header: Tipps &amp; Tricks
       title: Kaufe eine Geschenkkarte einer bekannten Marke
     step3_ach:
-      account_number_label: 'Konto-#'
+      account_number_label: Konto-#
       account_number_placeholder: Kontonummer
       account_number_sub_label: zwischen 6 und 16 Stellen
       account_type: Kontotyp
@@ -626,7 +631,7 @@ de:
       first_name_sub_label: zum Bankkonto gehörig
       last_name_label: Nachname
       last_name_sub_label: zum Bankkonto gehörig
-      routing_number_label: 'Bankleit-#'
+      routing_number_label: Bankleit-#
       routing_number_placeholder: Bankleitzahl
       routing_number_sub_label: Neunstellige Zahl
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
