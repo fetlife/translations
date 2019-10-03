@@ -172,7 +172,7 @@ nl:
   legalese:
     headers:
       2257_exempt: 2257 Vrijgesteld
-      guidelines_for_legal_requests: Juridische verzoeken
+      legal_requests: Juridische verzoeken
       privacy_policy: Privacybeleid
       terms_of_use: Gebruiksvoorwaarden
     subnav:
