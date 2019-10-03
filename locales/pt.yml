@@ -172,7 +172,7 @@ pt:
   legalese:
     headers:
       2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Pedidos legais
+      legal_requests: Pedidos legais
       privacy_policy: Política de Privacidade
       terms_of_use: Termos de Utilização
     subnav:

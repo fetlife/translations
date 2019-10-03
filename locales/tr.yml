@@ -172,7 +172,7 @@ tr:
   legalese:
     headers:
       2257_exempt: 2257 Muaf
-      guidelines_for_legal_requests: Yasal İstekler
+      legal_requests: Yasal İstekler
       privacy_policy: Gizlilik Politikası
       terms_of_use: Kullanım Şartları
     subnav:

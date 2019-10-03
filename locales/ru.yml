@@ -172,7 +172,7 @@ ru:
   legalese:
     headers:
       2257_exempt: 2257 Exempt
-      guidelines_for_legal_requests: Юридические Запросы
+      legal_requests: Юридические Запросы
       privacy_policy: Политика Конфиденциальности
       terms_of_use: Условия Использования
     subnav:
