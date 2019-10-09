@@ -6,7 +6,7 @@ fr:
       subtitle: Merdre, pour des raisons de sécurité, vous devrez attendre deux heures avant de pouvoir ré-essayer d’ouvrir une session.
       title: Règle des cinq essais
     cta: C’est moi, laissez-moi entrer !
-    error: "<strong>Kinky Opérateur :</strong> Doh… le code de vérification ci-dessus semble incorrect. Vérifiez s’il vous plaît que le numéro ci-dessus est identique à celui que vous avez reçu de nous, et ré-essayez."
+    error: "<strong>Opérateur Kinky :</strong> Doh… le code de vérification ci-dessus semble incorrect. Vérifiez s’il vous plaît que le numéro ci-dessus est identique à celui que vous avez reçu de nous, et ré-essayez."
     label: Code d’identification
     page_title: Validation à 2 facteurs
     subtitle: 2-factorise-moi bébé !
@@ -15,7 +15,7 @@ fr:
     contact_info: Informations de contact
     email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous vous recontacterons très vite!
     europe: Europe
-    got_question: As-tu une question ? Besoin d’aide ?
+    got_question: Avez-vous une question ? Besoin d’aide ?
     north_america: Amérique du Nord
     one_love: Un amour, une vie, et beaucoup de kink !
     snail_mail: Courrier papier
@@ -288,7 +288,7 @@ fr:
     subtitle: Quelle est votre langue préférée ?
     title: Langue
   settings_privacy:
-    blocked_list_subtitle: Pour celles et ceux sur votre liste noire.
+    blocked_list_subtitle: Pour ceux et celles sur votre liste noire.
     blocked_list_title: Liste des bloqué⋅e⋅s
     cb_feed: Permettre aux non-ami⋅e⋅s de me suivre sur leur fil d’activité.
     cb_fp: Permettre aux posts non-privés d’apparaître sur Fresh&Pervy.
@@ -323,7 +323,7 @@ fr:
     about_fetlife: À propos de Fetlife
     ad_stats: Statistiques d’annonces
     advertising: Publicité
-    already_member: Already a member?
+    already_member: Déjà membre?
     androidapp: Installer l’app Android de FetLife
     bug_bounty: Prime pour bug
     caretaking: Outils de gestion
@@ -336,7 +336,7 @@ fr:
     fetishes: Fétiches
     following: Suivi
     fp: Fresh & Pervy
-    friends_and_following: Friends & Following
+    friends_and_following: Amis & Abonnés
     funny_quote: Si vous ne pouvez pas lire ceci… vous avez probablement besoin de lunettes ! - John 4:69
     gift_support: Faites cadeau d’un support à FetLife
     glossary: Glossaire
@@ -378,16 +378,16 @@ fr:
     error_email: Nous avons des problèmes avec le traitement de l’adresse mail ci-dessus. Nous vous recommandons d’en vérifier l’orthographe ou d’en essayer une autre.
     error_gender_required: Le genre doit être sélectionné.
     error_nickname: Ce pseudo est déjà pris.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
-    error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
-    error_nickname_length: Nickname has to be between 2 and 16 characters long.
+    error_nickname_bad_word: Les pseudo ne peuvent contenir le mot '%{word}'.
+    error_nickname_characters: Les pseudo ne peuvent contenir que des lettres, des chiffres, des tirets et des soulignés; aucun espace.
+    error_nickname_length: Le pseudo doit comporter entre 2 et 16 caractères.
     error_nickname_required: Le pseudo est obligatoire.
     error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères.
     error_password_required: Le mot de passe est obligatoire.
     error_role_required: Le rôle doit être sélectionné.
     error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée.
     error_state_missing: L’état/la province doit être sélectionné⋅e.
-    footnote: By clicking "Compléter l’inscription & la vérification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: En cliquant "Compléter l’inscription & la vérification" vous acceptez de respecter et de suivre nos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Conditions d'utilisation</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Politique de confidentialité</a> et <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Règles de communauté</a>.
     label:
       birthdate: Date de naissance
       city: Ville
@@ -401,14 +401,14 @@ fr:
       sexual_orientation: Orientation sexuelle
       state: État/Province
     page_title: Rejoindre
-    return_to_login: Already a member? Login to FetLife
+    return_to_login: Déjà membre? Connectez-vous à FetLife
     subtitle: Parlez-nous un peu de vous.
     subtitle_invite: "%{name} vous a invité⋅e à rejoindre Fetlife."
     title: Bienvenue à la maison
   signup_avatar:
     pro_tip: '<strong>Astuce de pro</strong> : Si vous êtes timide et préférez ne pas montrer votre visage, n’hésitez pas à être créatif⋅ive et montrer un aspect différent de vous ! Ou si vous préférez, vous pouvez <a class="silver" href="%{next_step_path}">sauter cette étape</a> pour l’instant.'
     say_cheese: Dites Cheese !
-    subtitle: Les personnes avec avatars ont 69x plus de plaisir !
+    subtitle: Les personnes avec avatars ont 69 fois plus de plaisir !
     title: Envoyer un avatar
   signup_five_strikes:
     page_title: Règle des cinq essais
@@ -444,9 +444,9 @@ fr:
     feed:
       activity_feed: Fil d’activité
       activity_feed_short: Accueil
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
+      fp: Frais<span class="a-ampersand">&amp;</span>Pervers
       fp_short: Récent
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
+      kp: Kinky<span class="a-ampersand">&amp;</span>Populaire
       kp_short: Populaire
     profile:
       about: À propos de moi
@@ -617,7 +617,7 @@ fr:
       tips_header: Trucs &amp; astuces
       title: Achetez une carte cadeau d’une grande enseigne
     step3_ach:
-      account_number_label: 'Compte #'
+      account_number_label: '# Compte'
       account_number_placeholder: Numéro de compte
       account_number_sub_label: entre 6 et 16 chiffres
       account_type: Type de compte
