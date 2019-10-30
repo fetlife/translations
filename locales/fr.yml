@@ -50,15 +50,15 @@ fr:
     follow: Suivre
     following: Suivi
   footer:
-    advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    advertising: Publicité
+    contact: Nous contacter
+    glossary: Glossaire
     help: Aide
-    privacy: Privacy
+    privacy: Confidentialité
   forgot_password:
     email:
       cta: Envoie-moi un email avec instructions
-      error_forgot_email: Email address is required.
+      error_forgot_email: Le courriel est requis.
       error_invalid_email: Ça ne ressemble pas à une adresse mail valide. Veuillez la relire et la re-soumettre.
       error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: Adresse mail
@@ -67,9 +67,9 @@ fr:
         subtitle: Laissez-moi vous aider avec ça.
         title: Oublié votre mot de passe ?
       step2:
-        page_title: Vous avez “PEUT-ËTRE” du courrier
+        page_title: Vous avez “PEUT-ÊTRE” du courrier
         subtitle: S’il existe un profil associé à cet email <span class='fw7'>%{given_email}</span>, alors nous vous avons envoyé des instructions pour réinitialiser votre mot de passe.
-        title: Vous avez “PEUT-ËTRE” du courrier !
+        title: Vous avez “PEUT-ÊTRE” du courrier !
       update_email: mettre à jour l’adresse mail
       warning: "<strong>Avertissement du Ministère de la Santé :</strong> Pour des raisons de sécurité, nous ne pouvons pas vous dire si une adresse mail existe ou non dans notre base de données. Si vous ne recevez pas de courriel de nous, il est probable que nous n’avons pas de compte associé à cette adresse mail."
     mobile:
@@ -101,41 +101,41 @@ fr:
   groups:
     new:
       description_label: Description
-      description_placeholder: What's the group about?
-      loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
-      name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
-      terms_and_conditions_community_guidelines_link: Community Guidelines
-      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
-      terms_and_conditions_terms_of_use_link: Terms of Use
-      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+      description_placeholder: De quoi parle le groupe?
+      loader_text: Oh tu l'as fait!
+      membership_restrictions_label: Restreint à
+      membership_restrictions_placeholder: ex. soumis...
+      membership_restrictions_sub_label: vide pour laisser ouvert à tous
+      name_label: Nom
+      name_placeholder: Quel est le nom de votre groupe?
+      page_title: Créer un nouveau groupe
+      return_to_groups_link_text: retourner aux groupes
+      rules_label: Rêgles
+      rules_placeholder: Quels sont les rêgles du groupe?
+      submit_button_text: Créer mon nouveau groupe
+      terms_and_conditions_community_guidelines_link: Rêgles de la communauté
+      terms_and_conditions_group_leader_guidelines_link: Lignes directrices des gestionnaires de groupe
+      terms_and_conditions_terms_of_use_link: Conditions d'utilisation
+      title_description: Un groupe est l'endroit où les kinksters peuvent se réunir pour partager leurs expériences, leurs intérêts communs, leurs projets et plus encore!
+      title_title: Créer un nouveau groupe
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: Directives de communauté
+      content: Directives de contenu
+      group_leader: Directives de gestionnaire de groupe
     last_updated: 'Dernière mise à jour :'
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: Pour aider à faire de FetLife un endroit amusant pour tous, nous vous demandons de bien vouloir suivre nos consignes relatives au contenu, à la communauté et au groupe.
+        title: Lignes directrices
       legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
+        description: Cette section contient les conditions d'utilisation que tous les membres acceptent lors de leur inscription à FetLife. Nous avons essayé de garder les choses aussi simples et claires que possible!
+        title: Blabla légal
       privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
+        description: Quel est le niveau de sécurité de vos données et que fait FetLife pour les protéger? Chez FetLife, nous traitons vos données comme nous aimerions que les nôtres soient traitées.
+        title: Confidentialité
+    subheader: Vous trouverez ici les directives, la documentation juridique et la politique de confidentialité de notre site.
     subnav:
       community: Communauté
       content: Contenu
@@ -182,8 +182,8 @@ fr:
       terms: Conditions d’utilisation
     title: Blabla légal
   lockout:
-    subtitle: You've tripped our security system.
-    title: Security, Security, Security!
+    subtitle: Vous avez déclenché notre système de sécurité.
+    title: Sécurité, Sécurité, Sécurité!
   login:
     button: Connexion à FetLife
     error_flash: Veuillez contacter <a href="mailto:support@fetlife.com">support@fetlife.com</a> afin que nous puissions vous aider à revenir.
