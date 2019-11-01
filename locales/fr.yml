@@ -119,19 +119,19 @@ fr:
       title_description: Un groupe est l'endroit où les kinksters peuvent se réunir pour partager leurs expériences, leurs intérêts communs, leurs projets et plus encore!
       title_title: Créer un nouveau groupe
   guidelines:
-    header: Directives de FetLife & Blabla Légal
+    header: Directives de FetLife & Légal
     headers:
       community: Directives de communauté
       content: Directives de contenu
       group_leader: Directives de gestionnaire de groupe
-    last_updated: 'Dernière mise à jour :'
+    last_updated: "Dernière mise à jour :"
     sections:
       guidelines:
         description: Pour aider à faire de FetLife un endroit amusant pour tous, nous vous demandons de bien vouloir suivre nos consignes relatives au contenu, à la communauté et au groupe.
         title: Lignes directrices
       legalese:
         description: Cette section contient les conditions d'utilisation que tous les membres acceptent lors de leur inscription à FetLife. Nous avons essayé de garder les choses aussi simples et claires que possible!
-        title: Blabla légal
+        title: Légal
       privacy:
         description: Quel est le niveau de sécurité de vos données et que fait FetLife pour les protéger? Chez FetLife, nous traitons vos données comme nous aimerions que les nôtres soient traitées.
         title: Confidentialité
@@ -180,7 +180,7 @@ fr:
       legal_requests: Requêtes légales
       privacy: Politique de confidentialité
       terms: Conditions d’utilisation
-    title: Blabla légal
+    title: Légal
   lockout:
     subtitle: Vous avez déclenché notre système de sécurité.
     title: Sécurité, Sécurité, Sécurité!
@@ -272,7 +272,7 @@ fr:
     language_notice: FetLife n’est pas encore entièrement disponible en d’autres langues que l’anglais. Si vous changez ce paramètre, l’intégralité du site ne sera pas traduite.
     new_password_label: Nouveau mot de passe
     nickname_cta: Changer le pseudo
-    nickname_label: 'Changer votre pseudo de “JohnBaku” en :'
+    nickname_label: "Changer votre pseudo de “JohnBaku” en :"
     nickname_notice: "<strong>Astuce de pro :</strong> Mesurez deux fois avant de couper. Vous ne pouvez changer votre pseudo qu’une fois tous les 28 jours. Sans retour."
     nickname_placeholder: Nouveau pseudo
     page_title: Changer de mot de passe – Paramètres
@@ -345,7 +345,7 @@ fr:
     home: Accueil
     invite_a_friend: Inviter un ami (%{count})
     kp: Kinky & Popular
-    legalese: Blabla légal
+    legalese: Légal
     log_out: Déconnexion
     login: Connexion
     loved_stuff: Trucs que vous aimez
@@ -481,7 +481,7 @@ fr:
       item_7: Revenir <span>25× plus loin</span> en arrière dans votre fil @You.
       item_8: "<span>Personnaliser votre fil d’ami⋅e⋅s</span> autant que vous le voulez."
       item_9: Obtenir en avant-première un <span>accès aux nouvelles fonctionnalités</span> !
-      list_description: 'Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
+      list_description: "Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :"
       list_footer: Tout ça pour moins cher qu’une bouteille de lubrifiant… Bien que nous ne vous recommandions pas de remplacer le lubrifiant par de l’huile de colza… Ça ne marche pas très bien.
       thank_you: Sans votre support il n’y aurait pas de FetLife. Merci, de la part de toute la famille FetLife !
       title: Qu’est-ce que je gagne en supportant FetLife ?
@@ -529,7 +529,7 @@ fr:
       gift_q: Q. Vous voulez faire cadeau du support à quelqu’un⋅e ?
       month_a: Comme Costco, nous devons vendre en gros, pour conserver un faible coût au mois pour supporter FetLife !
       month_q: Q. Pourquoi ne puis-je pas choisir 1 mois ?
-      name_a: 'Cela apparaîtra comme : BitLove Inc.'
+      name_a: "Cela apparaîtra comme : BitLove Inc."
       name_q: Q. Comment cela va-t-il apparaître sur mon relevé de compte ?
       question_a: Si vous avez d’autres questions, n’hésitez pas à nous envoyer un mail à&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: Q. Vous avez d’autres questions ?
@@ -617,7 +617,7 @@ fr:
       tips_header: Trucs &amp; astuces
       title: Achetez une carte cadeau d’une grande enseigne
     step3_ach:
-      account_number_label: '# Compte'
+      account_number_label: "# Compte"
       account_number_placeholder: Numéro de compte
       account_number_sub_label: entre 6 et 16 chiffres
       account_type: Type de compte
@@ -632,7 +632,7 @@ fr:
       first_name_sub_label: associé au compte bancaire
       last_name_label: Nom de famille
       last_name_sub_label: associé au compte bancaire
-      routing_number_label: 'Routage bancaire #'
+      routing_number_label: "Routage bancaire #"
       routing_number_placeholder: Numéro de routage bancaire
       routing_number_sub_label: nombre à 9 chiffres
       secure: Aussi sûr que Fort Knox, et nous n’enregistrons aucune de vos données personnelles.
@@ -654,11 +654,11 @@ fr:
       title: Credit Card Payment
     step3_coingate:
       cta: Supporter FetLife avec des Bitcoin
-      intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'
+      intro: "Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :"
       secure: Aussi sûr que Fort Knox.
       title: "“How To” pour Bitcoin"
       title_html: "&ldquo;How To&rdquo; pour Bitcoin"
-      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_list_header: "We've had good experience with the following wallet provider:"
       wallets_title: Porte-monnaie Bitcoin recommandés
       what: Qu’est-ce que le Bitcoin ?
     step3_eps:
@@ -676,7 +676,7 @@ fr:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: EPS Payment
     step3_giropay:
-      account_number_label: 'Account #'
+      account_number_label: "Account #"
       account_number_placeholder: Account Number
       account_number_sub_label: Valid Bank Account Number
       address_label: Address
@@ -710,26 +710,26 @@ fr:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Montant :'
-      answer_label: 'Réponse :'
+      amount: "Montant :"
+      answer_label: "Réponse :"
       answer_placeholder: Réponse
       cta: J’ai envoyé l’Interac e-Transfer
-      question_label: 'Question de sécurité :'
+      question_label: "Question de sécurité :"
       question_placeholder: Question de sécurité
-      send: 'Envoyé à:'
+      send: "Envoyé à:"
       thank_you: Merci !
       title: Envoyer un Interac e-Transfer
     step3_mail:
       accept_options: International Money Order, Check, or Cash
-      accept_title: 'Nous acceptons :'
-      amount: 'Montant :'
+      accept_title: "Nous acceptons :"
+      amount: "Montant :"
       cta: Envoyez-moi par mail les infos ci-dessus
       email_to: Nous allons les envoyer à %{email}.
-      memo: 'Mémo/Re :'
-      send: 'Envoyer à :'
+      memo: "Mémo/Re :"
+      send: "Envoyer à :"
       title: Envoyer du courrier
       to_options: BitLove Inc.
-      to_title: 'Payable à :'
+      to_title: "Payable à :"
       update_email: mettre à jour l’email
     step3_paysafe:
       cta: J’ai déjà une Paysafecard
@@ -827,7 +827,7 @@ fr:
       next_steps_final_default: will attach it to your profile and notify you.
       next_steps_final_gift: nous allons l’attacher au profil de %{nickname}.
       next_steps_first: Cela peut <span>prendre une heure ou deux</span> avant que nous ne recevions votre Interac e-Transfer, mais dès que nous l’avons
-      next_steps_title: 'Étapes suivantes :'
+      next_steps_title: "Étapes suivantes :"
       page_title: Merci <span class='baskerville i'>&amp;</span> Étapes suivantes
       tab_title: Merci & Étapes suivantes
       thank_you: Merci !
