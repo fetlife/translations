@@ -25,9 +25,9 @@ de:
     step: Schritt
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
+      pics_and_vids_discoverability_a: Deine Bilder und Videos erscheinen nur für Deine Freund_innen und Follower. Wenn auch der Rest der Gemeinschaft Deine wohlschmerzenden Inhalte finden sollen, kannst Du das in deinen Privatsphäre-Einstellungen festlegen.
+      pics_and_vids_discoverability_link: Zu den Einstellungen wechseln
+      pics_and_vids_discoverability_q: Bilder- und Video-Auffindbarkeit
   feed:
     comment: Kommentar
     comments_count:
@@ -113,7 +113,7 @@ de:
       rules_label: Regeln
       rules_placeholder: Wie lauten die Regeln der Gruppe?
       submit_button_text: Meine neue Gruppe erstellen
-      terms_and_conditions_community_guidelines_link: Community-Richtlinien
+      terms_and_conditions_community_guidelines_link: Gemeinschafts-Richtlinien
       terms_and_conditions_group_leader_guidelines_link: Gruppenleitungs-Richtlinien
       terms_and_conditions_terms_of_use_link: Nutzungsbedingungen
       title_description: Eine Gruppe ist ein Ort, an dem mehrere Kinkster zusammenkommen und Erfahrungen und gemeinsame Interessen teilen, Pläne schmieden und vieles mehr tun können!
@@ -121,13 +121,13 @@ de:
   guidelines:
     header: FetLife-Richtlinien und Juristenjargon
     headers:
-      community: Community-Richtlinien
+      community: Gemeinschafts-Richtlinien
       content: Inhalts-Richtlinien
       group_leader: Gruppenleitungs-Richtlinien
     last_updated: 'Zuletzt aktualisiert:'
     sections:
       guidelines:
-        description: Damit FetLife allen Spaß macht, bitten wir Dich höflich darum, Dich an unsere Inhalts-, Communuity- und Gruppenrichtlinien zu halten.
+        description: Damit FetLife allen Spaß macht, bitten wir Dich höflich darum, Dich an unsere Inhalts-, Gemeinschafts- und Gruppenrichtlinien zu halten.
         title: Richtlinien
       legalese:
         description: Dieser Abschnitt enthält die Nutzungsbedingungen, denen alle Mitglieder zustimmen, wenn sie sich für FetLife registrieren. Wir haben versucht, sie so klar und deutlich wie möglich zu fassen.
@@ -279,7 +279,7 @@ de:
     password_cta: Passwort aktualisieren
     repeat_password_label: Passwort wiederholen
     subtitle: Betätige nicht den großen roten Knopf.
-    title: Einstellungen des Mitgliedkontos
+    title: Einstellungen des Mitgliedskontos
   settings_notifications:
     cta: Aktualisiere Deine Sprachvoreinstellung
     language_label: Sprache
@@ -336,7 +336,7 @@ de:
     fetishes: Fetische
     following: Folgen
     fp: Frisch & Pervers
-    friends_and_following: Friends & Following
+    friends_and_following: Befreundet & Gefolgt
     funny_quote: Wenn Du das nicht lesen kannst … brauchst Du vermutlich eine Brille! - John 4:69
     gift_support: FetLife-Unterstützung schenken
     glossary: Glossar
@@ -376,7 +376,7 @@ de:
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
-    error_gender_required: Gender muss gewählt werden.
+    error_gender_required: Geschlecht muss gewählt werden.
     error_nickname: Dieser Name ist schon vergeben.
     error_nickname_bad_word: Der Name darf das Wort „%{word}“ nicht enthalten.
     error_nickname_characters: Der Name darf nur Buchstaben, Zahlen, Binde- und Unterstriche enthalten, aber keine Leerzeichen.
@@ -393,7 +393,7 @@ de:
       city: Stadt
       country: Land
       email: E-Mail-Adresse
-      gender: Gender
+      gender: Geschlecht
       location: Ort
       nickname: Name
       password: Passwort
@@ -401,7 +401,7 @@ de:
       sexual_orientation: Sexuelle Orientierung
       state: Staat/Bundesland
     page_title: Mitglied werden
-    return_to_login: Bereits Mitglied? Logg Dich bei FetLife ein.
+    return_to_login: Bereits Mitglied? Logg' Dich bei FetLife ein.
     subtitle: Erzähl uns ein bisschen über Dich.
     subtitle_invite: "%{name} hat Dich eingeladen, Mitglied bei FetLife zu werden."
     title: Willkommen zuhause
@@ -444,9 +444,9 @@ de:
     feed:
       activity_feed: Aktivitätschronik
       activity_feed_short: Zuhause
-      fp: Frisch<span class="a-ampersand">&amp;</span>Pervers
+      fp: Frisch & Pervers
       fp_short: Frisch
-      kp: Kinky<span class="a-ampersand">&amp;</span>Beliebt
+      kp: Kinky & Beliebt
       kp_short: Beliebt
     profile:
       about: Über mich
