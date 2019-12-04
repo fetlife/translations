@@ -25,9 +25,11 @@ ru:
     step: Шаг
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
+      pics_and_vids_discoverability_a: |
+        Только Ваши друзья и подписчики могут с помощью поиска по FetLife найти Ваши изображения и видео.
+        Если Вы хотите, чтобы другие зарегистрированные пользователи FetLife могли находить Ваши материалы в поиске, Вы можете обновить настройки приватности
+      pics_and_vids_discoverability_link: Перейти к настройкам
+      pics_and_vids_discoverability_q: Видимость изображений и видео
   feed:
     comment: Комментарий
     comments_count:
@@ -60,7 +62,11 @@ ru:
       cta: Получить Письмо с Инструкциями
       error_forgot_email: Укажите адрес электронной почты.
       error_invalid_email: Это не похоже на настоящий адрес электронной почты. Проверьте и попытайтесь снова.
-      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
+      error_quota: |
+        Мы недавно отправили электронное письмо со ссылкой на сброс пароля на указанный электронный адрес.
+        Оно может оказаться в вашем почтовом ящике через 5-10 минут.
+        Пожалуйста проверьте, что это письмо не попало в spam.
+        Если через 10 минут Вы не получите это письмо - Вы можете попробовать сбросить пароль еще раз.
       placeholder: Адрес Электронной Почты
       step1:
         page_title: Сбросить Пароль по Электронной Почте
@@ -258,7 +264,7 @@ ru:
     button: Сменить Язык по Умолчанию
     help_translate: Посетите наш <a class="silver" href="https://github.com/fetlife/translations">проект с переводами</a> на GitHub и помогите сделать FetLife доступным для большего количества наших развратных друзей <span class="amp">&amp</span> сообществ.
     language_name: Русский
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba, привіт, שלום!
     title: Выбрать Язык
   settings_account:
     2fa_cta: Включить 2-Факторную Аутентификацию
@@ -658,7 +664,7 @@ ru:
       secure: Надёжно как Форт Нокс
       title: Как пользоваться Биткоинами
       title_html: Как пользоваться Биткоинами
-      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_list_header: "У нас есть положительны опыт со следующими провайдерами Биткоин Кошельков:"
       wallets_title: Рекомендованный Биткоин Кошельки
       what: Что такое Биткоин?
     step3_eps:
@@ -720,7 +726,7 @@ ru:
       thank_you: Спасибо!
       title: Отправить Interac e-Transfer перевод
     step3_mail:
-      accept_options: International Money Order, Check, or Cash
+      accept_options: Международный денежный перевод, чек или наличные
       accept_title: 'Мы Принимаем:'
       amount: 'Сумма:'
       cta: Отправить мне информацию по эл.почте
