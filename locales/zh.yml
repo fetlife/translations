@@ -373,6 +373,7 @@ zh:
     error_birthdate: 出生日期必填。
     error_birthdate_too_old: 你太老了。
     error_birthdate_too_young: 抱歉，满 18 岁才可加入。
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: 城市必填。
     error_country_missing: 国家必填。
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。

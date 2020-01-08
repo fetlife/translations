@@ -378,6 +378,7 @@ sk:
     error_birthdate: Dátum narodenia je povinný.
     error_birthdate_too_old: Tvoj vek je príliž vysoký.
     error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov).
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Mesto je povinné.
     error_country_missing: Krajina je povinná.
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.
