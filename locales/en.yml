@@ -372,7 +372,7 @@ en:
     error_bar: Dallas, we have a problem. Scroll down for more info.
     error_birthdate: Date of birth is required.
     error_birthdate_too_old: You are too old.
-    error_birthdate_too_young: Sorry, you must be 18 or older to join.
+    error_birthdate_too_young: Sorry, you must be 18 or older to use FetLife.
     error_city_missing: City has to be selected.
     error_country_missing: Country has to be selected.
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
