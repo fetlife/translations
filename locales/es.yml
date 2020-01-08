@@ -373,6 +373,7 @@ es:
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Usted es demasiado viejo.
     error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Tiene que seleccionar una ciudad.
     error_country_missing: Tiene que seleccionar un país.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
