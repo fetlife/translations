@@ -21,6 +21,10 @@ zh:
     snail_mail: 老派邮件地址
     sub_header: 不，不是斯巴达
     title: 我们・是・FetLife！
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: 步骤
   edit_profile:

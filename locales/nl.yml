@@ -21,6 +21,10 @@ nl:
     snail_mail: Slakken post
     sub_header: Niet te verwarren met de Spartanen.
     title: Wij. Zijn. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

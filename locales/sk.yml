@@ -21,6 +21,10 @@ sk:
     snail_mail: Pošta
     sub_header: Nemýliť so Sparťanmi.
     title: My. Sme. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

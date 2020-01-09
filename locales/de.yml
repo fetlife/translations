@@ -21,6 +21,10 @@ de:
     snail_mail: Schneckenpost
     sub_header: Nicht zu verwechseln mit den Spartanern.
     title: Wir! Sind! FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Schritt
   edit_profile:

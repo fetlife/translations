@@ -21,6 +21,10 @@ tr:
     snail_mail: Normal Posta
     sub_header: Spartalılar'la karıştırılmaması gerekir.
     title: Biz. Hepimiz. Fetlife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Adım
   edit_profile:

@@ -21,6 +21,10 @@ gr:
     snail_mail: Αργό Ταχυδρομείο
     sub_header: Μην το μπερδεύετε με τους Σπαρτιάτες.
     title: Είμαστε το FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

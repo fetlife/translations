@@ -21,6 +21,10 @@ bg:
     snail_mail: Поща
     sub_header: Не ни бъркай със спартанците.
     title: Ние. Сме. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

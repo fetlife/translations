@@ -21,6 +21,10 @@ en:
     snail_mail: Snail Mail
     sub_header: Not to be confused with the Spartans.
     title: We. Are. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: 'URL'
   components:
     step: Step
   edit_profile:

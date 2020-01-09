@@ -21,6 +21,10 @@ fr:
     snail_mail: Courrier papier
     sub_header: À ne pas confondre avec les spartiates
     title: Nous. Sommes. FetLife !
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

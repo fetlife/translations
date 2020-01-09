@@ -21,6 +21,10 @@ pt:
     snail_mail: Correio
     sub_header: Não confundir com Os Espartanos.
     title: Nós. Somos. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Passo
   edit_profile:

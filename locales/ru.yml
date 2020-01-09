@@ -21,6 +21,10 @@ ru:
     snail_mail: Обычная Почта
     sub_header: Не путать со спартанцами.
     title: Мы FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Шаг
   edit_profile:

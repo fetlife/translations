@@ -21,6 +21,10 @@ es:
     snail_mail: Correo postal
     sub_header: No se confunda con los espartanos.
     title: Nosotros. Somos. ¡FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:

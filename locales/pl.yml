@@ -21,6 +21,10 @@ pl:
     snail_mail: Prawdziwa poczta
     sub_header: Nie mylić ze Spartanami.
     title: We. Are. FetLife!
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Krok
   edit_profile:

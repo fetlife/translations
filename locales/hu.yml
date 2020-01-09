@@ -21,6 +21,10 @@ hu:
     snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
     title: 'Mi vagyunk a: FetLife!'
+  activerecord:
+    attributes:
+      website:
+        url: URL
   components:
     step: Step
   edit_profile:
