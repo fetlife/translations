@@ -316,6 +316,7 @@ ru:
     page_title: Обновить Профиль
     subtitle: Личностный рост это хорошо.
     title: Ваш Профиль
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Вебсайты
     websites_placeholder: https://fetlife.com
   settings_support:

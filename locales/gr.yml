@@ -310,6 +310,7 @@ gr:
     page_title: Ενημέρωση του προφίλ
     subtitle: Η Προσωπική ανάπτυξη είναι καλό πράγμα.
     title: Το Προφίλ σας
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websites
     websites_placeholder: https://fetlife.com
   settings_support:

@@ -312,6 +312,7 @@ pl:
     page_title: Aktualizacja profilu
     subtitle: Samorozwój to dobra rzecz.
     title: Twój profil
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Strony WWW
     websites_placeholder: https://fetlife.com
   settings_support:

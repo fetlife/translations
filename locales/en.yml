@@ -312,6 +312,7 @@ en:
     title: Your Profile
     websites_label: Websites
     websites_placeholder: https://fetlife.com
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
   settings_support:
     cta: Update Email Address
     email_label: Update Email Address

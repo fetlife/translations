@@ -310,6 +310,7 @@ fr:
     page_title: Mettre à jour le profil
     subtitle: Le développement personnel est une bonne chose.
     title: Votre profil
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Sites web
     websites_placeholder: https://fetlife.com
   settings_support:

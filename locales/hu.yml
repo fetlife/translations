@@ -310,6 +310,7 @@ hu:
     page_title: Profil frissítése
     subtitle: A személyes fejlődés hasznos dolog.
     title: Profil
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Honlap
     websites_placeholder: https://fetlife.com
   settings_support:
