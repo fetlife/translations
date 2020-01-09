@@ -313,6 +313,7 @@ en:
     websites_label: Websites
     websites_placeholder: https://fetlife.com
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
+    website_url_cant_be_blank: Website URL can't be blank
   settings_support:
     cta: Update Email Address
     email_label: Update Email Address
