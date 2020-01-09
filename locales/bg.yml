@@ -310,6 +310,7 @@ bg:
     page_title: Промени профила
     subtitle: Личното израстване е хубаво нещо.
     title: Твоят профил
+    website_url_cant_be_blank: Website URL can't be blank
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Уебсайтове
     websites_placeholder: https://fetlife.com

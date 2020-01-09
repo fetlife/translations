@@ -310,6 +310,7 @@ zh:
     page_title: 更新资料
     subtitle: 个人成长是好事呀。
     title: 你的资料
+    website_url_cant_be_blank: Website URL can't be blank
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: 网站
     websites_placeholder: https://fetlife.com

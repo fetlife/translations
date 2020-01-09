@@ -315,6 +315,7 @@ sk:
     page_title: Aktualizovať profil
     subtitle: Osobný rast je skvelý.
     title: Tvoj profil
+    website_url_cant_be_blank: Website URL can't be blank
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Webstránky
     websites_placeholder: https://fetlife.com
