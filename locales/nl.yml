@@ -310,6 +310,7 @@ nl:
     page_title: Profiel bijwerken
     subtitle: Persoonlijke groei is een goede zaak.
     title: Jouw Profiel
+    website_url_cant_be_blank: Website URL can't be blank
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websites
     websites_placeholder: https://fetlife.com

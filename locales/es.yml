@@ -310,6 +310,7 @@ es:
     page_title: Actualizar perfil
     subtitle: El crecimiento personal es algo bueno.
     title: Su perfil
+    website_url_cant_be_blank: Website URL can't be blank
     website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Sitios web
     websites_placeholder: https://fetlife.com
