@@ -310,6 +310,7 @@ it:
     page_title: Aggiorna il profilo
     subtitle: La crescita personale è una buona cosa.
     title: Il tuo profilo
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Siti
     websites_placeholder: https://fetlife.com
   settings_support:
