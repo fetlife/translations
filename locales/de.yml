@@ -310,8 +310,8 @@ de:
     page_title: Profil aktualisieren
     subtitle: Persönlichkeitswachstum ist was Gutes.
     title: Dein Profil
-    website_url_cant_be_blank: Website URL can't be blank
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
+    website_url_cant_be_blank: Der Website-URL darf nicht leer sein
+    website_url_too_long: Der URL der Website ist zu lang (max. %{count} Zeichen)
     websites_label: Websites
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -375,7 +375,7 @@ de:
     error_birthdate: Das Geburtsdatum ist erforderlich.
     error_birthdate_too_old: Du bist zu alt.
     error_birthdate_too_young: Du bist nicht alt genug (Du musst mindestens 18 Jahre alt sein).
-    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
+    error_birthdate_too_young_on_update: Tut uns leid, aber Du musst 18 Jahre oder älter sein, um FetLife verwenden zu können.
     error_city_missing: Die Stadt muss gewählt werden.
     error_country_missing: Das Land muss gewählt werden.
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
