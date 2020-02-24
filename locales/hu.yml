@@ -121,6 +121,7 @@ hu:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
+      values: Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
@@ -137,6 +138,7 @@ hu:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
+      values: Values
       community: Közösség
       content: Tartalom
       group_leader: Csoportgazda

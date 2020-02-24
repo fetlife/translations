@@ -121,6 +121,7 @@ tr:
   guidelines:
     header: FetLife Kuralları ve Yasal
     headers:
+      values: Values
       community: Topluluk Rehberleri
       content: İçerik Guidelines
       group_leader: Grup Lideri Rehberleri
@@ -137,6 +138,7 @@ tr:
         title: Gizlilik
     subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
     subnav:
+      values: Values
       community: Topluluk
       content: İçerik
       group_leader: Grup Lideri

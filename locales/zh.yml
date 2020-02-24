@@ -121,6 +121,7 @@ zh:
   guidelines:
     header: FetLife 指南与守则
     headers:
+      values: Values
       community: 社区守则
       content: 内容守则
       group_leader: 小组管理员守则
@@ -137,6 +138,7 @@ zh:
         title: 隐私
     subheader: 你能在这里看到我们的网站守则、法律信息以及隐私政策。
     subnav:
+      values: Values
       community: 社群
       content: 内容
       group_leader: 小组管理员

@@ -127,6 +127,7 @@ ru:
   guidelines:
     header: Правила и Принципы FetLife
     headers:
+      values: Values
       community: Правила Сообщества
       content: Правила Контента
       group_leader: Правила Руководителей Групп
@@ -143,6 +144,7 @@ ru:
         title: Конфиденциальность
     subheader: Здесь вы найдете наши правила, юридическую документацию и политику конфиденциальности.
     subnav:
+      values: Values
       community: Сообщество
       content: Содержание
       group_leader: Руководитель Группы

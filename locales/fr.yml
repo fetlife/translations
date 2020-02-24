@@ -121,6 +121,7 @@ fr:
   guidelines:
     header: Directives de FetLife & Légal
     headers:
+      values: Valeurs
       community: Directives de communauté
       content: Directives de contenu
       group_leader: Directives de gestionnaire de groupe
@@ -137,6 +138,7 @@ fr:
         title: Confidentialité
     subheader: Vous trouverez ici les directives, la documentation juridique et la politique de confidentialité de notre site.
     subnav:
+      values: Valeurs
       community: Communauté
       content: Contenu
       group_leader: Chef de groupe
