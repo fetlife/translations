@@ -121,6 +121,7 @@ pt:
   guidelines:
     header: Linhas de orientação do FetLife & Juridiquês
     headers:
+      values: Valores
       community: Linhas de orientação para a Comunidade
       content: Linhas de orientação para o Conteúdo
       group_leader: Linhas de orientação para Líderes de Grupo
@@ -137,6 +138,7 @@ pt:
         title: Privacidade
     subheader: Você vai encontrar as linhas de orientação do nosso portal, documentação legal e política de privacidade aqui.
     subnav:
+      values: Valores
       community: Comunidade
       content: Conteúdo
       group_leader: Líder de Grupo

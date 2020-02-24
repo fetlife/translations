@@ -121,6 +121,7 @@ it:
   guidelines:
     header: Linee guida e documenti legali di Fetlife
     headers:
+      values: Valori
       community: Linee guida per la Community
       content: Linee guida per i contenuti
       group_leader: Linee guida per gli amministratori dei gruppi
@@ -137,6 +138,7 @@ it:
         title: Privacy
     subheader: Qui troverai le nostre linee guida, i documenti legali e la privacy policy.
     subnav:
+      values: Valori
       community: Community
       content: Contenuti
       group_leader: Amministratore del gruppo

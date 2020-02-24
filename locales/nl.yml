@@ -121,6 +121,7 @@ nl:
   guidelines:
     header: FetLife-richtlijnen & Juridisch jargon
     headers:
+      values: Values
       community: Community richtlijnen
       content: Inhoudsrichtlijnen
       group_leader: Groepsleider richtlijnen
@@ -137,6 +138,7 @@ nl:
         title: Privacy
     subheader: Je vindt onze siterichtlijnen, juridische documentatie en privacybeleid hier.
     subnav:
+      values: Values
       community: Gemeenschap
       content: Inhoud
       group_leader: Groep Leider

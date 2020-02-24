@@ -122,6 +122,7 @@ sk:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
+      values: Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
@@ -138,6 +139,7 @@ sk:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
+      values: Values
       community: Komunita
       content: Obsah
       group_leader: Líder skupiny
