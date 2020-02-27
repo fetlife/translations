@@ -154,7 +154,7 @@ de:
     labels:
       email: E-Mail-Adresse
       friends_email: E-Mail-Adresse der Person
-      friends_email_sub: "%{count} invitations remaining"
+      friends_email_sub: "%{count} Einladungen übrig"
     next_step: Nächster Schritt
     return_to_feed: Zurück zur Aktivitätschronik
     subtitle_step1:
