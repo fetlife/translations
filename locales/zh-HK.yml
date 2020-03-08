@@ -124,6 +124,7 @@ zh-HK:
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Last updated:'
     sections:
       guidelines:
@@ -140,6 +141,7 @@ zh-HK:
       community: Community
       content: Content
       group_leader: Group Leader
+      values: Values
     title: Guidelines
   invite_a_friend:
     cancel_button: cancel
@@ -310,6 +312,8 @@ zh-HK:
     page_title: Update Profile
     subtitle: Personal growth is a good thing.
     title: Your Profile
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websites
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ zh-HK:
     error_birthdate: Date of birth is required.
     error_birthdate_too_old: You are too old.
     error_birthdate_too_young: Sorry, you must be 18 or older to join.
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: City has to be selected.
     error_country_missing: Country has to be selected.
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
