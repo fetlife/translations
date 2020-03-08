@@ -122,6 +122,7 @@ sk:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
+      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
@@ -138,6 +139,7 @@ sk:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
+      values: Values
       community: Komunita
       content: Obsah
       group_leader: Líder skupiny
@@ -315,6 +317,8 @@ sk:
     page_title: Aktualizovať profil
     subtitle: Osobný rast je skvelý.
     title: Tvoj profil
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Webstránky
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -378,6 +382,7 @@ sk:
     error_birthdate: Dátum narodenia je povinný.
     error_birthdate_too_old: Tvoj vek je príliž vysoký.
     error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov).
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Mesto je povinné.
     error_country_missing: Krajina je povinná.
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.

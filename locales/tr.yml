@@ -121,6 +121,7 @@ tr:
   guidelines:
     header: FetLife Kuralları ve Yasal
     headers:
+      values: Guiding Values
       community: Topluluk Rehberleri
       content: İçerik Guidelines
       group_leader: Grup Lideri Rehberleri
@@ -137,6 +138,7 @@ tr:
         title: Gizlilik
     subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
     subnav:
+      values: Values
       community: Topluluk
       content: İçerik
       group_leader: Grup Lideri
@@ -310,6 +312,8 @@ tr:
     page_title: Profili Güncelle
     subtitle: Kişisel gelişim iyi bir şeydir.
     title: Profiliniz
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websiteleri
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ tr:
     error_birthdate: Doğum tarihi gereklidir.
     error_birthdate_too_old: Çok yaşlısın.
     error_birthdate_too_young: Üzgünüz, katılmak için 18 yaşında veya daha büyük olmalısınız.
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Şehir seçilmeli.
     error_country_missing: Ülke seçilmeli.
     error_email: Yukarıdaki e-posta adresini işleme koymakta sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.

@@ -121,6 +121,7 @@ zh:
   guidelines:
     header: FetLife 指南与守则
     headers:
+      values: Guiding Values
       community: 社区守则
       content: 内容守则
       group_leader: 小组管理员守则
@@ -137,6 +138,7 @@ zh:
         title: 隐私
     subheader: 你能在这里看到我们的网站守则、法律信息以及隐私政策。
     subnav:
+      values: Values
       community: 社群
       content: 内容
       group_leader: 小组管理员
@@ -310,6 +312,8 @@ zh:
     page_title: 更新资料
     subtitle: 个人成长是好事呀。
     title: 你的资料
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: 网站
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ zh:
     error_birthdate: 出生日期必填。
     error_birthdate_too_old: 你太老了。
     error_birthdate_too_young: 抱歉，满 18 岁才可加入。
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: 城市必填。
     error_country_missing: 国家必填。
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。

@@ -121,6 +121,7 @@ it:
   guidelines:
     header: Linee guida e documenti legali di Fetlife
     headers:
+      values: Valori Guida
       community: Linee guida per la Community
       content: Linee guida per i contenuti
       group_leader: Linee guida per gli amministratori dei gruppi
@@ -137,6 +138,7 @@ it:
         title: Privacy
     subheader: Qui troverai le nostre linee guida, i documenti legali e la privacy policy.
     subnav:
+      values: Valori
       community: Community
       content: Contenuti
       group_leader: Amministratore del gruppo
@@ -310,6 +312,8 @@ it:
     page_title: Aggiorna il profilo
     subtitle: La crescita personale è una buona cosa.
     title: Il tuo profilo
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Siti
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ it:
     error_birthdate: La data di nascita è richiesta.
     error_birthdate_too_old: Sei troppo vecchio.
     error_birthdate_too_young: Non sei ancora abbastanza grande (devi avere almeno 18 anni di età).
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: La città deve essere selezionata.
     error_country_missing: La nazione deve essere selezionata.
     error_email: Stiamo avendo problemi ad elaborare l'email di cui sopra. Ti consigliamo di verificare l'ortografia o provarne una diversa.

@@ -121,6 +121,7 @@ bg:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
+      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
@@ -137,6 +138,7 @@ bg:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
+      values: Values
       community: На общността
       content: За съдържанието
       group_leader: За водачи на група
@@ -310,6 +312,8 @@ bg:
     page_title: Промени профила
     subtitle: Личното израстване е хубаво нещо.
     title: Твоят профил
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Уебсайтове
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ bg:
     error_birthdate: Датата на раждане е задължителна.
     error_birthdate_too_old: Прекалено възрастни сте.
     error_birthdate_too_young: Съжалявам, трябва да си поне на 18 години.
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Трябва да избереш град.
     error_country_missing: Трябва да избереш държава.
     error_email: Имаме проблем с обработването на този имейл адрес. Увери се че няма правописна грешка или опитай с друг адрес.

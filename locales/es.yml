@@ -121,6 +121,7 @@ es:
   guidelines:
     header: Directrices de FetLife y Cháchara legal
     headers:
+      values: Valores Orientadores
       community: Directrices de la comunidad
       content: Directrices de contenido
       group_leader: Directrices de Líder de grupo
@@ -137,6 +138,7 @@ es:
         title: Privacidad
     subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
+      values: Valores
       community: Comunidad
       content: Contenido
       group_leader: Líder de grupo
@@ -310,6 +312,8 @@ es:
     page_title: Actualizar perfil
     subtitle: El crecimiento personal es algo bueno.
     title: Su perfil
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Sitios web
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,6 +377,7 @@ es:
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Usted es demasiado viejo.
     error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
+    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
     error_city_missing: Tiene que seleccionar una ciudad.
     error_country_missing: Tiene que seleccionar un país.
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
