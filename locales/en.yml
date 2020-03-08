@@ -121,10 +121,10 @@ en:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Last updated:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ en:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
-      values: Values
       community: Community
       content: Content
       group_leader: Group Leader
+      values: Values
     title: Guidelines
   invite_a_friend:
     cancel_button: cancel
@@ -312,10 +312,10 @@ en:
     page_title: Update Profile
     subtitle: Personal growth is a good thing.
     title: Your Profile
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websites
     websites_placeholder: https://fetlife.com
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
-    website_url_cant_be_blank: Website URL can't be blank
   settings_support:
     cta: Update Email Address
     email_label: Update Email Address

@@ -121,10 +121,10 @@ pt:
   guidelines:
     header: Linhas de orientação do FetLife & Juridiquês
     headers:
-      values: Valores Orientadores
       community: Linhas de orientação para a Comunidade
       content: Linhas de orientação para o Conteúdo
       group_leader: Linhas de orientação para Líderes de Grupo
+      values: Valores Orientadores
     last_updated: 'Última actualização:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ pt:
         title: Privacidade
     subheader: Você vai encontrar as linhas de orientação do nosso portal, documentação legal e política de privacidade aqui.
     subnav:
-      values: Valores
       community: Comunidade
       content: Conteúdo
       group_leader: Líder de Grupo
+      values: Valores
     title: Orientações
   invite_a_friend:
     cancel_button: Cancelar

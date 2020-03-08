@@ -127,10 +127,10 @@ ru:
   guidelines:
     header: Правила и Принципы FetLife
     headers:
-      values: Guiding Values
       community: Правила Сообщества
       content: Правила Контента
       group_leader: Правила Руководителей Групп
+      values: Guiding Values
     last_updated: 'Последнее изменение:'
     sections:
       guidelines:
@@ -144,10 +144,10 @@ ru:
         title: Конфиденциальность
     subheader: Здесь вы найдете наши правила, юридическую документацию и политику конфиденциальности.
     subnav:
-      values: Values
       community: Сообщество
       content: Содержание
       group_leader: Руководитель Группы
+      values: Values
     title: Правила
   invite_a_friend:
     cancel_button: отмена

@@ -121,10 +121,10 @@ nl:
   guidelines:
     header: FetLife-richtlijnen & Juridisch jargon
     headers:
-      values: Guiding Values
       community: Community richtlijnen
       content: Inhoudsrichtlijnen
       group_leader: Groepsleider richtlijnen
+      values: Guiding Values
     last_updated: 'Laatst bijgewerkt:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ nl:
         title: Privacy
     subheader: Je vindt onze siterichtlijnen, juridische documentatie en privacybeleid hier.
     subnav:
-      values: Values
       community: Gemeenschap
       content: Inhoud
       group_leader: Groep Leider
+      values: Values
     title: Regels
   invite_a_friend:
     cancel_button: afbreken

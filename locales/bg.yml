@@ -121,10 +121,10 @@ bg:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Последна промяна:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ bg:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
-      values: Values
       community: На общността
       content: За съдържанието
       group_leader: За водачи на група
+      values: Values
     title: Правила
   invite_a_friend:
     cancel_button: отмени

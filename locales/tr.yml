@@ -121,10 +121,10 @@ tr:
   guidelines:
     header: FetLife Kuralları ve Yasal
     headers:
-      values: Guiding Values
       community: Topluluk Rehberleri
       content: İçerik Guidelines
       group_leader: Grup Lideri Rehberleri
+      values: Guiding Values
     last_updated: 'Son güncelleme:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ tr:
         title: Gizlilik
     subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
     subnav:
-      values: Values
       community: Topluluk
       content: İçerik
       group_leader: Grup Lideri
+      values: Values
     title: Rehberler
   invite_a_friend:
     cancel_button: iptal

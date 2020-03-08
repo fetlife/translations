@@ -121,10 +121,10 @@ fr:
   guidelines:
     header: Directives de FetLife & Légal
     headers:
-      values: Valeurs Directrices
       community: Directives de communauté
       content: Directives de contenu
       group_leader: Directives de gestionnaire de groupe
+      values: Valeurs Directrices
     last_updated: 'Dernière mise à jour :'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ fr:
         title: Confidentialité
     subheader: Vous trouverez ici les directives, la documentation juridique et la politique de confidentialité de notre site.
     subnav:
-      values: Valeurs
       community: Communauté
       content: Contenu
       group_leader: Chef de groupe
+      values: Valeurs
     title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler

@@ -121,10 +121,10 @@ gr:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Πρόσφατη Ενημέρωση:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ gr:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
-      values: Values
       community: Κοινότητα
       content: Περιεχόμενα
       group_leader: Αρχηγός Ομάδας
+      values: Values
     title: Kατευθυντήριες Γραμμές
   invite_a_friend:
     cancel_button: ακύρωση

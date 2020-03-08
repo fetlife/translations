@@ -121,10 +121,10 @@ es:
   guidelines:
     header: Directrices de FetLife y Cháchara legal
     headers:
-      values: Valores Orientadores
       community: Directrices de la comunidad
       content: Directrices de contenido
       group_leader: Directrices de Líder de grupo
+      values: Valores Orientadores
     last_updated: 'Última actualización:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ es:
         title: Privacidad
     subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
-      values: Valores
       community: Comunidad
       content: Contenido
       group_leader: Líder de grupo
+      values: Valores
     title: Directrices
   invite_a_friend:
     cancel_button: cancelar

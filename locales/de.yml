@@ -121,10 +121,10 @@ de:
   guidelines:
     header: FetLife-Richtlinien und Juristenjargon
     headers:
-      values: Leitwerte
       community: Gemeinschafts-Richtlinien
       content: Inhalts-Richtlinien
       group_leader: Gruppenleitungs-Richtlinien
+      values: Leitwerte
     last_updated: 'Zuletzt aktualisiert:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ de:
         title: Datenschutz
     subheader: Du findest unsere Seiten-Richtlinien, Rechtsurkunden und Datenschutzrichtlinie hier.
     subnav:
-      values: Werte
       community: Gemeinschaft
       content: Inhalt
       group_leader: Gruppenleitung
+      values: Werte
     title: Richtlinien
   invite_a_friend:
     cancel_button: Abbrechen
