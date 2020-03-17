@@ -668,13 +668,10 @@ ru:
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_cc_trustpay:
-      cta: Support FetLife via Credit Card
-      first_name_label: First Name
-      first_name_sub_label: associated w/ credit card
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ credit card
-      secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: Credit Card Payment
+      cta: Поддержать FetLife при помощи Кредитной Карты
+      pay_button: Support FetLife Now
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Платёж Кредитной Картой
     step3_coingate:
       cta: Поддержать FetLife при помощи Биткоинов
       intro: 'Биткоин это цифровая валюта. Вот некоторые полезные видео:'

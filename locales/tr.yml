@@ -662,13 +662,10 @@ tr:
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: Kredi kartı Ödemesi
     step3_cc_trustpay:
-      cta: Support FetLife via Credit Card
-      first_name_label: First Name
-      first_name_sub_label: associated w/ credit card
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ credit card
-      secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: Credit Card Payment
+      cta: Kredi Kartı ile FetLife'ı Destekleyin
+      pay_button: Support FetLife Now
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: Kredi kartı Ödemesi
     step3_coingate:
       cta: Bitcoin ile FetLife'ı destekleyin
       intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'

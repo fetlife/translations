@@ -662,13 +662,10 @@ es:
       secure: Tan seguro como Fort Knox además no guardamos ninguna información personal.
       title: Pago con tarjeta de crédito
     step3_cc_trustpay:
-      cta: Support FetLife via Credit Card
-      first_name_label: First Name
-      first_name_sub_label: associated w/ credit card
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ credit card
-      secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: Credit Card Payment
+      cta: Apoyar a FetLife con tarjeta de crédito
+      pay_button: Support FetLife Now
+      secure: Tan seguro como Fort Knox además no guardamos ninguna información personal.
+      title: Pago con tarjeta de crédito
     step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
