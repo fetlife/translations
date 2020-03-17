@@ -124,6 +124,7 @@ tr:
       community: Topluluk Rehberleri
       content: İçerik Guidelines
       group_leader: Grup Lideri Rehberleri
+      values: Guiding Values
     last_updated: 'Son güncelleme:'
     sections:
       guidelines:
@@ -140,6 +141,7 @@ tr:
       community: Topluluk
       content: İçerik
       group_leader: Grup Lideri
+      values: Values
     title: Rehberler
   invite_a_friend:
     cancel_button: iptal
@@ -491,6 +493,7 @@ tr:
     cta_labels:
       ach: Banka Transferi (ACH)
       cc_curo: Kredi Kartı
+      cc_trustpay: Kredi Kartı
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -560,6 +563,9 @@ tr:
         title: ABD Banka Havalesi (ACH)
       cc_curo:
         extra_info: Visa, V Pay, Mastercard ve Maestro kabul ediyoruz. Kolay ve güvenli.
+        title: Kredi Kartı
+      cc_trustpay:
+        extra_info: Visa, Mastercard ve American Express kabul ediyoruz. Kolay ve güvenli.
         title: Kredi Kartı
       coingate:
         extra_info: Bitcoin göründüğü kadar karmaşık değildir. Ve başlatılmamış olanlar için, süreç boyunca elinizi tutacağız.
@@ -653,6 +659,11 @@ tr:
       first_name_sub_label: kredi kartıyla ilişkili
       last_name_label: Soyad
       last_name_sub_label: kredi kartıyla ilişkili
+      secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
+      title: Kredi kartı Ödemesi
+    step3_cc_trustpay:
+      cta: Kredi Kartı ile FetLife'ı Destekleyin
+      pay_button: Kredi Kartı ile FetLife'ı Destekleyin
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: Kredi kartı Ödemesi
     step3_coingate:

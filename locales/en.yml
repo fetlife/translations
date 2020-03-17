@@ -124,6 +124,7 @@ en:
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Last updated:'
     sections:
       guidelines:
@@ -140,6 +141,7 @@ en:
       community: Community
       content: Content
       group_leader: Group Leader
+      values: Values
     title: Guidelines
   invite_a_friend:
     cancel_button: cancel
@@ -310,10 +312,10 @@ en:
     page_title: Update Profile
     subtitle: Personal growth is a good thing.
     title: Your Profile
+    website_url_cant_be_blank: Website URL can't be blank
+    website_url_too_long: Website URL is too long (maximum is %{count} characters)
     websites_label: Websites
     websites_placeholder: https://fetlife.com
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
-    website_url_cant_be_blank: Website URL can't be blank
   settings_support:
     cta: Update Email Address
     email_label: Update Email Address
@@ -491,6 +493,7 @@ en:
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -560,6 +563,9 @@ en:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
+        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
@@ -653,6 +659,11 @@ en:
       first_name_sub_label: associated w/ credit card
       last_name_label: Last Name
       last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      pay_button: Support FetLife via Credit Card
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:

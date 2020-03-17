@@ -124,6 +124,7 @@ fr:
       community: Directives de communauté
       content: Directives de contenu
       group_leader: Directives de gestionnaire de groupe
+      values: Valeurs Directrices
     last_updated: 'Dernière mise à jour :'
     sections:
       guidelines:
@@ -140,6 +141,7 @@ fr:
       community: Communauté
       content: Contenu
       group_leader: Chef de groupe
+      values: Valeurs
     title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler
@@ -490,7 +492,8 @@ fr:
       title: Qu’est-ce que je gagne en supportant FetLife ?
     cta_labels:
       ach: Virement bancaire (ACH)
-      cc_curo: Credit Card
+      cc_curo: Carte de crédit
+      cc_trustpay: Carte de crédit
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -559,8 +562,11 @@ fr:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire aux États Unis.
         title: Virement bancaire US (ACH)
       cc_curo:
-        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
+        extra_info: Nous acceptons Visa, V Pay, Mastercard et Maestro. C'est simple et sécurisé.
+        title: Carte de crédit
+      cc_trustpay:
+        extra_info: Nous acceptons Visa, Mastercard et American Express. C'est simple et sécurisé.
+        title: Carte de crédit
       coingate:
         extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
         title: Bitcoin
@@ -653,6 +659,11 @@ fr:
       first_name_sub_label: associated w/ credit card
       last_name_label: Last Name
       last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      pay_button: Support FetLife via Credit Card
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:
