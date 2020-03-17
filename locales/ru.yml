@@ -130,7 +130,7 @@ ru:
       community: Правила Сообщества
       content: Правила Контента
       group_leader: Правила Руководителей Групп
-      values: Guiding Values
+      values: Главные ценности
     last_updated: 'Последнее изменение:'
     sections:
       guidelines:
@@ -147,7 +147,7 @@ ru:
       community: Сообщество
       content: Содержание
       group_leader: Руководитель Группы
-      values: Values
+      values: Ценности
     title: Правила
   invite_a_friend:
     cancel_button: отмена
@@ -499,7 +499,7 @@ ru:
     cta_labels:
       ach: Банковский Перевод (ACH)
       cc_curo: Кредитная Карта
-      cc_trustpay: Credit Card
+      cc_trustpay: Кредитная Карта
       coingate: Биткоин
       eps: EPS
       giropay: giropay
@@ -669,7 +669,7 @@ ru:
       title: Платёж Кредитной Картой
     step3_cc_trustpay:
       cta: Поддержать FetLife при помощи Кредитной Карты
-      pay_button: Support FetLife Now
+      pay_button: Поддержать FetLife
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_coingate:
