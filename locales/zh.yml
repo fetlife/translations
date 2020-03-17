@@ -25,7 +25,7 @@ zh:
     step: 步骤
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: 当有人使用FetLife搜索时，你的怪癖照片和视频只会被朋友和粉丝看到。如果你想对所有人可见，请更新你的隐私设置。
+      pics_and_vids_discoverability_a: 当有人使用FetLife搜索时，你的怪癖照片和视频只会被朋友和粉丝看到。如果你想对其他FetLife使用者可见，请更新你的隐私设置。
       pics_and_vids_discoverability_link: 访问设置
       pics_and_vids_discoverability_q: 保持私密
   feed:
@@ -497,7 +497,7 @@ zh:
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Physical Mail
-      paygarden:礼品卡
+      paygarden: 礼品卡
       paysafe: paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
