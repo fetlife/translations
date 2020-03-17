@@ -121,10 +121,10 @@ it:
   guidelines:
     header: Linee guida e documenti legali di Fetlife
     headers:
-      values: Valori Guida
       community: Linee guida per la Community
       content: Linee guida per i contenuti
       group_leader: Linee guida per gli amministratori dei gruppi
+      values: Valori Guida
     last_updated: 'Ultimo aggiornamento:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ it:
         title: Privacy
     subheader: Qui troverai le nostre linee guida, i documenti legali e la privacy policy.
     subnav:
-      values: Valori
       community: Community
       content: Contenuti
       group_leader: Amministratore del gruppo
+      values: Valori
     title: Linee guida
   invite_a_friend:
     cancel_button: annulla
@@ -493,6 +493,7 @@ it:
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -561,6 +562,9 @@ it:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
       cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       coingate:
@@ -650,6 +654,14 @@ it:
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
     step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
       cta: Support FetLife via Credit Card
       first_name_label: First Name
       first_name_sub_label: associated w/ credit card

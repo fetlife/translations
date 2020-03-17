@@ -121,10 +121,10 @@ fr:
   guidelines:
     header: Directives de FetLife & Légal
     headers:
-      values: Valeurs Directrices
       community: Directives de communauté
       content: Directives de contenu
       group_leader: Directives de gestionnaire de groupe
+      values: Valeurs Directrices
     last_updated: 'Dernière mise à jour :'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ fr:
         title: Confidentialité
     subheader: Vous trouverez ici les directives, la documentation juridique et la politique de confidentialité de notre site.
     subnav:
-      values: Valeurs
       community: Communauté
       content: Contenu
       group_leader: Chef de groupe
+      values: Valeurs
     title: Lignes directrices
   invite_a_friend:
     cancel_button: annuler
@@ -493,6 +493,7 @@ fr:
     cta_labels:
       ach: Virement bancaire (ACH)
       cc_curo: Credit Card
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -561,6 +562,9 @@ fr:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire aux États Unis.
         title: Virement bancaire US (ACH)
       cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       coingate:
@@ -650,6 +654,14 @@ fr:
       zip_label: Code ZIP
       zip_sub_label: associé au compte bancaire
     step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
       cta: Support FetLife via Credit Card
       first_name_label: First Name
       first_name_sub_label: associated w/ credit card

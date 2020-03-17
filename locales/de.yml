@@ -121,10 +121,10 @@ de:
   guidelines:
     header: FetLife-Richtlinien und Juristenjargon
     headers:
-      values: Leitwerte
       community: Gemeinschafts-Richtlinien
       content: Inhalts-Richtlinien
       group_leader: Gruppenleitungs-Richtlinien
+      values: Leitwerte
     last_updated: 'Zuletzt aktualisiert:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ de:
         title: Datenschutz
     subheader: Du findest unsere Seiten-Richtlinien, Rechtsurkunden und Datenschutzrichtlinie hier.
     subnav:
-      values: Werte
       community: Gemeinschaft
       content: Inhalt
       group_leader: Gruppenleitung
+      values: Werte
     title: Richtlinien
   invite_a_friend:
     cancel_button: Abbrechen
@@ -493,6 +493,7 @@ de:
     cta_labels:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -563,6 +564,9 @@ de:
       cc_curo:
         extra_info: Wir akzeptieren Visa, V Pay, Mastercard und Maestro. Es ist leicht und sicher.
         title: Kreditkarte
+      cc_trustpay:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den Uneingeweihten helfen wir durch den Prozess.
         title: Bitcoin
@@ -657,6 +661,14 @@ de:
       last_name_sub_label: mit der Kreditkarte verbunden
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Unterstütze FetLife via Bitcoin
       intro: 'Bitcoin ist eine digitale Währung. Einige Einführungsvideos, die wir gerne angeschaut haben:'

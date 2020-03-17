@@ -127,10 +127,10 @@ ru:
   guidelines:
     header: Правила и Принципы FetLife
     headers:
-      values: Guiding Values
       community: Правила Сообщества
       content: Правила Контента
       group_leader: Правила Руководителей Групп
+      values: Guiding Values
     last_updated: 'Последнее изменение:'
     sections:
       guidelines:
@@ -144,10 +144,10 @@ ru:
         title: Конфиденциальность
     subheader: Здесь вы найдете наши правила, юридическую документацию и политику конфиденциальности.
     subnav:
-      values: Values
       community: Сообщество
       content: Содержание
       group_leader: Руководитель Группы
+      values: Values
     title: Правила
   invite_a_friend:
     cancel_button: отмена
@@ -499,6 +499,7 @@ ru:
     cta_labels:
       ach: Банковский Перевод (ACH)
       cc_curo: Кредитная Карта
+      cc_trustpay: Credit Card
       coingate: Биткоин
       eps: EPS
       giropay: giropay
@@ -569,6 +570,9 @@ ru:
       cc_curo:
         extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
         title: Кредитная Карта
+      cc_trustpay:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
         title: Биткоин
@@ -663,6 +667,14 @@ ru:
       last_name_sub_label: связанная с кредитной картой
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Поддержать FetLife при помощи Биткоинов
       intro: 'Биткоин это цифровая валюта. Вот некоторые полезные видео:'

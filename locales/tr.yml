@@ -121,10 +121,10 @@ tr:
   guidelines:
     header: FetLife Kuralları ve Yasal
     headers:
-      values: Guiding Values
       community: Topluluk Rehberleri
       content: İçerik Guidelines
       group_leader: Grup Lideri Rehberleri
+      values: Guiding Values
     last_updated: 'Son güncelleme:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ tr:
         title: Gizlilik
     subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
     subnav:
-      values: Values
       community: Topluluk
       content: İçerik
       group_leader: Grup Lideri
+      values: Values
     title: Rehberler
   invite_a_friend:
     cancel_button: iptal
@@ -493,6 +493,7 @@ tr:
     cta_labels:
       ach: Banka Transferi (ACH)
       cc_curo: Kredi Kartı
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -563,6 +564,9 @@ tr:
       cc_curo:
         extra_info: Visa, V Pay, Mastercard ve Maestro kabul ediyoruz. Kolay ve güvenli.
         title: Kredi Kartı
+      cc_trustpay:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin göründüğü kadar karmaşık değildir. Ve başlatılmamış olanlar için, süreç boyunca elinizi tutacağız.
         title: Bitcoin
@@ -657,6 +661,14 @@ tr:
       last_name_sub_label: kredi kartıyla ilişkili
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: Kredi kartı Ödemesi
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Bitcoin ile FetLife'ı destekleyin
       intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'

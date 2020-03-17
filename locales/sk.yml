@@ -122,10 +122,10 @@ sk:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Naposledy aktualizovné:'
     sections:
       guidelines:
@@ -139,10 +139,10 @@ sk:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
-      values: Values
       community: Komunita
       content: Obsah
       group_leader: Líder skupiny
+      values: Values
     title: Pravidlá
   invite_a_friend:
     cancel_button: zrušiť
@@ -498,6 +498,7 @@ sk:
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -566,6 +567,9 @@ sk:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
         title: US Bank Transfer (ACH)
       cc_curo:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       coingate:
@@ -655,6 +659,14 @@ sk:
       zip_label: Zip Code
       zip_sub_label: associated w/ bank account
     step3_cc_curo:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
       cta: Support FetLife via Credit Card
       first_name_label: First Name
       first_name_sub_label: associated w/ credit card

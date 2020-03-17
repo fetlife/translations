@@ -121,10 +121,10 @@ es:
   guidelines:
     header: Directrices de FetLife y Cháchara legal
     headers:
-      values: Valores Orientadores
       community: Directrices de la comunidad
       content: Directrices de contenido
       group_leader: Directrices de Líder de grupo
+      values: Valores Orientadores
     last_updated: 'Última actualización:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ es:
         title: Privacidad
     subheader: Aquí encontrará nuestras directrices del sitio, documentación legal y nuestra política de privacidad.
     subnav:
-      values: Valores
       community: Comunidad
       content: Contenido
       group_leader: Líder de grupo
+      values: Valores
     title: Directrices
   invite_a_friend:
     cancel_button: cancelar
@@ -493,6 +493,7 @@ es:
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Tarjeta de crédito
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -563,6 +564,9 @@ es:
       cc_curo:
         extra_info: Aceptamos Visa, V Pay, Mastercard y Maestro. Es sencillo y seguro.
         title: Tarjeta de crédito
+      cc_trustpay:
+        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
         title: Bitcoin
@@ -657,6 +661,14 @@ es:
       last_name_sub_label: asociados con la tarjeta de crédito
       secure: Tan seguro como Fort Knox además no guardamos ninguna información personal.
       title: Pago con tarjeta de crédito
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      first_name_label: First Name
+      first_name_sub_label: associated w/ credit card
+      last_name_label: Last Name
+      last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
     step3_coingate:
       cta: Support FetLife via Bitcoin
       intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
