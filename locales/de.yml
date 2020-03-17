@@ -121,10 +121,10 @@ de:
   guidelines:
     header: FetLife-Richtlinien und Juristenjargon
     headers:
-      values: Leitwerte
       community: Gemeinschafts-Richtlinien
       content: Inhalts-Richtlinien
       group_leader: Gruppenleitungs-Richtlinien
+      values: Leitwerte
     last_updated: 'Zuletzt aktualisiert:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ de:
         title: Datenschutz
     subheader: Du findest unsere Seiten-Richtlinien, Rechtsurkunden und Datenschutzrichtlinie hier.
     subnav:
-      values: Werte
       community: Gemeinschaft
       content: Inhalt
       group_leader: Gruppenleitung
+      values: Werte
     title: Richtlinien
   invite_a_friend:
     cancel_button: Abbrechen
@@ -493,6 +493,7 @@ de:
     cta_labels:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
+      cc_trustpay: Kreditkarte
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -562,6 +563,9 @@ de:
         title: US-Kontoabbuchung (ACH)
       cc_curo:
         extra_info: Wir akzeptieren Visa, V Pay, Mastercard und Maestro. Es ist leicht und sicher.
+        title: Kreditkarte
+      cc_trustpay:
+        extra_info: Wir akzeptieren Visa, Mastercard und American Express. Es ist leicht und sicher.
         title: Kreditkarte
       coingate:
         extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den Uneingeweihten helfen wir durch den Prozess.
@@ -655,6 +659,11 @@ de:
       first_name_sub_label: mit der Kreditkarte verbunden
       last_name_label: Nachname
       last_name_sub_label: mit der Kreditkarte verbunden
+      secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
+      title: Kreditkartenzahlung
+    step3_cc_trustpay:
+      cta: FetLife mit Kreditkarte unterstützen
+      pay_button: FetLife mit Kreditkarte unterstützen
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:

@@ -127,10 +127,10 @@ ru:
   guidelines:
     header: Правила и Принципы FetLife
     headers:
-      values: Guiding Values
       community: Правила Сообщества
       content: Правила Контента
       group_leader: Правила Руководителей Групп
+      values: Главные ценности
     last_updated: 'Последнее изменение:'
     sections:
       guidelines:
@@ -144,10 +144,10 @@ ru:
         title: Конфиденциальность
     subheader: Здесь вы найдете наши правила, юридическую документацию и политику конфиденциальности.
     subnav:
-      values: Values
       community: Сообщество
       content: Содержание
       group_leader: Руководитель Группы
+      values: Ценности
     title: Правила
   invite_a_friend:
     cancel_button: отмена
@@ -499,6 +499,7 @@ ru:
     cta_labels:
       ach: Банковский Перевод (ACH)
       cc_curo: Кредитная Карта
+      cc_trustpay: Кредитная Карта
       coingate: Биткоин
       eps: EPS
       giropay: giropay
@@ -568,6 +569,9 @@ ru:
         title: Американский Банковский Перевод (ACH)
       cc_curo:
         extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
+        title: Кредитная Карта
+      cc_trustpay:
+        extra_info: Мы принимаем Visa, Mastercard и American Express. Это легко и безопасно.
         title: Кредитная Карта
       coingate:
         extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
@@ -661,6 +665,11 @@ ru:
       first_name_sub_label: связанное с кредитной картой
       last_name_label: Фамилия
       last_name_sub_label: связанная с кредитной картой
+      secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
+      title: Платёж Кредитной Картой
+    step3_cc_trustpay:
+      cta: Поддержать FetLife при помощи Кредитной Карты
+      pay_button: Поддержать FetLife при помощи Кредитной Карты
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_coingate:

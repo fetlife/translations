@@ -121,10 +121,10 @@ gr:
   guidelines:
     header: FetLife Guidelines & Legalese
     headers:
-      values: Guiding Values
       community: Community Guidelines
       content: Content Guidelines
       group_leader: Group Leader Guidelines
+      values: Guiding Values
     last_updated: 'Πρόσφατη Ενημέρωση:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ gr:
         title: Privacy
     subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
     subnav:
-      values: Values
       community: Κοινότητα
       content: Περιεχόμενα
       group_leader: Αρχηγός Ομάδας
+      values: Values
     title: Kατευθυντήριες Γραμμές
   invite_a_friend:
     cancel_button: ακύρωση
@@ -493,6 +493,7 @@ gr:
     cta_labels:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
+      cc_trustpay: Credit Card
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -562,6 +563,9 @@ gr:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
+        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
@@ -655,6 +659,11 @@ gr:
       first_name_sub_label: associated w/ credit card
       last_name_label: Last Name
       last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      pay_button: Support FetLife via Credit Card
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:
