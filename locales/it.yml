@@ -565,7 +565,7 @@ it:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       cc_trustpay:
-        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
@@ -663,7 +663,7 @@ it:
       title: Credit Card Payment
     step3_cc_trustpay:
       cta: Support FetLife via Credit Card
-      pay_button: Support FetLife Now
+      pay_button: Support FetLife via Credit Card
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:

@@ -493,7 +493,7 @@ de:
     cta_labels:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
-      cc_trustpay: Credit Card
+      cc_trustpay: Kreditkarte
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -565,8 +565,8 @@ de:
         extra_info: Wir akzeptieren Visa, V Pay, Mastercard und Maestro. Es ist leicht und sicher.
         title: Kreditkarte
       cc_trustpay:
-        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
+        extra_info: Wir akzeptieren Visa, Mastercard und American Express. Es ist leicht und sicher.
+        title: Kreditkarte
       coingate:
         extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den Uneingeweihten helfen wir durch den Prozess.
         title: Bitcoin
@@ -663,7 +663,7 @@ de:
       title: Kreditkartenzahlung
     step3_cc_trustpay:
       cta: FetLife mit Kreditkarte unterstützen
-      pay_button: Support FetLife Now
+      pay_button: FetLife mit Kreditkarte unterstützen
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:

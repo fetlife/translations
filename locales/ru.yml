@@ -571,8 +571,8 @@ ru:
         extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
         title: Кредитная Карта
       cc_trustpay:
-        extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
+        extra_info: Мы принимаем Visa, Mastercard и American Express. Это легко и безопасно.
+        title: Кредитная Карта
       coingate:
         extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
         title: Биткоин
@@ -669,7 +669,7 @@ ru:
       title: Платёж Кредитной Картой
     step3_cc_trustpay:
       cta: Поддержать FetLife при помощи Кредитной Карты
-      pay_button: Поддержать FetLife
+      pay_button: Поддержать FetLife при помощи Кредитной Карты
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_coingate:
