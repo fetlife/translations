@@ -25,9 +25,9 @@ zh:
     step: 步骤
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
+      pics_and_vids_discoverability_a: 当有人使用FetLife搜索时，你的怪癖照片和视频只会被朋友和粉丝看到。如果你想对其他FetLife使用者可见，请更新你的隐私设置。
+      pics_and_vids_discoverability_link: 访问设置
+      pics_and_vids_discoverability_q: 保持私密
   feed:
     comment: 评论
     comments_count:
@@ -60,7 +60,7 @@ zh:
       cta: 发送密码重置邮件
       error_forgot_email: 邮箱地址必填。
       error_invalid_email: 这看上去不像个邮箱地址啊喂。仔细检查一下再重新提交吧。
-      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
+      error_quota: 我们刚刚给上面的邮箱地址发了重置邮件，可能得花几个几分钟到达你的邮箱。如果10分钟后还是没收到，请再查查看垃圾邮件分类。如果垃圾邮件箱里也没有的话，你可能就得再来一次。
       placeholder: 邮箱地址。
       step1:
         page_title: 通过邮件重置密码
@@ -100,31 +100,31 @@ zh:
     tab_mobile: 手机号
   groups:
     new:
-      description_label: Description
-      description_placeholder: What's the group about?
+      description_label: 描述
+      description_placeholder: 这个小组是干嘛的？
       loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
-      name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
-      terms_and_conditions_community_guidelines_link: Community Guidelines
-      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
-      terms_and_conditions_terms_of_use_link: Terms of Use
-      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+      membership_restrictions_label: 面向谁？
+      membership_restrictions_placeholder: 比如，submissives
+      membership_restrictions_sub_label: 如果来者不拒，就留空这里
+      name_label: 名称
+      name_placeholder: 给小组取个好听的名儿
+      page_title: 创建新的小组
+      return_to_groups_link_text: 返回群组列表
+      rules_label: 守则
+      rules_placeholder: 这个小组的守则是什么?
+      submit_button_text: 创建我的新小组
+      terms_and_conditions_community_guidelines_link: 社区守则
+      terms_and_conditions_group_leader_guidelines_link: 小组管理员守则
+      terms_and_conditions_terms_of_use_link: 用户协议
+      title_description: 一个让变态们分享经验，交流爱好，制定计划等等的地方！
+      title_title: 创建新的小组
   guidelines:
     header: FetLife 指南与守则
     headers:
-      values: Guiding Values
       community: 社区守则
       content: 内容守则
       group_leader: 小组管理员守则
+      values: Guiding Values
     last_updated: 最近更新于：
     sections:
       guidelines:
@@ -138,10 +138,10 @@ zh:
         title: 隐私
     subheader: 你能在这里看到我们的网站守则、法律信息以及隐私政策。
     subnav:
-      values: Values
       community: 社群
       content: 内容
       group_leader: 小组管理员
+      values: Values
     title: 守则
   invite_a_friend:
     cancel_button: 取消
@@ -312,8 +312,8 @@ zh:
     page_title: 更新资料
     subtitle: 个人成长是好事呀。
     title: 你的资料
-    website_url_cant_be_blank: Website URL can't be blank
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
+    website_url_cant_be_blank: 链接不能为空的！
+    website_url_too_long: 这链接也太长了 (最大长度是 %{count} 个字符)
     websites_label: 网站
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -373,11 +373,11 @@ zh:
     writings: 写作
   signup:
     almost_there: 快搞定了！
-    error_bar: Dallas, we have a problem……向下滚动查看详情。
+    error_bar: 哦我的上帝，我们有麻烦了……向下滚动查看详情。
     error_birthdate: 出生日期必填。
     error_birthdate_too_old: 你太老了。
     error_birthdate_too_young: 抱歉，满 18 岁才可加入。
-    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
+    error_birthdate_too_young_on_update: 抱歉，你必须得满18岁才能使用Fetlife。
     error_city_missing: 城市必填。
     error_country_missing: 国家必填。
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。
@@ -491,40 +491,41 @@ zh:
       thank_you: 没有你的赞助，就没有 FetLife。FetLife 大家庭忠心向你表示感谢！
       title: 赞助 FetLife 我能得到啥？
     cta_labels:
-      ach: Bank Transfer (ACH)
-      cc_curo: Credit Card
-      coingate: Bitcoin
+      ach: 银行转账 (ACH)
+      cc_curo: 信用卡
+      cc_trustpay: 信用卡
+      coingate: 比特币
       eps: EPS
-      giropay: giropay
+      giropay: GiroPay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Physical Mail
-      paygarden: Major Gift Card
+      paygarden: 礼品卡
       paysafe: paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
       sepa: SEPA Direct Debit
       teleingreso: Teleingreso
     errors:
-      account_number_blank: Account Number can't be blank
-      address_blank: Address can't be blank
-      answer_blank: Answer can't be blank
-      bankcode_blank: Bank can't be blank
-      bic_blank: BIC can't be blank
-      bic_format: Invalid BIC
-      canceled: Transaction cancelled by user.
-      city_blank: City can't be blank
-      country_blank: Country has to be selected
-      double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
-      email_blank: Email can't be blank
-      first_name_blank: First name can't be blank
-      iban_blank: IBAN can't be blank
-      info_missing: Some information is missing. Please try again.
-      last_name_blank: Last name can't be blank
-      postal_code_blank: Postal Code can't be blank
-      question_blank: Security question can't be blank
-      routing_number_blank: Routing Number can't be blank
-      state_blank: State can't be blank
+      account_number_blank: 账户不能为空
+      address_blank: 地址不能为空
+      answer_blank: 答案不能为空
+      bankcode_blank: 银行代码不能为空
+      bic_blank: BIC不能为空
+      bic_format: 无效的BIC
+      canceled: 用户取消了转账。
+      city_blank: 城市不能为空
+      country_blank: 国家不能为空
+      double_failsafe: 您真想给我们打两倍的钱？ 我们当然很高兴啦，但是我们也怕你看到银行账单的时候来找我们麻烦。如有任何疑问，给我们发一封邮件 <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
+      email_blank: 邮件地址不能为空
+      first_name_blank: 名不能为空
+      iban_blank: IBAN不能为空
+      info_missing: 缺了点什么······再试试。
+      last_name_blank: 姓不能为空
+      postal_code_blank: 邮政编码不能为空
+      question_blank: 安全问题不能为空
+      routing_number_blank: Routing Number 不能为空
+      state_blank: 地区不能为空
     faq:
       cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
       cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
@@ -562,6 +563,9 @@ zh:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
+        title: Credit Card
+      cc_trustpay:
+        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
@@ -655,6 +659,11 @@ zh:
       first_name_sub_label: associated w/ credit card
       last_name_label: Last Name
       last_name_sub_label: associated w/ credit card
+      secure: Secure as Fort Knox and we don't store any of your personal information.
+      title: Credit Card Payment
+    step3_cc_trustpay:
+      cta: Support FetLife via Credit Card
+      pay_button: Support FetLife via Credit Card
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:

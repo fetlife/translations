@@ -121,10 +121,10 @@ pt:
   guidelines:
     header: Linhas de orientação do FetLife & Juridiquês
     headers:
-      values: Valores Orientadores
       community: Linhas de orientação para a Comunidade
       content: Linhas de orientação para o Conteúdo
       group_leader: Linhas de orientação para Líderes de Grupo
+      values: Valores Orientadores
     last_updated: 'Última actualização:'
     sections:
       guidelines:
@@ -138,10 +138,10 @@ pt:
         title: Privacidade
     subheader: Você vai encontrar as linhas de orientação do nosso portal, documentação legal e política de privacidade aqui.
     subnav:
-      values: Valores
       community: Comunidade
       content: Conteúdo
       group_leader: Líder de Grupo
+      values: Valores
     title: Orientações
   invite_a_friend:
     cancel_button: Cancelar
@@ -493,6 +493,7 @@ pt:
     cta_labels:
       ach: Transferência bancária (ACH)
       cc_curo: Cartão de Crédito
+      cc_trustpay: Cartão de Crédito
       coingate: Bitcoin
       eps: EPS
       giropay: giropay
@@ -563,6 +564,9 @@ pt:
       cc_curo:
         extra_info: Nós aceitamos Visa, V Pay, Mastercard, e Maestro. É simples e seguro.
         title: Cartão de crédito
+      cc_trustpay:
+        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        title: Credit Card
       coingate:
         extra_info: A Bitcoin não é tão complicada como parece. E para os iniciados, nós acompanhamo-los durante o processo.
         title: Bitcoin
@@ -655,6 +659,11 @@ pt:
       first_name_sub_label: associado ao cartão de crédito
       last_name_label: Apelido
       last_name_sub_label: associado ao cartão de crédito
+      secure: Seguro como o Fort Knox e nós não armazenamos qual informação pessoal sua.
+      title: Pagamento com cartão de crédito
+    step3_cc_trustpay:
+      cta: Apoie o FetLife via Cartão de Crédito
+      pay_button: Apoie o FetLife via Cartão de Crédito
       secure: Seguro como o Fort Knox e nós não armazenamos qual informação pessoal sua.
       title: Pagamento com cartão de crédito
     step3_coingate:
