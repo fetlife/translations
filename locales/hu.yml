@@ -374,6 +374,7 @@ hu:
   signup:
     almost_there: Szinte kész!
     error_bar: Van egy kis gond. Görgess lejjebb, hogy lásd mi is a probléma pontosan.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: A születési dátum fontos dolog.
     error_birthdate_too_old: Sajnos túl idős vagy.
     error_birthdate_too_young: Nem vagy elég idős ehhez (18 év a korhatár).

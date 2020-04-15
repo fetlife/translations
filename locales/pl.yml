@@ -376,6 +376,7 @@ pl:
   signup:
     almost_there: Już prawie!
     error_bar: Houston, mamy problem. Zjedź niżej po więcej informacji.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Data urodzenia jest wymagana.
     error_birthdate_too_old: Jesteś za stary.
     error_birthdate_too_young: Sorry, musisz mieć co najmniej 18 lat żeby do nas dołączyć.

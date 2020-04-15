@@ -374,6 +374,7 @@ tr:
   signup:
     almost_there: Neredeyse!
     error_bar: Dallas, bir sorunumuz var. Daha fazla bilgi için aşağı kaydırın.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Doğum tarihi gereklidir.
     error_birthdate_too_old: Çok yaşlısın.
     error_birthdate_too_young: Üzgünüz, katılmak için 18 yaşında veya daha büyük olmalısınız.

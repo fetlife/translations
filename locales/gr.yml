@@ -374,6 +374,7 @@ gr:
   signup:
     almost_there: Σχεδόν τελειώσατε!
     error_bar: Χιούστον, έχουμε πρόβλημα. Μετακινηθείτε προς τα κάτω για παραπάνω πληροφορίες.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Απαιτείται ημερομηνία γέννησης.
     error_birthdate_too_old: Eίστε πολύ μεγάλος.
     error_birthdate_too_young: Δεν είστε αρκετά μεγάλος (πρέπει να είστε τουλάχιστον 18 χρονών).

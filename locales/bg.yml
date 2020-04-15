@@ -374,6 +374,7 @@ bg:
   signup:
     almost_there: Почти стигнахме!
     error_bar: Далас, имаме проблем. Превърти надолу за повече информация.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Датата на раждане е задължителна.
     error_birthdate_too_old: Прекалено възрастни сте.
     error_birthdate_too_young: Съжалявам, трябва да си поне на 18 години.
