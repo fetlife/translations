@@ -374,7 +374,7 @@ es:
   signup:
     almost_there: "¡Casi estamos!"
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.
-    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
+    error_bar_invalid_credentials: Parece que su Apodo, Correo Electrónico, o Contraseña son incorrectos. Por favor intente nuevamente!
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Usted es demasiado viejo.
     error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
