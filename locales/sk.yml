@@ -379,6 +379,7 @@ sk:
   signup:
     almost_there: Už si skoro tam!
     error_bar: Dallas, máme problém. Pozri nižšie pre viac informácií
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Dátum narodenia je povinný.
     error_birthdate_too_old: Tvoj vek je príliž vysoký.
     error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov).

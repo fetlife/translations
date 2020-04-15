@@ -374,6 +374,7 @@ fr:
   signup:
     almost_there: Presque arrivé⋅e !
     error_bar: Dallas, nous avons un problème. Faites défiler vers le bas pour plus d’informations.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: La date de naissance est obligatoire.
     error_birthdate_too_old: Vous êtes trop vieux⋅vieille.
     error_birthdate_too_young: Vous n’êtes pas assez vieux⋅vieille (vous devez avoir au moins 18 ans).

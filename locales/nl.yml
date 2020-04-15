@@ -374,6 +374,7 @@ nl:
   signup:
     almost_there: Bijna klaar!
     error_bar: Dallas, we hebben een probleem. Ga naar beneden voor meer informatie.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
     error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).

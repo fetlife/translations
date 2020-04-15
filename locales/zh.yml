@@ -374,6 +374,7 @@ zh:
   signup:
     almost_there: 快搞定了！
     error_bar: 哦我的上帝，我们有麻烦了……向下滚动查看详情。
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: 出生日期必填。
     error_birthdate_too_old: 你太老了。
     error_birthdate_too_young: 抱歉，满 18 岁才可加入。

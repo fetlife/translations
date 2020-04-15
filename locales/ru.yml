@@ -380,6 +380,7 @@ ru:
   signup:
     almost_there: Мы почти закончили!
     error_bar: Хьюстон, у нас проблема. Прокрутите вниз для получения дополнительной информации.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Укажите дату рождения.
     error_birthdate_too_old: Вы слишком стары.
     error_birthdate_too_young: Извините, вам должно быть 18 или больше, чтобы зарегистрироваться.
