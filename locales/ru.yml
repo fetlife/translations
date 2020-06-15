@@ -572,7 +572,7 @@ ru:
         extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
         title: Кредитная Карта
       cc_trustpay:
-        extra_info: Мы принимаем Visa, Mastercard и American Express. Это легко и безопасно.
+        extra_info: Мы принимаем Visa и Mastercard. Это легко и безопасно.
         title: Кредитная Карта
       coingate:
         extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
