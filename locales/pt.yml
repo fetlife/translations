@@ -566,7 +566,7 @@ pt:
         extra_info: Nós aceitamos Visa, V Pay, Mastercard, e Maestro. É simples e seguro.
         title: Cartão de crédito
       cc_trustpay:
-        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: A Bitcoin não é tão complicada como parece. E para os iniciados, nós acompanhamo-los durante o processo.
