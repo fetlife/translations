@@ -69,7 +69,7 @@ ca:
       step2:
         page_title: Vostè "POT" tenir correu
         subtitle: Si hi ha un perfil associat a <span class = 'fw7'>%{given_email} </span>, us enviarem instruccions sobre com restablir la vostra contrasenya.
-        title: Vostè &ldquor; podria &rdquor; Teniu correu!
+        title: "Vostè ¡&ldquo;podria&rdquo; tenir correu!"
       update_email: actualitza l'adreça de correu electrònic
       warning: "<strong>Advertiment de cirurgians generals:</strong> per motius de seguretat, no podem dir-vos si hi ha una adreça de correu electrònic a la nostra base de dades o no. Si no rebeu cap missatge de correu electrònic, és probable que No tinc cap compte associat a aquesta adreça de correu electrònic."
     mobile:
