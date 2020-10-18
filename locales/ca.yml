@@ -444,7 +444,7 @@ ca:
     notice: Hem enviat el codi de verificació a <strong>%{phone_number}</strong>. Si al cap d´un parell de minuts no rebeu cap missatge de text nostre, <a class="silver" href="%{back_path}"> actualitzeu el vostre número i us enviarem un nou codi de verificació</a>.
     page_title: Introduïu el codi de verificació
     placeholder: Codi de verificació de 6 dígits
-    subtitle:No ha estat dolorós, oi?!?!
+    subtitle: No ha estat dolorós, oi?!?!
     title: Darrer pas
   subnav:
     feed:
