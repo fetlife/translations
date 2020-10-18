@@ -286,7 +286,7 @@ ca:
     cta: Actualitza l´idioma predeterminat
     language_label: Llenguatge
     notice: FetLife encara no està disponible del tot en idiomes diferents de l´anglès. Si canvieu la configuració aquí, no es traduirà tot el lloc web.
-    page_title: Idioma: configuració
+    page_title: Idioma - configuració
     subtitle: Quin és el vostre idioma preferit?
     title: Llenguatge
   settings_privacy:
