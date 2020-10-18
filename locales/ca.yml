@@ -275,9 +275,9 @@ ca:
     new_password_label: nova contrasenya
     nickname_cta: Canvia l´àlies
     nickname_label: "Canvieu el vostre àlies de 'JohnBaku' a:"
-    nickname_notice: "<strong> Consell professional: </strong> mesureu dues vegades, talleu una vegada. Només podeu canviar el vostre sobrenom una vegada cada 28 dies. No hi ha cap reculada."
+    nickname_notice: "<strong>Consell professional:</strong> mesureu dues vegades, talleu una vegada. Només podeu canviar el vostre sobrenom una vegada cada 28 dies. No hi ha cap reculada."
     nickname_placeholder: Nou sobrenom
-    page_title: Canvia la contrasenya: configuració
+    page_title: Canvia la contrasenya - configuració
     password_cta: Actualitza la contrasenya
     repeat_password_label: Repeteix la contrassenya
     subtitle: No premeu el botó vermell gran.
