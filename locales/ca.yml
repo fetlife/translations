@@ -13,7 +13,7 @@ ca:
     title: Codi secret
   about:
     contact_info: Dades de contacte
-    email_us: Envieu-nos un correu electrònic a <a href="mailto:support@fetlife.com"> support@fetlife.com </a> i us respondrem de seguida.
+    email_us: Envieu-nos un correu electrònic a <a href="mailto:support@fetlife.com">support@fetlife.com</a> i us respondrem de seguida.
     europe: Europa
     got_question: Tens alguna pregunta? Necessitar ajuda?
     north_america: Amèrica del nord
@@ -68,7 +68,7 @@ ca:
         title: Has oblidat la contrasenya?
       step2:
         page_title: Vostè 'POT' tenir correu
-        subtitle: Si hi ha un perfil associat a <span class = 'fw7'>%{given_email} </span>, us enviarem instruccions sobre com restablir la vostra contrasenya.
+        subtitle: Si hi ha un perfil associat a <span class='fw7'>%{given_email}</span>, us enviarem instruccions sobre com restablir la vostra contrasenya.
         title: Vostè &ldquo;podria&rdquo; Teniu correu!
       update_email: actualitza l´adreça de correu electrònic
       warning: "<strong> Advertiment de cirurgians generals: </strong> per motius de seguretat, no podem dir-vos si hi ha una adreça de correu electrònic a la nostra base de dades o no. Si no rebeu cap missatge de correu electrònic, és probable que No tinc cap compte associat a aquesta adreça de correu electrònic. "
@@ -78,16 +78,16 @@ ca:
         subtitle: Dispara, per motius de seguretat, hauràs d´esperar dues hores abans de poder tornar-ho a provar.
         title: Regla del cinc intents
       cta: Envia´m un missatge de text
-      error_country_code: "<strong> Operador Kinky: </strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per als Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
-      error_quota: "<strong> Kinky Operator: </strong> Dispara, només podem intentar enviar fins a 3 missatges de text cada 24 hores a qualsevol número de mòbil. Si el número existeix a la nostra base de dades o no."
-      pro_tip: "<strong> Consell professional: </strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per a Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
+      error_country_code: "<strong>Operador Kinky:</strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per als Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
+      error_quota: "<strong>Kinky Operator:</strong> Dispara, només podem intentar enviar fins a 3 missatges de text cada 24 hores a qualsevol número de mòbil. Si el número existeix a la nostra base de dades o no."
+      pro_tip: "<strong>Consell professional:</strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per a Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
       step1:
         page_title: Restableix la contrasenya mitjançant un missatge de text
         subtitle: Deixa´m ajudar-te amb això.
         title: Has oblidat la contrasenya?
       step2:
         cta: Verifiqueu que sou &#8482;
-        error_code_match: "<strong> Kinky Operator: </strong> El codi de verificació que heu introduït és incorrecte. Verifiqueu que el número anterior coincideixi amb el que heu rebut de nosaltres i torneu-ho a provar. Es tracta d´un enregistrament."
+        error_code_match: "<strong>Kinky Operator:</strong> El codi de verificació que heu introduït és incorrecte. Verifiqueu que el número anterior coincideixi amb el que heu rebut de nosaltres i torneu-ho a provar. Es tracta d´un enregistrament."
         inexisting_number: Si al cap d´un parell de minuts no rebeu cap missatge de text, probablement sigui perquè no tenim cap perfil adjunt al vostre número. Us recomanem que <a href="%{forgot_password_email_path}"> proveu de restablir la contrasenya mitjançant un altre mètode </a> o que <a href="%{signup_path}"> configureu un perfil nou a FetLife </a>.
         label: Codi de verificació de 6 dígits
         page_title: Introduïu el codi de verificació
@@ -167,7 +167,7 @@ ca:
   landing_page:
     login_button: Inicieu la sessió a FetLife
     signup_button: Uniu-vos a FetLife
-    stats_details: comparteixen <strong class = "fw4 silver"> %{picture_count} imatges </strong> i <strong class = "fw4 silver"> %{video_count} vídeos </strong>, participant a <strong class = "fw4 silver" > %{discussion_count} discussions </strong> en <strong class = "fw4 silver"> %{group_count} grups </strong>, anant a <strong class = "fw4 silver"> %{event_count} esdeveniments propers </ strong >, i llegint <strong class = "fw4 silver"> %{post_count} entrades de bloc </strong>. <span> <span class = "i"> Cel pervertit! </span>
+    stats_details: comparteixen <strong class="fw4 silver">%{picture_count} imatges</strong> i <strong class="fw4 silver">%{video_count} vídeos</strong>, participant a <strong class="fw4 silver">%{discussion_count} discussions</strong> en <strong class="fw4 silver">%{group_count} grups</strong>, anant a <strong class="fw4 silver">%{event_count} esdeveniments propers</strong>, i llegint <strong class="fw4 silver">%{post_count} entrades de bloc</strong>. <span><span class="i">Cel pervertit!</span>
     stats_members: Membres
     subtitle: Com Facebook, però dirigit per kinksters com tu i jo. Creiem que és més divertit d´aquesta manera. No?
     title: FetLife és la xarxa social per a la comunitat BDSM, Fetish i Kinky.
@@ -188,7 +188,7 @@ ca:
     title: Seguretat, seguretat, seguretat!
   login:
     button: Inicieu la sessió a FetLife
-    error_flash: Poseu-vos en contacte amb <a href="mailto:support@fetlife.com"> support@fetlife.com </a> perquè puguem ajudar-vos a tornar-hi.
+    error_flash: Poseu-vos en contacte amb <a href="mailto:support@fetlife.com">support@fetlife.com</a> perquè puguem ajudar-vos a tornar-hi.
     error_login_blank: El sobrenom o el correu electrònic no es poden deixar en blanc.
     error_not_authenticated: Ho sentim, amic meu, heu d´haver iniciat la sessió per accedir a aquesta pàgina. Si encara no sou membre, trigueu menys d´un minut a registrar-vos.
     error_not_found: Mmmm, no us hem pogut trobar. Esteu segur que heu introduït el vostre àlies i contrasenya correctament? (Les contrasenyes són CaSe-SeNsItIvE)
@@ -250,7 +250,7 @@ ca:
     error_password_range: La contrasenya ha de tenir entre 8 i 100 caràcters.
     error_token_expired: El testimoni de restabliment de contrasenya ha caducat. Sol·liciteu-ne un de nou.
     error_token_invalid: El restabliment del testimoni de contrasenya no és vàlid.
-    footnote: "<b> Consell professional: </b> Recordeu la vostra contrasenya."
+    footnote: "<b>Consell professional:</b> Recordeu la vostra contrasenya."
     label_enter: nova contrasenya
     label_re_enter: Torneu a introduir una contrasenya nova
     status_flash_success: La vostra contrasenya s´ha canviat correctament.
@@ -258,14 +258,14 @@ ca:
     title: Restablir la contrasenya
   select_language:
     button: Canvia l´idioma predeterminat
-    help_translate: Visiteu el nostre <a class="silver" href="https://github.com/fetlife/translations"> projecte de traducció </a> a GitHub i ajudeu a fer FetLife accessible a més dels nostres amics pervers <span class = "amp"> &amp </span> comunitats.
+    help_translate: Visiteu el nostre <a class="silver" href="https://github.com/fetlife/translations">translation project</a> a GitHub i ajudeu a fer FetLife accessible a més dels nostres amics pervers <span class="amp">&amp</span> comunitats.
     language_name: Català
     sub_header: Hola, hola, ola, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Seleccionar idioma
   settings_account:
     2fa_cta: Activeu l´autenticació de 2 factors
     2fa_label: Autenticació de 2 factors
-    anti_pro_tip: <strong> Consell anti-professional: </strong> podeu <a href="#"> desactivar </a> o <a href="#"> suprimir </a> el vostre compte si realment voleu tres en quatre papes el desaconsella molt.
+    anti_pro_tip: <strong>Consell anti-professional:</strong>Podeu <a href="#">desactivar</a> o <a href="#">suprimir</a> el vostre compte si realment voleu, però tres de quatre Papes ho desaconsellen.
     current_password_label: Contrasenya actual
     email_cta: Actualitza l´adreça de correu electrònic
     email_label: Correu electrònic
@@ -301,7 +301,7 @@ ca:
     page_title: Configuració de privacitat
     subtitle: Servit de la manera que més us agrada.
     title: Privadesa
-    warning: "<strong> Molt important </strong>: si desactiveu les opcions següents, deixareu de seguir tots els que us segueixen. No hi ha cap retrocés. De debò."
+    warning: "<strong>Molt important</strong>: si desactiveu les opcions següents, deixareu de seguir tots els que us segueixen. No hi ha marxa enrera. De debò."
   settings_profile:
     about_you_label: Sobre tu
     add_website: "+ afegeix un altre lloc web"
@@ -393,7 +393,7 @@ ca:
     error_role_required: S´ha de seleccionar el rol.
     error_sexual_orientation_required: S´ha de seleccionar l´orientació sexual.
     error_state_missing: S´ha de seleccionar l´estat / província.
-    footnote: En fer clic a "Registre complet i verificació", accepteu respectar i seguir els nostres <a class="enllaç gris subratllat hover-moon-gray" href="%{tou_path}" target="_blank"> Condicions d´ús </a> , <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank"> Política de privadesa </a> i <a class = "gray link underline hover-moon-gray" href ="%{guidelines_path}" target ="_ blank"> Directrius de la comunitat </a>.
+    footnote: En fer clic a "Registre complet i verificació", accepteu respectar i seguir els nostres <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Condicions d´ús </a> , <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de privadesa</a> i <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_ blank">Directrius de la comunitat</a>.
     label:
       birthdate: Data de naixement
       city: ciutat
@@ -412,7 +412,7 @@ ca:
     subtitle_invite: "%{name} us ha convidat a unir-vos a FetLife."
     title: Benvingut a casa
   signup_avatar:
-    pro_tip: "<strong> Consell professional </strong>: si sou tímid i preferiu no mostrar la vostra cara, no dubteu a ser creatiu i mostrar un altre costat vostre. O si ho preferiu, ara podeu <a class='silver' href='%{next_step_path}'> ometre aquest pas </a>."
+    pro_tip: '<strong> Consell professional </strong>: si sou tímid i preferiu no mostrar la vostra cara, no dubteu a ser creatiu i mostrar un altre costat vostre. O si ho preferiu, ara podeu <a class="silver" href="%{next_step_path}"> ometre aquest pas </a>.'
     say_cheese: Digue´s patata!
     subtitle: Els kinksters amb un avatar es diverteixen 69 vegades més.
     title: Pengeu un avatar
@@ -428,20 +428,20 @@ ca:
     title: Algú us crida l´atenció?
   signup_phone:
     cta: Envieu-me un codi de verificació
-    error_blocked: "<strong> Operador Kinky: </strong> malauradament, actualment no permetem que la gent es registri amb un número %{carrier_name}."
-    error_cant_send: "<strong> Operador Kinky: </strong> Tenim problemes per enviar-vos un missatge de text. Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per Austràlia, +31 per a Països Baixos, +49 per a Alemanya, +33 per a França, etc. i que no intenteu enviar cap missatge de text al vostre telèfon fix. "
-    error_quota: "<strong> Operador Kinky: </strong> no podem enviar més de 3 missatges de text al mateix número en un període de 24 hores. Torneu-ho a provar més tard."
+    error_blocked: "<strong>Usuari Kinky:</strong> malauradament, actualment no permetem que la gent es registri amb un número %{carrier_name}."
+    error_cant_send: "<strong>Usuari Kinky:</strong> Tenim problemes per enviar-vos un missatge de text. Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per Austràlia, +31 per a Països Baixos, +49 per a Alemanya, +33 per a França, etc. i que no intenteu enviar cap missatge de text al vostre telèfon fix. "
+    error_quota: "<strong>Usuari Kinky:</strong> no podem enviar més de 3 missatges de text al mateix número en un període de 24 hores. Torneu-ho a provar més tard."
     explanation: Sabem que és molt demanar, però per mantenir una comunitat sana i vibrant, hem de verificar tothom abans que s´uneixin. Una cosa que creiem que agraireu un cop estigueu a l´altre costat.
     label: Número de telèfon mòbil
     page_title: Envia el codi de verificació
-    pro_tip: "<strong> Consell professional: </strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per a Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
+    pro_tip: "<strong>Consell professional:</strong> Assegureu-vos que comenceu el vostre número amb el codi del vostre país: +1 per als Estats Units i Canadà, +44 per al Regne Unit, +61 per a Austràlia, +31 per a Països Baixos, +49 per a Alemanya , +33 per a França, etc. "
     subtitle: Missatge de text anònim únic.
     title: Hora de verificació
   signup_verify:
     cta: Inscripció i verificació completes
-    incorrect_code: "<strong> Kinky Operator: </strong> Doh & hellip; el codi de verificació que heu introduït sembla desactivat. Verifiqueu que el número anterior coincideixi amb el que heu rebut de nosaltres i torneu-ho a provar."
+    incorrect_code: "<strong>Kinky Usuari:</strong> Doh & hellip; el codi de verificació que heu introduït sembla desactivat. Verifiqueu que el número anterior coincideixi amb el que heu rebut de nosaltres i torneu-ho a provar."
     label: Codi de verificació
-    notice: Hem enviat el codi de verificació a <strong>%{phone_number} </strong>. Si al cap d´un parell de minuts no rebeu cap missatge de text nostre, <a class="silver" href="%{back_path}"> actualitzeu el vostre número i us enviarem un nou codi de verificació </a>.
+    notice: Hem enviat el codi de verificació a <strong>%{phone_number}</strong>. Si al cap d´un parell de minuts no rebeu cap missatge de text nostre, <a class="silver" href="%{back_path}"> actualitzeu el vostre número i us enviarem un nou codi de verificació</a>.
     page_title: Introduïu el codi de verificació
     placeholder: Codi de verificació de 6 dígits
     subtitle:No ha estat dolorós, oi?!?!
@@ -478,13 +478,13 @@ ca:
       support_short: Suport
   support:
     benefits:
-      item_1: Una insígnia <span> compatible amb FetLife </span> atractiva al vostre perfil.
-      item_2: Perv <span>%{number} + fotos més estimades d´avui </span>, vídeos, etc.
-      item_3: Mireu <span> tots els %{number} + vídeos </span> compartits per la comunitat.
-      item_4: Perv <span> totes les %{number} + imatges </span> mentre es comparteixin.
-      item_5: Consulteu <span> tot el que us ha agradat </span>.
-      item_6: Torneu <span> 25 vegades més enllà </span> al vostre feed d´amics.
-      item_7: Torneu <span> 25 vegades més enllà </span> al vostre feed @You.
+      item_1: Una insígnia <span>compatible amb FetLife</span> atractiva al vostre perfil.
+      item_2: Perv <span>%{number} fotos més estimades d´avui</span>, vídeos, etc.
+      item_3: Mireu <span>tots els %{number} + vídeos</span> compartits per la comunitat.
+      item_4: Perv <span>totes les %{number} + imatges</span> mentre es comparteixin.
+      item_5: Consulteu <span>tot el que us ha agradat</span>.
+      item_6: Torneu <span>25 vegades més enllà</span> del vostre 'feed' d´amics.
+      item_7: Torneu <span>25 vegades més enllà</span> del vostre feed @You.
       item_8: "<span> Personalitzeu el vostre feed d´amics </span> segons el contingut del vostre cor."
       item_9: Obteniu <span> accés anticipat a noves funcions </span>.
       list_description: "Per només 5 dòlars al mes, no només ajudeu a continuar el desenvolupament de FetLife, sinó que podeu:"
@@ -517,7 +517,7 @@ ca:
       canceled: L´usuari ha cancel·lat la transacció.
       city_blank: La ciutat no pot quedar en blanc
       country_blank: Cal seleccionar el país
-      double_failsafe: Esteu segur que voleu tornar a donar-nos suport? No ens equivoqueu, agraïm l´assistència, però tampoc volem facturar-vos per error. Si teniu cap pregunta, no dubteu a enviar un correu electrònic a <a href="mailto:support@fetlife.com"> support@fetlife.com </a>.
+      double_failsafe: Esteu segur que voleu tornar a donar-nos suport? No ens equivoqueu, agraïm l´assistència, però tampoc volem facturar-vos per error. Si teniu cap pregunta, no dubteu a enviar un correu electrònic a <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
       email_blank: El correu electrònic no es pot deixar en blanc
       first_name_blank: El nom no pot quedar en blanc
       iban_blank: L´IBAN no pot quedar en blanc
@@ -532,13 +532,13 @@ ca:
       cc_a_part_2: Si volguéssim acceptar targetes de crèdit, no podríem permetre que els kinksters de FetLife debatessin esports aquàtics, hipnosi, sexe de períodes, jocs de sang, joc de vora, no consentiment consensuat i molts altres kinks acceptats comunament per la comunitat perversa.
       cc_a_part_3: Com a comunitat, necessitem un espai segur perquè els adults consentents puguin expressar-se lliurement sexualment. I si acceptem targetes de crèdit o paypal, perdríem aquesta llibertat.
       cc_q: P. Per què FetLife no accepta targetes de crèdit o Paypal?
-      gift_a: Això és molt agradable de tu. Només cal que visiteu el seu perfil i feu clic a &ldquo; Assistència per a regals &rdquor; enllaç a &ldquo; Message Kinkster &rdquo; <i> #TheLWLLoveIt </i>
+      gift_a: Això és molt agradable de tu. Només cal que visiteu el seu perfil i feu clic a &ldquo; Assistència per a regals &rdquor; enllaç a &ldquo; Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
       gift_q: P. Voleu donar suport a algú?
       month_a: Igual que Costco, hem de vendre a granel per mantenir el cost mensual de suport a FetLife baix.
       month_q: P. Per què no puc fer un mes?
       name_a: "Apareixerà com: BitLove Inc."
       name_q: P. Com apareixerà això al meu extracte bancari?
-      question_a: Si teniu cap pregunta, no dubteu a enviar-nos un correu electrònic a &nbsp; <a href='mailto:support@fetlife.com'> support@fetlife.com </a>
+      question_a: Si teniu cap pregunta, no dubteu a enviar-nos un correu electrònic a&nbsp; <a href='mailto:support@fetlife.com'>support@fetlife.com</a>
       question_q: P. Té alguna pregunta?
       renew_a: Mai. Volem obtenir el vostre suport cada vegada.
       renew_q: P. Renoveu automàticament el meu suport?
@@ -551,12 +551,12 @@ ca:
       affirm: Ets el millor!
       confirm: Vull donar regals a %{nickname}
       header: Ajudeu FetLife avui!
-      subheader: I obteniu tots els <a href='%{link}'> avantatges atractius </a> que comporta ser partidari.
+      subheader: I obteniu tots els <a href='%{link}'> avantatges atractius</a> que comporta ser partidari.
       thank_you: Gràcies pel suport!
       title: Donar regals a %{nickname}
       yourself: Compra assistència per a tu mateix
     header:
-      subheader: I obteniu tots els <a href="%{link}"> avantatges atractius </a> que suposa ser partidari.
+      subheader: I obteniu tots els <a href="%{link}">avantatges atractius</a> que suposa ser partidari.
       title: Ajudeu FetLife avui!
     step1:
       ach:
@@ -826,14 +826,14 @@ ca:
       secure: Segur com Fort Knox i no emmagatzemem cap informació vostra.
       title: Pagament Teleingreso
     thank_you:
-      body: No de debò, <span> moltes gràcies pel vostre suport </span>. Per a nosaltres significa molt que hàgiu aportat els vostres diners durament guanyats per ajudar a recolzar la millora i el desenvolupament continus de FetLife.
+      body: No de debò, <span>moltes gràcies pel vostre suport</span>. Per a nosaltres significa molt que hàgiu aportat els vostres diners durament guanyats per ajudar a recolzar la millora i el desenvolupament continus de FetLife.
       cta_home: Emporta´m a casa
       gift_affirm: Ets el millor!
       gift_cta_profile: Visiteu el perfil de %{nickname}
       gift_next_body: Mentre llegiu això, donem el vostre suport a <a href="%{link}">%{nickname} </a> i els notifiquem per correu electrònic el vostre generós regal.
       gift_next_title: Que segueix?
       page_title: Gràcies!
-      questions_body: Si teniu cap pregunta, no dubteu a enviar-nos un correu electrònic a <a href='mailto:support@fetlife.com'> support@fetlife.com </a>.
+      questions_body: Si teniu cap pregunta, no dubteu a enviar-nos un correu electrònic a <a href='mailto:support@fetlife.com'>support@fetlife.com</a>.
       questions_title: Tens preguntes?
       tab_title: Gràcies
       thank_you: Gràcies de nou!
@@ -843,7 +843,7 @@ ca:
       next_steps_final_gift: l´adjuntarà al perfil de %{nickname}.
       next_steps_first: Pot <span> trigar un parell d´hores </span> a rebre la vostra transferència electrònica d´Interac, però un cop l´obtinguem
       next_steps_title: 'Propers passos:'
-      page_title: Gràcies <span class = 'baskerville i'> &amp; </span> Passos següents
+      page_title: Gràcies <span class='baskerville i'>&amp;</span> Passos següents
       tab_title: Gràcies i passos següents
       thank_you: Gràcies!
     title: Ajudeu a donar suport a FetLife!
