@@ -726,7 +726,7 @@ ca:
       title: Pagament iDEAL
     step3_interac:
       amount: "Import:"
-      answer_label: Resposta:
+      answer_label: "Resposta:"
       answer_placeholder: Resposta
       cta: He enviat la transferència electrònica Interac
       question_label: 'Pregunta de seguretat:'
