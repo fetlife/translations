@@ -384,7 +384,7 @@ es:
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
     error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
-    error_nickname_bad_word: El apodo no puede contener la palabra '%{word}'.
+    error_nickname_tracked_term: El apodo no puede contener la palabra '%{term}'.
     error_nickname_characters: El apodo solo puede tener letras, números, guiones y guiones bajos; sin espacios.
     error_nickname_length: El apodo debe tener entre 2 y 16 caracteres de largo.
     error_nickname_required: Se requiere su apodo.

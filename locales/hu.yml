@@ -384,7 +384,7 @@ hu:
     error_email: A megadott email cím nem tűnik megfelelőnek. Kérlek ellenőrízd, hogy nem irtad-e el, esetleg adj meg egy másikat.
     error_gender_required: Márpedig a nemed fontos nekünk.
     error_nickname: Az a felhasználó név már foglalt.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Felhasználó név nélkül nehézkes ;)

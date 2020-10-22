@@ -384,7 +384,7 @@ pt:
     error_email: Estamos a ter problemas em processar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou então tente um diferente.
     error_gender_required: Um Género deve ser selecionado.
     error_nickname: Esse Nome de Utilizador já está registado.
-    error_nickname_bad_word: O Nome de Utilizador não pode incluir a palavra '%{word}'.
+    error_nickname_tracked_term: O Nome de Utilizador não pode incluir a palavra '%{term}'.
     error_nickname_characters: 'O Nome de Utilizador só pode conter: letras, números, hífenes e subtraços; sem espaços.'
     error_nickname_length: O Nome de Utilizador tem de ser entre 6 e 16 caracteres.
     error_nickname_required: O Nome de Utilizador é obrigatório.

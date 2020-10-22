@@ -384,7 +384,7 @@ zh:
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。
     error_gender_required: 性别必选。
     error_nickname: 昵称已被占用。
-    error_nickname_bad_word: 昵称中不能包含 '%{word}' 这个词。
+    error_nickname_tracked_term: 昵称中不能包含 '%{term}' 这个词。
     error_nickname_characters: 昵称只可包含字母、数字、横杠（-）和下划线（_）；不可包含空格。
     error_nickname_length: 昵称长度须在 2 - 16 个字符之间。
     error_nickname_required: 昵称必填。

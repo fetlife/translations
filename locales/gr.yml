@@ -384,7 +384,7 @@ gr:
     error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείται ήδη.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Απαιτείται ψευδώνυμο.
