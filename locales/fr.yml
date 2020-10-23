@@ -384,7 +384,7 @@ fr:
     error_email: Nous avons des problèmes avec le traitement de l’adresse mail ci-dessus. Nous vous recommandons d’en vérifier l’orthographe ou d’en essayer une autre.
     error_gender_required: Le genre doit être sélectionné.
     error_nickname: Ce pseudo est déjà pris.
-    error_nickname_bad_word: Les pseudo ne peuvent contenir le mot '%{word}'.
+    error_nickname_tracked_term: Les pseudo ne peuvent contenir le mot '%{term}'.
     error_nickname_characters: Les pseudo ne peuvent contenir que des lettres, des chiffres, des tirets et des soulignés; aucun espace.
     error_nickname_length: Le pseudo doit comporter entre 2 et 16 caractères.
     error_nickname_required: Le pseudo est obligatoire.

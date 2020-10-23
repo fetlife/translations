@@ -384,7 +384,7 @@ de:
     error_email: Wir haben Probleme, die obige E-Mail-Adresse zu verarbeiten. Wir empfehlen Dir, die Schreibweise zu überprüfen oder eine andere Adresse zu versuchen.
     error_gender_required: Geschlecht muss gewählt werden.
     error_nickname: Dieser Name ist schon vergeben.
-    error_nickname_bad_word: Der Name darf das Wort „%{word}“ nicht enthalten.
+    error_nickname_tracked_term: Der Name darf das Wort „%{term}“ nicht enthalten.
     error_nickname_characters: Der Name darf nur Buchstaben, Zahlen, Binde- und Unterstriche enthalten, aber keine Leerzeichen.
     error_nickname_length: Der Name muss zwischen 2 und 16 Zeichen lang sein.
     error_nickname_required: Der Name ist erforderlich.

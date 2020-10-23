@@ -384,7 +384,7 @@ tr:
     error_email: Yukarıdaki e-posta adresini işleme koymakta sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.
     error_gender_required: Cinsiyet seçilmelidir.
     error_nickname: Rumuz zaten alınmış.
-    error_nickname_bad_word: Rumuz, '%{word}' kelimesini içeremez.
+    error_nickname_tracked_term: Rumuz, '%{term}' kelimesini içeremez.
     error_nickname_characters: Rumuz yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir; boşluk içeremez.
     error_nickname_length: Rumuz 2 ila 16 karakter uzunluğunda olabilir.
     error_nickname_required: Rumuz gereklidir.

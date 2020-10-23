@@ -386,7 +386,7 @@ pl:
     error_email: Mamy kłopoty z powyższym adresem e-mail. Sprawdź pisownię albo spróbuj innego.
     error_gender_required: Musisz podać płeć.
     error_nickname: Ksywka jest już używana.
-    error_nickname_bad_word: Ksywka nie może zawierać '%{word}'.
+    error_nickname_tracked_term: Ksywka nie może zawierać '%{term}'.
     error_nickname_characters: Ksywka może zawierać tylko litery, cyfry, myślniki i podkreślniki; nie może zawierać spacji.
     error_nickname_length: Ksywka musi mieć długość od 2 do 16 znaków.
     error_nickname_required: Ksywka jest wymagana.

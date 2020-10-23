@@ -384,7 +384,7 @@ nl:
     error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
-    error_nickname_bad_word: Bijnaam kan niet het woord '%{word}' bevatten.
+    error_nickname_tracked_term: Bijnaam kan niet het woord '%{term}' bevatten.
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
     error_nickname_length: Bijnaam moet tussen 2 en 16 karakters lang zijn.
     error_nickname_required: Alias is verplicht.
