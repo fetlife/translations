@@ -42,14 +42,13 @@ workflows:
   main:
     jobs:
       - check
-      # NOTE: Disable auto deploy until rename bad words to terms (#12323) hits master
-      # - deploy:
-      #     requires:
-      #       - check
-      #     filters:
-      #       branches:
-      #         only:
-      #           - master
+      - deploy:
+          requires:
+            - check
+          filters:
+            branches:
+              only:
+                - master
 
 notify:
   webhooks:
