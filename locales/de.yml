@@ -25,7 +25,7 @@ de:
     step: Schritt
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Deine Bilder und Videos erscheinen nur für Deine Freund_innen und Follower. Wenn auch der Rest der Gemeinschaft Deine wohlschmerzenden Inhalte finden sollen, kannst Du das in deinen Privatsphäre-Einstellungen festlegen.
+      pics_and_vids_discoverability_a: Deine Bilder und Videos erscheinen nur für Deine Freund:innen und Follower:innen. Wenn auch der Rest der Gemeinschaft Deine wohlschmerzenden Inhalte finden sollen, kannst Du das in deinen Privatsphäre-Einstellungen festlegen.
       pics_and_vids_discoverability_link: Zu den Einstellungen wechseln
       pics_and_vids_discoverability_q: Bilder- und Video-Auffindbarkeit
   feed:
@@ -37,7 +37,7 @@ de:
       button: Sag was
       placeholder: Was sagst Du?
     love: Liebe
-    loved_hover: Herzensbrecher! :-(
+    loved_hover: Herzensbrecher:in! :-(
     loves_count:
       one: 1 Herz
       other: "%{count_with_delimiter} Herzen"
@@ -240,7 +240,7 @@ de:
     button: Schalte Folgen an
     ps: P.S. Du kannst Folgen jederzeit abschalten.
     skip: Schalte Folgen für mich nicht an
-    subtitle: Trenne Deine Freund_innen von Deinen Followern.
+    subtitle: Trenne Deine Freund:innen von Deinen Follower:innen.
     title: Vorstellung des Konzepts „Folgen“
   recommendations:
     title: Empfehlungen
@@ -258,7 +258,7 @@ de:
     title: Passwort zurücksetzen
   select_language:
     button: Sprachvoreinstellung setzen
-    help_translate: Besuche unser <a class="silver" href="https://github.com/fetlife/translations">Übersetzungsprojekt</a> auf GitHub und hilf mit, den Zugang zu FetLife für weitere unserer kinky Freund_innen <span class="amp">&amp</span> Gemeinschaften zu erleichtern.
+    help_translate: Besuche unser <a class="silver" href="https://github.com/fetlife/translations">Übersetzungsprojekt</a> auf GitHub und hilf mit, den Zugang zu FetLife für weitere unserer kinky Freund:innen <span class="amp">&amp</span> Gemeinschaften zu erleichtern.
     language_name: Deutsch
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Sprachwahl
@@ -301,7 +301,7 @@ de:
     page_title: Einstellungen der Privatsphäre
     subtitle: Serviert wie Sie es wünschen.
     title: Privatsphäre
-    warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower entfernen. Es gibt kein Zurück. Echt jetzt."
+    warning: "<strong>Sehr wichtig</strong>: Ausschalten von Folgen wird alle Deine aktuellen Follower:innen entfernen. Es gibt kein Zurück. Echt jetzt."
   settings_profile:
     about_you_label: Über Dich
     add_website: "+ eine Website hinzufügen"
@@ -424,7 +424,7 @@ de:
   signup_follow:
     follow: Folgen
     next_step: Nächster Schritt
-    subtitle: Folge BDSMler_innen, die Dein Interesse wecken.
+    subtitle: Folge BDSMler:innen, die Dein Interesse wecken.
     title: Erregt jemand Deine Aufmerksamkeit?
   signup_phone:
     cta: Verifikationsnummer zusenden
@@ -485,7 +485,7 @@ de:
       item_5: Betrachte <span>alles, was Du je geliebt hast</span>.
       item_6: Gehe <span>25x weiter</span> in Deiner Aktivitätschronik zurück.
       item_7: Gehe <span>25x weiter</span> in Deiner @You-Aktivitätschronik zurück.
-      item_8: "<span>Passe</span> Deine Freund_innen-Aktivitätschronik nach Belieben <span>an</span>."
+      item_8: "<span>Passe</span> Deine Freund:innen-Aktivitätschronik nach Belieben <span>an</span>."
       item_9: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
       list_description: 'Für nur $5 pro Monat hilfst Du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
       list_footer: Alles für weniger als den Preis einer Flasche Gleitmittel… Jedoch empfehlen wir nicht Gleitmittel durch Rapsöl zu ersetzen… Das funktioniert nicht so gut.
