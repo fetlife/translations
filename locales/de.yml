@@ -37,7 +37,7 @@ de:
       button: Sag was
       placeholder: Was sagst Du?
     love: Liebe
-    loved_hover: Herzensbrecher:in! :-(
+    loved_hover: Sag mal, brichst du gern Herzen? :-(
     loves_count:
       one: 1 Herz
       other: "%{count_with_delimiter} Herzen"
