@@ -67,7 +67,7 @@ ca:
         subtitle: Deixa’m ajudar-te amb això.
         title: Has oblidat la contrasenya?
       step2:
-        page_title: 'Podríeu' tenir correu
+        page_title: Vostè 'Podria' tenir correu
         subtitle: Si hi ha un perfil associat a <span class='fw7'>%{given_email}</span>, us enviarem instruccions sobre com restablir la vostra contrasenya.
         title: Vostè &ldquo;podria&rdquo; Teniu correu!
       update_email: actualitza l'adreça de correu electrònic
