@@ -326,10 +326,12 @@ nl:
   sidebar:
     about_fetlife: Ontmoet het team
     ad_stats: Advertentie Statistieken
+    advertisers: All Advertisers
     advertising: Adverteren
     already_member: Al een lid?
     androidapp: Installeer FetLife's Android Applicatie
     bug_bounty: Bug beloning
+    careers: Careers
     caretaking: Concierge
     change_language: Wijzig taal
     close: sluiten
@@ -339,6 +341,7 @@ nl:
     events: Bijeenkomsten
     fetishes: Fetishes
     following: Volgen
+    formatting: Formatting Guidelines
     fp: Fris & Pervy
     friends_and_following: Friends & Following
     funny_quote: Wanneer je dit niet kunt lezen, heb je enorm goeie ogen! - John 4:69
@@ -384,10 +387,10 @@ nl:
     error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
-    error_nickname_tracked_term: Bijnaam kan niet het woord '%{term}' bevatten.
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
     error_nickname_length: Bijnaam moet tussen 2 en 16 karakters lang zijn.
     error_nickname_required: Alias is verplicht.
+    error_nickname_tracked_term: Bijnaam kan niet het woord '%{term}' bevatten.
     error_password_range: Wachtwoord moet uit 8 tot 100 karakters bestaan.
     error_password_required: Wachtwoord is verplicht.
     error_role_required: Rol moet worden gekozen.

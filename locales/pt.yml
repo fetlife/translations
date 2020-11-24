@@ -326,10 +326,12 @@ pt:
   sidebar:
     about_fetlife: Conheça a Equipa
     ad_stats: Estatísticas de Anúncios
+    advertisers: All Advertisers
     advertising: Anúncios
     already_member: Já é um membro?
     androidapp: Instalar a aplicação do FetLife no Android
     bug_bounty: Bug Bounty
+    careers: Careers
     caretaking: Ferramentas do Caretaker
     change_language: Alterar Idioma
     close: fechar
@@ -339,6 +341,7 @@ pt:
     events: Eventos
     fetishes: Fetiches
     following: Seguindo
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Se você puder ler isso, você tem uma excelente visão! - John 4:69
@@ -384,10 +387,10 @@ pt:
     error_email: Estamos a ter problemas em processar o endereço de e-mail acima. Recomendamos que verifique se o mesmo está correto ou então tente um diferente.
     error_gender_required: Um Género deve ser selecionado.
     error_nickname: Esse Nome de Utilizador já está registado.
-    error_nickname_tracked_term: O Nome de Utilizador não pode incluir a palavra '%{term}'.
     error_nickname_characters: 'O Nome de Utilizador só pode conter: letras, números, hífenes e subtraços; sem espaços.'
     error_nickname_length: O Nome de Utilizador tem de ser entre 6 e 16 caracteres.
     error_nickname_required: O Nome de Utilizador é obrigatório.
+    error_nickname_tracked_term: O Nome de Utilizador não pode incluir a palavra '%{term}'.
     error_password_range: A senha precisa de ter entre 8 e 100 caracteres.
     error_password_required: A Senha é obrigatória.
     error_role_required: O papel deve seleccionado.

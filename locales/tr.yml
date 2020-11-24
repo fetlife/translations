@@ -326,10 +326,12 @@ tr:
   sidebar:
     about_fetlife: Ekiple Tanışın
     ad_stats: Reklam İstatistikleri
+    advertisers: All Advertisers
     advertising: Reklam
     already_member: Zaten üye misiniz?
     androidapp: FetLife Android Uygulamasını Yükle
     bug_bounty: Ödül Avcılığı
+    careers: Careers
     caretaking: Güvenlik Araçları
     change_language: Dil Değiştir
     close: kapat
@@ -339,6 +341,7 @@ tr:
     events: Etkinlikler
     fetishes: Fetişler
     following: Takip Edilenler
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Eğer bunu okuyabiliyorsan, gerçekten iyi bir bakış açısına sahipsin! - John 4:69
@@ -384,10 +387,10 @@ tr:
     error_email: Yukarıdaki e-posta adresini işleme koymakta sorun yaşıyoruz. Yazımı doğrulamanızı veya farklı bir tane denemenizi öneririz.
     error_gender_required: Cinsiyet seçilmelidir.
     error_nickname: Rumuz zaten alınmış.
-    error_nickname_tracked_term: Rumuz, '%{term}' kelimesini içeremez.
     error_nickname_characters: Rumuz yalnızca harfler, sayılar, kısa çizgiler ve alt çizgiler içerebilir; boşluk içeremez.
     error_nickname_length: Rumuz 2 ila 16 karakter uzunluğunda olabilir.
     error_nickname_required: Rumuz gereklidir.
+    error_nickname_tracked_term: Rumuz, '%{term}' kelimesini içeremez.
     error_password_range: Şifre 8 ile 100 karakter arasında olmalıdır.
     error_password_required: Şifre gereklidir.
     error_role_required: Rol seçilmelidir.
