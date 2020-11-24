@@ -326,10 +326,12 @@ it:
   sidebar:
     about_fetlife: A proposito di Fetlife
     ad_stats: Statistiche annunci
+    advertisers: All Advertisers
     advertising: Pubblicità
     already_member: Sei già un membro?
     androidapp: Installa l'applicazione Android di Fetlife
     bug_bounty: Caccia ai bug
+    careers: Careers
     caretaking: Caretaking
     change_language: Cambia lingua
     close: chiudi
@@ -339,6 +341,7 @@ it:
     events: Eventi
     fetishes: Feticci
     following: Segui
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Se non riesci a leggere questo... probabilmente hai bisogno degli occhiali! - John 4:69
@@ -384,10 +387,10 @@ it:
     error_email: Stiamo avendo problemi ad elaborare l'email di cui sopra. Ti consigliamo di verificare l'ortografia o provarne una diversa.
     error_gender_required: Il sesso deve essere selezionato.
     error_nickname: Il nickname è già in uso.
-    error_nickname_tracked_term: Il nickname non può contenere la parola &colon; '%{term}'.
     error_nickname_characters: Il nickname può contenere solo lettere, numeri, trattini alti e bassi; niente spazi.
     error_nickname_length: Il nickname deve essere compreso tra 2 e 16 caratteri.
     error_nickname_required: Il nickname è richiesto.
+    error_nickname_tracked_term: Il nickname non può contenere la parola &colon; '%{term}'.
     error_password_range: La password deve essere tra 8 e 100 caratteri.
     error_password_required: La password è richiesta.
     error_role_required: Il ruolo deve essere selezionato.

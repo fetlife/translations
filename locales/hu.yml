@@ -326,10 +326,12 @@ hu:
   sidebar:
     about_fetlife: Amit a Fetlife-ról tudni lehet
     ad_stats: Hirdetési statisztikák
+    advertisers: All Advertisers
     advertising: Hirdetés
     already_member: Already a member?
     androidapp: FetLife Android App telepítése
     bug_bounty: Hiba vadászat
+    careers: Careers
     caretaking: Ügyfélszolgálat
     change_language: Nyelv kiválasztása
     close: bezárás
@@ -339,6 +341,7 @@ hu:
     events: Események
     fetishes: Fétisek
     following: Követés
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Ha ezt nem tudod elolvasni talán nincs is ide írva! - János 4:69
@@ -384,10 +387,10 @@ hu:
     error_email: A megadott email cím nem tűnik megfelelőnek. Kérlek ellenőrízd, hogy nem irtad-e el, esetleg adj meg egy másikat.
     error_gender_required: Márpedig a nemed fontos nekünk.
     error_nickname: Az a felhasználó név már foglalt.
-    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Felhasználó név nélkül nehézkes ;)
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_password_range: A te jelszavad pedig légyen legalább 8 de nem több mint 100 karakter.
     error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.

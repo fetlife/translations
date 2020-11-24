@@ -331,10 +331,12 @@ sk:
   sidebar:
     about_fetlife: O Fetlife
     ad_stats: Reklamné Štatistiky
+    advertisers: All Advertisers
     advertising: Reklamné služby
     already_member: Already a member?
     androidapp: Install FetLife's Android App
     bug_bounty: Odmena za nahlásené chyby
+    careers: Careers
     caretaking: Správcovia
     change_language: Zmeniť jazyk
     close: zatvoriť
@@ -344,6 +346,7 @@ sk:
     events: Udalosti
     fetishes: Fetiše
     following: Sledované
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Ak nevieš prečítať toto... tak potrebuješ okuliare! - Ján 4:69
@@ -389,10 +392,10 @@ sk:
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.
     error_gender_required: Pohlavie je povinné.
     error_nickname: Prezývka je už obsadená.
-    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Prezývka je povinná.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_password_range: Heslo musí mať 8 až 100 znakov.
     error_password_required: Heslo je povinné.
     error_role_required: Rola je povinná.

@@ -326,10 +326,12 @@ fr:
   sidebar:
     about_fetlife: À propos de Fetlife
     ad_stats: Statistiques d’annonces
+    advertisers: All Advertisers
     advertising: Publicité
     already_member: Déjà membre?
     androidapp: Installer l’app Android de FetLife
     bug_bounty: Prime pour bug
+    careers: Careers
     caretaking: Outils de gestion
     change_language: Changer de langue
     close: fermer
@@ -339,6 +341,7 @@ fr:
     events: Événements
     fetishes: Fétiches
     following: Suivi
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Amis & Abonnés
     funny_quote: Si vous ne pouvez pas lire ceci… vous avez probablement besoin de lunettes ! - John 4:69
@@ -384,10 +387,10 @@ fr:
     error_email: Nous avons des problèmes avec le traitement de l’adresse mail ci-dessus. Nous vous recommandons d’en vérifier l’orthographe ou d’en essayer une autre.
     error_gender_required: Le genre doit être sélectionné.
     error_nickname: Ce pseudo est déjà pris.
-    error_nickname_tracked_term: Les pseudo ne peuvent contenir le mot '%{term}'.
     error_nickname_characters: Les pseudo ne peuvent contenir que des lettres, des chiffres, des tirets et des soulignés; aucun espace.
     error_nickname_length: Le pseudo doit comporter entre 2 et 16 caractères.
     error_nickname_required: Le pseudo est obligatoire.
+    error_nickname_tracked_term: Les pseudo ne peuvent contenir le mot '%{term}'.
     error_password_range: Le mot de passe doit être compris entre 8 et 100 caractères.
     error_password_required: Le mot de passe est obligatoire.
     error_role_required: Le rôle doit être sélectionné.

@@ -332,10 +332,12 @@ ru:
   sidebar:
     about_fetlife: Наша Команда
     ad_stats: Рекламная Статистика
+    advertisers: All Advertisers
     advertising: Реклама
     already_member: Уже зарегистрированы?
     androidapp: Установить Приложение для Android
     bug_bounty: Сообщить об Ошибке
+    careers: Careers
     caretaking: Caretaker Tools
     change_language: Сменить Язык
     close: закрыть
@@ -345,6 +347,7 @@ ru:
     events: Мероприятия
     fetishes: Фетиши
     following: Подписки
+    formatting: Formatting Guidelines
     fp: Свежее & Пошлое
     friends_and_following: Друзья и Подписки
     funny_quote: Если вы не можете это прочитать ... вероятно, вам нужны очки! - Иоанн 4:69
@@ -390,10 +393,10 @@ ru:
     error_email: У нас возникли проблемы с обработкой вышеуказанного адреса электронной почты. Мы рекомендуем вам проверить написание или попробовать другой.
     error_gender_required: Необходимо указать Пол.
     error_nickname: Никнейм уже занят.
-    error_nickname_tracked_term: Никнейм не может содержать в себе слово '%{term}'.
     error_nickname_characters: Никнейм может только содержать буквы, цифры, тире и нижнее подчёркивание; без пробелов.
     error_nickname_length: Никнейм должен быть длиной от 2 до 16 символов.
     error_nickname_required: Укажите никнейм.
+    error_nickname_tracked_term: Никнейм не может содержать в себе слово '%{term}'.
     error_password_range: Пароль должен быть длиной от 8 до 100 символов.
     error_password_required: Укажите пароль.
     error_role_required: Необходимо указать Роль.

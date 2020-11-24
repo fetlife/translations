@@ -326,10 +326,12 @@ zh:
   sidebar:
     about_fetlife: 关于 Fetlife
     ad_stats: 广告统计
+    advertisers: All Advertisers
     advertising: 广告
     already_member: 已经注册过？
     androidapp: 安装 FetLife Android 应用
     bug_bounty: 悬赏 Bug
+    careers: Careers
     caretaking: 社区管理工具
     change_language: 更改语言
     close: 关闭
@@ -339,6 +341,7 @@ zh:
     events: 线下活动
     fetishes: 癖好
     following: 我关注的
+    formatting: Formatting Guidelines
     fp: 鲜嫩多汁
     friends_and_following: Friends & Following
     funny_quote: 如果你看不清的话……你大约需要眼镜了！——约翰福音 4:69
@@ -384,10 +387,10 @@ zh:
     error_email: 我们无法成功处理该地址。请检查地址是否正确，或者更换其它地址重试。
     error_gender_required: 性别必选。
     error_nickname: 昵称已被占用。
-    error_nickname_tracked_term: 昵称中不能包含 '%{term}' 这个词。
     error_nickname_characters: 昵称只可包含字母、数字、横杠（-）和下划线（_）；不可包含空格。
     error_nickname_length: 昵称长度须在 2 - 16 个字符之间。
     error_nickname_required: 昵称必填。
+    error_nickname_tracked_term: 昵称中不能包含 '%{term}' 这个词。
     error_password_range: 密码长度须在 8 - 100 之间。
     error_password_required: 密码必填。
     error_role_required: 角色必选。
