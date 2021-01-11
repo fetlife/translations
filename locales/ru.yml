@@ -332,10 +332,12 @@ ru:
   sidebar:
     about_fetlife: Наша Команда
     ad_stats: Рекламная Статистика
+    advertisers: All Advertisers
     advertising: Реклама
     already_member: Уже зарегистрированы?
     androidapp: Установить Приложение для Android
     bug_bounty: Сообщить об Ошибке
+    careers: Careers
     caretaking: Caretaker Tools
     change_language: Сменить Язык
     close: закрыть
@@ -345,6 +347,7 @@ ru:
     events: Мероприятия
     fetishes: Фетиши
     following: Подписки
+    formatting: Formatting Guidelines
     fp: Свежее & Пошлое
     friends_and_following: Друзья и Подписки
     funny_quote: Если вы не можете это прочитать ... вероятно, вам нужны очки! - Иоанн 4:69
@@ -380,6 +383,7 @@ ru:
   signup:
     almost_there: Мы почти закончили!
     error_bar: Хьюстон, у нас проблема. Прокрутите вниз для получения дополнительной информации.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Укажите дату рождения.
     error_birthdate_too_old: Вы слишком стары.
     error_birthdate_too_young: Извините, вам должно быть 18 или больше, чтобы зарегистрироваться.
@@ -389,10 +393,10 @@ ru:
     error_email: У нас возникли проблемы с обработкой вышеуказанного адреса электронной почты. Мы рекомендуем вам проверить написание или попробовать другой.
     error_gender_required: Необходимо указать Пол.
     error_nickname: Никнейм уже занят.
-    error_nickname_bad_word: Никнейм не может содержать в себе слово '%{word}'.
     error_nickname_characters: Никнейм может только содержать буквы, цифры, тире и нижнее подчёркивание; без пробелов.
     error_nickname_length: Никнейм должен быть длиной от 2 до 16 символов.
     error_nickname_required: Укажите никнейм.
+    error_nickname_tracked_term: Никнейм не может содержать в себе слово '%{term}'.
     error_password_range: Пароль должен быть длиной от 8 до 100 символов.
     error_password_required: Укажите пароль.
     error_role_required: Необходимо указать Роль.
@@ -571,7 +575,7 @@ ru:
         extra_info: Мы принимаем Visa, V Pay, Mastercard и Maestro. Это легко и безопасно.
         title: Кредитная Карта
       cc_trustpay:
-        extra_info: Мы принимаем Visa, Mastercard и American Express. Это легко и безопасно.
+        extra_info: Мы принимаем Visa и Mastercard. Это легко и безопасно.
         title: Кредитная Карта
       coingate:
         extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.

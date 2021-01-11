@@ -328,10 +328,12 @@ pl:
   sidebar:
     about_fetlife: Poznaj nasz team
     ad_stats: Statystyki reklam
+    advertisers: All Advertisers
     advertising: Reklama
     already_member: Jesteś już członkiem?
     androidapp: Zainstaluj appkę na Androida
     bug_bounty: Premia za znalezienie bugów
+    careers: Careers
     caretaking: Narzędzia dla opiekunów
     change_language: Zmień język
     close: zamknij
@@ -341,6 +343,7 @@ pl:
     events: Wydarzenia
     fetishes: Fetysze
     following: Śledzenie
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Jeśli nie możesz tego przeczytać ... to pewnie potrzebujesz okularów! - John 4:69
@@ -376,6 +379,7 @@ pl:
   signup:
     almost_there: Już prawie!
     error_bar: Houston, mamy problem. Zjedź niżej po więcej informacji.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Data urodzenia jest wymagana.
     error_birthdate_too_old: Jesteś za stary.
     error_birthdate_too_young: Sorry, musisz mieć co najmniej 18 lat żeby do nas dołączyć.
@@ -385,10 +389,10 @@ pl:
     error_email: Mamy kłopoty z powyższym adresem e-mail. Sprawdź pisownię albo spróbuj innego.
     error_gender_required: Musisz podać płeć.
     error_nickname: Ksywka jest już używana.
-    error_nickname_bad_word: Ksywka nie może zawierać '%{word}'.
     error_nickname_characters: Ksywka może zawierać tylko litery, cyfry, myślniki i podkreślniki; nie może zawierać spacji.
     error_nickname_length: Ksywka musi mieć długość od 2 do 16 znaków.
     error_nickname_required: Ksywka jest wymagana.
+    error_nickname_tracked_term: Ksywka nie może zawierać '%{term}'.
     error_password_range: Hasło musi mieć długość od 8 do 100 znaków.
     error_password_required: Hasło jest wymagane.
     error_role_required: Rola jest wymagana.
@@ -567,7 +571,7 @@ pl:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       cc_trustpay:
-        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.

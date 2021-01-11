@@ -205,7 +205,7 @@ en:
     subtitle: We've missed you… big time!
     title: Welcome Home
   logout:
-    log_in: log back in
+    log_in: Log back in
     subtitle: Make sure to come back and see us soon.
     title: We'll Miss You!
   member_stats:
@@ -326,10 +326,12 @@ en:
   sidebar:
     about_fetlife: Meet the Team
     ad_stats: Ad Stats
+    advertisers: All Advertisers
     advertising: Advertising
     already_member: Already a member?
     androidapp: Install FetLife Android App
     bug_bounty: Bug Bounty
+    careers: Careers
     caretaking: Caretaker Tools
     change_language: Change Language
     close: close
@@ -339,6 +341,7 @@ en:
     events: Events
     fetishes: Fetishes
     following: Following
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: If you can read this, you have really good eye sight! - John 4:69
@@ -374,6 +377,7 @@ en:
   signup:
     almost_there: Almost There!
     error_bar: Dallas, we have a problem. Scroll down for more info.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Date of birth is required.
     error_birthdate_too_old: You are too old.
     error_birthdate_too_young: Sorry, you must be 18 or older to join.
@@ -383,10 +387,10 @@ en:
     error_email: We're having problems processing the above email address. We recommend you verify the spelling or try a different one.
     error_gender_required: Gender has to be selected.
     error_nickname: Nickname is already taken.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Nickname is required.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_password_range: Password needs to be between 8 and 100 characters.
     error_password_required: Password is required.
     error_role_required: Role has to be selected.
@@ -565,7 +569,7 @@ en:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       cc_trustpay:
-        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.

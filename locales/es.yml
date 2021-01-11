@@ -326,10 +326,12 @@ es:
   sidebar:
     about_fetlife: Conozca a nuestro equipo
     ad_stats: Estadísticas de anuncios
+    advertisers: All Advertisers
     advertising: Anuncios
     already_member: Already a member?
     androidapp: Instalar app de FetLife para Android
     bug_bounty: Bug Bounty
+    careers: Careers
     caretaking: Cuidadores
     change_language: Cambiar idioma
     close: cerrar
@@ -339,6 +341,7 @@ es:
     events: Eventos
     fetishes: Fetiches
     following: Siguiendo
+    formatting: Formatting Guidelines
     fp: Fresco & Pervertido
     friends_and_following: Friends & Following
     funny_quote: Si no puede leer esto… ¡es probable que necesite gafas! - Juan 4:69
@@ -374,6 +377,7 @@ es:
   signup:
     almost_there: "¡Casi estamos!"
     error_bar: Dallas, tenemos un problema. Desplácese hacia abajo para obtener más información.
+    error_bar_invalid_credentials: Parece que su Apodo, Correo Electrónico, o Contraseña son incorrectos. Por favor intente nuevamente!
     error_birthdate: Se requiere fecha de nacimiento.
     error_birthdate_too_old: Usted es demasiado viejo.
     error_birthdate_too_young: Lo sentimos, debe usted tener 18 años o más para unirse.
@@ -383,10 +387,10 @@ es:
     error_email: Estamos teniendo problemas para el procesamiento de la dirección de correo electrónico anterior. Le recomendamos que compruebe que lo ha escrito bien o lo intente con uno diferente.
     error_gender_required: Se requiere su género.
     error_nickname: El apodo ya está ocupado.
-    error_nickname_bad_word: El apodo no puede contener la palabra '%{word}'.
     error_nickname_characters: El apodo solo puede tener letras, números, guiones y guiones bajos; sin espacios.
     error_nickname_length: El apodo debe tener entre 2 y 16 caracteres de largo.
     error_nickname_required: Se requiere su apodo.
+    error_nickname_tracked_term: El apodo no puede contener la palabra '%{term}'.
     error_password_range: La contraseña debe tener entre 8 y 100 caracteres.
     error_password_required: Se requiere su contraseña.
     error_role_required: Se requiere su rol.
@@ -565,7 +569,7 @@ es:
         extra_info: Aceptamos Visa, V Pay, Mastercard y Maestro. Es sencillo y seguro.
         title: Tarjeta de crédito
       cc_trustpay:
-        extra_info: Aceptamos Visa, Mastercard y American Express. Es sencillo y seguro.
+        extra_info: Aceptamos Visa y Mastercard. Es sencillo y seguro.
         title: Tarjeta de crédito
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.

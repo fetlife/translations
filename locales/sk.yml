@@ -331,10 +331,12 @@ sk:
   sidebar:
     about_fetlife: O Fetlife
     ad_stats: Reklamné Štatistiky
+    advertisers: All Advertisers
     advertising: Reklamné služby
     already_member: Already a member?
     androidapp: Install FetLife's Android App
     bug_bounty: Odmena za nahlásené chyby
+    careers: Careers
     caretaking: Správcovia
     change_language: Zmeniť jazyk
     close: zatvoriť
@@ -344,6 +346,7 @@ sk:
     events: Udalosti
     fetishes: Fetiše
     following: Sledované
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Ak nevieš prečítať toto... tak potrebuješ okuliare! - Ján 4:69
@@ -379,6 +382,7 @@ sk:
   signup:
     almost_there: Už si skoro tam!
     error_bar: Dallas, máme problém. Pozri nižšie pre viac informácií
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Dátum narodenia je povinný.
     error_birthdate_too_old: Tvoj vek je príliž vysoký.
     error_birthdate_too_young: Tvoj vek nie je dostatočný (musíš mať aspoň 18 rokov).
@@ -388,10 +392,10 @@ sk:
     error_email: Máme problémy so spracovaním zadanej emailovej adresy. Odporúčame ti skontrolovať preklepy alebo skúsiť inú.
     error_gender_required: Pohlavie je povinné.
     error_nickname: Prezývka je už obsadená.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Prezývka je povinná.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_password_range: Heslo musí mať 8 až 100 znakov.
     error_password_required: Heslo je povinné.
     error_role_required: Rola je povinná.
@@ -570,7 +574,7 @@ sk:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       cc_trustpay:
-        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.

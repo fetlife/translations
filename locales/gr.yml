@@ -326,10 +326,12 @@ gr:
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
     ad_stats: Στατιστικά Διαφημίσεων
+    advertisers: All Advertisers
     advertising: Διαφήμιση
     already_member: Already a member?
     androidapp: Install FetLife's Android App
     bug_bounty: Αμοιβές για Bugs
+    careers: Careers
     caretaking: Caretaking
     change_language: Αλλαγή Γλώσσας
     close: Κλείσιμο
@@ -339,6 +341,7 @@ gr:
     events: Εκδηλώσεις
     fetishes: Φετίχ
     following: Παρακολούθηση
+    formatting: Formatting Guidelines
     fp: Fresh & Pervy
     friends_and_following: Friends & Following
     funny_quote: Αν δεν μπορείτε να διαβάσετε αυτό ... χρειαζόσαστε γυαλιά! - Ιωάννης 4:69
@@ -374,6 +377,7 @@ gr:
   signup:
     almost_there: Σχεδόν τελειώσατε!
     error_bar: Χιούστον, έχουμε πρόβλημα. Μετακινηθείτε προς τα κάτω για παραπάνω πληροφορίες.
+    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
     error_birthdate: Απαιτείται ημερομηνία γέννησης.
     error_birthdate_too_old: Eίστε πολύ μεγάλος.
     error_birthdate_too_young: Δεν είστε αρκετά μεγάλος (πρέπει να είστε τουλάχιστον 18 χρονών).
@@ -383,10 +387,10 @@ gr:
     error_email: Αντιμετωπίσαμε πρόβλημα με την επεξεργασία αυτού του email. Συνιστούμε να κοιτάξετε την ορθογραφία ή να δοκιμάσετε κάποιο άλλο.
     error_gender_required: Πρέπει να επιλέξετε τo γένος.
     error_nickname: Το ψευδώνυμο χρησιμοποιείται ήδη.
-    error_nickname_bad_word: Nickname can't have the word '%{word}' in it.
     error_nickname_characters: Nickname can only contain letters, numbers, dashes and underscores; no spaces.
     error_nickname_length: Nickname has to be between 2 and 16 characters long.
     error_nickname_required: Απαιτείται ψευδώνυμο.
+    error_nickname_tracked_term: Nickname can't have the word '%{term}' in it.
     error_password_range: Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 8 και 100 χαρακτήρων.
     error_password_required: Απαιτείται κωδικός πρόσβασης.
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
@@ -565,7 +569,7 @@ gr:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
         title: Credit Card
       cc_trustpay:
-        extra_info: We accept Visa, Mastercard, and American Express. It's easy and secure.
+        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
