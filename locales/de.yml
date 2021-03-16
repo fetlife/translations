@@ -214,7 +214,7 @@ de:
       other: "%{count_with_delimiter} Bilder"
     posts:
       one: 1 Text
-      other: "%{count_with_delimiter} Texte"
+      other: "%{count_with_delimiter} Schriften"
     vids:
       one: 1 Video
       other: "%{count_with_delimiter} Videos"
@@ -227,7 +227,7 @@ de:
     places: Orte
     search_placeholder: FetLife durchsuchen
     videos: Videos
-    writings: Texte
+    writings: Schriften
   page_break:
     of: von
   privacy:
@@ -293,8 +293,8 @@ de:
     blocked_list_subtitle: Für die auf Deiner Liste der Ungezogenen.
     blocked_list_title: Liste von Dir gesperrter Mitglieder
     cb_feed: Nicht-Freunden erlauben, mir in ihrer Aktivitätschronik zu folgen
-    cb_fp: Meinen nicht-privaten Texten erlauben, auf Frisch & Pervers zu erscheinen
-    cb_kp: Meinen nicht-privaten Texten erlauben, auf Kinky & Beliebt zu erscheinen
+    cb_fp: Meinen nicht-privaten Schriften erlauben, auf Frisch & Pervers zu erscheinen
+    cb_kp: Meinen nicht-privaten Schriften erlauben, auf Kinky & Beliebt zu erscheinen
     content_privacy: Privatsphäre für Inhalte
     cta: Speichere Einstellungen der Privatsphäre
     following: Folgen
@@ -373,7 +373,7 @@ de:
     wallpapers: FetLife-Wallpapers
     whats_new: Neuigkeiten
     write_post: Neuer Text
-    writings: Texte
+    writings: Schriften
   signup:
     almost_there: Fast geschafft!
     error_bar: Dallas, wir haben ein Problem. Scrolle für mehr Informationen nach unten.
@@ -466,8 +466,8 @@ de:
       pictures_short: Bilder
       videos: Videos
       videos_short: Vids
-      writings: Texte
-      writings_short: Texte
+      writings: Schriften
+      writings_short: Schriften
     settings:
       account: Mitgliedskonto
       account_short: Mitglied
@@ -489,8 +489,8 @@ de:
       item_6: Gehe <span>25x weiter</span> in Deiner Aktivitätschronik zurück.
       item_7: Gehe <span>25x weiter</span> in Deiner @You-Aktivitätschronik zurück.
       item_8: "<span>Passe</span> Deine Freund:innen-Aktivitätschronik nach Belieben <span>an</span>."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: "Start a <span>group chat</span> with up to 10 kinksters."
+      item_9: "Die Möglichkeit, auf deinem Mobilgerät <span>eingebettete Anzeigen auszublenden.</span>"
+      item_10: "Beginne einen <span>Gruppen-Chat</span> mit bis zu zehn Kinkstern."
       item_11: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
       list_description: 'Für nur $5 pro Monat hilfst Du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
       list_footer: Alles für weniger als den Preis einer Flasche Gleitmittel… Jedoch empfehlen wir nicht Gleitmittel durch Rapsöl zu ersetzen… Das funktioniert nicht so gut.
