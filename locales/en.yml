@@ -333,11 +333,11 @@ en:
     bug_bounty: Bug Bounty
     careers: Careers
     caretaking: Caretaker Tools
-    change_language: Change Language
+    change_language: Language
     close: close
     contact_us: Contact Us
     edit_profile: Edit Profile
-    edit_settings: Update Settings
+    edit_settings: Settings
     events: Events
     fetishes: Fetishes
     following: Following
@@ -356,7 +356,7 @@ en:
     log_out: Log Out
     login: Log In
     loved_stuff: Stuff You Love
-    need_help: Need Help?
+    need_help: Help
     open_source: Open Source
     places: Places
     preservation_requests: Preservation Requests
