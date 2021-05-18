@@ -60,7 +60,7 @@ pt:
       cta: Enviar e-mail com instruções
       error_forgot_email: Um endereço de e-mail é necessário.
       error_invalid_email: Isso não parece ser um endereço de e-mail válido. Por favor, verifique se está correcto e tente novamente.
-      error_quota: Nós recentemente enviamos um email de recuperação para o endereço de email abaixo. Pode demorar entre 5 e 10 minutos para que o email apareça na sua caixa de entrada. Por favor verifique se seu email não caiu na caixa de spam. Se depois de 10 minutos você não estiver receo email você pode tentar redefinir sua senha novamente.
+      error_quota: Nós recentemente enviamos um email de recuperação para o endereço de email abaixo. Pode demorar de 5 a 10 minutos para que o email apareça na sua caixa de entrada. Por favor verifique se seu email não caiu na caixa de spam. Se depois de 10 minutos você não estiver recebido o email você pode tentar redefinir sua senha novamente.
       placeholder: Endereço de e-mail
       step1:
         page_title: Redefinir Senha por Email
@@ -128,7 +128,7 @@ pt:
     last_updated: 'Última actualização:'
     sections:
       guidelines:
-        description: De forma a ajudar a tornar o Fetlife um sítio fantástico para todos, nós pedimos gentilmente a todos para seguirem as Diretrizes para o conteúdo, para a comunidade e para os grupos.
+        description: De forma a ajudar a tornar o Fetlife um sítio fantástico para todos, nós pedimos gentilmente a todos para seguirem as diretrizes para o conteúdo, para a comunidade e para os grupos.
         title: Diretrizes
       legalese:
         description: Esta secção contém os Termos de Utilização, com a qual todos os membros concordaram quando se registaram no Fetlife. Nós tentamos manter as coisas simples e claras sempre que possível!
@@ -136,7 +136,7 @@ pt:
       privacy:
         description: O quão seguro estão os seus dados e o quê que o Fetlife faz em relação à sua segurança? No Fetlife, nós processamos os seus dados como gostaríamos que os nossos fossem processados.
         title: Privacidade
-    subheader: Você vai encontrar as Diretrizes do nosso portal, documentação legal e política de privacidade aqui.
+    subheader: Você vai encontrar as diretrizes do nosso portal, documentação legal e política de privacidade aqui.
     subnav:
       community: Comunidade
       content: Conteúdo
@@ -482,7 +482,7 @@ pt:
       support_short: Suporte
   support:
     benefits:
-      item_1: Um sexy crachá <span>Eu Apóio o FetLife</span> no seu perfil.
+      item_1: Um sexy crachá <span>Eu Apoio o FetLife</span> no seu perfil.
       item_2: Fotos pervertidas <span>mais de 5000 do mais popular de hoje</span>, vídeos, e textos.
       item_3: Visualize <span>todos os %{number}+ vídeos</span> partilhados pela comunidade.
       item_4: Perv <span>todas as %{number}+ fotografias</span> assim que são partilhadas.
