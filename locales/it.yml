@@ -574,8 +574,8 @@ it:
         extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
-        extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)

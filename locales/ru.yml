@@ -580,8 +580,8 @@ ru:
         extra_info: Мы принимаем Visa и Mastercard. Это легко и безопасно.
         title: Кредитная Карта
       coingate:
-        extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
-        title: Биткоин
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает EPS в Австрии.
         title: Austrian Bank Transfer (EPS)

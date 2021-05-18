@@ -574,8 +574,8 @@ fr:
         extra_info: Nous acceptons Visa et Mastercard. C'est simple et sécurisé.
         title: Carte de crédit
       coingate:
-        extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant EPS en Autriche.
         title: Virement bancaire autrichien (EPS)

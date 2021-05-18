@@ -574,8 +574,8 @@ de:
         extra_info: Wir akzeptieren Visa und Mastercard. Es ist leicht und sicher.
         title: Kreditkarte
       coingate:
-        extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den Uneingeweihten helfen wir durch den Prozess.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)

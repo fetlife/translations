@@ -574,8 +574,8 @@ tr:
         extra_info: Visa ve Mastercard kabul ediyoruz. Kolay ve güvenli.
         title: Kredi Kartı
       coingate:
-        extra_info: Bitcoin göründüğü kadar karmaşık değildir. Ve başlatılmamış olanlar için, süreç boyunca elinizi tutacağız.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Avusturya'da EPS'yi destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Avusturya Banka Havalesi (EPS)
