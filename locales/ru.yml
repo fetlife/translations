@@ -679,14 +679,14 @@ ru:
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_coingate:
-      cta: Поддержать FetLife при помощи Биткоинов
-      intro: 'Биткоин это цифровая валюта. Вот некоторые полезные видео:'
-      secure: Надёжно как Форт Нокс
-      title: Как пользоваться Биткоинами
-      title_html: Как пользоваться Биткоинами
-      wallets_list_header: 'У нас есть положительный опыт со следующими провайдерами Биткоин Кошельков:'
-      wallets_title: Рекомендованный Биткоин Кошельки
-      what: Что такое Биткоин?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Адрес
       address_sub_label: связанный с банковским счётом

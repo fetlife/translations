@@ -673,14 +673,14 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:
-      cta: Unterstütze FetLife via Bitcoin
-      intro: 'Bitcoin ist eine digitale Währung. Einige Einführungsvideos, die wir gerne angeschaut haben:'
-      secure: So sicher wie Fort Knox
-      title: Anleitung für Bitcoin
-      title_html: Anleitung für Bitcoin
-      wallets_list_header: 'Wir hatten gute Erfahrungen mit dem folgenden Anbieter von Wallets:'
-      wallets_title: Empfohlene Bitcoin-Wallets
-      what: Was ist Bitcoin?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Adresse
       address_sub_label: zum Konto gehörig
