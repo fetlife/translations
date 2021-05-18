@@ -483,6 +483,7 @@ zh:
   support:
     benefits:
       item_1: 你的资料页上会有一个性感的 <span>I Support FetLife</span> 图标。
+      item_10: 第一时间<span>体验最新功能</span>！
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: 观看社区里分享的<span>全部 %{number}+ 部视频</span>。
       item_4: 随意查看<span>全部 %{number}+ 张用户分享的图片</span>。
@@ -490,8 +491,7 @@ zh:
       item_6: 好友动态可向前滚动的历史变长<span>25 倍</span>。
       item_7: "@你的动态可向前滚动的历史变长<span>25 倍</span>。"
       item_8: 如你所愿<span>自定义你的动态页</span>。
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: 第一时间<span>体验最新功能</span>！
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 每月只要 $5 美元，除了支持 FetLife 的开发维护外，你还能：
       list_footer: 比一瓶润滑剂还便宜呢……不过我们还是不建议你用菜籽油来代替润滑剂……不是那么好用。
       thank_you: 没有你的赞助，就没有 FetLife。FetLife 大家庭忠心向你表示感谢！

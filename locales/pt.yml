@@ -483,6 +483,7 @@ pt:
   support:
     benefits:
       item_1: Um sexy crachá <span>I Support FetLife</span> no seu perfil.
+      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Visualize <span>todos os %{number}+ vídeos</span> partilhados pela comunidade.
       item_4: Perv <span>todas as %{number}+ fotografias</span> assim que são partilhadas.
@@ -490,8 +491,7 @@ pt:
       item_6: Ande <span>25x mais</span> atrás no Feed dos seus amigos.
       item_7: Ande <span>25x mais</span> atrás no seu @You Feed.
       item_8: "<span>Personalize o Feed do seu amigo(a)</span> para o conteúdo do seu coração."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Por apenas $5 por mês, você não só ajuda o desenvolvimento contínuo do FetLife mas também recebe:'
       list_footer: Tudo por menos do que o preço de uma embalagem de lubrificante… apesar de que não recomendamos que você substitua óleo de canola por lubrificante… esse não funciona tão bem.
       thank_you: Sem o seu apoio, o Fetlife não existia. Um muito obrigado de toda a família Fetlife!
