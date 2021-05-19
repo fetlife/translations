@@ -60,7 +60,7 @@ pt:
       cta: Enviar e-mail com instruções
       error_forgot_email: Um endereço de e-mail é necessário.
       error_invalid_email: Isso não parece ser um endereço de e-mail válido. Por favor, verifique se está correcto e tente novamente.
-      error_quota: Nós recentemente enviamos um email de recuperação para o endereço de email abaixo. Pode demorar de 5 a 10 minutos para que o email apareça na sua caixa de entrada. Por favor verifique se seu email não caiu na caixa de spam. Se depois de 10 minutos você não estiver recebido o email você pode tentar redefinir sua senha novamente.
+      error_quota: Nós recentemente enviamos um email de recuperação para o endereço de email acima. Pode demorar de 5 a 10 minutos para que o email apareça na sua caixa de entrada. Por favor verifique se seu email não caiu na caixa de spam. Se após 10 minutos você não receber o email você pode tentar redefinir sua senha novamente.
       placeholder: Endereço de e-mail
       step1:
         page_title: Redefinir Senha por Email
@@ -313,7 +313,7 @@ pt:
     subtitle: Crescimento pessoal é uma boa coisa.
     title: O seu Perfil
     website_url_cant_be_blank: A URL do site não pode ficar em branco
-    website_url_too_long: URL muito longa (maximum is %{count} characters)
+    website_url_too_long: URL muito longa (máximo %{count} caracteres)
     websites_label: Sítios
     websites_placeholder: https://fetlife.com
   settings_support:
