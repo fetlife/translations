@@ -500,7 +500,7 @@ fr:
       ach: Virement bancaire (ACH)
       cc_curo: Carte de crédit
       cc_trustpay: Carte de crédit
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL

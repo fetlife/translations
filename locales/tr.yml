@@ -500,7 +500,7 @@ tr:
       ach: Banka Transferi (ACH)
       cc_curo: Kredi Kartı
       cc_trustpay: Kredi Kartı
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL

@@ -500,7 +500,7 @@ en:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
       cc_trustpay: Credit Card
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -674,7 +674,7 @@ en:
       title: Credit Card Payment
     step3_coingate:
       cta: Support FetLife via Cryptocurrency
-      intro: "Some intro videos we enjoyed watching:"
+      intro: 'Some intro videos we enjoyed watching:'
       secure: Secure as Fort Knox
       title: "“How To” for Cryptocurrency"
       title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
