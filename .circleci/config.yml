@@ -3,7 +3,7 @@ jobs:
   check:
     working_directory: ~/translations
     docker:
-      - image: circleci/ruby:2.7-jessie
+      - image: circleci/ruby:2.7.2-buster
     parallelism: 1
     steps:
       - checkout
@@ -27,7 +27,7 @@ jobs:
   deploy:
     working_directory: ~/translations
     docker:
-      - image: circleci/ruby:2.7-jessie
+      - image: circleci/ruby:2.7.2-buster
     parallelism: 1
     steps:
       - checkout
