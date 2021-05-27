@@ -25,9 +25,9 @@ pt:
     step: Passo
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
+      pics_and_vids_discoverability_a: Através da pesquisa da FetLife, suas fotos e vídeos só podem ser encontrados por amigos e seguidores. Se você quiser que outros FetLifers descubram suas fotos e vídeos kinksters, você pode atualizar suas configurações de privacidade.
+      pics_and_vids_discoverability_link: Vá para configurações
+      pics_and_vids_discoverability_q: Privacidade de fotos e vídeos
   feed:
     comment: Comentar
     comments_count:
@@ -60,7 +60,7 @@ pt:
       cta: Enviar e-mail com instruções
       error_forgot_email: Um endereço de e-mail é necessário.
       error_invalid_email: Isso não parece ser um endereço de e-mail válido. Por favor, verifique se está correcto e tente novamente.
-      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
+      error_quota: Nós recentemente enviamos um email de recuperação para o endereço de email acima. Pode demorar de 5 a 10 minutos para que o email apareça na sua caixa de entrada. Por favor verifique se seu email não caiu na caixa de spam. Se após 10 minutos você não receber o email você pode tentar redefinir sua senha novamente.
       placeholder: Endereço de e-mail
       step1:
         page_title: Redefinir Senha por Email
@@ -97,46 +97,46 @@ pt:
     next_step: próximo passo
     return_to_login: regressar ao login
     tab_email: E-mail
-    tab_mobile: Telemóvel
+    tab_mobile: Celular
   groups:
     new:
-      description_label: Description
-      description_placeholder: What's the group about?
-      loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
-      name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
-      terms_and_conditions_community_guidelines_link: Community Guidelines
-      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
-      terms_and_conditions_terms_of_use_link: Terms of Use
-      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+      description_label: Descrição
+      description_placeholder: Sobre o que é o grupo?
+      loader_text: Ah, você não fez isso!
+      membership_restrictions_label: Restrito a
+      membership_restrictions_placeholder: ex. submissos...
+      membership_restrictions_sub_label: deixe em branco se for aberto pra todos
+      name_label: Nome
+      name_placeholder: Qual é o nome do seu grupo?
+      page_title: Começe um novo grupo
+      return_to_groups_link_text: voltar para seus grupos
+      rules_label: Regras
+      rules_placeholder: Quais são as regras do grupo?
+      submit_button_text: Criar meu novo grupo
+      terms_and_conditions_community_guidelines_link: Diretrizes da comunidade
+      terms_and_conditions_group_leader_guidelines_link: Diretrizes do líder do grupo
+      terms_and_conditions_terms_of_use_link: Termos de uso
+      title_description: Um grupo é onde os kinksters podem se reunir para compartilhar experiências, interesses comuns, fazer planos e muito mais!
+      title_title: Criar um grupo novo
   guidelines:
-    header: Linhas de orientação do FetLife & Juridiquês
+    header: Diretrizes do FetLife & Juridiquês
     headers:
-      community: Linhas de orientação para a Comunidade
-      content: Linhas de orientação para o Conteúdo
-      group_leader: Linhas de orientação para Líderes de Grupo
+      community: Diretrizes para a Comunidade
+      content: Diretrizes para o Conteúdo
+      group_leader: Diretrizes para Líderes de Grupo
       values: Valores Orientadores
     last_updated: 'Última actualização:'
     sections:
       guidelines:
-        description: De forma a ajudar a tornar o Fetlife um sítio fantástico para todos, nós pedimos gentilmente a todos para seguirem as linhas de orientação para o conteúdo, para a comunidade e para os grupos.
-        title: Linhas de orientação
+        description: De forma a ajudar a tornar o Fetlife um sítio fantástico para todos, nós pedimos gentilmente a todos para seguirem as diretrizes para o conteúdo, para a comunidade e para os grupos.
+        title: Diretrizes
       legalese:
         description: Esta secção contém os Termos de Utilização, com a qual todos os membros concordaram quando se registaram no Fetlife. Nós tentamos manter as coisas simples e claras sempre que possível!
         title: Juridiquês
       privacy:
         description: O quão seguro estão os seus dados e o quê que o Fetlife faz em relação à sua segurança? No Fetlife, nós processamos os seus dados como gostaríamos que os nossos fossem processados.
         title: Privacidade
-    subheader: Você vai encontrar as linhas de orientação do nosso portal, documentação legal e política de privacidade aqui.
+    subheader: Você vai encontrar as diretrizes do nosso portal, documentação legal e política de privacidade aqui.
     subnav:
       community: Comunidade
       content: Conteúdo
@@ -312,8 +312,8 @@ pt:
     page_title: Atualizar Perfil
     subtitle: Crescimento pessoal é uma boa coisa.
     title: O seu Perfil
-    website_url_cant_be_blank: Website URL can't be blank
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
+    website_url_cant_be_blank: A URL do site não pode ficar em branco
+    website_url_too_long: URL muito longa (máximo %{count} caracteres)
     websites_label: Sítios
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -326,12 +326,12 @@ pt:
   sidebar:
     about_fetlife: Conheça a Equipa
     ad_stats: Estatísticas de Anúncios
-    advertisers: All Advertisers
+    advertisers: Todos os anunciantes
     advertising: Anúncios
     already_member: Já é um membro?
     androidapp: Instalar a aplicação do FetLife no Android
     bug_bounty: Bug Bounty
-    careers: Careers
+    careers: Carreira
     caretaking: Ferramentas do Caretaker
     change_language: Alterar Idioma
     close: fechar
@@ -341,9 +341,9 @@ pt:
     events: Eventos
     fetishes: Fetiches
     following: Seguindo
-    formatting: Formatting Guidelines
+    formatting: Guia de formatação
     fp: Fresh & Pervy
-    friends_and_following: Friends & Following
+    friends_and_following: Amigos & Seguindo
     funny_quote: Se você puder ler isso, você tem uma excelente visão! - John 4:69
     gift_support: Dar apoio ao Fetlife
     glossary: Glossário
@@ -397,7 +397,7 @@ pt:
     error_role_required: O papel deve seleccionado.
     error_sexual_orientation_required: A Orientação Sexual deve ser seleccionada.
     error_state_missing: O Distrito, Estado ou a Província deve ser seleccionado(a).
-    footnote: Ao clicar em "Completar Inscrição e Verificação", você aceita respeitar e seguir os nossos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Termos de Utilização</a>, a nossa <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de Privacidade</a>, e as <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Linhas de Orientação da Comunidade</a>.
+    footnote: Ao clicar em "Completar Inscrição e Verificação", você aceita respeitar e seguir os nossos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Termos de Utilização</a>, a nossa <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de Privacidade</a>, e as <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Diretrizes da Comunidade</a>.
     label:
       birthdate: Data de Nascimento
       city: Cidade
@@ -482,16 +482,16 @@ pt:
       support_short: Suporte
   support:
     benefits:
-      item_1: Um sexy crachá <span>I Support FetLife</span> no seu perfil.
-      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
-      item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
+      item_1: Um sexy crachá <span>Eu Apoio o FetLife</span> no seu perfil.
+      item_2: Fotos pervertidas <span>mais de 5000 do mais popular de hoje</span>, vídeos, e textos.
       item_3: Visualize <span>todos os %{number}+ vídeos</span> partilhados pela comunidade.
       item_4: Perv <span>todas as %{number}+ fotografias</span> assim que são partilhadas.
       item_5: Veja <span>tudo o que você amou</span>.
       item_6: Ande <span>25x mais</span> atrás no Feed dos seus amigos.
       item_7: Ande <span>25x mais</span> atrás no seu @You Feed.
       item_8: "<span>Personalize o Feed do seu amigo(a)</span> para o conteúdo do seu coração."
-      item_9: Option to <span>hide inline ads</span> on mobile.
+      item_9: "Opção para <span>ocultar anúncios lineares</span> no celular."
+      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
       list_description: 'Por apenas $5 por mês, você não só ajuda o desenvolvimento contínuo do FetLife mas também recebe:'
       list_footer: Tudo por menos do que o preço de uma embalagem de lubrificante… apesar de que não recomendamos que você substitua óleo de canola por lubrificante… esse não funciona tão bem.
       thank_you: Sem o seu apoio, o Fetlife não existia. Um muito obrigado de toda a família Fetlife!
@@ -507,7 +507,7 @@ pt:
       interac: Interac e-Transfer
       mail: Carta
       paygarden: Cartão Presente
-      paysafe: Paysafecard
+      paysafe: paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
       sepa: Débito direto SEPA
@@ -547,7 +547,7 @@ pt:
       question_q: Q. Tem alguma pergunta a colocar?
       renew_a: Nunca. Nós queremos ganhar o seu suporte sempre.
       renew_q: Q. Vocês renovam automaticamente o meu apoio?
-      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
+      return_a: Nós temos uma política de devolução no prazo de 7 dias. Contudo, infelizmente, se você nos apoiou utilizando uma troca por cartão presente, POLi, Bitcoin, ou Paysafecard, devido ao modo de funcionamento deles, a política de devolução não se aplica.
       return_q: Q. Qual é a vossa política de devolução?
       secure_a: Sim, muito. O portal FetLife não armazena nenhuma informação pessoal sua nos nossos servidores. Nós apenas utilizamos a informação providenciada por você para processar a transação e é apenas isto.
       secure_q: Q. Isto é seguro?
@@ -597,7 +597,7 @@ pt:
         extra_info: Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, Home Depot, and Build-A-Bear.
         title: Major Brand Gift Card Trade-In
       paysafe:
-        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
+        extra_info: Você pode comprar um cartão Paysafecard e utilizá-lo para apoiar o FetLife, em mais de 500,000 lojas físicas, localizadas em 43 países em todo o mundo.
         title: Paysafecard pré-pago
       poli:
         extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária na Austrália ou na Nova Zelândia.
@@ -711,7 +711,7 @@ pt:
       postal_code_label: Código postal
       postal_code_sub_label: associado à conta bancária
       routing_number_label: Código BIC / SWIFT
-      routing_number_placeholder: Bank Identifier Code
+      routing_number_placeholder: Código identificador do banco
       routing_number_sub_label: 8 ou 11 caracteres de comprimento
       secure: Seguro como o Fort Knox e nós não armazenamos qual informação pessoal sua.
       title: Pagamento giropay
