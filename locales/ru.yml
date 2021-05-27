@@ -489,6 +489,7 @@ ru:
   support:
     benefits:
       item_1: Сексуальный значок <span>I Support FetLife</span> на своём профиле.
+      item_10: Получите ранний <span>доступ к новым функциям</span>!
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Сможете увидеть <span>все %{number}+ видео</span> в сообществе.
       item_4: Сможете увидеть <span>все %{number}+ фото</span> после их публикации.
@@ -496,8 +497,7 @@ ru:
       item_6: Углубиться <span>в 25 раз дальше</span> в Ленту Новостей Друзей.
       item_7: Углубиться <span>в 25 раз дальше</span> в Вашу Собственную Ленту Новостей.
       item_8: "<span>Сможете настроить Ленту Друзей</span> на свой вкус."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: Получите ранний <span>доступ к новым функциям</span>!
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Всего за 5 долларов в месяц вы не только поддержите развитие FetLife, но и получите:'
       list_footer: Всего за сумму меньше стоимости смазки… хотя в то же время мы не советуем заменять смазку растительным маслом… оно не так хорошо в применении.
       thank_you: Без вашей поддержки не было бы FetLife. Спасибо всем членам семьи FetLife!
@@ -506,14 +506,14 @@ ru:
       ach: Банковский Перевод (ACH)
       cc_curo: Кредитная Карта
       cc_trustpay: Кредитная Карта
-      coingate: Биткоин
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Physical Mail
       paygarden: Major Gift Card
-      paysafe: paysafecard
+      paysafe: Paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
       sepa: SEPA Direct Debit
@@ -553,7 +553,7 @@ ru:
       question_q: В. Есть вопросы?
       renew_a: Никогда. Мы хотим, чтобы вы сами предоставляли нам поддержку каждый раз.
       renew_q: В. Вы автоматически продляете мой премиум?
-      return_a: Мы предоставляем 7-дневную гарантию возврата. Но к сожалению, если вы покупаете премиум, используя Подарочные Карты, POLi, Bitcoin, или Paysafecard, из-за характера того, как они работают, они являются окончательной продажей.
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
       return_q: В. Какие у вас условия возврата?
       secure_a: Да, очень. FetLife не хранит никакую вашу личную информацию на своих серверах. Мы используем информацию, предоставленную вами для проведения платежа, только и всего.
       secure_q: В. Это надёжно?
@@ -580,8 +580,8 @@ ru:
         extra_info: Мы принимаем Visa и Mastercard. Это легко и безопасно.
         title: Кредитная Карта
       coingate:
-        extra_info: Биткоин не такой сложный, как кажется. И для непосвященных мы проведем вас за руку через этот процесс.
-        title: Биткоин
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает EPS в Австрии.
         title: Austrian Bank Transfer (EPS)
@@ -603,7 +603,7 @@ ru:
         extra_info: Обменяйте подарочные карты 100+ компаний, включая Starbucks, Best Buy, Target, Walmart, Home Depot и Build-A-Bear.
         title: Обмен на Подарочные Карты Крупных Компаний
       paysafe:
-        extra_info: Вы можете купить карту Paysafecard и использовать её для поддержки FetLife в более, чем 500,000 магазинах, расположенных в 43 странах по всему миру.
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
         title: Предоплатная Карта Paysafecard
       poli:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Австралии или Новой Зеландии.
@@ -679,14 +679,14 @@ ru:
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: Платёж Кредитной Картой
     step3_coingate:
-      cta: Поддержать FetLife при помощи Биткоинов
-      intro: 'Биткоин это цифровая валюта. Вот некоторые полезные видео:'
-      secure: Надёжно как Форт Нокс
-      title: Как пользоваться Биткоинами
-      title_html: Как пользоваться Биткоинами
-      wallets_list_header: 'У нас есть положительный опыт со следующими провайдерами Биткоин Кошельков:'
-      wallets_title: Рекомендованный Биткоин Кошельки
-      what: Что такое Биткоин?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Адрес
       address_sub_label: связанный с банковским счётом

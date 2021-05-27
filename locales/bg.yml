@@ -483,6 +483,7 @@ bg:
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
+      item_10: Get early <span>access to new features</span>!
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Watch <span>all %{number}+ videos</span> shared by the community.
       item_4: Perv <span>all %{number}+ pictures</span> as they are shared.
@@ -490,8 +491,7 @@ bg:
       item_6: Go back <span>25x further</span> in your Friend Feed.
       item_7: Go back <span>25x further</span> in your @You Feed.
       item_8: "<span>Customize your Friend Feed</span> to your heart's content."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: Get early <span>access to new features</span>!
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'For only $5 a month, not only do you help support the continued development of FetLife but you get to:'
       list_footer: All for less than the price of a bottle of lube… though we don’t recommend you substitute canola oil for lube… it doesn’t work so well.
       thank_you: Without your support there would be no FetLife. Thank you from the whole FetLife Family!
@@ -500,14 +500,14 @@ bg:
       ach: Bank Transfer (ACH)
       cc_curo: Credit Card
       cc_trustpay: Credit Card
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Physical Mail
       paygarden: Major Gift Card
-      paysafe: paysafecard
+      paysafe: Paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
       sepa: SEPA Direct Debit
@@ -547,7 +547,7 @@ bg:
       question_q: Q. Have any questions?
       renew_a: Never. We want to earn your support everytime.
       renew_q: Q. Do you automatically renew my support?
-      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Bitcoin, or Paysafecard, due to the nature of how they work, they are final sale.
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
       return_q: Q. What’s your return policy?
       secure_a: Yes, very. FetLife doesn’t store any of your personal info on our servers.  We just use the info you provide us to process your transaction and that's it.
       secure_q: Q. Is this secure?
@@ -574,8 +574,8 @@ bg:
         extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
-        extra_info: Bitcoin is not as complicated as it sounds. And for the uninitiated, we will hold your hand through the process.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -597,7 +597,7 @@ bg:
         extra_info: Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, Home Depot, and Build-A-Bear.
         title: Major Brand Gift Card Trade-In
       paysafe:
-        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries worldwide.
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
         title: Prepaid Paysafecard
       poli:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Australia or New Zealand.
@@ -673,14 +673,14 @@ bg:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:
-      cta: Support FetLife via Bitcoin
-      intro: 'Bitcoin is a digital currency. Some intro videos we enjoyed watching:'
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
       secure: Secure as Fort Knox
-      title: "“How To” for Bitcoin"
-      title_html: "&ldquo;How To&rdquo; for Bitcoin"
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
       wallets_list_header: 'We''ve had good experience with the following wallet provider:'
-      wallets_title: Recommended Bitcoin Wallets
-      what: What is Bitcoin?
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Address
       address_sub_label: associated w/ bank account

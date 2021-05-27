@@ -500,7 +500,7 @@ pt:
       ach: Transferência bancária (ACH)
       cc_curo: Cartão de Crédito
       cc_trustpay: Cartão de Crédito
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -574,8 +574,8 @@ pt:
         extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
-        extra_info: A Bitcoin não é tão complicada como parece. E para os iniciados, nós acompanhamo-los durante o processo.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária na Áustria que suporte EPS.
         title: Transferência bancária Austríaca (EPS)
@@ -673,14 +673,14 @@ pt:
       secure: Seguro como o Fort Knox e nós não armazenamos qual informação pessoal sua.
       title: Pagamento com cartão de crédito
     step3_coingate:
-      cta: Apoie o FetLife via Bitcoin
-      intro: 'Bitcoin é uma criptomoeda. Alguns vídeos que nós gostámos de ver:'
-      secure: Seguro como o Fort Knox
-      title: "“Tutorial” para Bitcoin"
-      title_html: "&ldquo;Tutorial&rdquo; para Bitcoin"
-      wallets_list_header: 'Nós tivemos uma boa experiência com os seguintes fornecedores de carteiras:'
-      wallets_title: Carteiras para Bitcoin recomendas
-      what: O que é o Bitcoin?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Endereço
       address_sub_label: associado à conta bancária

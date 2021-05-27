@@ -483,6 +483,7 @@ de:
   support:
     benefits:
       item_1: Eine sexy <span>I Support FetLife</span>-Plakette auf Deinem Profil.
+      item_10: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Schaue <span>alle %{number}+ Videos</span>, die geteilt wurden.
       item_4: Sehe <span>alle %{number}+ Bilder</span> sobald sie geteilt werden.
@@ -490,8 +491,7 @@ de:
       item_6: Gehe <span>25x weiter</span> in Deiner Aktivitätschronik zurück.
       item_7: Gehe <span>25x weiter</span> in Deiner @You-Aktivitätschronik zurück.
       item_8: "<span>Passe</span> Deine Freund:innen-Aktivitätschronik nach Belieben <span>an</span>."
-      item_9: "Die Möglichkeit, auf deinem Mobilgerät <span>eingebettete Anzeigen auszublenden.</span>"
-      item_10: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
+      item_9: Die Möglichkeit, auf deinem Mobilgerät <span>eingebettete Anzeigen auszublenden.</span>
       list_description: 'Für nur $5 pro Monat hilfst Du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
       list_footer: Alles für weniger als den Preis einer Flasche Gleitmittel… Jedoch empfehlen wir nicht Gleitmittel durch Rapsöl zu ersetzen… Das funktioniert nicht so gut.
       thank_you: Ohne Deine Unterstützung gäbe es kein FetLife. Danke Dir von der ganzen FetLife-Familie!
@@ -500,14 +500,14 @@ de:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
       cc_trustpay: Kreditkarte
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Brief
       paygarden: Geschenkkarte
-      paysafe: paysafecard
+      paysafe: Paysafecard
       poli: POLi Payments
       przelewy: Przelewy24
       sepa: SEPA-Abbuchung
@@ -547,7 +547,7 @@ de:
       question_q: Q. Noch Fragen?
       renew_a: Niemals. Wir wollen sie uns jedes Mal verdienen.
       renew_q: Q. Erneuert ihr meine Unterstützung automatisch?
-      return_a: Wir haben eine Sieben-Tage-Geld-zurück-Garantie. Leider können wir Geschenkkarten, POLi, Bitcoin oder Paysafecard wegen ihrer Funktionsweise nicht zurückzahlen.
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
       return_q: Q. Wie läuft das mit der Rücknahme?
       secure_a: Ja, sehr. FetLife speichert keine eurer persönlichen Daten auf unseren Servern. Wir benutzen die angegebenen Daten nur für die Abbuchung und das wars.
       secure_q: Q. Ist das sicher?
@@ -574,8 +574,8 @@ de:
         extra_info: Wir akzeptieren Visa und Mastercard. Es ist leicht und sicher.
         title: Kreditkarte
       coingate:
-        extra_info: Bitcoin ist gar nicht so kompliziert wie es sich anhört. Den Uneingeweihten helfen wir durch den Prozess.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)
@@ -597,7 +597,7 @@ de:
         extra_info: Tausche eine Geschenkkarte von mehr als hundert Marken wie Starbucks, Best Buy, Target, Walmart, Home Depot oder Build-A-Bear ein.
         title: Geschenkkarten bekannter Marken
       paysafe:
-        extra_info: Du kannst mit einer Paysafecard, die in über 500.000 Läden und 43 Ländern weltweit erhältlich ist, FetLife unterstützen.
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
         title: Prepaid Paysafecard
       poli:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem Konto in Australien oder Neuseeland.
@@ -673,14 +673,14 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:
-      cta: Unterstütze FetLife via Bitcoin
-      intro: 'Bitcoin ist eine digitale Währung. Einige Einführungsvideos, die wir gerne angeschaut haben:'
-      secure: So sicher wie Fort Knox
-      title: Anleitung für Bitcoin
-      title_html: Anleitung für Bitcoin
-      wallets_list_header: 'Wir hatten gute Erfahrungen mit dem folgenden Anbieter von Wallets:'
-      wallets_title: Empfohlene Bitcoin-Wallets
-      what: Was ist Bitcoin?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Adresse
       address_sub_label: zum Konto gehörig

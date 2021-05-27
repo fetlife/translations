@@ -483,6 +483,7 @@ tr:
   support:
     benefits:
       item_1: Profilinizde seksi bir <span>FetLife'ı destekliyorum</span> rozeti.
+      item_10: Yeni özelliklere <span>erken erişim kazanın</span>!
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Topluluk tarafından paylaşılan <span>%{number} + videoyu</span> izleyin.
       item_4: Paylaşılan tüm <span>%{number}+ fotoğraflara</span> anında erişin.
@@ -490,8 +491,7 @@ tr:
       item_6: Arkadaş Akışınızda <span>25 kat daha fazla</span> geriye gidin.
       item_7: Kendi @Sen Akışınızda <span>25 kat daha fazla</span> geriye gidin.
       item_8: "<span>Arkadaş Akışınızı Özelleştirin</span>, kalbinizin içeriğine göre."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: Yeni özelliklere <span>erken erişim kazanın</span>!
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Ayda sadece 5$ karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
       list_footer: Hepsi bir şişe yağın fiyatından daha düşük bir fiyatla… yine de, kanola yağıyla değiştirmenizi tavsiye etmiyoruz… çok iyi çalışmıyor.
       thank_you: Desteğiniz olmadan FetLife olmazdı. Bütün FetLife Ailesinden teşekkür ederiz!
@@ -500,14 +500,14 @@ tr:
       ach: Banka Transferi (ACH)
       cc_curo: Kredi Kartı
       cc_trustpay: Kredi Kartı
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Fiziksel Posta
       paygarden: Ana Hediye Kartı
-      paysafe: paysafecard
+      paysafe: Paysafecard
       poli: POLi Ödemeleri
       przelewy: Przelewy24
       sepa: SEPA Direct Debit
@@ -547,7 +547,7 @@ tr:
       question_q: S. Sorularınız mı var?
       renew_a: Asla. Her zaman sizin desteğinizi istiyoruz.
       renew_q: S. Desteğimi otomatik olarak yeniliyor musunuz?
-      return_a: 7 günlük para iade garantimiz var. Maalesef, Hediye Kartı Takas Alımı, POLi, Bitcoin veya Paysafecard'ı kullanaak destek veriyorsanız, çalışma biçimlerinin doğası gereği, bunlar nihai satıştır.
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
       return_q: S. İade politikanız nedir?
       secure_a: Evet, çok. FetLife hiçbir kişisel bilginizi sunucularımızda saklamıyor. İşleminizi yaparken bize verdiğiniz bilgileri kullanıyoruz, hepsi bu.
       secure_q: S. Bu güvenli mi?
@@ -574,8 +574,8 @@ tr:
         extra_info: Visa ve Mastercard kabul ediyoruz. Kolay ve güvenli.
         title: Kredi Kartı
       coingate:
-        extra_info: Bitcoin göründüğü kadar karmaşık değildir. Ve başlatılmamış olanlar için, süreç boyunca elinizi tutacağız.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Avusturya'da EPS'yi destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Avusturya Banka Havalesi (EPS)
@@ -597,7 +597,7 @@ tr:
         extra_info: Starbucks, Best Buy, Target, Walmart, Home Depot ve Build-A-Bear dahil olmak üzere 100'den fazla markadan gelen hediye kartları.
         title: Büyük Marka Hediye Kartı Takası
       paysafe:
-        extra_info: Bir Paysafecard satın alabilir ve FetLife'ı dünya çapında 43 ülkede bulunan 500.000'den fazla fiziksel mağazada desteklemek için kullanabilirsiniz.
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
         title: Ön Ödemeli Paysafecard
       poli:
         extra_info: Avustralya’da veya Yeni Zelanda’da banka hesabı olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
@@ -673,14 +673,14 @@ tr:
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: Kredi kartı Ödemesi
     step3_coingate:
-      cta: Bitcoin ile FetLife'ı destekleyin
-      intro: 'Bitcoin dijital bir para birimidir. İzlemekten zevk aldığımız bazı tanıtım videoları:'
-      secure: Fort Knox Kadar Güvenli
-      title: Bitcoin ile “Nasıl”
-      title_html: Bitcoin ile “Nasıl”
-      wallets_list_header: 'Aşağıdaki cüzdan sağlayıcısı ile iyi bir deneyimimiz oldu:'
-      wallets_title: Tavsiye Edilen Bitcoin Cüzdanlar
-      what: Bitcoin Nedir?
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
+      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Adres
       address_sub_label: banka hesabıyla ilişkili

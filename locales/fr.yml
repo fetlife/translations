@@ -483,6 +483,7 @@ fr:
   support:
     benefits:
       item_1: Avoir un badge sexy <span>I Support FetLife</span> sur votre profil.
+      item_10: Obtenir en avant-première un <span>accès aux nouvelles fonctionnalités</span> !
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Regarder <span>toutes les %{number}+ vidéos</span> partagées par la communauté.
       item_4: Regarder <span>toutes les %{number}+ images</span> dès qu’elles sont partagées.
@@ -490,8 +491,7 @@ fr:
       item_6: Revenir <span>25× plus loin</span> en arrière dans votre fil d’ami⋅e⋅s.
       item_7: Revenir <span>25× plus loin</span> en arrière dans votre fil @You.
       item_8: "<span>Personnaliser votre fil d’ami⋅e⋅s</span> autant que vous le voulez."
-      item_9: "Option to <span>hide inline ads</span> on mobile."
-      item_10: Obtenir en avant-première un <span>accès aux nouvelles fonctionnalités</span> !
+      item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
       list_footer: Tout ça pour moins cher qu’une bouteille de lubrifiant… Bien que nous ne vous recommandions pas de remplacer le lubrifiant par de l’huile de colza… Ça ne marche pas très bien.
       thank_you: Sans votre support il n’y aurait pas de FetLife. Merci, de la part de toute la famille FetLife !
@@ -500,14 +500,14 @@ fr:
       ach: Virement bancaire (ACH)
       cc_curo: Carte de crédit
       cc_trustpay: Carte de crédit
-      coingate: Bitcoin
+      coingate: Cryptocurrency
       eps: EPS
       giropay: giropay
       ideal: iDEAL
       interac: Interac e-Transfer
       mail: Courrier physique
       paygarden: Les grandes cartes cadeau
-      paysafe: paysafecard
+      paysafe: Paysafecard
       poli: Paiements POLi
       przelewy: Przelewy24
       sepa: SEPA débit direct
@@ -547,7 +547,7 @@ fr:
       question_q: Q. Vous avez d’autres questions ?
       renew_a: Jamais. Nous voulons toujours mériter votre support.
       renew_q: Q. Renouvelez-vous automatiquement mon support ?
-      return_a: Nous avons une garantie de remboursement total durant 7 jours. Ceci-dit, malheureusement, si vous nous supportez avec une Gift Card Trade-In, POLi, Bitcoin, ou Paysafecard, du fait de leur fonctionnement, c’est un paiement définitif.
+      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
       return_q: Q. Quelle est votre politique de remboursement ?
       secure_a: Oui, très. FetLife n’enregistre aucunes de vos informations personnelles sur ses serveurs. Nous n’utilisons les informations que vous nous fournissez que pour procéder à la transaction, et c’est tout.
       secure_q: Q. Est-ce sécurisé ?
@@ -574,8 +574,8 @@ fr:
         extra_info: Nous acceptons Visa et Mastercard. C'est simple et sécurisé.
         title: Carte de crédit
       coingate:
-        extra_info: Les Bitcoin ne sont pas aussi compliqués qu’ils ne le paraissent. Et pour les non-initiés, nous vous guiderons pas à pas dans le processus.
-        title: Bitcoin
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        title: Cryptocurrency
       eps:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant EPS en Autriche.
         title: Virement bancaire autrichien (EPS)
@@ -597,7 +597,7 @@ fr:
         extra_info: Échange de cartes cadeau de plus de 100 marques, y compris Starbucks, Best Buy, Target, Walmart, Home Depot, et Build-A-Bear.
         title: Échange de cartes cadeau de grandes enseignes
       paysafe:
-        extra_info: Vous pouvez acheter une Paysafecard dans plus de 500 000 points de vente, situés dans 43 pays à travers le monde, et l’utiliser pour supporter FetLife.
+        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
         title: Paysafecard pré-payée
       poli:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire en Australie ou en Nouvelle-Zélande.
@@ -673,14 +673,14 @@ fr:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Credit Card Payment
     step3_coingate:
-      cta: Supporter FetLife avec des Bitcoin
-      intro: 'Bitcoin est une monnaie digitale. Quelques vidéos d’introduction que nous avons aimé regarder :'
-      secure: Aussi sûr que Fort Knox.
-      title: "“How To” pour Bitcoin"
-      title_html: "&ldquo;How To&rdquo; pour Bitcoin"
+      cta: Support FetLife via Cryptocurrency
+      intro: 'Some intro videos we enjoyed watching:'
+      secure: Secure as Fort Knox
+      title: "“How To” for Cryptocurrency"
+      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
       wallets_list_header: 'We''ve had good experience with the following wallet provider:'
-      wallets_title: Porte-monnaie Bitcoin recommandés
-      what: Qu’est-ce que le Bitcoin ?
+      wallets_title: Recommended Cryptocurrency Wallets
+      what: What is Cryptocurrency?
     step3_eps:
       address_label: Address
       address_sub_label: associated w/ bank account
