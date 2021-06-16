@@ -547,7 +547,9 @@ pt:
       question_q: Q. Tem alguma pergunta a colocar?
       renew_a: Nunca. Nós queremos ganhar o seu suporte sempre.
       renew_q: Q. Vocês renovam automaticamente o meu apoio?
-      return_a: Nós temos uma política de devolução no prazo de 7 dias. Contudo, infelizmente, se você nos apoiou utilizando uma troca por cartão presente, POLi, Bitcoin, ou Paysafecard, devido ao modo de funcionamento deles, a política de devolução não se aplica.
+      return_a_part_1: We offer a 7-day money back guarantee!
+      return_a_part_2: 'Unfortunately though, due to the nature of the following payment methods, we can''t issue refunds and all payments using these methods will be final sale: Gift Card Trade-IN, POLi, Cryptocurrency, and Paysafecard.'
+      return_a_part_3: Refunds are limited to one per person.
       return_q: Q. Qual é a vossa política de devolução?
       secure_a: Sim, muito. O portal FetLife não armazena nenhuma informação pessoal sua nos nossos servidores. Nós apenas utilizamos a informação providenciada por você para processar a transação e é apenas isto.
       secure_q: Q. Isto é seguro?
