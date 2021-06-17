@@ -547,7 +547,9 @@ fr:
       question_q: Q. Vous avez d’autres questions ?
       renew_a: Jamais. Nous voulons toujours mériter votre support.
       renew_q: Q. Renouvelez-vous automatiquement mon support ?
-      return_a: We have a 7-day money back guarantee. Unfortunately though, if you support us using Gift Card Trade-In, POLi, Cryptocurrency, or Paysafecard, due to the nature of how they work, they are final sale.
+      return_a_part_1: We offer a 7-day money back guarantee!
+      return_a_part_2: 'Unfortunately though, due to the nature of the following payment methods, we can''t issue refunds and all payments using these methods will be final sale: Gift Card Trade-IN, POLi, Cryptocurrency, and Paysafecard.'
+      return_a_part_3: Refunds are limited to one per person.
       return_q: Q. Quelle est votre politique de remboursement ?
       secure_a: Oui, très. FetLife n’enregistre aucunes de vos informations personnelles sur ses serveurs. Nous n’utilisons les informations que vous nous fournissez que pour procéder à la transaction, et c’est tout.
       secure_q: Q. Est-ce sécurisé ?
