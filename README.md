@@ -1,10 +1,11 @@
-# Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
+# Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba, hola!
 
 With the help of the beautifully diverse community that makes up [Fetlife](https://fetlife.com/), we are working to make FetLife home to all kinksters, no matter where in the world they might be, and in the language they are most comfortable!
 
 ### Languages FetLife is Currently Available In
 
 - [Bulgarian](locales/bg.yml)
+- [Català](locales/ca.yml)
 - [Chinese (Simplified)](locales/zh.yml)
 - [Dutch](locales/nl.yml)
 - [English](locales/en.yml)
