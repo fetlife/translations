@@ -11,7 +11,7 @@ jobs:
       - restore_cache:
           key: bundle-{{ arch }}-{{ checksum "Gemfile.lock" }}
       
-      - testing_bug_bounty:
+      - run:
           name: BugBounty
           command: |
             ./scripts/bug_bounty.sh
