@@ -14,7 +14,7 @@ jobs:
       - run:
           name: BugBounty
           command: |
-            ./scripts/bug_bounty.sh
+            ./scripts/deploy.sh
 
       - run: bundle check --path=vendor/bundle || time bundle install --path=vendor/bundle --jobs=1 --retry=3
 
