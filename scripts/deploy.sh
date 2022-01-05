@@ -7,7 +7,7 @@ CHANGED_LOCALES=`git log -m -1 --name-only --pretty="format:" "$CIRCLE_SHA1" | g
 
 if [ -z "$CHANGED_LOCALES" ]; then
   echo "No locale files have been changed. No need to deploy anything!"
-  exit 0
+  # exit 0
 fi
 
 mkdir -p tmp
