@@ -21,4 +21,4 @@ cd fetlife-web
 git submodule foreach git pull origin master
 git add config/locales/translations
 git commit -m "Autoupdate translations"
-git push origin HEAD
+# git push origin HEAD

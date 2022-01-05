@@ -8,6 +8,11 @@ jobs:
     steps:
       - checkout
 
+      - run:
+          name: Check Deploy
+          command: |
+            ./scripts/deploy.sh
+
       - restore_cache:
           key: bundle-{{ arch }}-{{ checksum "Gemfile.lock" }}
 
