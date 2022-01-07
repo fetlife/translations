@@ -42,10 +42,4 @@ workflows:
   main:
     jobs:
       - check
-      - deploy:
-          requires:
-            - check
-
-notify:
-  webhooks:
-    - url: https://fetlife-johnny5.herokuapp.com/circleci
+      - deploy

@@ -3,6 +3,11 @@
 git config --global user.email "dev@fetlife.com"
 git config --global user.name "FetBot"
 
+ls -alh ~
+whoami
+pwd
+ip a
+
 mkdir -p tmp
 cd tmp
 TMP_DIR=`pwd`
