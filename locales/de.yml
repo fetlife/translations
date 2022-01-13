@@ -25,7 +25,7 @@ de:
     step: Schritt
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Deine Bilder und Videos erscheinen nur für Deine Freund:innen und Follower:innen. Wenn auch der Rest der Gemeinschaft Deine wohlschmerzenden Inhalte finden sollen, kannst Du das in deinen Privatsphäre-Einstellungen festlegen.
+      pics_and_vids_discoverability_a: Deine Bilder und Videos erscheinen nur für Deine Freund:innen und Follower:innen. Wenn auch der Rest der Gemeinschaft Deine wohlschmerzenden Inhalte finden soll, kannst Du das in deinen Privatsphäre-Einstellungen festlegen.
       pics_and_vids_discoverability_link: Zu den Einstellungen wechseln
       pics_and_vids_discoverability_q: Bilder- und Video-Auffindbarkeit
   feed:
@@ -60,7 +60,7 @@ de:
       cta: E-Mail mit Anweisungen zusenden
       error_forgot_email: Die E-Mail-Adresse ist erforderlich.
       error_invalid_email: Das sieht nicht wie eine gültige E-Mail-Adresse aus. Bitte überprüfe sie nochmal und versuche es erneut.
-      error_quota: Wir haben vor Kurzem eine Rücksetz-E-Mail an diese Adresse gesendet. Es kann fünf bis zehn Minuten dauern, bis sie in Deinem Postfach auftaucht. Bitte sieh zusätzlich in Deinem Spam-Ordner nach, ob sie nicht dort gelandet ist. Falls die E-Mail nach zehn Minuten immer noch nicht da ist, kannst Du eine neue E-Mail anfordern.
+      error_quota: Wir haben vor Kurzem eine Rücksetz-E-Mail an diese Adresse gesendet. Es kann fünf bis zehn Minuten dauern, bis sie in Deinem Postfach auftaucht. Bitte sieh zusätzlich in Deinem Spam-Ordner nach, ob sie nicht dort gelandet ist. Falls die E-Mail nach zehn Minuten immer noch nicht da ist, kannst Du eine neue anfordern.
       placeholder: E-Mail-Adresse
       step1:
         page_title: Setze Dein Passwort via E-Mail zurück
@@ -191,7 +191,7 @@ de:
     error_flash: Kontaktiere bitte <a href="mailto:support@fetlife.com">support@fetlife.com</a>, sodass wir Dir helfen können, wieder reinzukommen.
     error_login_blank: Der Name ist erforderlich.
     error_not_authenticated: Bedaure, aber um zu dieser Seite zu gelangen, musst Du angemeldet sein. Wenn Du noch kein Mitglied bist, registriere Dich schnell.
-    error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die  GrOß-/KlEiNsChReIbUnG des Passworts.)
+    error_not_found: Hmmm, wir konnten Dich nicht finden. Bist Du sicher, dass Du Deinen Namen und Dein Passwort richtig eingegeben hast? (Bitte beachte die GrOß-/KlEiNsChReIbUnG des Passworts.)
     error_password_blacklist: Das Passwort, das Du Dir ausgesucht hast, ist leicht zu erraten. Bitte benutze ein stärkeres.
     error_password_blank: Das Passwort ist erforderlich.
     error_password_email: Dein Passwort kann nicht das gleiche sein wie Deine E-Mail.
@@ -330,7 +330,7 @@ de:
     advertising: Werbung
     already_member: Bereits Mitglied?
     androidapp: Installiere die FetLife-Android-App
-    bug_bounty: Fehler-Prämie
+    bug_bounty: Sicherheitsfehler-Prämie
     careers: Karriere
     caretaking: Hausmeister-Werkzeuge
     change_language: Sprache
@@ -397,7 +397,7 @@ de:
     error_role_required: Die Rolle muss gewählt werden.
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.
     error_state_missing: Das Bundesland muss gewählt werden.
-    footnote: Durch Anklicken von „Registrierung & Verifikation abschließen“ akzeptierst Du unsere <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Nutzungsbedingungen</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">die Datenschutzurichtlinie</a> und die <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Gemeinschafts-Richtlinien</a>.
+    footnote: Durch Anklicken von „Registrierung & Verifikation abschließen“ akzeptierst Du unsere <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Nutzungsbedingungen</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">die Datenschutzrichtlinie</a> und die <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Gemeinschafts-Richtlinien</a>.
     label:
       birthdate: Geburtsdatum
       city: Stadt
@@ -432,7 +432,7 @@ de:
     title: Erregt jemand Deine Aufmerksamkeit?
   signup_phone:
     cta: Verifikationsnummer zusenden
-    error_blocked: "<strong>Kinky Operator:</strong> Leider erlauben wir es zur Zeit nicht, sich mit einer %{carrier_name}-Nummer anzumelden."
+    error_blocked: "<strong>Kinky Operator:</strong> Leider können wir es dir zur Zeit nicht erlauben, dich mit einer %{carrier_name}-Nummer anzumelden."
     error_cant_send: "<strong>Kinky Operator:</strong> Achte darauf, dass Du Deine Nummer mit Deinem Ländercode beginnst: +1 für die USA und Kanada, +44 für Großbritannien, +61 für Australien, +31 für die Niederlande, +49 für Deutschland, +33 für Frankreich usw. Außerdem solltest Du nicht versuchen eine SMS an eine Festnetznummer zu schicken."
     error_quota: "<strong>Kinky Operator:</strong> Wir können nicht mehr als drei SMS innerhalb von 24 Stunden an eine einzelne Nummer schicken. Bitte versuche es später nochmal."
     explanation: Wir wissen, dass es viel verlangt ist, aber um eine gesunde und lebhafte Gemeinschaft zu erhalten, müssen wir alle neuen Mitglieder überprüfen. Wir denken, dass Du das schätzen wirst, sobald Du auf der anderen Seite bist.
@@ -484,9 +484,9 @@ de:
     benefits:
       item_1: Eine sexy <span>I Support FetLife</span>-Plakette auf Deinem Profil.
       item_10: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
-      item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
+      item_2: Durchstöbere <span>über 5.000 der heute beliebtesten</span> Bilder, Videos und Schriften.
       item_3: Schaue <span>alle %{number}+ Videos</span>, die geteilt wurden.
-      item_4: Sehe <span>alle %{number}+ Bilder</span> sobald sie geteilt werden.
+      item_4: Sieh <span>alle %{number}+ Bilder</span> sobald sie geteilt werden.
       item_5: Betrachte <span>alles, was Du je geliebt hast</span>.
       item_6: Gehe <span>25x weiter</span> in Deiner Aktivitätschronik zurück.
       item_7: Gehe <span>25x weiter</span> in Deiner @You-Aktivitätschronik zurück.
@@ -500,7 +500,7 @@ de:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
       cc_trustpay: Kreditkarte
-      coingate: Cryptocurrency
+      coingate: Kryptowährung
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -547,9 +547,9 @@ de:
       question_q: Q. Noch Fragen?
       renew_a: Niemals. Wir wollen sie uns jedes Mal verdienen.
       renew_q: Q. Erneuert ihr meine Unterstützung automatisch?
-      return_a_part_1: We offer a 7-day money back guarantee!
-      return_a_part_2: 'Unfortunately though, due to the nature of the following payment methods, we can''t issue refunds and all payments using these methods will be final sale: Gift Card Trade-IN, POLi, Cryptocurrency, and Paysafecard.'
-      return_a_part_3: Refunds are limited to one per person.
+      return_a_part_1: Wir bieten eine Sieben-Tage-Geld-zurück-Garantie!
+      return_a_part_2: Bedauerlicherweise gilt das nicht für Geschenkkarten, POLi, Kryptowährungen und Paysafecard, weil wir aufgrund ihrer Funktionsweise keine Möglichkeit haben sie zurückzubuchen. Mit ihnen getätigte Käufe sind endgültig.
+      return_a_part_3: Rückerstattungen sind auf eine pro Person begrenzt.
       return_q: Q. Wie läuft das mit der Rücknahme?
       secure_a: Ja, sehr. FetLife speichert keine eurer persönlichen Daten auf unseren Servern. Wir benutzen die angegebenen Daten nur für die Abbuchung und das wars.
       secure_q: Q. Ist das sicher?
@@ -576,8 +576,8 @@ de:
         extra_info: Wir akzeptieren Visa und Mastercard. Es ist leicht und sicher.
         title: Kreditkarte
       coingate:
-        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
-        title: Cryptocurrency
+        extra_info: Wir akzeptieren Bitcoin, Ethereum, Dogecoin, Litecoin, XRP und Dash.
+        title: Kryptowährung
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)
@@ -599,7 +599,7 @@ de:
         extra_info: Tausche eine Geschenkkarte von mehr als hundert Marken wie Starbucks, Best Buy, Target, Walmart, Home Depot oder Build-A-Bear ein.
         title: Geschenkkarten bekannter Marken
       paysafe:
-        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
+        extra_info: Du kannst FetLife durch Einlösen einer Paysafecard unterstützen. Paysafecards bekommst du in über 500.000 Geschäften, die über 43 Länder verteilt sind.
         title: Prepaid Paysafecard
       poli:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem Konto in Australien oder Neuseeland.
@@ -675,14 +675,14 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:
-      cta: Support FetLife via Cryptocurrency
-      intro: 'Some intro videos we enjoyed watching:'
-      secure: Secure as Fort Knox
-      title: "“How To” for Cryptocurrency"
-      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
-      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
-      wallets_title: Recommended Cryptocurrency Wallets
-      what: What is Cryptocurrency?
+      cta: Unterstütze FetLife durch Kryptowährung
+      intro: 'Einige Einführungsvideos, die uns gefallen haben (Englisch):'
+      secure: So sicher wie Fort Knox
+      title: "„So geht's” für Kryptowährung"
+      title_html: "&ldquo;So geht's&rdquo; für Kryptowährung"
+      wallets_list_header: 'Wir haben gute Erfahrungen mit dem folgenden Wallet-Anbieter gemacht:'
+      wallets_title: Empfohlene Kryptowährungs-Wallets
+      what: Was ist Kryptowährung?
     step3_eps:
       address_label: Adresse
       address_sub_label: zum Konto gehörig
@@ -755,7 +755,7 @@ de:
       update_email: E-Mail-Adresse aktualisieren
     step3_paysafe:
       cta: Ich habe schone eine Paysafecard
-      notice_body: Leider werden Paysafecards, die in den USA erstanden wurden, wegen Beschränkungen durch die beteiligte Bank nicht unterstützt. Paysafecards aus allen anderen Ländern werden dagegen unterstützt.
+      notice_body: Leider werden Paysafecards, die in den USA erstanden wurden, wegen Beschränkungen durch die beteiligte Bank nicht unterstützt. Paysafecards aus allen anderen Ländern dagegen schon.
       notice_title: Wichtige Information an unsere amerikanischen Freunde
       secure: So sicher wie Fort Knox
       stores: Du kannst Läden, die Paysafe-Karten verkaufen, in Laufweite finden. Das glaubst Du nicht?
@@ -833,7 +833,7 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Teleingreso-Zahlung
     thank_you:
-      body: Nein wirklich, <span>großen Dank für Deine Unterstütung</span>. Es bedeutet uns viel, dass Du mit Deinem hart verdienten Geld hilfst, die kontinuierliche Verbesserung und Weiterentwicklung von FetLife zu unterstützen.
+      body: Nein wirklich, <span>großen Dank für Deine Unterstütung</span>. Es bedeutet uns viel, dass Du mit Deinem sauer verdienten Geld hilfst, die kontinuierliche Verbesserung und Weiterentwicklung von FetLife zu unterstützen.
       cta_home: Bring mich nach Hause
       gift_affirm: Du bist super!
       gift_cta_profile: Besuche %{nickname}s Profil
