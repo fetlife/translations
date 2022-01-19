@@ -325,14 +325,12 @@ bg:
     title: Смени имейл адреса
   sidebar:
     about_fetlife: Екипът ни
-    ad_stats: Рекламна статистика
     advertisers: All Advertisers
     advertising: Рекламиране
     already_member: Already a member?
     androidapp: Инсталирай FetLife за Android
     bug_bounty: Bug Bounty
     careers: Careers
-    caretaking: Надзирателство
     change_language: Смени езика
     close: затвори
     contact_us: Връзка с нас
@@ -363,12 +361,10 @@ bg:
     need_help: Трябва ти помощ?
     open_source: Отворен код
     places: Места
-    preservation_requests: Preservation Requests
     privacy: Поверителност
     privacy_policy: Privacy Policy
     recommendations: Препоръчани
     signup: Регистрация
-    subscriptions: Subscriptions
     support: Подкрепи FetLife
     terms: Условия
     transparency: Transparency

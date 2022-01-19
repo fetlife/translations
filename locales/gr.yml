@@ -325,14 +325,12 @@ gr:
     title: Επαναφέρετε τη διεύθυνση email
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
-    ad_stats: Στατιστικά Διαφημίσεων
     advertisers: All Advertisers
     advertising: Διαφήμιση
     already_member: Already a member?
     androidapp: Install FetLife's Android App
     bug_bounty: Αμοιβές για Bugs
     careers: Careers
-    caretaking: Caretaking
     change_language: Αλλαγή Γλώσσας
     close: Κλείσιμο
     contact_us: Contact Us
@@ -363,12 +361,10 @@ gr:
     need_help: Χρειάζεστε βοήθεια?
     open_source: Open Source
     places: Μέρη
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Προτάσεις
     signup: Signup
-    subscriptions: Subscriptions
     support: Υποστηρίξτε το Fetlife
     terms: Terms
     transparency: Transparency

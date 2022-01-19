@@ -325,14 +325,12 @@ hu:
     title: Email cím frissítése
   sidebar:
     about_fetlife: Amit a Fetlife-ról tudni lehet
-    ad_stats: Hirdetési statisztikák
     advertisers: All Advertisers
     advertising: Hirdetés
     already_member: Already a member?
     androidapp: FetLife Android App telepítése
     bug_bounty: Hiba vadászat
     careers: Careers
-    caretaking: Ügyfélszolgálat
     change_language: Nyelv kiválasztása
     close: bezárás
     contact_us: Kapcsolat
@@ -363,12 +361,10 @@ hu:
     need_help: Segíthetünk?
     open_source: Open Source
     places: Helyek
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Javaslatok
     signup: Signup
-    subscriptions: Subscriptions
     support: Támogasd a FetLife-ot
     terms: Feltételek
     transparency: Transparency

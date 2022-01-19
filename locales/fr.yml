@@ -325,14 +325,12 @@ fr:
     title: Mettre à jour l’adresse mail
   sidebar:
     about_fetlife: À propos de Fetlife
-    ad_stats: Statistiques d’annonces
     advertisers: All Advertisers
     advertising: Publicité
     already_member: Déjà membre?
     androidapp: Installer l’app Android de FetLife
     bug_bounty: Prime pour bug
     careers: Careers
-    caretaking: Outils de gestion
     change_language: Changer de langue
     close: fermer
     contact_us: Contact Us
@@ -363,12 +361,10 @@ fr:
     need_help: Besoin d’aide ?
     open_source: Open source
     places: Endroits
-    preservation_requests: Demandes de préservation
     privacy: Confidentialité
     privacy_policy: Privacy Policy
     recommendations: Recommandations
     signup: Inscription
-    subscriptions: Souscriptions
     support: Supporter FetLife
     terms: Conditions
     transparency: Transparency
