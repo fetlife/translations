@@ -334,6 +334,7 @@ sk:
     advertising: Reklamné služby
     already_member: Already a member?
     androidapp: Install FetLife's Android App
+    become_verified: Become Verified!
     bug_bounty: Odmena za nahlásené chyby
     careers: Careers
     change_language: Zmeniť jazyk
@@ -372,12 +373,19 @@ sk:
     signup: Signup
     support: Podpor FetLife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Zobraz priateľov
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Čo nové?
     write_post: Napísať príspevok

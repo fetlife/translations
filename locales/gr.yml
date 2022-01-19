@@ -329,6 +329,7 @@ gr:
     advertising: Διαφήμιση
     already_member: Already a member?
     androidapp: Install FetLife's Android App
+    become_verified: Become Verified!
     bug_bounty: Αμοιβές για Bugs
     careers: Careers
     change_language: Αλλαγή Γλώσσας
@@ -367,12 +368,19 @@ gr:
     signup: Signup
     support: Υποστηρίξτε το Fetlife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Προβολή Φίλων
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Τι νέο υπάρχει
     write_post: Δημιουργία Post

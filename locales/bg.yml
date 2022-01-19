@@ -329,6 +329,7 @@ bg:
     advertising: Рекламиране
     already_member: Already a member?
     androidapp: Инсталирай FetLife за Android
+    become_verified: Become Verified!
     bug_bounty: Bug Bounty
     careers: Careers
     change_language: Смени езика
@@ -367,12 +368,19 @@ bg:
     signup: Регистрация
     support: Подкрепи FetLife
     terms: Условия
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Качи снимка
     upload_video: Качи клип
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Виж приятелите
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Какво ново
     write_post: Напиши публикация

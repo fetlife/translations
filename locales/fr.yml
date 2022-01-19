@@ -329,6 +329,7 @@ fr:
     advertising: Publicité
     already_member: Déjà membre?
     androidapp: Installer l’app Android de FetLife
+    become_verified: Become Verified!
     bug_bounty: Prime pour bug
     careers: Careers
     change_language: Changer de langue
@@ -367,12 +368,19 @@ fr:
     signup: Inscription
     support: Supporter FetLife
     terms: Conditions
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Envoyer photos
     upload_video: Envoyer vidéo
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Voir ami⋅e⋅s
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Quoi de neuf
     write_post: Écrire un post

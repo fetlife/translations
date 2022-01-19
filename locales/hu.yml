@@ -329,6 +329,7 @@ hu:
     advertising: Hirdetés
     already_member: Already a member?
     androidapp: FetLife Android App telepítése
+    become_verified: Become Verified!
     bug_bounty: Hiba vadászat
     careers: Careers
     change_language: Nyelv kiválasztása
@@ -367,12 +368,19 @@ hu:
     signup: Signup
     support: Támogasd a FetLife-ot
     terms: Feltételek
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
+    verification_pending: Profile Verification Pending
     videos: Videók
     view_friends: Ismerősök
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Újdonságok
     write_post: Bejegyzés közzététele

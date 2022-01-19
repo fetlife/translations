@@ -335,6 +335,7 @@ ru:
     advertising: Реклама
     already_member: Уже зарегистрированы?
     androidapp: Установить Приложение для Android
+    become_verified: Become Verified!
     bug_bounty: Сообщить об Ошибке
     careers: Careers
     change_language: Сменить Язык
@@ -373,12 +374,19 @@ ru:
     signup: Присоединиться к FetLife
     support: Поддержать FetLife
     terms: Условия
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Загрузить Фото
     upload_video: Загрузить Видео
+    verification_pending: Profile Verification Pending
     videos: Видео
     view_friends: Посмотреть Друзей
+    view_terms: View Terms of Use
     wallpapers: FetLife Обои
     whats_new: Что Нового
     write_post: Написать Пост

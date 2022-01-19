@@ -329,6 +329,7 @@ nl:
     advertising: Adverteren
     already_member: Al een lid?
     androidapp: Installeer FetLife's Android Applicatie
+    become_verified: Become Verified!
     bug_bounty: Bug beloning
     careers: Careers
     change_language: Wijzig taal
@@ -367,12 +368,19 @@ nl:
     signup: Registreren
     support: Ondersteun FetLife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
+    verification_pending: Profile Verification Pending
     videos: Video's
     view_friends: Vrienden bekijken
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Wat is nieuw
     write_post: Schrijf bericht

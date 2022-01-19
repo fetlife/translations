@@ -329,6 +329,7 @@ tr:
     advertising: Reklam
     already_member: Zaten üye misiniz?
     androidapp: FetLife Android Uygulamasını Yükle
+    become_verified: Become Verified!
     bug_bounty: Ödül Avcılığı
     careers: Careers
     change_language: Dil Değiştir
@@ -367,12 +368,19 @@ tr:
     signup: FetLife'a Katılın
     support: FetLife'ı Destekleyin
     terms: Şartlar
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Fotoğraf Yükle
     upload_video: Video Yükle
+    verification_pending: Profile Verification Pending
     videos: Videolar
     view_friends: Arkadaşları Gör
+    view_terms: View Terms of Use
     wallpapers: FetLife Duvar Kağıtları
     whats_new: Yeni Ne Var
     write_post: Gönderi Yaz

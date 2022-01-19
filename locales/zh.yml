@@ -329,6 +329,7 @@ zh:
     advertising: 广告
     already_member: 已经注册过？
     androidapp: 安装 FetLife Android 应用
+    become_verified: Become Verified!
     bug_bounty: 悬赏 Bug
     careers: Careers
     change_language: 更改语言
@@ -367,12 +368,19 @@ zh:
     signup: 注册
     support: 赞助 FetLife
     terms: 条款
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: 上传图片
     upload_video: 上传视频
+    verification_pending: Profile Verification Pending
     videos: 视频
     view_friends: 查看好友列表
+    view_terms: View Terms of Use
     wallpapers: FetLife 壁纸
     whats_new: 有啥新鲜的
     write_post: 写文章
