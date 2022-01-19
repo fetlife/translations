@@ -336,9 +336,11 @@ tr:
     change_language: Dil Değiştir
     close: kapat
     contact_us: Bize Ulaşın
+    content_guidelines: Content Guidelines
     edit_profile: Profili Düzenle
     edit_settings: Ayarlarını Güncelle
     events: Etkinlikler
+    exempt: 2257 Exempt
     fetishes: Fetişler
     following: Takip Edilenler
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ tr:
     glossary: Sözlük
     groups: Gruplar
     guidelines: Rehberler
+    guiding_values: Guiding Values
     home: Anasayfa
     invite_a_friend: Arkadaşını Davet Et (%{count})
     kp: Kinky & Popular
+    legal_requests: Legal Request
     legalese: Yasal
     log_out: Çıkış Yap
     login: Giriş Yap
@@ -367,6 +371,8 @@ tr:
     subscriptions: Abonelikler
     support: FetLife'ı Destekleyin
     terms: Şartlar
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Fotoğraf Yükle
     upload_video: Video Yükle
     videos: Videolar

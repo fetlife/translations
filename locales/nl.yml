@@ -336,9 +336,11 @@ nl:
     change_language: Wijzig taal
     close: sluiten
     contact_us: Neem contact met ons op
+    content_guidelines: Content Guidelines
     edit_profile: Profiel bewerken
     edit_settings: Instellingen bewerken
     events: Bijeenkomsten
+    exempt: 2257 Exempt
     fetishes: Fetishes
     following: Volgen
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ nl:
     glossary: Woordenlijst
     groups: Groepen
     guidelines: Richtlijnen
+    guiding_values: Guiding Values
     home: Thuis
     invite_a_friend: Nodig een vriend uit (%{count})
     kp: Kinky & Populair
+    legal_requests: Legal Request
     legalese: juridisch jargon
     log_out: Afmelden
     login: Aanmelden
@@ -367,6 +371,8 @@ nl:
     subscriptions: Abonnementen
     support: Ondersteun FetLife
     terms: Terms
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
     videos: Video's

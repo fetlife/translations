@@ -336,9 +336,11 @@ zh:
     change_language: 更改语言
     close: 关闭
     contact_us: 联系我们
+    content_guidelines: Content Guidelines
     edit_profile: 更改资料
     edit_settings: 更改设置
     events: 线下活动
+    exempt: 2257 Exempt
     fetishes: 癖好
     following: 我关注的
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ zh:
     glossary: 术语表
     groups: 小组
     guidelines: 守则
+    guiding_values: Guiding Values
     home: 首页
     invite_a_friend: 邀请好友（%{count}）
     kp: 众心所癖
+    legal_requests: Legal Request
     legalese: 法律事宜
     log_out: 登出
     login: 登录
@@ -367,6 +371,8 @@ zh:
     subscriptions: 订阅
     support: 赞助 FetLife
     terms: 条款
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: 上传图片
     upload_video: 上传视频
     videos: 视频
