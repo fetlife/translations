@@ -336,9 +336,11 @@ pt:
     change_language: Alterar Idioma
     close: fechar
     contact_us: Contacte-nos
+    content_guidelines: Content Guideline
     edit_profile: Editar Perfil
     edit_settings: Editar Configurações
     events: Eventos
+    exempt: 2257 Exempt
     fetishes: Fetiches
     following: Seguindo
     formatting: Guia de formatação
@@ -349,9 +351,11 @@ pt:
     glossary: Glossário
     groups: Grupos
     guidelines: Orientações
+    guiding_values: Guiding Values
     home: Início
     invite_a_friend: Convide um Amigo (%{count})
     kp: Kinky & Popular
+    legal_requests: Legal Request
     legalese: Juridiquês
     log_out: Sair
     login: Entrar
@@ -367,6 +371,8 @@ pt:
     subscriptions: Subscrições
     support: Apoie o FetLife
     terms: Termos
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Enviar Foto
     upload_video: Enviar Vídeo
     videos: Vídeos
@@ -483,6 +489,7 @@ pt:
   support:
     benefits:
       item_1: Um sexy crachá <span>Eu Apoio o FetLife</span> no seu perfil.
+      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
       item_2: Fotos pervertidas <span>mais de 5000 do mais popular de hoje</span>, vídeos, e textos.
       item_3: Visualize <span>todos os %{number}+ vídeos</span> partilhados pela comunidade.
       item_4: Perv <span>todas as %{number}+ fotografias</span> assim que são partilhadas.
@@ -490,8 +497,7 @@ pt:
       item_6: Ande <span>25x mais</span> atrás no Feed dos seus amigos.
       item_7: Ande <span>25x mais</span> atrás no seu @You Feed.
       item_8: "<span>Personalize o Feed do seu amigo(a)</span> para o conteúdo do seu coração."
-      item_9: "Opção para <span>ocultar anúncios lineares</span> no celular."
-      item_10: Obtenha acesso prévio <span>a novas funcionalidades</span>!
+      item_9: Opção para <span>ocultar anúncios lineares</span> no celular.
       list_description: 'Por apenas $5 por mês, você não só ajuda o desenvolvimento contínuo do FetLife mas também recebe:'
       list_footer: Tudo por menos do que o preço de uma embalagem de lubrificante… apesar de que não recomendamos que você substitua óleo de canola por lubrificante… esse não funciona tão bem.
       thank_you: Sem o seu apoio, o Fetlife não existia. Um muito obrigado de toda a família Fetlife!

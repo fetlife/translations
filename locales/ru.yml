@@ -342,9 +342,11 @@ ru:
     change_language: Сменить Язык
     close: закрыть
     contact_us: Написать Нам
+    content_guidelines: Content Guideline
     edit_profile: Редактировать Профиль
     edit_settings: Обновить Настройки
     events: Мероприятия
+    exempt: 2257 Exempt
     fetishes: Фетиши
     following: Подписки
     formatting: Formatting Guidelines
@@ -355,9 +357,11 @@ ru:
     glossary: Глоссарий
     groups: Группы
     guidelines: Правила
+    guiding_values: Guiding Values
     home: Home
     invite_a_friend: Пригласить Друга (%{count})
     kp: Развратное & Популярное
+    legal_requests: Legal Request
     legalese: Условия Использования
     log_out: Выйти
     login: Войти
@@ -373,6 +377,8 @@ ru:
     subscriptions: Подписки
     support: Поддержать FetLife
     terms: Условия
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Загрузить Фото
     upload_video: Загрузить Видео
     videos: Видео

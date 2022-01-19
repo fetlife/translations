@@ -336,9 +336,11 @@ gr:
     change_language: Αλλαγή Γλώσσας
     close: Κλείσιμο
     contact_us: Contact Us
+    content_guidelines: Content Guideline
     edit_profile: Επεξεργασία Προφίλ
     edit_settings: Επεξεργασία Ρυθμίσεων
     events: Εκδηλώσεις
+    exempt: 2257 Exempt
     fetishes: Φετίχ
     following: Παρακολούθηση
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ gr:
     glossary: Glossary
     groups: Ομάδες
     guidelines: Κατευθυντήριες γραμμές
+    guiding_values: Guiding Values
     home: Αρχική
     invite_a_friend: Προσκαλέστε ένα Φίλο (%{count})
     kp: Διαστροφικά & Δημοφιλή
+    legal_requests: Legal Request
     legalese: Νομικά
     log_out: Αποσύνδεση
     login: Login
@@ -367,6 +371,8 @@ gr:
     subscriptions: Subscriptions
     support: Υποστηρίξτε το Fetlife
     terms: Terms
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
     videos: Videos

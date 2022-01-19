@@ -336,9 +336,11 @@ bg:
     change_language: Смени езика
     close: затвори
     contact_us: Връзка с нас
+    content_guidelines: Content Guideline
     edit_profile: Промени профила
     edit_settings: Промени настройките
     events: Събития
+    exempt: 2257 Exempt
     fetishes: Фетиши
     following: Следвани
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ bg:
     glossary: Тълковен речник
     groups: Групи
     guidelines: Правила
+    guiding_values: Guiding Values
     home: Начало
     invite_a_friend: Покани приятел (%{count})
     kp: Извратено & Популярно
+    legal_requests: Legal Request
     legalese: Правни въпроси
     log_out: Излез
     login: Вход
@@ -367,6 +371,8 @@ bg:
     subscriptions: Subscriptions
     support: Подкрепи FetLife
     terms: Условия
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Качи снимка
     upload_video: Качи клип
     videos: Videos

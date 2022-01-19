@@ -341,9 +341,11 @@ sk:
     change_language: Zmeniť jazyk
     close: zatvoriť
     contact_us: Contact Us
+    content_guidelines: Content Guideline
     edit_profile: Upraviť profil
     edit_settings: Upraviť nastavenia
     events: Udalosti
+    exempt: 2257 Exempt
     fetishes: Fetiše
     following: Sledované
     formatting: Formatting Guidelines
@@ -354,9 +356,11 @@ sk:
     glossary: Glossary
     groups: Skupiny
     guidelines: Pravidlá
+    guiding_values: Guiding Values
     home: Domov
     invite_a_friend: Pozvať priateľa (%{count})
     kp: Kinky & Popular
+    legal_requests: Legal Request
     legalese: Legislatíva
     log_out: Odhlásiť
     login: Login
@@ -372,6 +376,8 @@ sk:
     subscriptions: Subscriptions
     support: Podpor FetLife
     terms: Terms
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
     videos: Videos

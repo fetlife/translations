@@ -338,9 +338,11 @@ pl:
     change_language: Zmień język
     close: zamknij
     contact_us: Kontakt
+    content_guidelines: Content Guideline
     edit_profile: Edytuj profil
     edit_settings: Edytuj ustawienia
     events: Wydarzenia
+    exempt: 2257 Exempt
     fetishes: Fetysze
     following: Śledzenie
     formatting: Formatting Guidelines
@@ -351,9 +353,11 @@ pl:
     glossary: Słowniczek
     groups: Grupy
     guidelines: Wytyczne
+    guiding_values: Guiding Values
     home: Start
     invite_a_friend: Zaproś znajomych (%{count})
     kp: Kinky & Popular
+    legal_requests: Legal Request
     legalese: Kwestie prawne
     log_out: Wyloguj się
     login: Zaloguj się
@@ -369,6 +373,8 @@ pl:
     subscriptions: Subskrypcje
     support: Wesprzyj FetLife
     terms: Zasady
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Wgraj obrazek
     upload_video: Wgraj filmik
     videos: Filmiki

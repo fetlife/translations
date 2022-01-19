@@ -336,9 +336,11 @@ hu:
     change_language: Nyelv kiválasztása
     close: bezárás
     contact_us: Kapcsolat
+    content_guidelines: Content Guideline
     edit_profile: Profil szerkesztése
     edit_settings: Beállítások szerkesztése
     events: Események
+    exempt: 2257 Exempt
     fetishes: Fétisek
     following: Követés
     formatting: Formatting Guidelines
@@ -349,9 +351,11 @@ hu:
     glossary: Glossary
     groups: Csoportok
     guidelines: Irányelvek
+    guiding_values: Guiding Values
     home: Otthon
     invite_a_friend: Ismerős meghívása (%{count})
     kp: Kinky & Popular
+    legal_requests: Legal Request
     legalese: Legalizáció
     log_out: Kilépés
     login: Login
@@ -367,6 +371,8 @@ hu:
     subscriptions: Subscriptions
     support: Támogasd a FetLife-ot
     terms: Feltételek
+    transparency: Transparency
+    trust_and_safety: Trust & Safety
     upload_picture: Kép feltöltése
     upload_video: Videó feltöltése
     videos: Videók
