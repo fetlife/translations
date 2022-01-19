@@ -324,6 +324,11 @@ en:
     subtitle: Just in case you forget your password.
     title: Update Email Address
   sidebar:
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     about_fetlife: Meet the Team
     ad_stats: Ad Stats
     advertisers: All Advertisers
