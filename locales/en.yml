@@ -324,15 +324,19 @@ en:
     subtitle: Just in case you forget your password.
     title: Update Email Address
   sidebar:
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     about_fetlife: Meet the Team
-    ad_stats: Ad Stats
     advertisers: All Advertisers
     advertising: Advertising
     already_member: Already a member?
     androidapp: Install FetLife Android App
+    become_verified: Become Verified!
     bug_bounty: Security Bug Bounty
     careers: Careers
-    caretaking: Caretaker Tools
     change_language: Language
     close: close
     contact_us: Contact Us
@@ -363,20 +367,20 @@ en:
     need_help: Help
     open_source: Open Source
     places: Places
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Recommendations
     signup: Join FetLife
-    subscriptions: Subscriptions
     support: Support FetLife
     terms: Terms of Use
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Upload Picture
     upload_video: Upload Video
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: View Friends
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: What's New
     write_post: Write Post

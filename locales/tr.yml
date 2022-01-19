@@ -325,14 +325,13 @@ tr:
     title: Eposta Adresini Güncelle
   sidebar:
     about_fetlife: Ekiple Tanışın
-    ad_stats: Reklam İstatistikleri
     advertisers: All Advertisers
     advertising: Reklam
     already_member: Zaten üye misiniz?
     androidapp: FetLife Android Uygulamasını Yükle
+    become_verified: Become Verified!
     bug_bounty: Ödül Avcılığı
     careers: Careers
-    caretaking: Güvenlik Araçları
     change_language: Dil Değiştir
     close: kapat
     contact_us: Bize Ulaşın
@@ -363,20 +362,25 @@ tr:
     need_help: Yardıma Mı İhtiyacınız Var?
     open_source: Açık Kaynak
     places: Konumlar
-    preservation_requests: Koruma İstekleri
     privacy: Gizlilik
     privacy_policy: Privacy Policy
     recommendations: Öneriler
     signup: FetLife'a Katılın
-    subscriptions: Abonelikler
     support: FetLife'ı Destekleyin
     terms: Şartlar
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Fotoğraf Yükle
     upload_video: Video Yükle
+    verification_pending: Profile Verification Pending
     videos: Videolar
     view_friends: Arkadaşları Gör
+    view_terms: View Terms of Use
     wallpapers: FetLife Duvar Kağıtları
     whats_new: Yeni Ne Var
     write_post: Gönderi Yaz

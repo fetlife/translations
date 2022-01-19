@@ -325,14 +325,13 @@ it:
     title: Aggiorna l'indirizzo email
   sidebar:
     about_fetlife: A proposito di Fetlife
-    ad_stats: Statistiche annunci
     advertisers: All Advertisers
     advertising: Pubblicità
     already_member: Sei già un membro?
     androidapp: Installa l'applicazione Android di Fetlife
+    become_verified: Become Verified!
     bug_bounty: Caccia ai bug
     careers: Careers
-    caretaking: Caretaking
     change_language: Cambia lingua
     close: chiudi
     contact_us: Contattaci
@@ -363,20 +362,25 @@ it:
     need_help: Serve aiuto?
     open_source: Open Source
     places: Luoghi
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Raccomandazioni
     signup: Iscriviti
-    subscriptions: Sottoscrizioni
     support: Supporta FetLife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Carica una foto
     upload_video: Carica un video
+    verification_pending: Profile Verification Pending
     videos: Video
     view_friends: Visualizza gli amici
+    view_terms: View Terms of Use
     wallpapers: Sfondi di Fetlife
     whats_new: Cosa c'è di nuovo
     write_post: Scrivi un post

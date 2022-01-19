@@ -325,14 +325,13 @@ gr:
     title: Επαναφέρετε τη διεύθυνση email
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
-    ad_stats: Στατιστικά Διαφημίσεων
     advertisers: All Advertisers
     advertising: Διαφήμιση
     already_member: Already a member?
     androidapp: Install FetLife's Android App
+    become_verified: Become Verified!
     bug_bounty: Αμοιβές για Bugs
     careers: Careers
-    caretaking: Caretaking
     change_language: Αλλαγή Γλώσσας
     close: Κλείσιμο
     contact_us: Contact Us
@@ -363,20 +362,25 @@ gr:
     need_help: Χρειάζεστε βοήθεια?
     open_source: Open Source
     places: Μέρη
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Προτάσεις
     signup: Signup
-    subscriptions: Subscriptions
     support: Υποστηρίξτε το Fetlife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Προβολή Φίλων
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Τι νέο υπάρχει
     write_post: Δημιουργία Post

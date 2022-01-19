@@ -330,14 +330,13 @@ sk:
     title: Aktualizovať emailovú adresu
   sidebar:
     about_fetlife: O Fetlife
-    ad_stats: Reklamné Štatistiky
     advertisers: All Advertisers
     advertising: Reklamné služby
     already_member: Already a member?
     androidapp: Install FetLife's Android App
+    become_verified: Become Verified!
     bug_bounty: Odmena za nahlásené chyby
     careers: Careers
-    caretaking: Správcovia
     change_language: Zmeniť jazyk
     close: zatvoriť
     contact_us: Contact Us
@@ -368,20 +367,25 @@ sk:
     need_help: Potrebuješ pomoc?
     open_source: Open Source
     places: Miesta
-    preservation_requests: Preservation Requests
     privacy: Privacy
     privacy_policy: Privacy Policy
     recommendations: Odporúčania
     signup: Signup
-    subscriptions: Subscriptions
     support: Podpor FetLife
     terms: Terms
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
+    verification_pending: Profile Verification Pending
     videos: Videos
     view_friends: Zobraz priateľov
+    view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Čo nové?
     write_post: Napísať príspevok

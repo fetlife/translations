@@ -331,14 +331,13 @@ ru:
     title: Обновить Адрес Эл.Почты
   sidebar:
     about_fetlife: Наша Команда
-    ad_stats: Рекламная Статистика
     advertisers: All Advertisers
     advertising: Реклама
     already_member: Уже зарегистрированы?
     androidapp: Установить Приложение для Android
+    become_verified: Become Verified!
     bug_bounty: Сообщить об Ошибке
     careers: Careers
-    caretaking: Caretaker Tools
     change_language: Сменить Язык
     close: закрыть
     contact_us: Написать Нам
@@ -369,20 +368,25 @@ ru:
     need_help: Нужна Помощь?
     open_source: Опенсорс
     places: Места
-    preservation_requests: Preservation Requests
     privacy: Приватность
     privacy_policy: Privacy Policy
     recommendations: Рекомендации
     signup: Присоединиться к FetLife
-    subscriptions: Подписки
     support: Поддержать FetLife
     terms: Условия
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
     upload_picture: Загрузить Фото
     upload_video: Загрузить Видео
+    verification_pending: Profile Verification Pending
     videos: Видео
     view_friends: Посмотреть Друзей
+    view_terms: View Terms of Use
     wallpapers: FetLife Обои
     whats_new: Что Нового
     write_post: Написать Пост
