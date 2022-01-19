@@ -335,6 +335,7 @@ en:
     advertising: Advertising
     already_member: Already a member?
     androidapp: Install FetLife Android App
+    background_workers: Background Workers
     become_verified: Become Verified!
     bug_bounty: Security Bug Bounty
     careers: Careers
@@ -347,6 +348,7 @@ en:
     edit_settings: Settings
     events: Events
     exempt: 2257 Exempt
+    features: Features
     fetishes: Fetishes
     following: Following
     formatting: Formatting Guidelines
@@ -366,6 +368,7 @@ en:
     log_out: Log Out
     login: Log In
     loved_stuff: Stuff You Love
+    member_search: Member Search
     need_help: Help
     open_source: Open Source
     places: Places
@@ -374,6 +377,8 @@ en:
     privacy_policy: Privacy Policy
     recommendations: Recommendations
     signup: Join FetLife
+    signups_list: Signups
+    simulate_following: Simulate Following
     subscriptions: Subscriptions
     support: Support FetLife
     terms: Terms of Use
