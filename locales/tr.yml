@@ -407,7 +407,7 @@ tr:
     error_role_required: Rol seçilmelidir.
     error_sexual_orientation_required: Cinsel Yönelim seçilmelidir.
     error_state_missing: Eyalet/İl seçilmeli.
-    footnote: Üye olurken "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
+    footnote: Üye olurken "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
     label:
       birthdate: Doğumgünü
       city: Şehir

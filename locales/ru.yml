@@ -413,7 +413,7 @@ ru:
     error_role_required: Необходимо указать Роль.
     error_sexual_orientation_required: Необходимо указать Сексуальную Ориентацию.
     error_state_missing: Необходимо указать Штат/Область.
-    footnote: Нажимая "Завершить Регистрацию & Подтверждение", вы соглашаетесь уважать и следовать нашим <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Правилам Использования</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Политике Конфиденциальности</a>, и <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Правилам Сообщества</a>.
+    footnote: Нажимая "Завершить Регистрацию & Подтверждение", вы соглашаетесь уважать и следовать нашим <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Правилам Использования</a>, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Политике Конфиденциальности</a>, и <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Правилам Сообщества</a>.
     label:
       birthdate: Дата Рождения
       city: Город

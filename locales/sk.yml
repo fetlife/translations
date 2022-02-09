@@ -412,7 +412,7 @@ sk:
     error_role_required: Rola je povinná.
     error_sexual_orientation_required: Sexuálna orientácia je povinná.
     error_state_missing: Kraj je povinný.
-    footnote: By clicking "Dokonči registráciu a verifikáciu" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Dokonči registráciu a verifikáciu" you agree to respect and follow our <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Dátum narodenia
       city: Mesto

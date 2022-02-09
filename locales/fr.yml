@@ -407,7 +407,7 @@ fr:
     error_role_required: Le rôle doit être sélectionné.
     error_sexual_orientation_required: L’orientation sexuelle doit être sélectionnée.
     error_state_missing: L’état/la province doit être sélectionné⋅e.
-    footnote: En cliquant "Compléter l’inscription & la vérification" vous acceptez de respecter et de suivre nos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Conditions d'utilisation</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Politique de confidentialité</a> et <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Règles de communauté</a>.
+    footnote: En cliquant "Compléter l’inscription & la vérification" vous acceptez de respecter et de suivre nos <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Conditions d'utilisation</a>, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Politique de confidentialité</a> et <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Règles de communauté</a>.
     label:
       birthdate: Date de naissance
       city: Ville

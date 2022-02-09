@@ -407,7 +407,7 @@ pt:
     error_role_required: O papel deve seleccionado.
     error_sexual_orientation_required: A Orientação Sexual deve ser seleccionada.
     error_state_missing: O Distrito, Estado ou a Província deve ser seleccionado(a).
-    footnote: Ao clicar em "Completar Inscrição e Verificação", você aceita respeitar e seguir os nossos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Termos de Utilização</a>, a nossa <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de Privacidade</a>, e as <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Diretrizes da Comunidade</a>.
+    footnote: Ao clicar em "Completar Inscrição e Verificação", você aceita respeitar e seguir os nossos <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Termos de Utilização</a>, a nossa <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Política de Privacidade</a>, e as <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Diretrizes da Comunidade</a>.
     label:
       birthdate: Data de Nascimento
       city: Cidade

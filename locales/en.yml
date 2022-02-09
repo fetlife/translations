@@ -407,7 +407,7 @@ en:
     error_role_required: Role has to be selected.
     error_sexual_orientation_required: Sexual Orientation has to be selected.
     error_state_missing: State/Province has to be selected.
-    footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Birthdate
       city: City

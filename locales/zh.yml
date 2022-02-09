@@ -407,7 +407,7 @@ zh:
     error_role_required: 角色必选。
     error_sexual_orientation_required: 性取向必选。
     error_state_missing: 省份/州份必选。
-    footnote: 点击「完成注册认证」代表你同意我们的<a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">使用守则</a>、<a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">隐私政策</a>和<a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">社区守则</a>。
+    footnote: 点击「完成注册认证」代表你同意我们的<a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">使用守则</a>、<a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">隐私政策</a>和<a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">社区守则</a>。
     label:
       birthdate: 出生日期
       city: 城市
