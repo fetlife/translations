@@ -455,7 +455,7 @@ hu:
     cta: Regisztráció befejezése
     incorrect_code: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
     label: Hitelesítő kód
-    notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="silver" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
+    notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="color-inherit" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
     page_title: A hitelesítő kód megadása
     placeholder: 6 jegyű hitelesítő kód
     subtitle: Nem is volt annyira fájdalmas, igaz? ;)

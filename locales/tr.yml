@@ -455,7 +455,7 @@ tr:
     cta: Kaydı Tamamla ve Doğrula
     incorrect_code: "<strong>Kinky Operatör:</strong> Hmm … girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
     label: Doğrulama Kodu
-    notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="silver" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
+    notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="color-inherit" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
     page_title: Dogrulama Kodunu Giriniz
     placeholder: 6 Basamaklı Doğrulama Kodu
     subtitle: Bu biraz acı vericiydi, değil mi??!?!
