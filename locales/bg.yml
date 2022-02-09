@@ -452,14 +452,14 @@ bg:
     subtitle: Еднократен анонимен SMS.
     title: Време за потвърждение!
   signup_verify:
-    cta: Довърши регистрацията & потвърждението
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Извратеният оператор:</strong> Ъ&hellip; горният код за потвърждение не изглежда наред. Моля, увери се че горното число съответства на това което получи от нас и опитай пак."
-    label: Код за потвърждение
+    label: 6-цифрен код за потвърждение
     notice: Изпратихме кода за потвърждение на <strong>%{phone_number}</strong>. Ако до няколко минути не получиш SMS от нас, <a class="color-inherit" href="%{back_path}">обнови номера си и ще ти изпратим нов код за потвърждение</a>.
-    page_title: Въведи код за потвърждение
+    page_title: Verify Mobile Number
     placeholder: 6-цифрен код за потвърждение
-    subtitle: Не болеше чак толкова, нали?!?!
-    title: Последна стъпка
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Стена

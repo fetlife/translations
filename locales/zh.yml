@@ -452,14 +452,14 @@ zh:
     subtitle: 一次性匿名短信。
     title: 到短信验证的时候了！
   signup_verify:
-    cta: 完成注册认证
+    cta: Verify Mobile Number
     incorrect_code: "<strong>亲爱的小变态：</strong>呃&hellip; 上面这个验证码似乎是错的。请再检查一下它是否和你收到的验证码一致再重试。"
-    label: 验证码
+    label: 6 位验证码
     notice: 我们已将验证码发送至 <strong>%{phone_number}</strong>。如果过了好一会儿你还没收到短信，<a class="color-inherit" href="%{back_path}">换个号码试试重新发送</a>。
-    page_title: 输入验证码
+    page_title: Verify Mobile Number
     placeholder: 6 位验证码
-    subtitle: 有点蛋疼，对吧？！
-    title: 最后一步
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: 动态

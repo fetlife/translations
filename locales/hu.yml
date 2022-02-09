@@ -452,14 +452,14 @@ hu:
     subtitle: Egyszeri anonim üzenet.
     title: Hitelesítés
   signup_verify:
-    cta: Regisztráció befejezése
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
-    label: Hitelesítő kód
+    label: 6 jegyű hitelesítő kód
     notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="color-inherit" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
-    page_title: A hitelesítő kód megadása
+    page_title: Verify Mobile Number
     placeholder: 6 jegyű hitelesítő kód
-    subtitle: Nem is volt annyira fájdalmas, igaz? ;)
-    title: Utolsó lépés
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Tevékenység napló

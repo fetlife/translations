@@ -452,14 +452,14 @@ pt:
     subtitle: Mensagem de texto anónima única.
     title: Hora da Verificação!
   signup_verify:
-    cta: Completar Inscrição e Verificação
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Operador Pervertido:</strong> Ohh&hellip; o código que você inseriu parece ser inválido. Por favor verifique se o número acima é igual ao número que nós enviámos."
-    label: Código de Verificação
+    label: Código de Verificação de 6 dígitos
     notice: Nós enviámos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber uma mensagem de texto nossa, <a class="color-inherit" href="%{back_path}">atualize o seu número e nós vamos enviar-lhe uma nova mensagem de texto</a>.
-    page_title: Insira o Código de Verificação
+    page_title: Verify Mobile Number
     placeholder: Código de Verificação de 6 dígitos
-    subtitle: Isso foi um pouco doloroso, não foi?!?!
-    title: Último Passo
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Feed de Atividade

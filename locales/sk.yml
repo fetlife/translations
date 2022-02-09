@@ -457,14 +457,14 @@ sk:
     subtitle: Jednorázová anonymná správa.
     title: Čas na verifikáciu!
   signup_verify:
-    cta: Dokonči registráciu a verifikáciu
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
-    label: Verfikačný kód
+    label: 6-miestny verfikačný kód
     notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a class="color-inherit" href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
-    page_title: Zadaj verfikačný kód
+    page_title: Verify Mobile Number
     placeholder: 6-miestny verfikačný kód
-    subtitle: Nebolo to také bolestivé, že nie?!?!
-    title: Posledný krok
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Novinky

@@ -452,14 +452,14 @@ es:
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Es hora de la verificación!"
   signup_verify:
-    cta: Completar el registro y la verificación
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
-    label: Código de verificación
+    label: Código de verificaión de 6 dígitos
     notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="color-inherit" href="%{back_path}">actualice su número y le enviaremos un nuevo código de verificación</a>.
-    page_title: Ingrese el código de verificación
+    page_title: Verify Mobile Number
     placeholder: Código de verificaión de 6 dígitos
-    subtitle: "¡¿A que no fue para tanto?!"
-    title: Último paso
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Feed de actividad

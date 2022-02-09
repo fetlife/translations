@@ -452,14 +452,14 @@ en:
     subtitle: One-time anonymous text message.
     title: Verification Time!
   signup_verify:
-    cta: Complete Signup & Verification
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
-    label: Verification Code
+    label: 6-digit Verification Code
     notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="color-inherit" href="%{back_path}">update your number and we'll send you a new verification code</a>.
-    page_title: Enter Verification Code
+    page_title: Verify Mobile Number
     placeholder: 6-Digit Verification Code
-    subtitle: That was a bit painful wasn't it?!?!
-    title: Last Step
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Activity Feed

@@ -458,14 +458,14 @@ ru:
     subtitle: Одноразовое анонимное СМС.
     title: Время Подтверждения!
   signup_verify:
-    cta: Завершить Регистрацию & Подтверждение
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Развратный Оператор:</strong> Хм&hellip; код подтверждения не подходит. Пожалуйста, убедитесь, что введённый номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
-    label: Код Подтверждения
+    label: 6-значный Код Подтверждения
     notice: Мы отправили код подтверждения на <strong>%{phone_number}</strong>. Если через несколько минут вы не получили от нас СМС, <a class="color-inherit" href="%{back_path}">обновите свой номер, и мы отправим вам новый код подтверждения</a>.
-    page_title: Введите Код Подтверждения
+    page_title: Verify Mobile Number
     placeholder: 6-значный Код Подтверждения
-    subtitle: Было не так уж и сложно, не так ли?
-    title: Последний Шаг
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Лента Новостей

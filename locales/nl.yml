@@ -452,14 +452,14 @@ nl:
     subtitle: Eenmalig anoniem SMS bericht.
     title: Controle Tijd!
   signup_verify:
-    cta: Voltooi inschrijving & controle
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
-    label: Controle Code
+    label: 6-cijferige controle code
     notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="color-inherit" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
-    page_title: Voer de controle code in
+    page_title: Verify Mobile Number
     placeholder: 6-cijferige controle code
-    subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
-    title: Laatste Stap
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Activiteiten geschiedenis

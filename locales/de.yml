@@ -452,14 +452,14 @@ de:
     subtitle: Einmalige anonyme SMS.
     title: Verifikationszeit!
   signup_verify:
-    cta: Registrierung & Verifikation abschließen
+    cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operator:</strong> Nein … die Verifikationsnummer, die Du eingegeben hast, scheint nicht korrekt zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
-    label: Verifikationsnummer
+    label: sechsstellige Verifikationsnummer
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="color-inherit" href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
-    page_title: Verifikationsnummer eingeben
+    page_title: Verify Mobile Number
     placeholder: sechsstellige Verifikationsnummer
-    subtitle: Das hat doch gar nicht wehgetan, oder?!?!
-    title: Letzter Schritt
+    subtitle: One-time anonymous text message.
+    title: Verify Mobile Number
   subnav:
     feed:
       activity_feed: Aktivitätschronik
