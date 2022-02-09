@@ -458,7 +458,7 @@ hu:
     notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="color-inherit" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
     page_title: Verify Mobile Number
     placeholder: 6 jegyű hitelesítő kód
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

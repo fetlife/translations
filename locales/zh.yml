@@ -458,7 +458,7 @@ zh:
     notice: 我们已将验证码发送至 <strong>%{phone_number}</strong>。如果过了好一会儿你还没收到短信，<a class="color-inherit" href="%{back_path}">换个号码试试重新发送</a>。
     page_title: Verify Mobile Number
     placeholder: 6 位验证码
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

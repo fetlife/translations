@@ -458,7 +458,7 @@ de:
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="color-inherit" href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
     page_title: Verify Mobile Number
     placeholder: sechsstellige Verifikationsnummer
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

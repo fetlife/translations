@@ -463,7 +463,7 @@ sk:
     notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a class="color-inherit" href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
     page_title: Verify Mobile Number
     placeholder: 6-miestny verfikačný kód
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

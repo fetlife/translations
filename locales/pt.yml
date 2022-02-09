@@ -458,7 +458,7 @@ pt:
     notice: Nós enviámos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber uma mensagem de texto nossa, <a class="color-inherit" href="%{back_path}">atualize o seu número e nós vamos enviar-lhe uma nova mensagem de texto</a>.
     page_title: Verify Mobile Number
     placeholder: Código de Verificação de 6 dígitos
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

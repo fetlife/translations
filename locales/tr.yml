@@ -458,7 +458,7 @@ tr:
     notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="color-inherit" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
     page_title: Verify Mobile Number
     placeholder: 6 Basamaklı Doğrulama Kodu
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

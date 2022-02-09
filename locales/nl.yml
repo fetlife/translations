@@ -458,7 +458,7 @@ nl:
     notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="color-inherit" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
     page_title: Verify Mobile Number
     placeholder: 6-cijferige controle code
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:

@@ -449,7 +449,7 @@ en:
     label: Mobile Phone Number
     page_title: Send Verification Code
     pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verification Time!
   signup_verify:
     cta: Verify Mobile Number
@@ -458,21 +458,21 @@ en:
     notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="color-inherit" href="%{back_path}">update your number and we'll send you a new verification code</a>.
     page_title: Verify Mobile Number
     placeholder: 6-Digit Verification Code
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   signup_verify_email:
     cta: Verify Email Address
     footnote: By clicking "Verify Email Address" you agree to respect and follow our <a class="gray-400 link underline hover-gray-300" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray-400 link underline hover-gray-300" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray-400 link underline hover-gray-300" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label: 6-digit Verification Code
     page_title: Verify Email Address
-    subtitle: You're just one step away from perving FetLife.
+    subtitle: You're just one step away from perving FetLife!
     title: Verify Email Address
   signup_change_email:
     box_title: Change your Email Address
     cta: Change Email Address
     label: Enter new email address
     page_title: Change Email Address
-    subtitle: You're just one step away from perving FetLife.
+    subtitle: You're just one step away from perving FetLife!
     title: Verify Email Address
   subnav:
     feed:

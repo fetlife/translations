@@ -458,7 +458,7 @@ bg:
     notice: Изпратихме кода за потвърждение на <strong>%{phone_number}</strong>. Ако до няколко минути не получиш SMS от нас, <a class="color-inherit" href="%{back_path}">обнови номера си и ще ти изпратим нов код за потвърждение</a>.
     page_title: Verify Mobile Number
     placeholder: 6-цифрен код за потвърждение
-    subtitle: One-time anonymous text message.
+    subtitle: You'll receive a one-time anonymous text message.
     title: Verify Mobile Number
   subnav:
     feed:
