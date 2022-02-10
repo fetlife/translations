@@ -455,7 +455,7 @@ tr:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operatör:</strong> Hmm … girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
     label: 6 Basamaklı Doğrulama Kodu
-    notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="color-inherit" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
+    notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="color-inherit" href="%{back_path}" title="update your number">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
     page_title: Verify Mobile Number
     placeholder: 6 Basamaklı Doğrulama Kodu
     subtitle: You'll receive a one-time anonymous text message.

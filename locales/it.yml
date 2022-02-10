@@ -455,7 +455,7 @@ it:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Operatore Kinky:</strong> Doh&hellip; il codice di verifica non sembra valido. Ti preghiamo di verificare che il numero di cui sopra corrisponde a quello che hai ricevuto da noi e di riprovare."
     label: Codice di verifica a 6 numeri
-    notice: Abbiamo inviato il codice di verifica a <strong>%{phone_number}</strong>. Se dopo un paio di minuti non si riceve un messaggio di testo da noi, <a class="color-inherit" href="%{back_path}">aggiorna il tuo numero e ti invieremo un nuovo codice di verifica</a>.
+    notice: Abbiamo inviato il codice di verifica a <strong>%{phone_number}</strong>. Se dopo un paio di minuti non si riceve un messaggio di testo da noi, <a class="color-inherit" href="%{back_path}" title="update your number">aggiorna il tuo numero e ti invieremo un nuovo codice di verifica</a>.
     page_title: Verify Mobile Number
     placeholder: Codice di verifica a 6 numeri
     subtitle: You'll receive a one-time anonymous text message.

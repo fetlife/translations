@@ -455,7 +455,7 @@ nl:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
     label: 6-cijferige controle code
-    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="color-inherit" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
+    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="color-inherit" href="%{back_path}" title="update your number">pas je nummer aan en we sturen je een nieuwe controle code</a>.
     page_title: Verify Mobile Number
     placeholder: 6-cijferige controle code
     subtitle: You'll receive a one-time anonymous text message.

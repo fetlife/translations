@@ -455,7 +455,7 @@ de:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Kinky Operator:</strong> Nein … die Verifikationsnummer, die Du eingegeben hast, scheint nicht korrekt zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was Du von uns erhalten hast und versuche es nochmal."
     label: sechsstellige Verifikationsnummer
-    notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="color-inherit" href="%{back_path}">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
+    notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn Du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="color-inherit" href="%{back_path}" title="update your number">aktualisiere Deine Nummer und wir schicken Dir eine neue Verifikationsnummer</a>.
     page_title: Verify Mobile Number
     placeholder: sechsstellige Verifikationsnummer
     subtitle: You'll receive a one-time anonymous text message.

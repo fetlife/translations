@@ -455,7 +455,7 @@ pt:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Operador Pervertido:</strong> Ohh&hellip; o código que você inseriu parece ser inválido. Por favor verifique se o número acima é igual ao número que nós enviámos."
     label: Código de Verificação de 6 dígitos
-    notice: Nós enviámos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber uma mensagem de texto nossa, <a class="color-inherit" href="%{back_path}">atualize o seu número e nós vamos enviar-lhe uma nova mensagem de texto</a>.
+    notice: Nós enviámos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber uma mensagem de texto nossa, <a class="color-inherit" href="%{back_path}" title="update your number">atualize o seu número e nós vamos enviar-lhe uma nova mensagem de texto</a>.
     page_title: Verify Mobile Number
     placeholder: Código de Verificação de 6 dígitos
     subtitle: You'll receive a one-time anonymous text message.

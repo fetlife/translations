@@ -461,7 +461,7 @@ ru:
     cta: Verify Mobile Number
     incorrect_code: "<strong>Развратный Оператор:</strong> Хм&hellip; код подтверждения не подходит. Пожалуйста, убедитесь, что введённый номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
     label: 6-значный Код Подтверждения
-    notice: Мы отправили код подтверждения на <strong>%{phone_number}</strong>. Если через несколько минут вы не получили от нас СМС, <a class="color-inherit" href="%{back_path}">обновите свой номер, и мы отправим вам новый код подтверждения</a>.
+    notice: Мы отправили код подтверждения на <strong>%{phone_number}</strong>. Если через несколько минут вы не получили от нас СМС, <a class="color-inherit" href="%{back_path}" title="update your number">обновите свой номер, и мы отправим вам новый код подтверждения</a>.
     page_title: Verify Mobile Number
     placeholder: 6-значный Код Подтверждения
     subtitle: You'll receive a one-time anonymous text message.
