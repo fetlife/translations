@@ -167,7 +167,7 @@ bg:
   landing_page:
     login_button: Влез във FetLife
     signup_button: Регистрирай се във FetLife
-    stats_details: споделят <strong class="fw4 silver">%{picture_count} снимки</strong> и <strong class="fw4 silver">%{video_count} клипа</strong>, участват в <strong class="fw4 silver">%{discussion_count} дискусии</strong> в <strong class="fw4 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw4 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw4 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
+    stats_details: споделят <strong class="fw7 silver">%{picture_count} снимки</strong> и <strong class="fw7 silver">%{video_count} клипа</strong>, участват в <strong class="fw7 silver">%{discussion_count} дискусии</strong> в <strong class="fw7 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw7 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw7 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
     stats_members: членa
     subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
     title: FetLife е Социалната Мрежа на BDSM, Fetish & Kinky обществото.

@@ -167,7 +167,7 @@ it:
   landing_page:
     login_button: Accedi a FetLife
     signup_button: Iscriviti a FetLife
-    stats_details: stanno condividendo <strong class="fw4 silver">%{picture_count} foto</strong> e <strong class="fw4 silver">%{video_count} video</strong>, partecipando a <strong class="fw4 silver">%{discussion_count} discussioni</strong> in <strong class="fw4 silver">%{group_count} gruppi</strong>, stanno andando a <strong class="fw4 silver">%{event_count} prossimi eventi</strong>, e leggono <strong class="fw4 silver">%{post_count} post di blog</strong>. <span><span class="i">Il paradiso Kinky!</span>
+    stats_details: stanno condividendo <strong class="fw7 silver">%{picture_count} foto</strong> e <strong class="fw7 silver">%{video_count} video</strong>, partecipando a <strong class="fw7 silver">%{discussion_count} discussioni</strong> in <strong class="fw7 silver">%{group_count} gruppi</strong>, stanno andando a <strong class="fw7 silver">%{event_count} prossimi eventi</strong>, e leggono <strong class="fw7 silver">%{post_count} post di blog</strong>. <span><span class="i">Il paradiso Kinky!</span>
     stats_members: Membri
     subtitle: Come Facebook, ma gestito da kinksters come te e me. Pensiamo che sia più divertente in questo modo. Non è vero?
     title: FetLife è il social network per la Comunità BDSM, Fetish & Kinky.
