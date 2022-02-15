@@ -167,7 +167,7 @@ nl:
   landing_page:
     login_button: Aanmelden bij FetLife
     signup_button: Inschrijven bij FetLife
-    stats_details: delen <strong class="fw4 silver">%{picture_count} foto's</strong> en <strong class="fw4 silver">%{video_count} filmpjes</strong>, nemen deel aan <strong class="fw4 silver">%{discussion_count} discussies</strong> in <strong class="fw4 silver">%{group_count} groepen</strong>, gaan naar <strong class="fw4 silver">%{event_count} aanstaande bijeenkomsten</strong>, en lezen <strong class="fw4 silver">%{post_count} blog berichten</strong>. <span><span class="i">Kinky hemel!</span>
+    stats_details: delen <strong class="fw7 silver">%{picture_count} foto's</strong> en <strong class="fw7 silver">%{video_count} filmpjes</strong>, nemen deel aan <strong class="fw7 silver">%{discussion_count} discussies</strong> in <strong class="fw7 silver">%{group_count} groepen</strong>, gaan naar <strong class="fw7 silver">%{event_count} aanstaande bijeenkomsten</strong>, en lezen <strong class="fw7 silver">%{post_count} blog berichten</strong>. <span><span class="i">Kinky hemel!</span>
     stats_members: Leden
     subtitle: Zoiets als Facebook, maar gemaakt door kinksters zoals jij en ik. Wij denken dat dat veel leuker is. Jij ook?
     title: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
