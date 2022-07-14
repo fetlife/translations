@@ -36,7 +36,7 @@ de:
     composer:
       button: Sag was
       placeholder: Was sagst du?
-    love: Lieb’s
+    love: Liebe
     loved_hover: Sag mal, brichst du gern Herzen? :-(
     loves_count:
       one: 1 Herz
@@ -495,7 +495,7 @@ de:
     benefits:
       item_1: Eine sexy <span>I Support FetLife</span>-Plakette auf deinem Profil.
       item_10: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
-      item_2: Starre die <span>mehr als 5.000 heutigen beliebtesten</span> Fotos, Videos und Schriften an.
+      item_2: Durchstöbere <span>mehr als 5.000 der heute beliebtesten</span> Fotos, Videos und Schriften.
       item_3: Schaue <span>alle %{number}+ Videos</span>, die geteilt wurden.
       item_4: Sehe <span>alle %{number}+ Bilder</span> sobald sie geteilt werden.
       item_5: Betrachte <span>alles, was du je geliebt hast</span>.
