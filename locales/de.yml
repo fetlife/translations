@@ -173,12 +173,12 @@ de:
     title: FetLife ist ein soziales Netzwerk für BDSM, Fetisch & sexy Gemeinschaft.
   legalese:
     headers:
-      2257_exempt: 2257 Exempt
+      2257_exempt: 2257 Befreiung
       legal_requests: Juristische Anfragen
       privacy_policy: Datenschutzrichtlinie
       terms_of_use: Nutzungsbedingungen
     subnav:
-      2257_exempt: 2257 Exempt
+      2257_exempt: 2257 Befreiung
       legal_requests: Juristische Anfragen
       privacy: Datenschutzrichtlinie
       terms: Nutzungsbedingungen
@@ -329,17 +329,17 @@ de:
     advertising: Werbung
     already_member: Bereits Mitglied?
     androidapp: Installiere die FetLife-Android-App
-    become_verified: Become Verified!
-    bug_bounty: Fehler-Prämie
+    become_verified: Lass dich verifizieren!
+    bug_bounty: Sicherheitslücken-Prämie
     careers: Karriere
     change_language: Sprache
     close: Schließen
     contact_us: Kontaktiere uns
-    content_guidelines: Content Guidelines
+    content_guidelines: Inhaltsrichtlinien
     edit_profile: Profil bearbeiten
     edit_settings: Einstellungen
     events: Veranstaltungen
-    exempt: 2257 Exempt
+    exempt: 2257 Befreiung
     fetishes: Fetische
     following: Folgen
     formatting: Formatierungsleitfaden
@@ -350,11 +350,11 @@ de:
     glossary: Glossar
     groups: Gruppen
     guidelines: Richtlinien
-    guiding_values: Guiding Values
+    guiding_values: Leitprinzipien
     home: Zuhause
     invite_a_friend: Lade Leute ein (%{count})
     kp: Kinky & Beliebt
-    legal_requests: Legal Request
+    legal_requests: Rechtliche Ersuchen
     legalese: Juristenjargon
     log_out: Ausloggen
     login: Einloggen
@@ -364,24 +364,24 @@ de:
     places: Orte
     privacy: Privatsphäre
     privacy_policy: Datenschutzrichtlinie
-    pwa: Add FetLife to Home Screen
+    pwa: FetLife zum Startbildschirm hinzufügen
     recommendations: Empfehlungen
     signup: Registrieren
     support: Unterstütze FetLife
     terms: Nutzungsbedingungen
     title:
-      about_fetlife: About FetLife
-      community: Community
-      legalese: Legalese
-      need_help: Need Help?
-    transparency: Transparency
-    trust_and_safety: Trust & Safety
+      about_fetlife: Über FetLife
+      community: Gemeinschaft
+      legalese: Juristenjargon
+      need_help: Brauchst du Hilfe?
+    transparency: Transparenz
+    trust_and_safety: Vertrauen & Sicherheit
     upload_picture: Neues Bild
     upload_video: Neues Video
-    verification_pending: Profile Verification Pending
+    verification_pending: Profilverifizierung ausstehend
     videos: Videos
     view_friends: Freundesliste
-    view_terms: View Terms of Use
+    view_terms: Nutzungsbedingungen ansehen
     wallpapers: FetLife-Wallpapers
     whats_new: Neuigkeiten
     write_post: Neuer Text
@@ -495,7 +495,7 @@ de:
     benefits:
       item_1: Eine sexy <span>I Support FetLife</span>-Plakette auf Deinem Profil.
       item_10: Bekomme früh <span>Zugang zu neuen Funktionen!</span>
-      item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
+      item_2: Starre die <span>mehr als 5.000 heutigen beliebtesten</span> Fotos, Videos und Schriften an.
       item_3: Schaue <span>alle %{number}+ Videos</span>, die geteilt wurden.
       item_4: Sehe <span>alle %{number}+ Bilder</span> sobald sie geteilt werden.
       item_5: Betrachte <span>alles, was Du je geliebt hast</span>.
@@ -511,7 +511,7 @@ de:
       ach: Banküberweisung (ACH)
       cc_curo: Kreditkarte
       cc_trustpay: Kreditkarte
-      coingate: Cryptocurrency
+      coingate: Kryptowährung
       eps: EPS
       giropay: giropay
       ideal: iDEAL
@@ -558,9 +558,9 @@ de:
       question_q: Q. Noch Fragen?
       renew_a: Niemals. Wir wollen sie uns jedes Mal verdienen.
       renew_q: Q. Erneuert ihr meine Unterstützung automatisch?
-      return_a_part_1: We offer a 7-day money back guarantee!
-      return_a_part_2: 'Unfortunately though, due to the nature of the following payment methods, we can''t issue refunds and all payments using these methods will be final sale: Gift Card Trade-IN, POLi, Cryptocurrency, and Paysafecard.'
-      return_a_part_3: Refunds are limited to one per person.
+      return_a_part_1: Wir bieten eine 7-Tage-Geld-zurück-Garantie!
+      return_a_part_2: Bedauerlicherweise gilt das nicht für Geschenkkarten, POLi, Kryptowährungen und Paysafecard, weil wir aufgrund ihrer Funktionsweise keine Möglichkeit haben sie zurückzubuchen. Mit ihnen getätigte Käufe sind endgültig.
+      return_a_part_3: Rückerstattungen sind begrenzt auf eine pro Person.
       return_q: Q. Wie läuft das mit der Rücknahme?
       secure_a: Ja, sehr. FetLife speichert keine eurer persönlichen Daten auf unseren Servern. Wir benutzen die angegebenen Daten nur für die Abbuchung und das wars.
       secure_q: Q. Ist das sicher?
@@ -587,8 +587,8 @@ de:
         extra_info: Wir akzeptieren Visa und Mastercard. Es ist leicht und sicher.
         title: Kreditkarte
       coingate:
-        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
-        title: Cryptocurrency
+        extra_info: Wir akzeptieren Bitcoin, Ethereum, Dogecoin, Litecoin, XRP und Dash.
+        title: Kryptowährung
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)
@@ -610,7 +610,7 @@ de:
         extra_info: Tausche eine Geschenkkarte von mehr als hundert Marken wie Starbucks, Best Buy, Target, Walmart, Home Depot oder Build-A-Bear ein.
         title: Geschenkkarten bekannter Marken
       paysafe:
-        extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
+        extra_info: Du kannst FetLife durch Einlösen einer Paysafecard unterstützen. Paysafecards bekommst du in über 500.000 Geschäften in mehr als 43 Ländern.
         title: Prepaid Paysafecard
       poli:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem Konto in Australien oder Neuseeland.
@@ -686,14 +686,14 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine Deiner persönlichen Daten.
       title: Kreditkartenzahlung
     step3_coingate:
-      cta: Support FetLife via Cryptocurrency
-      intro: 'Some intro videos we enjoyed watching:'
-      secure: Secure as Fort Knox
-      title: "“How To” for Cryptocurrency"
-      title_html: "&ldquo;How To&rdquo; for Cryptocurrency"
-      wallets_list_header: 'We''ve had good experience with the following wallet provider:'
-      wallets_title: Recommended Cryptocurrency Wallets
-      what: What is Cryptocurrency?
+      cta: FetLife per Kryptowährung unterstützen
+      intro: 'Einige Einführungsvideos, die uns gefallen haben (Englisch):'
+      secure: So sicher wie Fort Knox
+      title: Anleitung für Kryptowährungen
+      title_html: Anleitung für Kryptowährungen
+      wallets_list_header: 'Wir haben gute Erfahrungen mit dem folgenden Wallet-Anbieter gemacht:'
+      wallets_title: Empfohlene Krypto-Wallets
+      what: Was ist eine Kryptowährung?
     step3_eps:
       address_label: Adresse
       address_sub_label: zum Konto gehörig
