@@ -124,7 +124,7 @@ de:
       community: Gemeinschafts-Richtlinien
       content: Inhalts-Richtlinien
       group_leader: Gruppenleitungs-Richtlinien
-      values: Leitwerte
+      values: Leitprinzipien
     last_updated: 'Zuletzt aktualisiert:'
     sections:
       guidelines:
@@ -174,12 +174,12 @@ de:
   legalese:
     headers:
       2257_exempt: 2257 Befreiung
-      legal_requests: Juristische Anfragen
+      legal_requests: Rechtliche Ersuchen
       privacy_policy: Datenschutzrichtlinie
       terms_of_use: Nutzungsbedingungen
     subnav:
       2257_exempt: 2257 Befreiung
-      legal_requests: Juristische Anfragen
+      legal_requests: Rechtliche Ersuchen
       privacy: Datenschutzrichtlinie
       terms: Nutzungsbedingungen
     title: Juristenjargon
