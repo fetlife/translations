@@ -23,6 +23,14 @@ You can help out in multiple ways, and you don't even need to be multilingual to
 - Translate FetLife into a language you are well versed in creating a new file with the proper language code, copying the contents of en.yml into the new file, translating as many strings as you can, and finally submitting the translation in a pull request to us.
 
 
+Note: It's not always easy to review new additions to our translations so please help out and:
+
+- Document what you changed in detail
+- Make small PRs
+
+Here's a great example of how it's done: https://github.com/fetlife/translations/pull/303
+
+
 ## Coding Conventions
 
 Please try to always write a clear log message for each of your commits. One-line messages are fine for small changes, but bigger changes should be a bit meatier.
