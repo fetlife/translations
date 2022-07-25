@@ -532,7 +532,7 @@ pl:
       bankcode_blank: Bank can't be blank
       bic_blank: BIC can't be blank
       bic_format: Invalid BIC
-      canceled: Transaction cancelled by user.
+      canceled: Transaction canceled by user.
       city_blank: City can't be blank
       country_blank: Country has to be selected
       double_failsafe: Are you sure you want to support us again? Don't get us wrong, we appreciate the support, but we also don't want to double bill you by mistake. If you have any questions, please don't hesitate to email <a href="mailto:support@fetlife.com">support@fetlife.com</a>.
