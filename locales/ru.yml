@@ -753,6 +753,7 @@ ru:
       answer_label: 'Ответ'
       answer_placeholder: Ответ
       cta: Я отправил Interac e-Transfer
+      message: Message
       question_label: 'Контрольный Вопрос'
       question_placeholder: Контрольный Вопрос
       send: 'Отправить'

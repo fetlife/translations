@@ -747,6 +747,7 @@ nl:
       answer_label: 'Answer'
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
+      message: Message
       question_label: 'Security Question'
       question_placeholder: Security Question
       send: 'Send to'

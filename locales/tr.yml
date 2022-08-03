@@ -747,6 +747,7 @@ tr:
       answer_label: 'Cevap'
       answer_placeholder: Cevap
       cta: Interac e-Transfer'i gönderdim
+      message: Message
       question_label: 'Güvenlik Sorusu'
       question_placeholder: Güvenlik Sorusu
       send: 'Gönderildi'

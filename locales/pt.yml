@@ -747,6 +747,7 @@ pt:
       answer_label: 'Resposta'
       answer_placeholder: Resposta
       cta: Nós enviámos o Interac e-Transfer
+      message: Message
       question_label: 'Questão de segurança'
       question_placeholder: Questão de segurança
       send: 'Enviar para'
