@@ -41,6 +41,8 @@ sk:
     loved_hover: Lámač sŕdc! :-(
     loves_count:
       one: 1 členovi sa to ľúbi
+      few: "%{count_with_delimiter} členom sa to ľúbi"
+      many: "%{count_with_delimiter} členom sa to ľúbi"
       other: "%{count_with_delimiter} členom sa to ľúbi"
     modal:
       close: zatvoriť
@@ -748,14 +750,14 @@ sk:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:

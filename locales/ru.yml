@@ -34,6 +34,8 @@ ru:
     comment: Комментарий
     comments_count:
       one: 1 Комментарий
+      few: "%{count_with_delimiter} Комментариев"
+      many: "%{count_with_delimiter} Комментариев"
       other: "%{count_with_delimiter} Комментариев"
     composer:
       button: Отправить
@@ -42,6 +44,8 @@ ru:
     loved_hover: Сердце разбито! :-(
     loves_count:
       one: 1 Любовь
+      few: "%{count_with_delimiter} Любовь"
+      many: "%{count_with_delimiter} Любовь"
       other: "%{count_with_delimiter} Любовь"
     modal:
       close: закрыть
@@ -165,6 +169,8 @@ ru:
     return_to_feed: вернуться к ленте
     subtitle_step1:
       one: У вас осталось 1 приглашение.
+      few: У вас осталось %{count_with_delimiter} приглашений.
+      many: У вас осталось %{count_with_delimiter} приглашений.
       other: У вас осталось %{count_with_delimiter} приглашений.
     subtitle_step2: Мы отправили ваше приглашение %{email}.
     title_step1: Пригласить Друга
@@ -217,12 +223,18 @@ ru:
   member_stats:
     pics:
       one: 1 фото
+      few: "%{count_with_delimiter} фото"
+      many: "%{count_with_delimiter} фото"
       other: "%{count_with_delimiter} фото"
     posts:
       one: 1 пост
+      few: "%{count_with_delimiter} постов"
+      many: "%{count_with_delimiter} постов"
       other: "%{count_with_delimiter} постов"
     vids:
       one: 1 видео
+      few: "%{count_with_delimiter} видео"
+      many: "%{count_with_delimiter} видео"
       other: "%{count_with_delimiter} видео"
   nav:
     events: Мероприятия
@@ -749,14 +761,14 @@ ru:
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: iDEAL Платёж
     step3_interac:
-      amount: 'Сумма'
-      answer_label: 'Ответ'
+      amount: Сумма
+      answer_label: Ответ
       answer_placeholder: Ответ
       cta: Я отправил Interac e-Transfer
       message: Message
-      question_label: 'Контрольный Вопрос'
+      question_label: Контрольный Вопрос
       question_placeholder: Контрольный Вопрос
-      send: 'Отправить'
+      send: Отправить
       thank_you: Спасибо!
       title: Отправить Interac e-Transfer перевод
     step3_mail:
