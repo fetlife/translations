@@ -34,6 +34,7 @@ pl:
       few: "%{count_with_delimiter} komentarze"
       one: 1 komentarz
       other: "%{count_with_delimiter} komentarzy"
+      many: "%{count_with_delimiter} komentarzy"
     composer:
       button: Powiedz to!
       placeholder: I co Ty na to?
@@ -42,6 +43,7 @@ pl:
     loves_count:
       few: "%{count_with_delimiter} serducha"
       one: 1 Serducho
+      many: "%{count_with_delimiter} serduch"
       other: "%{count_with_delimiter} serduch"
     modal:
       close: zamknij
@@ -162,6 +164,8 @@ pl:
     subtitle_step1:
       one: Zostało Ci 1 zaproszenie.
       other: 'Pozostało zaproszeń: %{count_with_delimiter}.'
+      few: 'Pozostało zaproszeń: %{count_with_delimiter}.'
+      many: 'Pozostało zaproszeń: %{count_with_delimiter}.'
     subtitle_step2: Wysłaliśmy zaproszenie od Ciebie dla %{email}.
     title_step1: Zaproś znajomego
     title_step2: Zaproszenie wysłane
@@ -213,12 +217,18 @@ pl:
   member_stats:
     pics:
       one: 1 fotka
+      few: 'fotki: %{count_with_delimiter}'
+      many: 'fotki: %{count_with_delimiter}'
       other: 'fotki: %{count_with_delimiter}'
     posts:
       one: 1 post
+      few: 'posty: %{count_with_delimiter}'
+      many: 'posty: %{count_with_delimiter}'
       other: 'posty: %{count_with_delimiter}'
     vids:
       one: 1 filmik
+      few: 'filmiki: %{count_with_delimiter}'
+      many: 'filmiki: %{count_with_delimiter}'
       other: 'filmiki: %{count_with_delimiter}'
   nav:
     events: Wydarzenia
@@ -745,14 +755,14 @@ pl:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
