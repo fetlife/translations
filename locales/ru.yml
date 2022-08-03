@@ -749,13 +749,14 @@ ru:
       secure: Надёжно как Форт Нокс, и мы не сохраняем никакую вашу информацию.
       title: iDEAL Платёж
     step3_interac:
-      amount: 'Сумма:'
-      answer_label: 'Ответ:'
+      amount: 'Сумма'
+      answer_label: 'Ответ'
       answer_placeholder: Ответ
       cta: Я отправил Interac e-Transfer
-      question_label: 'Контрольный Вопрос:'
+      message: Message
+      question_label: 'Контрольный Вопрос'
       question_placeholder: Контрольный Вопрос
-      send: 'Отправить:'
+      send: 'Отправить'
       thank_you: Спасибо!
       title: Отправить Interac e-Transfer перевод
     step3_mail:

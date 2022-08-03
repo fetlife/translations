@@ -743,13 +743,14 @@ tr:
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: iDEAL Ödemesi
     step3_interac:
-      amount: 'Miktar:'
-      answer_label: 'Cevap:'
+      amount: 'Miktar'
+      answer_label: 'Cevap'
       answer_placeholder: Cevap
       cta: Interac e-Transfer'i gönderdim
-      question_label: 'Güvenlik Sorusu:'
+      message: Message
+      question_label: 'Güvenlik Sorusu'
       question_placeholder: Güvenlik Sorusu
-      send: 'Gönderildi:'
+      send: 'Gönderildi'
       thank_you: Teşekkürler!
       title: Interac e-Transfer Gönder
     step3_mail:

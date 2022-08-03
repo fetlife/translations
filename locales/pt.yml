@@ -743,13 +743,14 @@ pt:
       secure: Seguro como o Fort Knox e nós não armazenamos qual informação pessoal sua.
       title: Pagamento iDEAL
     step3_interac:
-      amount: 'Montante:'
-      answer_label: 'Resposta:'
+      amount: 'Montante'
+      answer_label: 'Resposta'
       answer_placeholder: Resposta
       cta: Nós enviámos o Interac e-Transfer
-      question_label: 'Questão de segurança:'
+      message: Message
+      question_label: 'Questão de segurança'
       question_placeholder: Questão de segurança
-      send: 'Enviar para:'
+      send: 'Enviar para'
       thank_you: Obrigado!
       title: Enviar Interac e-Transfer
     step3_mail:
