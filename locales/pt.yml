@@ -605,7 +605,7 @@ pt:
         title: Correio palpável
       more_options: Mostre-me mais opções
       paygarden:
-        extra_info: Trade-in gift cards from 100+ brands including Starbucks, Best Buy, Target, Walmart, and Home Depot.
+        extra_info: Trade-in gift cards from 100+ brands including Best Buy, Target, Walmart, and Home Depot.
         title: Major Brand Gift Card Trade-In
       paysafe:
         extra_info: Você pode comprar um cartão Paysafecard e utilizá-lo para apoiar o FetLife, em mais de 500,000 lojas físicas, localizadas em 43 países em todo o mundo.
@@ -639,7 +639,7 @@ pt:
       list_footer: e <a href='%{link}'>centenas de outras grandes marcas.</a>
       list_header: Nós aceitamos cartões presente de
       secure: Seguro como o Fort Knox
-      tips: Se você vive fora dos Estados Unidos da América, nós recomendamos a utilização de uma VPN ou de um Proxy e compre um cartão presente em dólares Americanos nas lojas online Starbucks ou Target US.
+      tips: Se você vive fora dos Estados Unidos da América, nós recomendamos a utilização de uma VPN ou de um Proxy e compre um cartão presente em dólares Americanos nas lojas online Target US.
       tips_header: Dicas &amp; Truques
       title: Compre um cartão presente de uma marca principal
     step3_ach:

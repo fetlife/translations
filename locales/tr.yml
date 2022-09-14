@@ -605,7 +605,7 @@ tr:
         title: Fiziksel Posta
       more_options: bana daha fazla seçenek göster
       paygarden:
-        extra_info: Starbucks, Best Buy, Target, Walmart ve Home Depot dahil olmak üzere 100'den fazla markadan gelen hediye kartları.
+        extra_info: Best Buy, Target, Walmart ve Home Depot dahil olmak üzere 100'den fazla markadan gelen hediye kartları.
         title: Büyük Marka Hediye Kartı Takası
       paysafe:
         extra_info: You can buy a Paysafecard and use it to support FetLife in over 500,000 physical stores, located in 43 countries.
@@ -639,7 +639,7 @@ tr:
       list_footer: ve <a href='%{link}'>100lerce diğer büyük marka.</a>
       list_header: Şuralardan Hediye Kartları Kabul Ediyoruz
       secure: Fort Knox Kadar Güvenli
-      tips: Amerika Birleşik Devletleri dışında yaşıyorsanız, VPN / Proxy kullanmanızı ve USD cinsinden Starbucks veya Targets US çevrimiçi mağazalarından hediye kartı almanızı öneririz.
+      tips: Amerika Birleşik Devletleri dışında yaşıyorsanız, VPN / Proxy kullanmanızı ve USD cinsinden Targets US çevrimiçi mağazalarından hediye kartı almanızı öneririz.
       tips_header: İpuçları & Püf Noktaları
       title: Büyük Bir Markadan Hediye Kartı Satın Alın
     step3_ach:
