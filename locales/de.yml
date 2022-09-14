@@ -605,7 +605,7 @@ de:
         title: Briefpost
       more_options: Mehr Optionen anzeigen
       paygarden:
-        extra_info: Tausche eine Geschenkkarte von mehr als hundert Marken wie Starbucks, Best Buy, Target, Walmart oder Home Depot ein.
+        extra_info: Tausche eine Geschenkkarte von mehr als hundert Marken wie Best Buy, Target, Walmart oder Home Depot ein.
         title: Geschenkkarten bekannter Marken
       paysafe:
         extra_info: Du kannst FetLife durch Einlösen einer Paysafecard unterstützen. Paysafecards bekommst du in über 500.000 Geschäften in mehr als 43 Ländern.
@@ -639,7 +639,7 @@ de:
       list_footer: und <a href='%{link}'>hunderte andere bekannte Marken.</a>
       list_header: Wir akzeptieren Geschenkkarten von
       secure: So sicher wie Fort Knox
-      tips: Wenn du außerhalb der USA wohnst, empfehlen wir ein VPN/Proxy zu nutzen oder Geschenkkarten in US-Dollar in Starbucks- oder Targets-US-Online-Shops zu kaufen.
+      tips: Wenn du außerhalb der USA wohnst, empfehlen wir ein VPN/Proxy zu nutzen oder Geschenkkarten in US-Dollar in Targets-US-Online-Shops zu kaufen.
       tips_header: Tipps &amp; Tricks
       title: Kaufe eine Geschenkkarte einer bekannten Marke
     step3_ach:
