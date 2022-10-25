@@ -166,10 +166,12 @@ tr:
   landing_page:
     login_button: FetLife'a Giriş Yapın
     signup_button: FetLife'a Katılın
+    signup_button_new: FetLife'a Katılın
     stats_details: <strong class="fw7 silver">%{picture_count} fotoğraf</strong> ve <strong class="fw7 silver">%{video_count} video</strong> paylaşıyor, <strong class="fw7 silver">%{group_count} grupta</strong> <strong class="fw7 silver">%{discussion_count} tartışamaya</strong> katılıyor, <strong class="fw7 silver">%{event_count} tane yaklaşan etkinliğe</strong> katılıyor ve <strong class="fw7 silver">%{post_count} blog gönderisi</strong> okuyor. <span><span class="i">Kinky Cennet!</span>
     stats_members: Üye
     subtitle: Facebook gibi, ama sen ve ben gibi kinksterlar tarafından yönetiliyor. Bu şekilde daha eğlenceli olduğunu düşünüyoruz. Değil mi
     title: FetLife, BDSM, Fetiş ve Kinky Topluluğu'nun Sosyal Ağıdır.
+    title_new: FetLife, BDSM, Fetiş ve Kinky Topluluğu'nun Sosyal Ağıdır.
   legalese:
     headers:
       2257_exempt: 2257 Muaf
