@@ -172,6 +172,7 @@ pl:
   landing_page:
     login_button: Zaloguj się do FetLife
     signup_button: Dołącz do FetLife
+    signup_button_new: Dołącz do FetLife
     stats_details: udostępniają <strong class="fw7 silver">%{picture_count} obrazków</strong> i <strong class="fw7 silver">%{video_count} filmików</strong>, biorą udział w <strong class="fw7 silver">%{discussion_count} dyskusjach</strong> w <strong class="fw7 silver">%{group_count} grupach</strong>, idą na <strong class="fw7 silver">%{event_count} nadchodzących wydarzeń</strong>, i czytają <strong class="fw7 silver">%{post_count} wpisów na blogach</strong>. <span><span class="i">Raj dla kinksterów!</span>
     stats_members: Członkowie
     subtitle: Jak Facebook, ale robiony przez kinksterów takich jak Ty czy ja. Tak jest chyba fajniej, nie?

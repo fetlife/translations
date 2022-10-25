@@ -166,6 +166,7 @@ gr:
   landing_page:
     login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
+    signup_button_new: Εγγραφή στο FetLife
     stats_details: μοιράζονται <strong class="fw7 silver">%{picture_count} εικόνες</strong> και <strong class="fw7 silver">%{video_count} βίντεο</strong>, συμμετέχουν σε <strong class="fw7 silver">%{discussion_count} συζητήσεις</strong> σε <strong class="fw7 silver">%{group_count} ομάδες</strong>, πηγαίνουν σε <strong class="fw7 silver">%{event_count} επερχόμενες εκδηλώσεις</strong>, και διαβάζουν <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky παράδεισος!</span>
     stats_members: Τα μέλη
     subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;

@@ -166,6 +166,7 @@ de:
   landing_page:
     login_button: Anmelden bei FetLife
     signup_button: Registrieren bei FetLife
+    signup_button_new: Registrieren bei FetLife
     stats_details: teilen <strong class="fw7 silver">%{picture_count} Bilder</strong> und <strong class="fw7 silver">%{video_count} Videos</strong>, nehmen an <strong class="fw7 silver">%{discussion_count} Diskussionen</strong> in <strong class="fw7 silver">%{group_count} Gruppen</strong> teil, besuchen <strong class="fw7 silver">%{event_count} demnächst stattfindende Veranstaltungen</strong> und lesen <strong class="fw7 silver">%{post_count} Blog-Einträge</strong>. <span><span class="i">Ein perverses Paradies!</span>
     stats_members: Mitglieder
     subtitle: Wie Facebook, aber betrieben von BDSM-Afi­ci­o­na­dos wie dir und mir. Wir finden, dass es so viel spaßiger ist. Du auch?

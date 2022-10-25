@@ -178,6 +178,7 @@ ru:
   landing_page:
     login_button: Войти в FetLife
     signup_button: Присоединиться к FetLife
+    signup_button_new: Присоединиться к FetLife
     stats_details: делятся <strong class="fw7 silver">%{picture_count} фото</strong> и <strong class="fw7 silver">%{video_count} видео</strong>, участвуют в <strong class="fw7 silver">%{discussion_count} обсуждений</strong> в <strong class="fw7 silver">%{group_count} группах</strong>, посещают <strong class="fw7 silver">%{event_count} предстоящих мероприятий</strong>, и читают <strong class="fw7 silver">%{post_count} публикаций</strong>. <span><span class="i">Развратный рай!</span>
     stats_members: Пользователей
     subtitle: Как и Facebook, но созданный развратниками как ты и я. Мы считаем, что это намного круче. Не так ли?
