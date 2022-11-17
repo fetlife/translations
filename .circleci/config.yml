@@ -49,7 +49,3 @@ workflows:
             branches:
               only:
                 - master
-
-notify:
-  webhooks:
-    - url: https://fetlife-johnny5.herokuapp.com/circleci
