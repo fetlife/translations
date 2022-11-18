@@ -621,6 +621,9 @@ hu:
       sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       teleingreso:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Spain.
         title: Teleingreso

@@ -621,6 +621,9 @@ de:
       sepa:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem SEPA-fähigen Konto in Europa.
         title: Europäische Kontoabbuchung (SEPA)
+      curo_sepa:
+        extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem SEPA-fähigen Konto in Europa.
+        title: Europäische Kontoabbuchung (SEPA)
       teleingreso:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem Konto in Spanien.
         title: Teleingreso

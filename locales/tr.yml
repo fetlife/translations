@@ -621,6 +621,9 @@ tr:
       sepa:
         extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Avrupa Banka Havalesi (SEPA)
+      curo_sepa:
+        extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Avrupa Banka Havalesi (SEPA)
       teleingreso:
         extra_info: İspanya'da banka hesabı olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Teleingreso

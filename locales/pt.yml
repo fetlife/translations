@@ -621,6 +621,9 @@ pt:
       sepa:
         extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária que suporte SEPA na Europa.
         title: Transferência bancária SEPA
+      curo_sepa:
+        extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária que suporte SEPA na Europa.
+        title: Transferência bancária SEPA
       teleingreso:
         extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária em Espanha.
         title: Teleingreso

@@ -621,6 +621,9 @@ fr:
       sepa:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant SEPA en Europe.
         title: Virement bancaire européen (SEPA)
+      curo_sepa:
+        extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant SEPA en Europe.
+        title: Virement bancaire européen (SEPA)
       teleingreso:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire en Espagne.
         title: Teleingreso
