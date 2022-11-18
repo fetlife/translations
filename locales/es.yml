@@ -621,6 +621,9 @@ es:
       sepa:
         extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
         title: Transferencia bancaria europea(SEPA)
+      curo_sepa:
+        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
+        title: Transferencia bancaria europea(SEPA)
       teleingreso:
         extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para quienes tienen una cuenta bancaria en España.
         title: Teleingreso
