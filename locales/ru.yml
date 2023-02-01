@@ -33,9 +33,9 @@ ru:
   feed:
     comment: Комментарий
     comments_count:
-      one: 1 Комментарий
       few: "%{count_with_delimiter} Комментариев"
       many: "%{count_with_delimiter} Комментариев"
+      one: 1 Комментарий
       other: "%{count_with_delimiter} Комментариев"
     composer:
       button: Отправить
@@ -43,9 +43,9 @@ ru:
     love: Любовь
     loved_hover: Сердце разбито! :-(
     loves_count:
-      one: 1 Любовь
       few: "%{count_with_delimiter} Любовь"
       many: "%{count_with_delimiter} Любовь"
+      one: 1 Любовь
       other: "%{count_with_delimiter} Любовь"
     modal:
       close: закрыть
@@ -152,6 +152,11 @@ ru:
       group_leader: Руководитель Группы
       values: Ценности
     title: Правила
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: отмена
     cancel_notice: Приглашение для %{email} было отозвано.
@@ -167,9 +172,9 @@ ru:
     next_step: следующий шаг
     return_to_feed: вернуться к ленте
     subtitle_step1:
-      one: У вас осталось 1 приглашение.
       few: У вас осталось %{count_with_delimiter} приглашений.
       many: У вас осталось %{count_with_delimiter} приглашений.
+      one: У вас осталось 1 приглашение.
       other: У вас осталось %{count_with_delimiter} приглашений.
     subtitle_step2: Мы отправили ваше приглашение %{email}.
     title_step1: Пригласить Друга
@@ -223,19 +228,19 @@ ru:
     title: Мы будем по вам скучать!
   member_stats:
     pics:
-      one: 1 фото
       few: "%{count_with_delimiter} фото"
       many: "%{count_with_delimiter} фото"
+      one: 1 фото
       other: "%{count_with_delimiter} фото"
     posts:
-      one: 1 пост
       few: "%{count_with_delimiter} постов"
       many: "%{count_with_delimiter} постов"
+      one: 1 пост
       other: "%{count_with_delimiter} постов"
     vids:
-      one: 1 видео
       few: "%{count_with_delimiter} видео"
       many: "%{count_with_delimiter} видео"
+      one: 1 видео
       other: "%{count_with_delimiter} видео"
   nav:
     events: Мероприятия
@@ -243,6 +248,10 @@ ru:
     fetishes: Фетиши
     groups: Группы
     home: Домой
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Места
     search_placeholder: Искать на FetLife
     videos: Видео
@@ -344,6 +353,7 @@ ru:
     title: Обновить Адрес Эл.Почты
   sidebar:
     about_fetlife: Наша Команда
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Реклама
     already_member: Уже зарегистрированы?
@@ -371,6 +381,7 @@ ru:
     guiding_values: Guiding Values
     home: Home
     invite_a_friend: Пригласить Друга (%{count})
+    invites: Invites
     kp: Развратное & Популярное
     legal_requests: Legal Request
     legalese: Условия Использования
@@ -378,12 +389,17 @@ ru:
     login: Войти
     loved_stuff: Избранное
     need_help: Нужна Помощь?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Опенсорс
     places: Места
     privacy: Приватность
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Рекомендации
+    show_account_menu: Show Account Menu
     signup: Присоединиться к FetLife
     support: Поддержать FetLife
     terms: Условия
@@ -394,11 +410,14 @@ ru:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Загрузить Фото
     upload_video: Загрузить Видео
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Видео
     view_friends: Посмотреть Друзей
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Обои
     whats_new: Что Нового
@@ -607,6 +626,9 @@ ru:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает SEPA в Европе.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает EPS в Австрии.
         title: Austrian Bank Transfer (EPS)
@@ -637,9 +659,6 @@ ru:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет в Польше.
         title: Przelewy24
       sepa:
-        extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает SEPA в Европе.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: Так же просто и безопасно, как оплата кредитной картой для тех, у кого есть банковский счет, который поддерживает SEPA в Европе.
         title: European Bank Transfer (SEPA)
       teleingreso:

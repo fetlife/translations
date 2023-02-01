@@ -142,6 +142,11 @@ de:
       group_leader: Gruppenleitung
       values: Werte
     title: Richtlinien
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: Abbrechen
     cancel_notice: Die Einladung an %{email} wurde zurückgezogen.
@@ -225,6 +230,10 @@ de:
     fetishes: Fetische
     groups: Gruppen
     home: Zuhause
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Orte
     search_placeholder: FetLife durchsuchen
     videos: Videos
@@ -326,6 +335,7 @@ de:
     title: E-Mail-Adresse aktualisieren
   sidebar:
     about_fetlife: Über FetLife
+    account_settings: Account Settings
     advertisers: Alle Werbetreibenden
     advertising: Werbung
     already_member: Bereits Mitglied?
@@ -353,6 +363,7 @@ de:
     guiding_values: Leitprinzipien
     home: Zuhause
     invite_a_friend: Lade Leute ein (%{count})
+    invites: Invites
     kp: Kinky & Beliebt
     legal_requests: Rechtliche Ersuchen
     legalese: Juristenjargon
@@ -360,12 +371,17 @@ de:
     login: Einloggen
     loved_stuff: Von dir geliebt
     need_help: Hilfe
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open Source
     places: Orte
     privacy: Privatsphäre
+    privacy_options: Privacy Options
     privacy_policy: Datenschutzrichtlinie
     pwa: FetLife zum Startbildschirm hinzufügen
     recommendations: Empfehlungen
+    show_account_menu: Show Account Menu
     signup: Registrieren
     support: Unterstütze FetLife
     terms: Nutzungsbedingungen
@@ -376,11 +392,14 @@ de:
       need_help: Brauchst du Hilfe?
     transparency: Transparenz
     trust_and_safety: Vertrauen & Sicherheit
+    upcoming_events: Upcoming Events
     upload_picture: Neues Bild
     upload_video: Neues Video
     verification_pending: Profilverifizierung ausstehend
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: Freundesliste
+    view_profile: view profile
     view_terms: Nutzungsbedingungen ansehen
     wallpapers: FetLife-Wallpapers
     whats_new: Neuigkeiten
@@ -589,6 +608,9 @@ de:
       coingate:
         extra_info: Wir akzeptieren Bitcoin, Ethereum, Dogecoin, Litecoin, XRP und Dash.
         title: Kryptowährung
+      curo_sepa:
+        extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem SEPA-fähigen Konto in Europa.
+        title: Europäische Kontoabbuchung (SEPA)
       eps:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem EPS-fähigen Konto in Österreich.
         title: Österreichische Bezahloption (EPS)
@@ -619,9 +641,6 @@ de:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem Konto in Polen.
         title: Przelewy24
       sepa:
-        extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem SEPA-fähigen Konto in Europa.
-        title: Europäische Kontoabbuchung (SEPA)
-      curo_sepa:
         extra_info: So einfach und sicher wie die Bezahlung mit Kreditkarte. Für diejenigen mit einem SEPA-fähigen Konto in Europa.
         title: Europäische Kontoabbuchung (SEPA)
       teleingreso:
@@ -746,14 +765,14 @@ de:
       secure: So sicher wie Fort Knox und wir speichern keine deiner persönlichen Daten.
       title: iDEAL-Bezahlung
     step3_interac:
-      amount: 'Betrag'
-      answer_label: 'Antwort'
+      amount: Betrag
+      answer_label: Antwort
       answer_placeholder: Antwort
       cta: Ich habe den Interac e-Transfer verschickt
       message: Message
-      question_label: 'Sicherheitsfrage'
+      question_label: Sicherheitsfrage
       question_placeholder: Sicherheitsfrage
-      send: 'Senden an'
+      send: Senden an
       thank_you: Danke!
       title: Interac e-Transfer versenden
     step3_mail:

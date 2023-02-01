@@ -142,6 +142,11 @@ gr:
       group_leader: Αρχηγός Ομάδας
       values: Values
     title: Kατευθυντήριες Γραμμές
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: ακύρωση
     cancel_notice: H πρόσκληση στο %{email} ακυρώθηκε.
@@ -225,6 +230,10 @@ gr:
     fetishes: Φετίχ
     groups: Ομάδες
     home: Αρχική σελίδα
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Μέρη
     search_placeholder: Αναζήτηση
     videos: Videos
@@ -326,6 +335,7 @@ gr:
     title: Επαναφέρετε τη διεύθυνση email
   sidebar:
     about_fetlife: Σχετικά με το Fetlife
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Διαφήμιση
     already_member: Already a member?
@@ -353,6 +363,7 @@ gr:
     guiding_values: Guiding Values
     home: Αρχική
     invite_a_friend: Προσκαλέστε ένα Φίλο (%{count})
+    invites: Invites
     kp: Διαστροφικά & Δημοφιλή
     legal_requests: Legal Request
     legalese: Νομικά
@@ -360,12 +371,17 @@ gr:
     login: Login
     loved_stuff: Πράγματα Που Αγαπάτε
     need_help: Χρειάζεστε βοήθεια?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open Source
     places: Μέρη
     privacy: Privacy
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Προτάσεις
+    show_account_menu: Show Account Menu
     signup: Signup
     support: Υποστηρίξτε το Fetlife
     terms: Terms
@@ -376,11 +392,14 @@ gr:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Μεταφόρτωση Εικόνων
     upload_video: Μεταφόρτωση Βίντεο
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: Προβολή Φίλων
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Τι νέο υπάρχει
@@ -589,6 +608,9 @@ gr:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +641,6 @@ gr:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:
@@ -746,14 +765,14 @@ gr:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
