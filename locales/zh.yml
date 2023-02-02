@@ -142,6 +142,11 @@ zh:
       group_leader: 小组管理员
       values: Values
     title: 守则
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: 取消
     cancel_notice: 发给 %{email} 的邀请已被撤销。
@@ -223,8 +228,13 @@ zh:
     events: 线下活动
     explore: 发现
     fetishes: 癖好
+    fetlife_status: Status FetLife
     groups: 小组
     home: 首页
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: 地方
     search_placeholder: 搜索 FetLife
     videos: 视频
@@ -326,6 +336,7 @@ zh:
     title: 更改邮件地址
   sidebar:
     about_fetlife: 关于 Fetlife
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: 广告
     already_member: 已经注册过？
@@ -353,6 +364,7 @@ zh:
     guiding_values: Guiding Values
     home: 首页
     invite_a_friend: 邀请好友（%{count}）
+    invites: Invites
     kp: 众心所癖
     legal_requests: Legal Request
     legalese: 法律事宜
@@ -360,12 +372,17 @@ zh:
     login: 登录
     loved_stuff: 你赞过的东西
     need_help: 需要帮助？
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: 开源
     places: 地方
     privacy: 隐私
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: 推荐
+    show_account_menu: Show Account Menu
     signup: 注册
     support: 赞助 FetLife
     terms: 条款
@@ -376,11 +393,14 @@ zh:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: 上传图片
     upload_video: 上传视频
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: 视频
     view_friends: 查看好友列表
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife 壁纸
     whats_new: 有啥新鲜的
@@ -589,6 +609,9 @@ zh:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +642,6 @@ zh:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ zh:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:

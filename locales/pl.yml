@@ -32,9 +32,9 @@ pl:
     comment: Skomentuj
     comments_count:
       few: "%{count_with_delimiter} komentarze"
+      many: "%{count_with_delimiter} komentarzy"
       one: 1 komentarz
       other: "%{count_with_delimiter} komentarzy"
-      many: "%{count_with_delimiter} komentarzy"
     composer:
       button: Powiedz to!
       placeholder: I co Ty na to?
@@ -42,8 +42,8 @@ pl:
     loved_hover: Łamacz serc! :-(
     loves_count:
       few: "%{count_with_delimiter} serducha"
-      one: 1 Serducho
       many: "%{count_with_delimiter} serduch"
+      one: 1 Serducho
       other: "%{count_with_delimiter} serduch"
     modal:
       close: zamknij
@@ -146,6 +146,11 @@ pl:
       group_leader: Lider grupy
       values: Values
     title: Wytyczne
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: anuluj
     cancel_notice: Anulowano zaproszenie dla %{email}.
@@ -161,10 +166,10 @@ pl:
     next_step: następny krok
     return_to_feed: powrót do dziennika
     subtitle_step1:
-      one: Zostało Ci 1 zaproszenie.
-      other: 'Pozostało zaproszeń: %{count_with_delimiter}.'
       few: 'Pozostało zaproszeń: %{count_with_delimiter}.'
       many: 'Pozostało zaproszeń: %{count_with_delimiter}.'
+      one: Zostało Ci 1 zaproszenie.
+      other: 'Pozostało zaproszeń: %{count_with_delimiter}.'
     subtitle_step2: Wysłaliśmy zaproszenie od Ciebie dla %{email}.
     title_step1: Zaproś znajomego
     title_step2: Zaproszenie wysłane
@@ -217,26 +222,31 @@ pl:
     title: Będziemy tęsknić!
   member_stats:
     pics:
-      one: 1 fotka
       few: 'fotki: %{count_with_delimiter}'
       many: 'fotki: %{count_with_delimiter}'
+      one: 1 fotka
       other: 'fotki: %{count_with_delimiter}'
     posts:
-      one: 1 post
       few: 'posty: %{count_with_delimiter}'
       many: 'posty: %{count_with_delimiter}'
+      one: 1 post
       other: 'posty: %{count_with_delimiter}'
     vids:
-      one: 1 filmik
       few: 'filmiki: %{count_with_delimiter}'
       many: 'filmiki: %{count_with_delimiter}'
+      one: 1 filmik
       other: 'filmiki: %{count_with_delimiter}'
   nav:
     events: Wydarzenia
     explore: Eksploruj
     fetishes: Fetysze
+    fetlife_status: Status FetLife
     groups: Grupy
     home: Główna
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Miejsca
     search_placeholder: Wyszukaj na FetLife
     videos: Filmiki
@@ -338,6 +348,7 @@ pl:
     title: Zaktualizuj adres e-mail
   sidebar:
     about_fetlife: Poznaj nasz team
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Reklama
     already_member: Jesteś już członkiem?
@@ -365,6 +376,7 @@ pl:
     guiding_values: Guiding Values
     home: Start
     invite_a_friend: Zaproś znajomych (%{count})
+    invites: Invites
     kp: Kinky & Popular
     legal_requests: Legal Request
     legalese: Kwestie prawne
@@ -372,12 +384,17 @@ pl:
     login: Zaloguj się
     loved_stuff: To co kochasz
     need_help: Potrzebujesz pomocy?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open Source
     places: Lokalizacje
     privacy: Prywatność
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Rekomendacje
+    show_account_menu: Show Account Menu
     signup: Dołącz do FetLife
     support: Wesprzyj FetLife
     terms: Zasady
@@ -388,11 +405,14 @@ pl:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Wgraj obrazek
     upload_video: Wgraj filmik
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Filmiki
     view_friends: Pokaż znajomych
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: Tapety FetLife
     whats_new: Co nowego
@@ -601,6 +621,9 @@ pl:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -631,9 +654,6 @@ pl:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:

@@ -142,6 +142,11 @@ fr:
       group_leader: Chef de groupe
       values: Valeurs
     title: Lignes directrices
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: annuler
     cancel_notice: L’invitation à %{email} a été annulée.
@@ -223,8 +228,13 @@ fr:
     events: Évènements
     explore: Explorer
     fetishes: Fétiches
+    fetlife_status: Status FetLife
     groups: Groupes
     home: Accueil
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Endroits
     search_placeholder: Chercher FetLife
     videos: Videos
@@ -326,6 +336,7 @@ fr:
     title: Mettre à jour l’adresse mail
   sidebar:
     about_fetlife: À propos de Fetlife
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Publicité
     already_member: Déjà membre?
@@ -353,6 +364,7 @@ fr:
     guiding_values: Guiding Values
     home: Accueil
     invite_a_friend: Inviter un ami (%{count})
+    invites: Invites
     kp: Kinky & Popular
     legal_requests: Legal Request
     legalese: Légal
@@ -360,12 +372,17 @@ fr:
     login: Connexion
     loved_stuff: Trucs que vous aimez
     need_help: Besoin d’aide ?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open source
     places: Endroits
     privacy: Confidentialité
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Recommandations
+    show_account_menu: Show Account Menu
     signup: Inscription
     support: Supporter FetLife
     terms: Conditions
@@ -376,11 +393,14 @@ fr:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Envoyer photos
     upload_video: Envoyer vidéo
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: Voir ami⋅e⋅s
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Quoi de neuf
@@ -589,6 +609,9 @@ fr:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant SEPA en Europe.
+        title: Virement bancaire européen (SEPA)
       eps:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant EPS en Autriche.
         title: Virement bancaire autrichien (EPS)
@@ -619,9 +642,6 @@ fr:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire en Pologne.
         title: Przelewy24
       sepa:
-        extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant SEPA en Europe.
-        title: Virement bancaire européen (SEPA)
-      curo_sepa:
         extra_info: Aussi pratique et sécurisé que de payer par carte, pour ceux qui ont un compte bancaire supportant SEPA en Europe.
         title: Virement bancaire européen (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ fr:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Montant'
-      answer_label: 'Réponse'
+      amount: Montant
+      answer_label: Réponse
       answer_placeholder: Réponse
       cta: J’ai envoyé l’Interac e-Transfer
       message: Message
-      question_label: 'Question de sécurité'
+      question_label: Question de sécurité
       question_placeholder: Question de sécurité
-      send: 'Envoyé à'
+      send: Envoyé à
       thank_you: Merci !
       title: Envoyer un Interac e-Transfer
     step3_mail:

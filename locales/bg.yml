@@ -142,6 +142,11 @@ bg:
       group_leader: За водачи на група
       values: Values
     title: Правила
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: отмени
     cancel_notice: Поканата към %{email} беше отменена.
@@ -223,8 +228,13 @@ bg:
     events: Събития
     explore: Разгледай
     fetishes: Фетиши
+    fetlife_status: Status FetLife
     groups: Групи
     home: Начало
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Места
     search_placeholder: Търси във FetLife
     videos: Videos
@@ -326,6 +336,7 @@ bg:
     title: Смени имейл адреса
   sidebar:
     about_fetlife: Екипът ни
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Рекламиране
     already_member: Already a member?
@@ -353,6 +364,7 @@ bg:
     guiding_values: Guiding Values
     home: Начало
     invite_a_friend: Покани приятел (%{count})
+    invites: Invites
     kp: Извратено & Популярно
     legal_requests: Legal Request
     legalese: Правни въпроси
@@ -360,12 +372,17 @@ bg:
     login: Вход
     loved_stuff: Харесани
     need_help: Трябва ти помощ?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Отворен код
     places: Места
     privacy: Поверителност
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Препоръчани
+    show_account_menu: Show Account Menu
     signup: Регистрация
     support: Подкрепи FetLife
     terms: Условия
@@ -376,11 +393,14 @@ bg:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Качи снимка
     upload_video: Качи клип
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: Виж приятелите
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Какво ново
@@ -589,6 +609,9 @@ bg:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +642,6 @@ bg:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ bg:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:

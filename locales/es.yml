@@ -142,6 +142,11 @@ es:
       group_leader: Líder de grupo
       values: Valores
     title: Directrices
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: cancelar
     cancel_notice: La invitación a %{email} ha sido cancelada.
@@ -223,8 +228,13 @@ es:
     events: Eventos
     explore: Explorar
     fetishes: Fetiches
+    fetlife_status: Status FetLife
     groups: Grupos
     home: Principal
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Lugares
     search_placeholder: Buscar en FetLife
     videos: Vídeos
@@ -326,6 +336,7 @@ es:
     title: Actualiza la dirección de correo electrónico
   sidebar:
     about_fetlife: Conozca a nuestro equipo
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Anuncios
     already_member: Already a member?
@@ -353,6 +364,7 @@ es:
     guiding_values: Guiding Values
     home: Principal
     invite_a_friend: Invitar a un amigo (%{count})
+    invites: Invites
     kp: Kinky & Popular
     legal_requests: Legal Request
     legalese: Leguleyos
@@ -360,12 +372,17 @@ es:
     login: Login
     loved_stuff: Cosas que ama
     need_help: "¿Necesita ayuda?"
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Código abierto
     places: Lugares
     privacy: Privacidad
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Recomendaciones
+    show_account_menu: Show Account Menu
     signup: Únase a FetLife
     support: Apoyar a FetLife
     terms: Términos
@@ -376,11 +393,14 @@ es:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Subir foto
     upload_video: Subir vídeo
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Vídeos
     view_friends: Ver amigos
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Qué hay de nuevo
@@ -589,6 +609,9 @@ es:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
+        title: Transferencia bancaria europea(SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +642,6 @@ es:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
-        title: Transferencia bancaria europea(SEPA)
-      curo_sepa:
         extra_info: Tan sencillo y seguro como pagar con tarjeta de crédito para aquellos que tengan una cuenta bancaria que soporte SEPA en Europa.
         title: Transferencia bancaria europea(SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ es:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:

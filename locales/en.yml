@@ -142,6 +142,11 @@ en:
       group_leader: Group Leader
       values: Values
     title: Guidelines
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: cancel
     cancel_notice: The invitation to %{email} has been canceled.
@@ -222,9 +227,14 @@ en:
   nav:
     events: Events
     explore: Explore
+    fetlife_status: Status FetLife
     fetishes: Fetishes
     groups: Groups
     home: Home
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Places
     search_placeholder: Search FetLife
     videos: Videos
@@ -325,12 +335,8 @@ en:
     subtitle: Just in case you forget your password.
     title: Update Email Address
   sidebar:
-    title:
-      about_fetlife: About FetLife
-      community: Community
-      legalese: Legalese
-      need_help: Need Help?
     about_fetlife: Meet the Team
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Advertising
     already_member: Already a member?
@@ -358,29 +364,43 @@ en:
     guiding_values: Guiding Values
     home: Home
     invite_a_friend: Invite a Friend (%{count})
+    invites: Invites
     kp: Kinky & Popular
-    legalese: Legalese
     legal_requests: Legal Request
+    legalese: Legalese
     log_out: Log Out
     login: Log In
     loved_stuff: Stuff You Love
     need_help: Help
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open Source
     places: Places
     privacy: Privacy
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Recommendations
+    show_account_menu: Show Account Menu
     signup: Join FetLife
     support: Support FetLife
     terms: Terms of Use
+    title:
+      about_fetlife: About FetLife
+      community: Community
+      legalese: Legalese
+      need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Upload Picture
     upload_video: Upload Video
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: View Friends
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: What's New
@@ -589,6 +609,9 @@ en:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +642,6 @@ en:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ en:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:

@@ -40,9 +40,9 @@ sk:
     love: Ľúbi sa mi to
     loved_hover: Lámač sŕdc! :-(
     loves_count:
-      one: 1 členovi sa to ľúbi
       few: "%{count_with_delimiter} členom sa to ľúbi"
       many: "%{count_with_delimiter} členom sa to ľúbi"
+      one: 1 členovi sa to ľúbi
       other: "%{count_with_delimiter} členom sa to ľúbi"
     modal:
       close: zatvoriť
@@ -145,6 +145,11 @@ sk:
       group_leader: Líder skupiny
       values: Values
     title: Pravidlá
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: zrušiť
     cancel_notice: Pozvánka pre %{email} bola zrušená.
@@ -230,8 +235,13 @@ sk:
     events: Udalosti
     explore: Objavuj
     fetishes: Fetiše
+    fetlife_status: Status FetLife
     groups: Skupiny
     home: Domov
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Miesta
     search_placeholder: Hľadať
     videos: Videos
@@ -333,6 +343,7 @@ sk:
     title: Aktualizovať emailovú adresu
   sidebar:
     about_fetlife: O Fetlife
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Reklamné služby
     already_member: Already a member?
@@ -360,6 +371,7 @@ sk:
     guiding_values: Guiding Values
     home: Domov
     invite_a_friend: Pozvať priateľa (%{count})
+    invites: Invites
     kp: Kinky & Popular
     legal_requests: Legal Request
     legalese: Legislatíva
@@ -367,12 +379,17 @@ sk:
     login: Login
     loved_stuff: Stuff You Love
     need_help: Potrebuješ pomoc?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open Source
     places: Miesta
     privacy: Privacy
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Odporúčania
+    show_account_menu: Show Account Menu
     signup: Signup
     support: Podpor FetLife
     terms: Terms
@@ -383,11 +400,14 @@ sk:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Nahraj fotku
     upload_video: Nahraj video
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videos
     view_friends: Zobraz priateľov
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Čo nové?
@@ -596,6 +616,9 @@ sk:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -626,9 +649,6 @@ sk:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:

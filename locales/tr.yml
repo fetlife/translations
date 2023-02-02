@@ -142,6 +142,11 @@ tr:
       group_leader: Grup Lideri
       values: Values
     title: Rehberler
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: iptal
     cancel_notice: "%{email}'e gönderilen davet iptal edildi."
@@ -223,8 +228,13 @@ tr:
     events: Etkinlikler
     explore: Keşfet
     fetishes: Fetişler
+    fetlife_status: Status FetLife
     groups: Gruplar
     home: Anasayfa
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Yerler
     search_placeholder: FetLife'da Ara
     videos: Videolar
@@ -326,6 +336,7 @@ tr:
     title: Eposta Adresini Güncelle
   sidebar:
     about_fetlife: Ekiple Tanışın
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Reklam
     already_member: Zaten üye misiniz?
@@ -353,6 +364,7 @@ tr:
     guiding_values: Guiding Values
     home: Anasayfa
     invite_a_friend: Arkadaşını Davet Et (%{count})
+    invites: Invites
     kp: Kinky & Popular
     legal_requests: Legal Request
     legalese: Yasal
@@ -360,12 +372,17 @@ tr:
     login: Giriş Yap
     loved_stuff: Sevdiğiniz Şeyler
     need_help: Yardıma Mı İhtiyacınız Var?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Açık Kaynak
     places: Konumlar
     privacy: Gizlilik
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Öneriler
+    show_account_menu: Show Account Menu
     signup: FetLife'a Katılın
     support: FetLife'ı Destekleyin
     terms: Şartlar
@@ -376,11 +393,14 @@ tr:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Fotoğraf Yükle
     upload_video: Video Yükle
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Videolar
     view_friends: Arkadaşları Gör
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Duvar Kağıtları
     whats_new: Yeni Ne Var
@@ -589,6 +609,9 @@ tr:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
+        title: Avrupa Banka Havalesi (SEPA)
       eps:
         extra_info: Avusturya'da EPS'yi destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Avusturya Banka Havalesi (EPS)
@@ -619,9 +642,6 @@ tr:
         extra_info: Polonya'da bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Przelewy24
       sepa:
-        extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
-        title: Avrupa Banka Havalesi (SEPA)
-      curo_sepa:
         extra_info: Avrupa'da SEPA'yı destekleyen bir banka hesabına sahip olanlar için kredi kartıyla ödeme yapmak kadar kolay ve güvenli.
         title: Avrupa Banka Havalesi (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ tr:
       secure: Fort Knox gibi güvende ve kişisel hiçbir bilginizi saklamıyoruz.
       title: iDEAL Ödemesi
     step3_interac:
-      amount: 'Miktar'
-      answer_label: 'Cevap'
+      amount: Miktar
+      answer_label: Cevap
       answer_placeholder: Cevap
       cta: Interac e-Transfer'i gönderdim
       message: Message
-      question_label: 'Güvenlik Sorusu'
+      question_label: Güvenlik Sorusu
       question_placeholder: Güvenlik Sorusu
-      send: 'Gönderildi'
+      send: Gönderildi
       thank_you: Teşekkürler!
       title: Interac e-Transfer Gönder
     step3_mail:

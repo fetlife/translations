@@ -142,6 +142,11 @@ nl:
       group_leader: Groep Leider
       values: Values
     title: Regels
+  header:
+    friendship_requests_count: Friendship Requests (%{count})
+    inbox_count: Inbox (%{count})
+    notifications_count: Notifications (%{count})
+    post_new: Post Something New
   invite_a_friend:
     cancel_button: afbreken
     cancel_notice: De uitnodiging van %{email} is afgebroken.
@@ -223,8 +228,13 @@ nl:
     events: Bijeenkomsten
     explore: Verkennen
     fetishes: Fetishes
+    fetlife_status: Status FetLife
     groups: Groepen
     home: Thuis
+    menu: Menu
+    menu_title: Show navigation menu
+    more: More
+    more_title: Navigate elsewhere
     places: Plaatsen
     search_placeholder: Zoeken op FetLife
     videos: Videos
@@ -326,6 +336,7 @@ nl:
     title: E-mailadres bijwerken
   sidebar:
     about_fetlife: Ontmoet het team
+    account_settings: Account Settings
     advertisers: All Advertisers
     advertising: Adverteren
     already_member: Al een lid?
@@ -353,6 +364,7 @@ nl:
     guiding_values: Guiding Values
     home: Thuis
     invite_a_friend: Nodig een vriend uit (%{count})
+    invites: Invites
     kp: Kinky & Populair
     legal_requests: Legal Request
     legalese: juridisch jargon
@@ -360,12 +372,17 @@ nl:
     login: Aanmelden
     loved_stuff: Snoepjes
     need_help: Hulp nodig?
+    new_status: Post Status Update
+    new_writing: New Writing
+    noification_preferences: Notification Preferences
     open_source: Open bron
     places: Plaatsen
     privacy: Privacy
+    privacy_options: Privacy Options
     privacy_policy: Privacy Policy
     pwa: Add FetLife to Home Screen
     recommendations: Aanbevelingen
+    show_account_menu: Show Account Menu
     signup: Registreren
     support: Ondersteun FetLife
     terms: Terms
@@ -376,11 +393,14 @@ nl:
       need_help: Need Help?
     transparency: Transparency
     trust_and_safety: Trust & Safety
+    upcoming_events: Upcoming Events
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
     verification_pending: Profile Verification Pending
+    verify_profile: Verify Profile
     videos: Video's
     view_friends: Vrienden bekijken
+    view_profile: view profile
     view_terms: View Terms of Use
     wallpapers: FetLife Wallpapers
     whats_new: Wat is nieuw
@@ -589,6 +609,9 @@ nl:
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
         title: Cryptocurrency
+      curo_sepa:
+        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
+        title: European Bank Transfer (SEPA)
       eps:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports EPS in Austria.
         title: Austrian Bank Transfer (EPS)
@@ -619,9 +642,6 @@ nl:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in Poland.
         title: Przelewy24
       sepa:
-        extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
-        title: European Bank Transfer (SEPA)
-      curo_sepa:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account that supports SEPA in Europe.
         title: European Bank Transfer (SEPA)
       teleingreso:
@@ -746,14 +766,14 @@ nl:
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: iDEAL Payment
     step3_interac:
-      amount: 'Amount'
-      answer_label: 'Answer'
+      amount: Amount
+      answer_label: Answer
       answer_placeholder: Answer
       cta: I've Sent the Interac e-Transfer
       message: Message
-      question_label: 'Security Question'
+      question_label: Security Question
       question_placeholder: Security Question
-      send: 'Send to'
+      send: Send to
       thank_you: Thank You!
       title: Send Interac e-Transfer
     step3_mail:
