@@ -696,7 +696,7 @@ nl:
       zip_label: Postcode
       zip_sub_label: behorend bij je bankrekening
     step3_cc_curo:
-      cta: Ondersteun FetLife via creditcard
+      cta: Steun FetLife via creditcard
       first_name_label: Voornaam
       first_name_sub_label: associated w/ credit card
       last_name_label: Achternaam
