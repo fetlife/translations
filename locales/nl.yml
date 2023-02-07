@@ -196,7 +196,7 @@ nl:
     button: Aanmelden bij FetLife
     error_flash: Neem alsjeblieft contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.
     error_login_blank: Aanmeldveld mag niet leeg zijn.
-    error_not_authenticated: Sorry vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
+    error_not_authenticated: Sorry vriend, je moet aangemeld zijn om deze pagina te zien. Indien je nog geen lid bent, duurt het slechts 1 minuut om je in te schrijven.
     error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
     error_password_blacklist: Het wachtwoord dat je hebt gekozen, is gemakkelijk te raden. Gebruik alstublieft een sterker wachtwoord.
     error_password_blank: Wachtwoord mag niet leeg zijn.
