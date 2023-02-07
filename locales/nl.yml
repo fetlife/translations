@@ -780,7 +780,7 @@ nl:
       accept_options: International Money Order, Check, or Cash
       accept_title: 'We Accept:'
       amount: 'Amount:'
-      cta: E-mail me de bovenstaande informatie
+      cta: E-mail mij de bovenstaande informatie
       email_to: We e-mailen het naar %{email}.
       memo: 'Memo/Re:'
       send: 'Send to:'
