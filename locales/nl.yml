@@ -36,7 +36,7 @@ nl:
     composer:
       button: Zeg het
       placeholder: Wat zeg jij?
-    love: Snoepje
+    love: Love
     loved_hover: Hartenbreker! :-(
     loves_count:
       one: 1 Snoepje
@@ -87,7 +87,8 @@ nl:
       step2:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
-        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
+        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om <a href="%{forgot_password_email_path}">te proberen om je wachtwoord te herstellen met een andere methode</a>, of om <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
+        
         label: 6-cijferige verificatiecode
         page_title: Verificatiecode invoeren
         subtitle: Voer de 6-cijferige code in die we zojuist "mogelijk" naar %{phone_number} hebben gestuurd.
