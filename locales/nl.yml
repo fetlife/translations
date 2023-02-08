@@ -58,7 +58,7 @@ nl:
     email:
       cta: Stuur mij een e-mail met instructies
       error_forgot_email: E-mailadres is verplicht.
-      error_invalid_email: Dat lijkt niet op een juist e-mailadres. Graag even nakijken en opnieuw verzenden.
+      error_invalid_email: Het lijkt erop dat dit geen correct e-mailadres is. Controleer en probeer opnieuw.
       error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
       placeholder: E-mailadres
       step1:
