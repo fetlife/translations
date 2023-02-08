@@ -39,8 +39,8 @@ nl:
     love: Love
     loved_hover: Hartenbreker! :-(
     loves_count:
-      one: 1 Snoepje
-      other: "%{count_with_delimiter} Snoepjes"
+      one: 1 Love
+      other: "%{count_with_delimiter} Loves"
     modal:
       close: sluiten
       more: meer
@@ -371,7 +371,7 @@ nl:
     legalese: juridisch jargon
     log_out: Afmelden
     login: Aanmelden
-    loved_stuff: Snoepjes
+    loved_stuff: Loves
     need_help: Hulp nodig?
     new_status: Post Status Update
     new_writing: New Writing
