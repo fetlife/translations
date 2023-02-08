@@ -70,7 +70,7 @@ nl:
         subtitle: Wanneer er een profiel gekoppeld is met dit e-mailadres <span class='fw7'>%{given_email}</span> dan hebben wij je zojuist instructies gestuurd hoe je je wachtwoord kunt herstellen.
         title: Je hebt &ldquo;misschien&rdquo; een bericht!
       update_email: e-mailadres aanpassen
-      warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je e-mailadres al bestaat in onze database. Wanneer je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben met dat e-mailadres."
+      warning: "<strong>Waarschuwing:</strong> Om veiligheidsredenen kunnen we je niet vertellen of je e-mailadres al bestaat in onze database. Als je geen bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat e-mailadres."
     mobile:
       5strike:
         return: terug naar de startpagina
