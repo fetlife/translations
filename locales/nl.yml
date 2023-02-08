@@ -13,12 +13,12 @@ nl:
     title: Geheime code
   about:
     contact_info: Contact informatie
-    email_us: stuur een e-mail aan ons op <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij reageren als op een zweepslag.
+    email_us: stuur een e-mail naar <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij zullen zo snel mogelijk reageren.
     europe: Europa
     got_question: Heb je een vraag? Heb je hulp nodig?
-    north_america: Noord Amerika
-    one_love: Een liefde, een leven, en heel veel kink.
-    snail_mail: Slakken post
+    north_america: Noord-Amerika
+    one_love: Een liefde, een leven en heel veel kink.
+    snail_mail: Per postduif
     sub_header: Niet te verwarren met de Spartanen.
     title: Wij. Zijn. FetLife!
   components:
@@ -26,7 +26,7 @@ nl:
   edit_profile:
     sidebar_questions:
       pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
+      pics_and_vids_discoverability_link: Ga naar instellingen
       pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Opmerking
@@ -36,16 +36,16 @@ nl:
     composer:
       button: Zeg het
       placeholder: Wat zeg jij?
-    love: Snoepje
-    loved_hover: Harten breker! :-(
+    love: Love
+    loved_hover: Hartenbreker! :-(
     loves_count:
-      one: 1 Snoepje
-      other: "%{count_with_delimiter} Snoepjes"
+      one: 1 Love
+      other: "%{count_with_delimiter} Loves"
     modal:
       close: sluiten
       more: meer
       reply: beantwoorden
-    title: Activiteiten overzicht
+    title: Activiteiten-overzicht
   following:
     follow: Volgen
     following: ik volg
@@ -87,11 +87,12 @@ nl:
       step2:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
-        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om ofwel <a href="%{forgot_password_email_path}">te proberen je wachtwoord te herstellen met een andere methode</a> of <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
+        inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om <a href="%{forgot_password_email_path}">te proberen om je wachtwoord te herstellen met een andere methode</a>, of om <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
+        
         label: 6-cijferige verificatiecode
-        page_title: Controle code invoeren
+        page_title: Verificatiecode invoeren
         subtitle: Voer de 6-cijferige code in die we zojuist "mogelijk" naar %{phone_number} hebben gestuurd.
-        title: Controle code invoeren
+        title: Verificatiecode invoeren
       warning: "<strong>Waarschuwing van het Ministerie van Volksgezondheid:</strong> Om veiligheidsredenen kunnen we je niet vertellen of een mobiel nummer al bestaat in onze database. Wanneer je geen SMS bericht van ons ontvangt is het zeer waarschijnlijk dat we geen profiel gekoppeld hebben aan dat mobiele nummer."
     next_step: volgende stap
     return_to_login: terug naar aanmelden
@@ -107,22 +108,22 @@ nl:
       membership_restrictions_sub_label: leave blank if open to everyone
       name_label: Name
       name_placeholder: What's the name of your group?
-      page_title: Start a New Group
+      page_title: Start een nieuwe groep
       return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
+      rules_label: Regels
+      rules_placeholder: Wat zijn de regels van deze groep?
+      submit_button_text: Maak mijn nieuwe groep
       terms_and_conditions_community_guidelines_link: Community Guidelines
       terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+      title_title: Maak een nieuwe groep
   guidelines:
     header: FetLife-richtlijnen & Juridisch jargon
     headers:
-      community: Community richtlijnen
+      community: Communityrichtlijnen
       content: Inhoudsrichtlijnen
-      group_leader: Groepsleider richtlijnen
+      group_leader: Groepsleiderrichtlijnen
       values: Guiding Values
     last_updated: 'Laatst bijgewerkt:'
     sections:
@@ -139,19 +140,19 @@ nl:
     subnav:
       community: Gemeenschap
       content: Inhoud
-      group_leader: Groep Leider
-      values: Values
+      group_leader: Groepsleider
+      values: Waarden
     title: Regels
   header:
-    friendship_requests_count: Friendship Requests (%{count})
+    friendship_requests_count: Vriendschapsverzoeken (%{count})
     inbox_count: Inbox (%{count})
-    notifications_count: Notifications (%{count})
-    post_new: Post Something New
+    notifications_count: Notificaties (%{count})
+    post_new: Post iets nieuws
   invite_a_friend:
     cancel_button: afbreken
     cancel_notice: De uitnodiging van %{email} is afgebroken.
     cta: Nodig een vriend uit om deel te nemen aan FetLife
-    error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande e-mailadres. We adviseren om de spelling te conroleren of een andere te proberen.
+    error: We hebben een probleem met het versturen van een uitnodiging aan het bovenstaande e-mailadres. We adviseren om de spelling te controleren of een andere te proberen.
     error_forgot_email: E-mailadres is verplicht.
     invitations_accepted: Uitnodigingen geaccepteerd
     invitations_sent: Uitnodigingen verstuurd
@@ -160,7 +161,7 @@ nl:
       friends_email: 'Uitnodiging versturen naar:'
       friends_email_sub: "%{count} resterende uitnodigingen"
     next_step: volgende stap
-    return_to_feed: terug naar activiteiten overzicht
+    return_to_feed: terug naar activiteitenoverzicht
     subtitle_step1:
       one: Je hebt nog 1 uitnodiging over.
       other: Je hebt nog %{count_with_delimiter} uitnodigingen over.
@@ -196,7 +197,7 @@ nl:
     button: Aanmelden bij FetLife
     error_flash: Neem alsjeblieft contact op met <a href="mailto:support@fetlife.com">support@fetlife.com</a> zodat we je kunnen helpen om weer binnen te komen.
     error_login_blank: Aanmeldveld mag niet leeg zijn.
-    error_not_authenticated: Sorry mijn vriend, je moet aangemeld zijn om deze pagina te zien. Wanneer je nog geen deelnemer bent, het duurt maar 1 minuut om je in te schrijven.
+    error_not_authenticated: Sorry vriend, je moet aangemeld zijn om deze pagina te zien. Indien je nog geen lid bent, duurt het slechts 1 minuut om je in te schrijven.
     error_not_found: Hmmm, we zijn niet in staat om je gegevens terug te vinden. Weet je zeker dat je alias en wachtwoord juist zijn? (Wachtwoorden zijn HoOfDlEtTeR gEvOeLiG)
     error_password_blacklist: Het wachtwoord dat je hebt gekozen, is gemakkelijk te raden. Gebruik alstublieft een sterker wachtwoord.
     error_password_blank: Wachtwoord mag niet leeg zijn.
@@ -268,19 +269,19 @@ nl:
     subtitle: Niet te kort, niet te lang, precies goed…
     title: Herstel wachtwoord
   select_language:
-    button: Wijzig standaard taal
-    help_translate: Bezoek ons <a class="silver" href="https://github.com/fetlife/translations">vertaal project</a> op GitHub en help mee FetLife toegankelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
+    button: Wijzig standaardtaal
+    help_translate: Bezoek ons <a class="silver" href="https://github.com/fetlife/translations">vertaalproject</a> op GitHub en help mee FetLife toegankelijk te maken voor meer kinky vrienden <span class="amp">&amp</span> gemeenschappen.
     language_name: Nederlands
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Selecteer taal
   settings_account:
-    2fa_cta: Activeer 2-staps verificatie
-    2fa_label: 2-staps verificatie
+    2fa_cta: Activeer 2-stapsverificatie
+    2fa_label: 2-stapsverificatie
     anti_pro_tip: <strong>Anti-Pro Tip:</strong> Je kunt je lidmaatschap <a href="#">deactiveren</a> of <a href="#">verwijderen</a> wanneer je echt wilt, maar drie van de vier Pausen raden dit ten zeerste af.
     current_password_label: Huidig wachtwoord
     email_cta: E-mailadres bijwerken
     email_label: E-mail
-    email_placeholder: Em-ailadres
+    email_placeholder: E-mailadres
     language_cta: Standaard taal bijwerken
     language_notice: FetLife is nog niet geheel beschikbaar in andere talen anders dan Engels. Wanneer je de instelling hier wijzigt, kan het zijn dat niet de gehele website vertaald wordt.
     new_password_label: Nieuw wachtwoord
@@ -370,7 +371,7 @@ nl:
     legalese: juridisch jargon
     log_out: Afmelden
     login: Aanmelden
-    loved_stuff: Snoepjes
+    loved_stuff: Loves
     need_help: Hulp nodig?
     new_status: Post Status Update
     new_writing: New Writing
@@ -658,7 +659,7 @@ nl:
       60_info: "$5/month"
       60_title: "$60 for 12 Months"
       return_info: 7-day no questions asked money back guarantee.
-      title: How much do you love FetLife?
+      title: Hoeveel houd je van FetLife?
     step2_paygarden:
       confirm: I Have a Gift Card I Want to Trade for Support
       list_footer: and <a href='%{link}'>100s of other major brands.</a>
@@ -669,45 +670,45 @@ nl:
       title: Buy a Gift Card from a Major Brand
     step3_ach:
       account_number_label: 'Account #'
-      account_number_placeholder: Account Number
-      account_number_sub_label: between 6 and 16 digits
+      account_number_placeholder: Rekeningnummer
+      account_number_sub_label: tussen 6 en 16 tekens
       account_type: Account Type
-      address_label: Address
-      address_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
       check_hide: hide check
-      check_question: Where do I find these numbers on a check?
-      city_label: City
-      city_sub_label: associated w/ bank account
-      cta: Support FetLife Today
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
+      check_question: Waar vind ik deze nummers op een cheque?
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
+      cta: Steun FetLife vandaag nog
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
       routing_number_label: 'Bank Routing #'
       routing_number_placeholder: Bank Routing Number
-      routing_number_sub_label: 9 digit number
+      routing_number_sub_label: 9-cijferig nummer
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      state_label: State
-      state_placeholder: State
-      state_sub_label: associated w/ bank account
+      state_label: Provincie
+      state_placeholder: Provincie
+      state_sub_label: behorend bij je bankrekening
       title: Online Check / Bank Transfer
-      type_checking: Checking
-      type_savings: Savings
-      zip_label: Zip Code
-      zip_sub_label: associated w/ bank account
+      type_checking: Betaalrekening
+      type_savings: Spaarrekening
+      zip_label: Postcode
+      zip_sub_label: behorend bij je bankrekening
     step3_cc_curo:
-      cta: Support FetLife via Credit Card
-      first_name_label: First Name
+      cta: Steun FetLife via creditcard
+      first_name_label: Voornaam
       first_name_sub_label: associated w/ credit card
-      last_name_label: Last Name
+      last_name_label: Achternaam
       last_name_sub_label: associated w/ credit card
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: Credit Card Payment
+      title: Creditcardbetaling
     step3_cc_trustpay:
-      cta: Support FetLife via Credit Card
-      pay_button: Support FetLife via Credit Card
+      cta: Steun FetLife via creditcard
+      pay_button: Steun FetLife via creditcard
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: Credit Card Payment
+      title: Creditcardbetaling
     step3_coingate:
       cta: Support FetLife via Cryptocurrency
       intro: 'Some intro videos we enjoyed watching:'
@@ -718,153 +719,153 @@ nl:
       wallets_title: Recommended Cryptocurrency Wallets
       what: What is Cryptocurrency?
     step3_eps:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
       cta: Make EPS Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: EPS Payment
     step3_giropay:
       account_number_label: 'Account #'
-      account_number_placeholder: Account Number
-      account_number_sub_label: Valid Bank Account Number
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
+      account_number_placeholder: Rekeningnummer
+      account_number_sub_label: Geldig rekeningnummer
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
       cta: Make giropay Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       routing_number_label: BIC / SWIFT Code
       routing_number_placeholder: Bank Identifier Code
-      routing_number_sub_label: 8 or 11 characters long
+      routing_number_sub_label: 8 of 11 tekens lang
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: giropay Payment
     step3_ideal:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
-      cta: Make iDEAL Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
+      cta: Betaal met iDEAL
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      title: iDEAL Payment
+      title: iDEAL-betaling
     step3_interac:
-      amount: Amount
-      answer_label: Answer
-      answer_placeholder: Answer
+      amount: Bedrag
+      answer_label: Antwoord
+      answer_placeholder: Antwoord
       cta: I've Sent the Interac e-Transfer
-      message: Message
-      question_label: Security Question
-      question_placeholder: Security Question
-      send: Send to
-      thank_you: Thank You!
+      message: Bericht
+      question_label: Veiligheidsvraag
+      question_placeholder: Veiligheidsvraag
+      send: Stuur naar
+      thank_you: Dank je!
       title: Send Interac e-Transfer
     step3_mail:
       accept_options: International Money Order, Check, or Cash
       accept_title: 'We Accept:'
       amount: 'Amount:'
-      cta: Email Me the Above Info
-      email_to: We will email it to %{email}.
+      cta: E-mail mij de bovenstaande informatie
+      email_to: We e-mailen het naar %{email}.
       memo: 'Memo/Re:'
       send: 'Send to:'
-      title: Send Mail
+      title: Stuur e-mail
       to_options: BitLove Inc.
       to_title: 'Payable to:'
       update_email: update email
     step3_paysafe:
-      cta: I Already Have a Paysafecard
-      notice_body: Unfortunately, Paysafecards bought in the USA are not supported due to constraints imposed by the bank that they use in the USA. Paysafecards purchased in all other countries are accepted.
-      notice_title: Important Information for our American Friends
+      cta: Ik heb al een Paysafecard
+      notice_body: Helaas worden Paysafecards die gekocht zijn in de Verenigde Staten niet ondersteund door beperkingen die zijn opgelegd door de bank die zij gebruiken in de VS. Paysafecards die gekocht zijn in alle andere landen worden wel geaccepteerd.
+      notice_title: Belangrijke informatie voor onze Amerikaanse vrienden
       secure: Secure as Fort Knox
-      stores: You can find stores within walking distance of you that sell paysafecards. Don't believe us?
+      stores: Je kan paysafecards op bijna elke hoek van de straat kopen. Geloof je ons niet?
       stores_link: Find the closest stores to me that sell paysafecards
-      title: Buy a Prepaid Paysafecard
-      where: Where can I buy a paysafecard?
+      title: Koop een Prepaid Paysafecard
+      where: Waar kan ik een paysafecard kopen?
     step3_poli:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
-      country_label: Country
-      country_placeholder: Country
-      country_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
+      country_label: Land
+      country_placeholder: Land
+      country_sub_label: behorend bij je bankrekening
       cta: Make POLi Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
-      state_label: State / Province
-      state_sub_label: associated w/ bank account
+      state_label: Provincie
+      state_sub_label: behorend bij je bankrekening
       title: POLi Payment
     step3_przelewy:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
-      cta: Make Przelewy24 Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
+      cta: Betaal via Przelewy24
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Przelewy24 Payment
     step3_sepa:
-      address_label: Address
-      address_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
       bic_label: BIC / SWIFT Code
       bic_placeholder: Bank Identifier Code
-      bic_sub_label: 8 or 11 characters long
-      city_label: City
-      city_sub_label: associated w/ bank account
-      country_label: Country
-      country_placeholder: Country
-      country_sub_label: associated w/ bank account
-      cta: Support FetLife Now
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
+      bic_sub_label: 8 of 11 tekens lang
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
+      country_label: Land
+      country_placeholder: Land
+      country_sub_label: behorend bij je bankrekening
+      cta: Steun FetLife nu
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
       iban_label: IBAN
       iban_placeholder: International Bank Account Number
       iban_sub_label: up to 34 alphanumeric characters
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: SEPA Payment Information
     step3_teleingreso:
-      address_label: Address
-      address_sub_label: associated w/ bank account
-      city_label: City
-      city_sub_label: associated w/ bank account
+      address_label: Adres
+      address_sub_label: behorend bij je bankrekening
+      city_label: Stad
+      city_sub_label: behorend bij je bankrekening
       cta: Make Teleingreso Payment
-      first_name_label: First Name
-      first_name_sub_label: associated w/ bank account
-      last_name_label: Last Name
-      last_name_sub_label: associated w/ bank account
-      postal_code_label: Postal Code
-      postal_code_sub_label: associated w/ bank account
+      first_name_label: Voornaam
+      first_name_sub_label: behorend bij je bankrekening
+      last_name_label: Achternaam
+      last_name_sub_label: behorend bij je bankrekening
+      postal_code_label: Postcode
+      postal_code_sub_label: behorend bij je bankrekening
       secure: Secure as Fort Knox and we don't store any of your personal information.
       title: Teleingreso Payment
     thank_you:
