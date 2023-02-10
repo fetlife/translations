@@ -214,7 +214,7 @@ nl:
   logout:
     log_in: Meld me weer aan
     subtitle: Blijf regelmatig terug komen en mis niets.
-    title: We zullen je missen!
+    title: We gaan je missen!
   member_stats:
     pics:
       one: 1 foto
@@ -342,7 +342,7 @@ nl:
     advertising: Adverteren
     already_member: Al een lid?
     androidapp: Installeer FetLife's Android Applicatie
-    become_verified: Become Verified!
+    become_verified: Word geverifieerd!
     bug_bounty: Bug beloning
     careers: Careers
     change_language: Wijzig taal
