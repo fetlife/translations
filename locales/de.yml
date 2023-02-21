@@ -435,7 +435,8 @@ de:
       item_7: Gehe <span>25x weiter</span> in deiner @You-Aktivitätschronik zurück.
       item_8: "<span>Passe</span> deine Freund:innen-Aktivitätschronik nach Belieben <span>an</span>."
       item_9: Die Möglichkeit, auf deinem Mobilgerät <span>eingebettete Anzeigen auszublenden.</span>
-      list_description: 'Für nur $5 pro Monat hilfst du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
+      list_description_old: 'Für nur $5 pro Monat hilfst du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
+      list_description: 'Für nur $5 %{currency} pro Monat hilfst du nicht nur die Entwicklung von FetLife zu unterstützen, sondern bekommst auch:'
       list_footer: Alles für weniger als den Preis einer Flasche Gleitmittel… Jedoch empfehlen wir nicht Gleitmittel durch Rapsöl zu ersetzen… Das funktioniert nicht so gut.
       thank_you: Ohne deine Unterstützung gäbe es kein FetLife. Danke dir von der ganzen FetLife-Familie!
       title: Was bekomme ich, wenn ich FetLife unterstütze?
@@ -496,6 +497,9 @@ de:
       return_q: Q. Wie läuft das mit der Rücknahme?
       secure_a: Ja, sehr. FetLife speichert keine eurer persönlichen Daten auf unseren Servern. Wir benutzen die angegebenen Daten nur für die Abbuchung und das war’s.
       secure_q: Q. Ist das sicher?
+      interac_q: Q. What currency is FetLife support billed in?
+      interac_a: |
+        All Support payments are billed in US$, with one exception: Canadian Interac e-Transfer, which is billed in CAN$.
       title: Häufig gestellte Fragen
     gift:
       affirm: Du bist super!
@@ -558,14 +562,22 @@ de:
         title: Teleingreso
       title: Wähle eine Bezahlmethode
     step2:
-      120_info: "$5/Monat"
-      120_title: "$120 für 24 Monate"
+      120_info_old: "$5/Monat"
+      120_title_old: "$120 für 24 Monate"
+      240_info_old: "<i>unschätzbar</i>"
+      240_title_old: "$240 lebenslänglich!"
+      30_info_old: "$5/Monat"
+      30_title_old: "$30 für 6 Monate"
+      60_info_old: "$5/Monat"
+      60_title_old: "$60 für 12 Monate"
+      120_info: "$5 %{currency}/Monat"
+      120_title: "$120 %{currency} für 24 Monate"
       240_info: "<i>unschätzbar</i>"
-      240_title: "$240 lebenslänglich!"
-      30_info: "$5/Monat"
-      30_title: "$30 für 6 Monate"
-      60_info: "$5/Monat"
-      60_title: "$60 für 12 Monate"
+      240_title: "$240 %{currency} lebenslänglich!"
+      30_info: "$5 %{currency}/Monat"
+      30_title: "$30 %{currency} für 6 Monate"
+      60_info: "$5 %{currency}/Monat"
+      60_title: "$60 %{currency} für 12 Monate"
       return_info: 7-Tage Geld zurück Garantie - Ohne Rückfragen
       title: Wie sehr liebst du FetLife?
     step2_paygarden:
