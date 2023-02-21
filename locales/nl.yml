@@ -435,8 +435,8 @@ nl:
       item_7: Ga <span>25x verder</span> in je eigen lijst.
       item_8: "<span>Personaliseer je vriendenlijst</span> naar hartenlust."
       item_9: Option to <span>hide inline ads</span> on mobile.
-      list_description_old: 'Voor slechts $ 5 per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
-      list_description: 'Voor slechts $5 %{currency} per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
+      list_description: 'Voor slechts $ 5 per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
+      list_description_exp: 'Voor slechts $5 %{currency} per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
       list_footer: Alles voor minder dan de prijs van een fles glijmiddel ... hoewel we je niet aanraden canola-olie te vervangen voor glijmiddel ... het werkt niet zo goed.
       thank_you: Zonder jouw steun zou er geen FetLife zijn. Bedankt namens de hele FetLife-familie!
       title: Wat krijg ik voor het ondersteunen van FetLife?
@@ -562,22 +562,22 @@ nl:
         title: Teleingreso
       title: Select a Payment Method
     step2:
-      120_info_old: "$5/month"
-      120_title_old: "$120 for 24 Months"
-      240_info_old: "<i>Priceless</i>"
-      240_title_old: "$240 for Lifetime!"
-      30_info_old: "$5/month"
-      30_title_old: "$30 for 6 Months"
-      60_info_old: "$5/month"
-      60_title_old: "$60 for 12 Months"
-      120_info: "$5 %{currency}/month"
-      120_title: "$120 %{currency} for 24 Months"
+      120_info: "$5/month"
+      120_title: "$120 for 24 Months"
       240_info: "<i>Priceless</i>"
-      240_title: "$240 %{currency} for Lifetime!"
-      30_info: "$5 %{currency}/month"
-      30_title: "$30 %{currency} for 6 Months"
-      60_info: "$5 %{currency}/month"
-      60_title: "$60 %{currency} for 12 Months"
+      240_title: "$240 for Lifetime!"
+      30_info: "$5/month"
+      30_title: "$30 for 6 Months"
+      60_info: "$5/month"
+      60_title: "$60 for 12 Months"
+      120_info_exp: "$5 %{currency}/month"
+      120_title_exp: "$120 %{currency} for 24 Months"
+      240_info_exp: "<i>Priceless</i>"
+      240_title_exp: "$240 %{currency} for Lifetime!"
+      30_info_exp: "$5 %{currency}/month"
+      30_title_exp: "$30 %{currency} for 6 Months"
+      60_info_exp: "$5 %{currency}/month"
+      60_title_exp: "$60 %{currency} for 12 Months"
       return_info: 7-day no questions asked money back guarantee.
       title: Hoeveel houd je van FetLife?
     step2_paygarden:

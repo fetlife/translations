@@ -435,8 +435,8 @@ tr:
       item_7: Kendi @Sen Akışınızda <span>25 kat daha fazla</span> geriye gidin.
       item_8: "<span>Arkadaş Akışınızı Özelleştirin</span>, kalbinizin içeriğine göre."
       item_9: Option to <span>hide inline ads</span> on mobile.
-      list_description_old: 'Ayda sadece 5$ karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
-      list_description: 'Ayda sadece $5 %{currency} karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
+      list_description: 'Ayda sadece 5$ karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
+      list_description_exp: 'Ayda sadece $5 %{currency} karşılığında, sadece FetLifeın sürekli gelişimini desteklemeye yardım etmekle kalmaz, aynı zamanda:'
       list_footer: Hepsi bir şişe yağın fiyatından daha düşük bir fiyatla… yine de, kanola yağıyla değiştirmenizi tavsiye etmiyoruz… çok iyi çalışmıyor.
       thank_you: Desteğiniz olmadan FetLife olmazdı. Bütün FetLife Ailesinden teşekkür ederiz!
       title: FetLife'ı desteklediğimde ne alabilirim?
@@ -562,22 +562,22 @@ tr:
         title: Teleingreso
       title: Ödeme Yöntemini Seçin
     step2:
-      120_info_old: "$5/ay"
-      120_title_old: Yıllık $120
-      240_info_old: "<i>Paha Biçilemez</i>"
-      240_title_old: Ömür Boyu $240!
-      30_info_old: "$5/ay"
-      30_title_old: 6 Aylık $30
-      60_info_old: "$5/ay"
-      60_title_old: Yıllık $60
-      120_info: "$5 %{currency}/ay"
-      120_title: Yıllık $120 %{currency}
+      120_info: "$5/ay"
+      120_title: Yıllık $120
       240_info: "<i>Paha Biçilemez</i>"
-      240_title: "Ömür $240 %{currency}!"
-      30_info: "$5 %{currency}/ay"
-      30_title: "6 Aylık $30 %{currency}"
-      60_info: "$5 %{currency}/ay"
-      60_title: "Yıllık 60 %{currency}"
+      240_title: Ömür Boyu $240!
+      30_info: "$5/ay"
+      30_title: 6 Aylık $30
+      60_info: "$5/ay"
+      60_title: Yıllık $60
+      120_info_exp: "$5 %{currency}/ay"
+      120_title_exp: Yıllık $120 %{currency}
+      240_info_exp: "<i>Paha Biçilemez</i>"
+      240_title_exp: "Ömür $240 %{currency}!"
+      30_info_exp: "$5 %{currency}/ay"
+      30_title_exp: "6 Aylık $30 %{currency}"
+      60_info_exp: "$5 %{currency}/ay"
+      60_title_exp: "Yıllık 60 %{currency}"
       return_info: 7 gün hiçbir soru sormadan para iade garantisi vermedi.
       title: FetLife'ı ne kadar seviyorsun?
     step2_paygarden:

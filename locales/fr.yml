@@ -435,8 +435,8 @@ fr:
       item_7: Revenir <span>25× plus loin</span> en arrière dans votre fil @You.
       item_8: "<span>Personnaliser votre fil d’ami⋅e⋅s</span> autant que vous le voulez."
       item_9: Option to <span>hide inline ads</span> on mobile.
-      list_description_old: 'Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
-      list_description: 'Pour seulement $5 %{currency} par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
+      list_description: 'Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
+      list_description_exp: 'Pour seulement $5 %{currency} par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
       list_footer: Tout ça pour moins cher qu’une bouteille de lubrifiant… Bien que nous ne vous recommandions pas de remplacer le lubrifiant par de l’huile de colza… Ça ne marche pas très bien.
       thank_you: Sans votre support il n’y aurait pas de FetLife. Merci, de la part de toute la famille FetLife !
       title: Qu’est-ce que je gagne en supportant FetLife ?
@@ -562,22 +562,22 @@ fr:
         title: Teleingreso
       title: Sélectionnez un moyen de paiement
     step2:
-      120_info_old: "$5/mois"
-      120_title_old: "$120 pour 24 mois"
-      240_info_old: "<i>Sans prix</i>"
-      240_title_old: "$240 pour la vie !"
-      30_info_old: "$5/mois"
-      30_title_old: "$30 pour 6 mois"
-      60_info_old: "$5/mois"
-      60_title_old: "$60 pour 12 mois"
-      120_info: "$5 %{currency}/mois"
-      120_title: "$120 %{currency} pour 24 mois"
+      120_info: "$5/mois"
+      120_title: "$120 pour 24 mois"
       240_info: "<i>Sans prix</i>"
-      240_title: "$240 %{currency} pour la vie !"
-      30_info: "$5 %{currency}/mois"
-      30_title: "$30 %{currency} pour 6 mois"
-      60_info: "$5 %{currency}/mois"
-      60_title: "$60 %{currency} pour 12 mois"
+      240_title: "$240 pour la vie !"
+      30_info: "$5/mois"
+      30_title: "$30 pour 6 mois"
+      60_info: "$5/mois"
+      60_title: "$60 pour 12 mois"
+      120_info_exp: "$5 %{currency}/mois"
+      120_title_exp: "$120 %{currency} pour 24 mois"
+      240_info_exp: "<i>Sans prix</i>"
+      240_title_exp: "$240 %{currency} pour la vie !"
+      30_info_exp: "$5 %{currency}/mois"
+      30_title_exp: "$30 %{currency} pour 6 mois"
+      60_info_exp: "$5 %{currency}/mois"
+      60_title_exp: "$60 %{currency} pour 12 mois"
       return_info: Garantie de remboursement sans condition durant 7 jours
       title: À quel point aimez-vous FetLife ?
     step2_paygarden:
