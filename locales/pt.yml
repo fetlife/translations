@@ -607,7 +607,7 @@ pt:
         extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
-        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, XRP, and Dash.
+        extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.
         title: Cryptocurrency
       curo_sepa:
         extra_info: Tão fácil e seguro como pagar com cartão de crédito, para aqueles que possuem uma conta bancária que suporte SEPA na Europa.
