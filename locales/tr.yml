@@ -570,7 +570,7 @@ tr:
       title: FetLife'ı ne kadar seviyorsun?
     step2_paygarden:
       confirm: Destek için İşlem Yapmak İstediğim Hediye Kartım Var
-      list_footer: ve <a href='%{link}'>100lerce diğer büyük marka.</a>
+      list_footer: ve <a href='%{link}' target="_blank">100lerce diğer büyük marka.</a>
       list_header: Şuralardan Hediye Kartları Kabul Ediyoruz
       secure: Fort Knox Kadar Güvenli
       tips: Amerika Birleşik Devletleri dışında yaşıyorsanız, VPN / Proxy kullanmanızı ve USD cinsinden Targets US çevrimiçi mağazalarından hediye kartı almanızı öneririz.

@@ -570,7 +570,7 @@ fr:
       title: À quel point aimez-vous FetLife ?
     step2_paygarden:
       confirm: J’ai une carte cadeau que je veux échanger contre le support
-      list_footer: et <a href='%{link}'>des centaines d’autres grandes enseignes.</a>
+      list_footer: et <a href='%{link}' target="_blank">des centaines d’autres grandes enseignes.</a>
       list_header: Nous acceptons les cartes cadeau de
       secure: Aussi sûr que Fort Knox
       tips: Si vous vivez en-dehors des États Unis, nous vous recommandons d’utiliser un VPN/Proxy et d’acheter une carte cadeau en USD en ligne chez Targets US.
