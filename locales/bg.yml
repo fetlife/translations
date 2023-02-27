@@ -12,22 +12,10 @@ bg:
     subtitle: 2-Factor me baby!
     title: Таен код
   about:
-    contact_info: Данни за връзка
-    email_us: Пиши ни на <a href="mailto:support@fetlife.com">support@fetlife.com</a> и до една наносекунда ще ти отговорим!
-    europe: Европа
-    got_question: Имаш въпрос? Трябва ти помощ?
-    north_america: Северна Америка
-    one_love: Една любов, един живот, и много извращения.
-    snail_mail: Поща
     sub_header: Не ни бъркай със спартанците.
     title: Ние. Сме. FetLife!
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Коментирай
     comments_count:
@@ -37,7 +25,6 @@ bg:
       button: Кажи го
       placeholder: Какво казваш?
     love: Харесай
-    loved_hover: Сърцеразбивач! :-(
     loves_count:
       one: 1 харесване
       other: "%{count_with_delimiter} харесвания"
@@ -117,31 +104,6 @@ bg:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Последна промяна:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: На общността
-      content: За съдържанието
-      group_leader: За водачи на група
-      values: Values
-    title: Правила
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,8 @@ bg:
     title_step2: Изпратени покани
     view_invitations: виж поканите си
   landing_page:
-    login_button: Влез във FetLife
     signup_button: Регистрирай се във FetLife
-    signup_button_new: Регистрирай се във FetLife
-    stats_details: споделят <strong class="fw7 silver">%{picture_count} снимки</strong> и <strong class="fw7 silver">%{video_count} клипа</strong>, участват в <strong class="fw7 silver">%{discussion_count} дискусии</strong> в <strong class="fw7 silver">%{group_count} групи</strong>, ще ходят на <strong class="fw7 silver">%{event_count} предстоящи събития</strong>, и четат <strong class="fw7 silver">%{post_count} публикации</strong>. <span><span class="i">Извратен рай!</span>
-    stats_members: членa
-    subtitle: Като Facebook, но от извратеняци като теб и мен. Мислим че така е по-забавно. А ти?
     title: FetLife е Социалната Мрежа на BDSM, Fetish & Kinky обществото.
-    title_new: FetLife е Социалната Мрежа на BDSM, Fetish & Kinky обществото.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: Освободени от 2257
-      legal_requests: Правни искания
-      privacy: Декларация за поверителност
-      terms: Условия за ползване
-    title: Правни въпроси
   lockout:
     subtitle: Задействахте охранителната ни система.
     title: Охрана, охрана, охрана!
@@ -239,8 +183,6 @@ bg:
     search_placeholder: Търси във FetLife
     videos: Videos
     writings: Writings
-  page_break:
-    of: от
   privacy:
     title: Privacy
   profile:
@@ -481,36 +423,6 @@ bg:
     placeholder: 6-цифрен код за потвърждение
     subtitle: Не болеше чак толкова, нали?!?!
     title: Последна стъпка
-  subnav:
-    feed:
-      activity_feed: Стена
-      activity_feed_short: Стена
-      fp: Свежо<span class="a-ampersand">&amp;</span>Перверзно
-      fp_short: Свежо
-      kp: Извратено<span class="a-ampersand">&amp;</span>Популярно
-      kp_short: Популярно
-    profile:
-      about: За мен
-      about_short: За мен
-      latest: Последна активност
-      latest_short: Последно
-      pictures: Снимки
-      pictures_short: Снимки
-      videos: Клипове
-      videos_short: Клипове
-      writings: Публикации
-      writings_short: Публикации
-    settings:
-      account: Регистрация
-      account_short: Регистрация
-      notifications: Известия
-      notifications_short: Известия
-      privacy: Поверителност
-      privacy_short: Поверителност
-      profile: Профил
-      profile_short: Профил
-      support: Подкрепа
-      support_short: Подкрепа
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -602,9 +514,6 @@ bg:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

@@ -12,22 +12,10 @@ sk:
     subtitle: 2-Factor me baby!
     title: Tajný kód
   about:
-    contact_info: Kontaktné informácie
-    email_us: Kontaktuj nás na <a href="mailto:support@fetlife.com">support@fetlife.com</a> a my sa ti ozveme v okamihu! Snáď!
-    europe: Európa
-    got_question: Máš otázku? Potrebuješ pomoc?
-    north_america: Severná Amerika
-    one_love: Jedna láska, jeden život a plno úchylností.
-    snail_mail: Pošta
     sub_header: Nemýliť so Sparťanmi.
     title: My. Sme. FetLife!
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Komentovať
     comments_count:
@@ -38,7 +26,6 @@ sk:
       button: Zdielať
       placeholder: Čo máš na mysli?
     love: Ľúbi sa mi to
-    loved_hover: Lámač sŕdc! :-(
     loves_count:
       few: "%{count_with_delimiter} členom sa to ľúbi"
       many: "%{count_with_delimiter} členom sa to ľúbi"
@@ -120,31 +107,6 @@ sk:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Naposledy aktualizovné:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: Komunita
-      content: Obsah
-      group_leader: Líder skupiny
-      values: Values
-    title: Pravidlá
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -173,26 +135,10 @@ sk:
     title_step2: Pozvánka odoslaná
     view_invitations: Zobraziť pozvánky
   landing_page:
-    login_button: Prihlásiť sa na FetLife
     signup_button: Registrovať sa na FetLife
     signup_button_new: Registrovať sa na FetLife
-    stats_details: zdieľa <strong class="fw7 silver">%{picture_count} fotiek</strong> a <strong class="fw7 silver">%{video_count} videii</strong>, účastnia sa v <strong class="fw7 silver">%{discussion_count} diskusiách</strong> v <strong class="fw7 silver">%{group_count} skupinách</strong>, idú na <strong class="fw7 silver">%{event_count} nadchádzajúcich udalostí</strong>, a čítajú <strong class="fw7 silver">%{post_count} blog príspevkov</strong>. <span><span class="i">Nebo pre kinksterov!</span>
-    stats_members: členov
-    subtitle: Ako Facebook, ale plný kinksterov, ako si ty a my. Myslíme si, že je to viac zábavy touto cestou. Čo myslíš?.
     title: FetLife je sociálna sieť pre BDSM, Fetish & Kinky komunitu.
     title_new: FetLife je sociálna sieť pre BDSM, Fetish & Kinky komunitu.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy: Ochrana súkromia
-      terms: Podmienky používania
-    title: Legislatíva
   lockout:
     subtitle: You've tripped our security system.
     title: Security, Security, Security!
@@ -246,8 +192,6 @@ sk:
     search_placeholder: Hľadať
     videos: Videos
     writings: Writings
-  page_break:
-    of: z
   privacy:
     title: Privacy
   profile:
@@ -488,36 +432,6 @@ sk:
     placeholder: 6-miestny verfikačný kód
     subtitle: Nebolo to také bolestivé, že nie?!?!
     title: Posledný krok
-  subnav:
-    feed:
-      activity_feed: Novinky
-      activity_feed_short: Novinky
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
-      kp_short: Popular
-    profile:
-      about: O mne
-      about_short: O mne
-      latest: Posledná aktivita
-      latest_short: Aktivita
-      pictures: Fotky
-      pictures_short: Fotky
-      videos: Videá
-      videos_short: Videá
-      writings: Články
-      writings_short: Články
-    settings:
-      account: Účet
-      account_short: Účet
-      notifications: Upozornenia
-      notifications_short: Upozornenia
-      privacy: Súkromie
-      privacy_short: Súkromie
-      profile: Profil
-      profile_short: Profil
-      support: Predplatné
-      support_short: Predplatné
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -609,9 +523,6 @@ sk:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

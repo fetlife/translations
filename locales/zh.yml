@@ -12,22 +12,10 @@ zh:
     subtitle: 给我来个两步验证吧！
     title: 安全码
   about:
-    contact_info: 联系方式
-    email_us: 请发邮件至 <a href="mailto:support@fetlife.com">support@fetlife.com</a>，我们会尽快回复——就像抹了润滑油一样快!
-    europe: 欧洲
-    got_question: 有疑问？需要帮助？
-    north_america: 北美
-    one_love: 一生一爱情，还有非常大量的怪癖。
-    snail_mail: 老派邮件地址
     sub_header: 不，不是斯巴达
     title: 我们・是・FetLife！
   components:
     step: 步骤
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: 当有人使用FetLife搜索时，你的怪癖照片和视频只会被朋友和粉丝看到。如果你想对其他FetLife使用者可见，请更新你的隐私设置。
-      pics_and_vids_discoverability_link: 访问设置
-      pics_and_vids_discoverability_q: 保持私密
   feed:
     comment: 评论
     comments_count:
@@ -37,7 +25,6 @@ zh:
       button: 发表
       placeholder: 你想说点啥？
     love: 大赞
-    loved_hover: 伤心了！:-(
     loves_count:
       one: 一个赞
       other: "%{count_with_delimiter} 个赞"
@@ -117,31 +104,6 @@ zh:
       terms_and_conditions_terms_of_use_link: 用户协议
       title_description: 一个让变态们分享经验，交流爱好，制定计划等等的地方！
       title_title: 创建新的小组
-  guidelines:
-    header: FetLife 指南与守则
-    headers:
-      community: 社区守则
-      content: 内容守则
-      group_leader: 小组管理员守则
-      values: Guiding Values
-    last_updated: 最近更新于：
-    sections:
-      guidelines:
-        description: 为保证每个人都能享受 FetLife，我们请求所有用户遵守我们的内容、社群及小组守则。
-        title: 守则
-      legalese:
-        description: 此部分为所有用户注册 FetLife 时所同意的使用条款。我们已让其尽可能简洁明了。
-        title: 条款
-      privacy:
-        description: FetLife 怎样保护你的数据安全？在 FetLife，我们如同对待自己的数据一样保护你的数据隐私。
-        title: 隐私
-    subheader: 你能在这里看到我们的网站守则、法律信息以及隐私政策。
-    subnav:
-      community: 社群
-      content: 内容
-      group_leader: 小组管理员
-      values: Values
-    title: 守则
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,10 @@ zh:
     title_step2: 邀请已发送
     view_invitations: 查看你发出的邀请
   landing_page:
-    login_button: 登录 FetLife
     signup_button: 注册 FetLife
     signup_button_new: 注册 FetLife
-    stats_details: 在此分享 <strong class="fw7 silver">%{picture_count} 张图片</strong>、<strong class="fw7 silver">%{video_count} 部视频</strong>、在 <strong class="fw7 silver">%{group_count} 个小组中</strong>参与 <strong class="fw7 silver">%{discussion_count} 次讨论</strong>，并前往 <strong class="fw7 silver">%{event_count} 次即将举办的线下活动</strong>，还在阅读 <strong class="fw7 silver">%{post_count} 篇博文</strong>。<span><span class="i">Kink の天堂！</span>
-    stats_members: 名会员
-    subtitle: 有点像 Facebook，但是是如你我一样的性癖者在运作。我们觉得这有意思多了，不是吗？
     title: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
     title_new: FetLife 是属于 BDSM、恋物及其它性癖者社群的社交网络。
-  legalese:
-    headers:
-      2257_exempt: 2257 豁免条款
-      legal_requests: 法务请求
-      privacy_policy: 隐私政策
-      terms_of_use: 使用条款
-    subnav:
-      2257_exempt: 2257 豁免条款
-      legal_requests: 法务请求
-      privacy: 隐私政策
-      terms: 使用条款
-    title: 法律事宜
   lockout:
     subtitle: 你触发了我们的安全系统。
     title: 保安！安保！保卫！快来！
@@ -239,8 +185,6 @@ zh:
     search_placeholder: 搜索 FetLife
     videos: 视频
     writings: 写作
-  page_break:
-    of: of
   privacy:
     title: 隐私
   profile:
@@ -481,36 +425,6 @@ zh:
     placeholder: 6 位验证码
     subtitle: 有点蛋疼，对吧？！
     title: 最后一步
-  subnav:
-    feed:
-      activity_feed: 动态
-      activity_feed_short: 首页
-      fp: 鲜嫩多汁
-      fp_short: 鲜嫩多汁
-      kp: 众心所癖
-      kp_short: 众心所癖
-    profile:
-      about: 关于我
-      about_short: 关于
-      latest: 最近动态
-      latest_short: 最近
-      pictures: 图片
-      pictures_short: 图
-      videos: 视频
-      videos_short: 视频
-      writings: 写作
-      writings_short: 写作
-    settings:
-      account: 账户
-      account_short: 账户
-      notifications: 通知
-      notifications_short: 通知
-      privacy: 隐私
-      privacy_short: 隐私
-      profile: 资料
-      profile_short: 资料
-      support: 赞助
-      support_short: 赞助
   support:
     benefits:
       item_1: 你的资料页上会有一个性感的 <span>I Support FetLife</span> 图标。
@@ -602,9 +516,6 @@ zh:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

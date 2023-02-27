@@ -12,22 +12,10 @@ pl:
     subtitle: Weź mnie na dwa etapy!
     title: Tajny kod
   about:
-    contact_info: Informacje kontaktowe
-    email_us: Napisz do nas pod <a href="mailto:support@fetlife.com">support@fetlife.com</a> a odpiszemy jak z bicza trzasł!
-    europe: Europa
-    got_question: Masz pytanie? Potrzebujesz pomocy?
-    north_america: Ameryka Północna
-    one_love: One love, one life, and a whole lot of kink.
-    snail_mail: Prawdziwa poczta
     sub_header: Nie mylić ze Spartanami.
     title: We. Are. FetLife!
   components:
     step: Krok
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Skomentuj
     comments_count:
@@ -39,7 +27,6 @@ pl:
       button: Powiedz to!
       placeholder: I co Ty na to?
     love: Pokochaj
-    loved_hover: Łamacz serc! :-(
     loves_count:
       few: "%{count_with_delimiter} serducha"
       many: "%{count_with_delimiter} serduch"
@@ -121,31 +108,6 @@ pl:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Ostatnio zaktualizowane:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: Społeczność
-      content: Zawartość
-      group_leader: Lider grupy
-      values: Values
-    title: Wytyczne
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -175,26 +137,10 @@ pl:
     title_step2: Zaproszenie wysłane
     view_invitations: pokaż zaproszenia
   landing_page:
-    login_button: Zaloguj się do FetLife
     signup_button: Dołącz do FetLife
     signup_button_new: Dołącz do FetLife
-    stats_details: udostępniają <strong class="fw7 silver">%{picture_count} obrazków</strong> i <strong class="fw7 silver">%{video_count} filmików</strong>, biorą udział w <strong class="fw7 silver">%{discussion_count} dyskusjach</strong> w <strong class="fw7 silver">%{group_count} grupach</strong>, idą na <strong class="fw7 silver">%{event_count} nadchodzących wydarzeń</strong>, i czytają <strong class="fw7 silver">%{post_count} wpisów na blogach</strong>. <span><span class="i">Raj dla kinksterów!</span>
-    stats_members: Członkowie
-    subtitle: Jak Facebook, ale robiony przez kinksterów takich jak Ty czy ja. Tak jest chyba fajniej, nie?
     title: FetLife to sieć społecznościowa o tematyce BDSM, fetyszy i perwersji.
     title_new: FetLife to sieć społecznościowa o tematyce BDSM, fetyszy i perwersji.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy: Polityka prywatności
-      terms: Zasady użytkowania
-    title: Legalese
   lockout:
     subtitle: Aktywowałeś nasz system alarmowy.
     title: Straż, straż, straaaż!
@@ -251,8 +197,6 @@ pl:
     search_placeholder: Wyszukaj na FetLife
     videos: Filmiki
     writings: Wpisy
-  page_break:
-    of: z
   privacy:
     title: Privacy
   profile:
@@ -493,36 +437,6 @@ pl:
     placeholder: 6-Digit Verification Code
     subtitle: That was a bit painful wasn't it?!?!
     title: Last Step
-  subnav:
-    feed:
-      activity_feed: Activity Feed
-      activity_feed_short: Home
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
-      kp_short: Popular
-    profile:
-      about: About Me
-      about_short: About
-      latest: Latest Activity
-      latest_short: Latest
-      pictures: Pictures
-      pictures_short: Pics
-      videos: Videos
-      videos_short: Vids
-      writings: Writings
-      writings_short: Writings
-    settings:
-      account: Account
-      account_short: Account
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profile
-      profile_short: Profile
-      support: Support
-      support_short: Support
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -614,9 +528,6 @@ pl:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

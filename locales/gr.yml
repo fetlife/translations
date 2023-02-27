@@ -12,22 +12,10 @@ gr:
     subtitle: 2-Factor me baby!
     title: Μυστικός κωδικός
   about:
-    contact_info: Στοιχεία Επικοινωνίας
-    email_us: Στείλτε μας email στο <a href="mailto:support@fetlife.com">support@fetlife.com</a> και εμείς θα επικοινωνήσουμε μαζί σας σύντομα!
-    europe: Ευρώπη
-    got_question: Έχετε κάποια ερώτηση; Χρειαζόσαστε βοήθεια;
-    north_america: Βόρεια Αμερική
-    one_love: Μία αγάπη, μία ζωή, και μπόλικο kink.
-    snail_mail: Αργό Ταχυδρομείο
     sub_header: Μην το μπερδεύετε με τους Σπαρτιάτες.
     title: Είμαστε το FetLife!
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Σχόλιο
     comments_count:
@@ -37,7 +25,6 @@ gr:
       button: Πες Το
       placeholder: Tι Λέτε?
     love: Aγαπώ
-    loved_hover: Heart Breaker! :-(
     loves_count:
       one: 1 αγάπη
       other: "%{count_with_delimiter} Αγάπες"
@@ -117,31 +104,6 @@ gr:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Πρόσφατη Ενημέρωση:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: Κοινότητα
-      content: Περιεχόμενα
-      group_leader: Αρχηγός Ομάδας
-      values: Values
-    title: Kατευθυντήριες Γραμμές
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,10 @@ gr:
     title_step2: Πρόσκληση Στάλθηκε
     view_invitations: Προβολή των προσκλήσεών σας
   landing_page:
-    login_button: Σύνδεση στο FetLife
     signup_button: Εγγραφή στο FetLife
     signup_button_new: Εγγραφή στο FetLife
-    stats_details: μοιράζονται <strong class="fw7 silver">%{picture_count} εικόνες</strong> και <strong class="fw7 silver">%{video_count} βίντεο</strong>, συμμετέχουν σε <strong class="fw7 silver">%{discussion_count} συζητήσεις</strong> σε <strong class="fw7 silver">%{group_count} ομάδες</strong>, πηγαίνουν σε <strong class="fw7 silver">%{event_count} επερχόμενες εκδηλώσεις</strong>, και διαβάζουν <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky παράδεισος!</span>
-    stats_members: Τα μέλη
-    subtitle: Σαν το Facebook, αλλά οργανωμένο από kinksters σαν εσένα και εμένα. Πιστεύουμε ότι έχει πιο πολύ πλάκα έτσι. Δεν νομίζετε;
     title: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
     title_new: Το FetLife είναι ένα κοινωνικό δίκτυο για την BDSM, Φετίχ & Kinky κοινότητα.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: 2257 Εξαίρεση
-      legal_requests: Legal Requests
-      privacy: Πολιτική Προστασίας Προσωπικών Δεδομένων
-      terms: Όροι χρήσης
-    title: Νομικός
   lockout:
     subtitle: Έπεσες πάνω στο σύστημα ασφαλείας.
     title: Security, Security, Security!
@@ -239,8 +185,6 @@ gr:
     search_placeholder: Αναζήτηση
     videos: Videos
     writings: Writings
-  page_break:
-    of: of
   privacy:
     title: Privacy
   profile:
@@ -481,36 +425,6 @@ gr:
     placeholder: Εξαψήφιος κωδικός πιστοποίησης
     subtitle: Αυτό δεν πόνεσε και πολύ?!?!
     title: Τελευταίο βήμα
-  subnav:
-    feed:
-      activity_feed: Ροή Δραστηριότητας
-      activity_feed_short: Αρχική
-      fp: Φρέσκο<span class="a-ampersand">&</span>Διεστραμμένο
-      fp_short: Φρέσκο
-      kp: Διαστροφικά<span class="a-ampersand">&</span>Δημοφιλή
-      kp_short: δημοφιλής
-    profile:
-      about: Σχετικά με εμένα
-      about_short: Σχετικά
-      latest: Τελευταία δραστηριότητα
-      latest_short: Τελευταία
-      pictures: Εικόνες
-      pictures_short: Pics
-      videos: βίντεο
-      videos_short: βιντ
-      writings: Γραπτά
-      writings_short: Γραπτά
-    settings:
-      account: Λογαριασμός
-      account_short: Λογαριασμός
-      notifications: Ειδοποιήσεις
-      notifications_short: Ειδοποιήσεις
-      privacy: Ιδιωτικότητα
-      privacy_short: Ιδιωτικότητα
-      profile: Προφίλ
-      profile_short: Προφίλ
-      support: Υποστήριξη
-      support_short: Υποστήριξη
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -602,9 +516,6 @@ gr:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.
