@@ -12,22 +12,10 @@ en:
     subtitle: 2-Factor me baby!
     title: Secret Code
   about:
-    contact_info: Contact Info
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
-    europe: Europe
-    got_question: Got a question? Need help?
-    north_america: North America
-    one_love: One love, one life, and a whole lot of kink.
-    snail_mail: Snail Mail
     sub_header: Not to be confused with the Spartans.
     title: We. Are. FetLife!
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Comment
     comments_count:
@@ -37,7 +25,6 @@ en:
       button: Say It
       placeholder: What say you?
     love: Love
-    loved_hover: Heart Breaker! :-(
     loves_count:
       one: 1 Love
       other: "%{count_with_delimiter} Loves"
@@ -117,31 +104,6 @@ en:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Last updated:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: Community
-      content: Content
-      group_leader: Group Leader
-      values: Values
-    title: Guidelines
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,8 @@ en:
     title_step2: Invitation Sent
     view_invitations: view your invitations
   landing_page:
-    login_button: Login to FetLife
-    signup_button: Join FetLife
-    signup_button_new: Join FetLife <span class="dn dib-s">for Free</span>
-    stats_details: are sharing <strong class="fw7 silver">%{picture_count} pictures</strong> and <strong class="fw7 silver">%{video_count} videos</strong>, participating in <strong class="fw7 silver">%{discussion_count} discussions</strong> in <strong class="fw7 silver">%{group_count} groups</strong>, going to <strong class="fw7 silver">%{event_count} upcoming events</strong>, and reading <strong class="fw7 silver">%{post_count} blog posts</strong>. <span><span class="i">Kinky heaven!</span>
-    stats_members: Members
-    subtitle: Like Facebook, but run by kinksters like you and me. We think it is more fun that way. Don't you?
-    title: FetLife is <i class="i">the</i> Social Network for the BDSM, Fetish & Kinky Community.
-    title_new: FetLife is <i class="i">the</i> Most Popular Social Network for the BDSM, Fetish & Kinky Community.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy: Privacy Policy
-      terms: Terms of Use
-    title: Legalese
+    signup_button: Join FetLife <span class="dn dib-s">for Free</span>
+    title: FetLife is <i class="i">the</i> Most Popular Social Network for the BDSM, Fetish & Kinky Community.
   lockout:
     subtitle: You've tripped our security system.
     title: Security, Security, Security!
@@ -239,8 +183,6 @@ en:
     search_placeholder: Search FetLife
     videos: Videos
     writings: Writings
-  page_break:
-    of: of
   privacy:
     title: Privacy
   profile:
@@ -481,36 +423,6 @@ en:
     placeholder: 6-Digit Verification Code
     subtitle: That was a bit painful wasn't it?!?!
     title: Last Step
-  subnav:
-    feed:
-      activity_feed: Activity Feed
-      activity_feed_short: Home
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
-      kp_short: Popular
-    profile:
-      about: About Me
-      about_short: About
-      latest: Latest Activity
-      latest_short: Latest
-      pictures: Pictures
-      pictures_short: Pics
-      videos: Videos
-      videos_short: Vids
-      writings: Writings
-      writings_short: Writings
-    settings:
-      account: Account
-      account_short: Account
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profile
-      profile_short: Profile
-      support: Support
-      support_short: Support
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -564,10 +476,6 @@ en:
       routing_number_blank: Routing Number can't be blank
       state_blank: State can't be blank
     faq:
-      cc_a_part_1: We understand that it's a major inconvenience for many of you. But due to the number of content restrictions that come with accepting credit cards, the community as a whole has decided it's best for our long-term health and viability not to accept them.
-      cc_a_part_2: If we wanted to accept credit cards we couldn't allow kinksters on FetLife to discuss watersports, hypnosis, period sex, blood play, edge play, consensual non-consent, and many other kinks commonly accepted by the kinky community.
-      cc_a_part_3: As a community, we need a safe space for consenting adults to be able to be freely express themselves sexually. And if we accept credit cards or paypal, we would lose that freedom.
-      cc_q: Q. Why doesn't FetLife accept Credit Cards or Paypal?
       gift_a: That’s super nice of you. Just visit their profile and click &ldquo;Gift Support&rdquo; link under &ldquo;Message Kinkster&rdquo; <i>#TheyWillLoveIt</i>
       gift_q: Q. Want to gift support to someone?
       month_a: Like Costco, we have to sell in bulk, to keep the monthly cost of supporting FetLife low!
@@ -602,9 +510,6 @@ en:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

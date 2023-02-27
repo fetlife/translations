@@ -12,22 +12,10 @@ fr:
     subtitle: 2-factorise-moi bébé !
     title: Code secret
   about:
-    contact_info: Informations de contact
-    email_us: Envoyez-nous un courriel à <a href="mailto:support@fetlife.com">support@fetlife.com</a> et nous vous recontacterons très vite!
-    europe: Europe
-    got_question: Avez-vous une question ? Besoin d’aide ?
-    north_america: Amérique du Nord
-    one_love: Un amour, une vie, et beaucoup de kink !
-    snail_mail: Courrier papier
     sub_header: À ne pas confondre avec les spartiates
     title: Nous. Sommes. FetLife !
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Commentaire
     comments_count:
@@ -37,7 +25,6 @@ fr:
       button: Dis-le
       placeholder: Que vous dite?
     love: Aimer
-    loved_hover: Bourreau des cœurs ! :-(
     loves_count:
       one: 1 amour
       other: "%{count_with_delimiter} amours"
@@ -117,31 +104,6 @@ fr:
       terms_and_conditions_terms_of_use_link: Conditions d'utilisation
       title_description: Un groupe est l'endroit où les kinksters peuvent se réunir pour partager leurs expériences, leurs intérêts communs, leurs projets et plus encore!
       title_title: Créer un nouveau groupe
-  guidelines:
-    header: Directives de FetLife & Légal
-    headers:
-      community: Directives de communauté
-      content: Directives de contenu
-      group_leader: Directives de gestionnaire de groupe
-      values: Valeurs Directrices
-    last_updated: 'Dernière mise à jour :'
-    sections:
-      guidelines:
-        description: Pour aider à faire de FetLife un endroit amusant pour tous, nous vous demandons de bien vouloir suivre nos consignes relatives au contenu, à la communauté et au groupe.
-        title: Lignes directrices
-      legalese:
-        description: Cette section contient les conditions d'utilisation que tous les membres acceptent lors de leur inscription à FetLife. Nous avons essayé de garder les choses aussi simples et claires que possible!
-        title: Légal
-      privacy:
-        description: Quel est le niveau de sécurité de vos données et que fait FetLife pour les protéger? Chez FetLife, nous traitons vos données comme nous aimerions que les nôtres soient traitées.
-        title: Confidentialité
-    subheader: Vous trouverez ici les directives, la documentation juridique et la politique de confidentialité de notre site.
-    subnav:
-      community: Communauté
-      content: Contenu
-      group_leader: Chef de groupe
-      values: Valeurs
-    title: Lignes directrices
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,8 @@ fr:
     title_step2: Invitation envoyée
     view_invitations: voir vos invitations
   landing_page:
-    login_button: Se connecter à FetLife
     signup_button: S’inscrire à FetLife
-    signup_button_new: S’inscrire à FetLife
-    stats_details: partagent <strong class="fw7 silver">%{picture_count} images</strong> et <strong class="fw7 silver">%{video_count} videos</strong>, participent à <strong class="fw7 silver">%{discussion_count} discussions</strong> dans <strong class="fw7 silver">%{group_count} groupes</strong>, vont à <strong class="fw7 silver">%{event_count} évènements à venir</strong>, et lisent <strong class="fw7 silver">%{post_count} articles de blog</strong>. <span><span class="i">Paradis kinky!</span>
-    stats_members: Membres
-    subtitle: Comme Facebook, mais géré par des kinksters comme toi et moi. On pense que c’est plus amusant comme ça. Pas toi ?
     title: FetLife est le réseau social de la communauté BDSM, fétiche & kinky.
-    title_new: FetLife est le réseau social de la communauté BDSM, fétiche & kinky.
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Legal Requests
-      privacy_policy: Privacy Policy
-      terms_of_use: Terms of Use
-    subnav:
-      2257_exempt: Exemption 2257
-      legal_requests: Requêtes légales
-      privacy: Politique de confidentialité
-      terms: Conditions d’utilisation
-    title: Légal
   lockout:
     subtitle: Vous avez déclenché notre système de sécurité.
     title: Sécurité, Sécurité, Sécurité!
@@ -239,8 +183,6 @@ fr:
     search_placeholder: Chercher FetLife
     videos: Videos
     writings: Writings
-  page_break:
-    of: de
   privacy:
     title: Privacy
   profile:
@@ -481,36 +423,6 @@ fr:
     placeholder: Code de vérification à 6 chiffres
     subtitle: Ce n’était pas si difficile, n’est-ce pas ?!?!
     title: Dernière étape
-  subnav:
-    feed:
-      activity_feed: Fil d’activité
-      activity_feed_short: Accueil
-      fp: Frais<span class="a-ampersand">&amp;</span>Pervers
-      fp_short: Récent
-      kp: Kinky<span class="a-ampersand">&amp;</span>Populaire
-      kp_short: Populaire
-    profile:
-      about: À propos de moi
-      about_short: À propos
-      latest: Activité récente
-      latest_short: Récent
-      pictures: Photos
-      pictures_short: Pics
-      videos: Vidéos
-      videos_short: Vids
-      writings: Écrits
-      writings_short: Écrits
-    settings:
-      account: Compte
-      account_short: Compte
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Confidentialité
-      privacy_short: Confidentialité
-      profile: Profil
-      profile_short: Profil
-      support: Support
-      support_short: Support
   support:
     benefits:
       item_1: Avoir un badge sexy <span>I Support FetLife</span> sur votre profil.
@@ -602,9 +514,6 @@ fr:
         title: Virement bancaire US (ACH)
       cc_curo:
         extra_info: Nous acceptons Visa, V Pay, Mastercard et Maestro. C'est simple et sécurisé.
-        title: Carte de crédit
-      cc_trustpay:
-        extra_info: Nous acceptons Visa et Mastercard. C'est simple et sécurisé.
         title: Carte de crédit
       coingate:
         extra_info: Nous acceptons Bitcoin, Ethereum, Dogecoin, Litecoin, et XRP.

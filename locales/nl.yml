@@ -12,22 +12,10 @@ nl:
     subtitle: 2-stap mij baby!
     title: Geheime code
   about:
-    contact_info: Contact informatie
-    email_us: stuur een e-mail naar <a href="mailto:support@fetlife.com">support@fetlife.com</a> en wij zullen zo snel mogelijk reageren.
-    europe: Europa
-    got_question: Heb je een vraag? Heb je hulp nodig?
-    north_america: Noord-Amerika
-    one_love: Een liefde, een leven en heel veel kink.
-    snail_mail: Per postduif
     sub_header: Niet te verwarren met de Spartanen.
     title: Wij. Zijn. FetLife!
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Ga naar instellingen
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Opmerking
     comments_count:
@@ -37,7 +25,6 @@ nl:
       button: Zeg het
       placeholder: Wat zeg jij?
     love: Love
-    loved_hover: Hartenbreker! :-(
     loves_count:
       one: 1 Love
       other: "%{count_with_delimiter} Loves"
@@ -88,7 +75,6 @@ nl:
         cta: Bevestig dat jij jij bent &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> De controle code die je ingevoerd hebt is niet juist. Controleer dat het nummer hierboven overeenkomt met het nummer dat je van ons hebt ontvangen en probeer het alsjeblieft opnieuw. Dit is live opgenomen."
         inexisting_number: Wanneer ja na enkele minuten geen SMS hebt ontvangen van ons, dan is dat waarschijnlijk omdat we geen profiel gekoppeld hebben aan jouw nummer. We adviseren je om <a href="%{forgot_password_email_path}">te proberen om je wachtwoord te herstellen met een andere methode</a>, of om <a href="%{signup_path}">een nieuw profiel aan te maken op FetLife</a>.
-        
         label: 6-cijferige verificatiecode
         page_title: Verificatiecode invoeren
         subtitle: Voer de 6-cijferige code in die we zojuist "mogelijk" naar %{phone_number} hebben gestuurd.
@@ -118,31 +104,6 @@ nl:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Maak een nieuwe groep
-  guidelines:
-    header: FetLife-richtlijnen & Juridisch jargon
-    headers:
-      community: Communityrichtlijnen
-      content: Inhoudsrichtlijnen
-      group_leader: Groepsleiderrichtlijnen
-      values: Guiding Values
-    last_updated: 'Laatst bijgewerkt:'
-    sections:
-      guidelines:
-        description: Om FetLife een leuke plek voor iedereen te maken, vragen we iedereen vriendelijk om onze richtlijnen voor Inhoud, Community en Groep te volgen.
-        title: Richtlijnen
-      legalese:
-        description: Dit gedeelte bevat de gebruiksvoorwaarden waarmee alle leden akkoord gaan wanneer zij zich aanmelden voor FetLife. We hebben geprobeerd de dingen zo eenvoudig en duidelijk mogelijk te houden!
-        title: Juridisch jargon
-      privacy:
-        description: Hoe veilig zijn je gegevens en wat doet FetLife om het te beschermen? Bij FetLife behandelen we je gegevens zoals we zouden willen dat die van ons worden behandeld.
-        title: Privacy
-    subheader: Je vindt onze siterichtlijnen, juridische documentatie en privacybeleid hier.
-    subnav:
-      community: Gemeenschap
-      content: Inhoud
-      group_leader: Groepsleider
-      values: Waarden
-    title: Regels
   header:
     friendship_requests_count: Vriendschapsverzoeken (%{count})
     inbox_count: Inbox (%{count})
@@ -170,26 +131,8 @@ nl:
     title_step2: Uitnodiging verstuurd
     view_invitations: Bekijk je uitnodigingen
   landing_page:
-    login_button: Aanmelden bij FetLife
     signup_button: Inschrijven bij FetLife
-    signup_button_new: Inschrijven bij FetLife
-    stats_details: delen <strong class="fw7 silver">%{picture_count} foto's</strong> en <strong class="fw7 silver">%{video_count} filmpjes</strong>, nemen deel aan <strong class="fw7 silver">%{discussion_count} discussies</strong> in <strong class="fw7 silver">%{group_count} groepen</strong>, gaan naar <strong class="fw7 silver">%{event_count} aanstaande bijeenkomsten</strong>, en lezen <strong class="fw7 silver">%{post_count} blog berichten</strong>. <span><span class="i">Kinky hemel!</span>
-    stats_members: Leden
-    subtitle: Zoiets als Facebook, maar gemaakt door kinksters zoals jij en ik. Wij denken dat dat veel leuker is. Jij ook?
     title: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
-    title_new: FetLife is het Sociale Netwerk voor de BDSM, Fetish & Kinky samenleving.
-  legalese:
-    headers:
-      2257_exempt: 2257 Vrijgesteld
-      legal_requests: Juridische verzoeken
-      privacy_policy: Privacybeleid
-      terms_of_use: Gebruiksvoorwaarden
-    subnav:
-      2257_exempt: 2257 Vrijgesteld
-      legal_requests: Juridische verzoeken
-      privacy: Privacybeleid
-      terms: Gebruiksvoorwaarden
-    title: Legaliseren
   lockout:
     subtitle: Je hebt ons beveiligingssysteem geactiveerd.
     title: Beveiliging, beveiliging, beveiliging!
@@ -240,8 +183,6 @@ nl:
     search_placeholder: Zoeken op FetLife
     videos: Videos
     writings: Writings
-  page_break:
-    of: van
   privacy:
     title: Privacy
   profile:
@@ -482,36 +423,6 @@ nl:
     placeholder: 6-cijferige controle code
     subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
     title: Laatste Stap
-  subnav:
-    feed:
-      activity_feed: Activiteiten geschiedenis
-      activity_feed_short: Thuis
-      fp: Fris<span class="a-ampersand">&amp;</span>Pervers
-      fp_short: Fris
-      kp: Kinky<span class="a-ampersand">&amp;</span>Populair
-      kp_short: Populair
-    profile:
-      about: Over mijzelf
-      about_short: Over
-      latest: Laatste activiteit
-      latest_short: Laatste
-      pictures: Foto's
-      pictures_short: Foto's
-      videos: Filmpjes
-      videos_short: Filmpjes
-      writings: Krabbels
-      writings_short: Krabbels
-    settings:
-      account: Account
-      account_short: Account
-      notifications: Meldingen
-      notifications_short: Meldingen
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profiel
-      profile_short: Profiel
-      support: Ondersteuning
-      support_short: Ondersteuning
   support:
     benefits:
       item_1: Een sexy <span>I Support FetLife</span> badge op uw profiel.
@@ -603,9 +514,6 @@ nl:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accepteren Bitcoin, Ethereum, Dogecoin, Litecoin en XRP.

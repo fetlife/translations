@@ -12,22 +12,10 @@ hu:
     subtitle: Két lépcső? Az nekem is megy!
     title: Titkos kód
   about:
-    contact_info: Kapcsolati adatok
-    email_us: 'Küldj nekünk egy emailt a <a href="mailto:support@fetlife.com">support@fetlife.com</a> címre és mi válaszolunk, mielőtt annyit mondanál: "Fapapucs"! Najó, ilyen hamar azért nem ;)'
-    europe: Európa
-    got_question: Kérdésed van? Segíthetünk?
-    north_america: Észak-Amerika
-    one_love: Egy élet, egy szerelem és rengeteg élvezet.
-    snail_mail: Csigalevél
     sub_header: Nem összekeverendő a Spártaiakkal
     title: 'Mi vagyunk a: FetLife!'
   components:
     step: Step
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Hozzászólás
     comments_count:
@@ -37,7 +25,6 @@ hu:
       button: Mondd
       placeholder: Mit mondasz Te?
     love: Love
-    loved_hover: Szívtipró! :-(
     loves_count:
       one: 1 Love
       other: "%{count_with_delimiter} Love"
@@ -117,31 +104,6 @@ hu:
       terms_and_conditions_terms_of_use_link: Terms of Use
       title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
       title_title: Create a New Group
-  guidelines:
-    header: FetLife Guidelines & Legalese
-    headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
-    last_updated: 'Utolsó frissítés:'
-    sections:
-      guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
-      legalese:
-        description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
-        title: Legalese
-      privacy:
-        description: How secure is your data and what is FetLife doing to safeguard it? At FetLife, we treat your data how we'd like ours treated.
-        title: Privacy
-    subheader: You'll find our site guidelines, legal documentation, and privacy policy here.
-    subnav:
-      community: Közösség
-      content: Tartalom
-      group_leader: Csoportgazda
-      values: Values
-    title: Irányelvekek
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,8 @@ hu:
     title_step2: Meghívó elküldve
     view_invitations: Meghívások megtekintése
   landing_page:
-    login_button: Belépés
     signup_button: Regisztráció
-    signup_button_new: Regisztráció
-    stats_details: felhasználó <strong class="fw7 silver">%{picture_count} képet</strong> és <strong class="fw7 silver">%{video_count} videót</strong> oszt meg, <strong class="fw7 silver">%{group_count} csoport</strong> <strong class="fw7 silver">%{discussion_count} beszélgetésében</strong> vesz részt, <strong class="fw7 silver">%{event_count} közelgő esemény</strong> iránt érdeklődik, és <strong class="fw7 silver">%{post_count} blog bejegyzés</strong> közül szemezget. <span><span class="i">Ez itt kérem az extrém erotika fellegvára!</span>
-    stats_members: Ebben a pillanatban
-    subtitle: Szinte mint a Facebook, csak "kissé" nyitottabb gondolkodású tagokkal. De hát így az igazi, nemdebár? ;)
     title: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé
-    title_new: A FetLife egy közösségi oldal azok számára, akik nyitottak a BDSM, a szexuális fétisek vagy egyéb erotikus fantáziák felé
-  legalese:
-    headers:
-      2257_exempt: 2257 Exempt
-      legal_requests: Jogi kérések
-      privacy_policy: Adatvédelmi szavályzat
-      terms_of_use: Felhasználási feltételek
-    subnav:
-      2257_exempt: 2257 Exempt
-      legal_requests: Jogi kérések
-      privacy: Adatvédelmi szabályzat
-      terms: Felhasználási feltételek
-    title: Legalizáció
   lockout:
     subtitle: You've tripped our security system.
     title: Security, Security, Security!
@@ -239,8 +183,6 @@ hu:
     search_placeholder: Keresés
     videos: Videók
     writings: Irások
-  page_break:
-    of: "/"
   privacy:
     title: Adatvédelem
   profile:
@@ -481,36 +423,6 @@ hu:
     placeholder: 6 jegyű hitelesítő kód
     subtitle: Nem is volt annyira fájdalmas, igaz? ;)
     title: Utolsó lépés
-  subnav:
-    feed:
-      activity_feed: Tevékenység napló
-      activity_feed_short: Otthon
-      fp: Fresh & Pervy
-      fp_short: Friss
-      kp: Kinky & Popular
-      kp_short: Népszerű
-    profile:
-      about: Saját bemutatkozás
-      about_short: Bemutatkozás
-      latest: Legújabb tevékenységek
-      latest_short: Legújabb
-      pictures: Képek
-      pictures_short: Képek
-      videos: Videók
-      videos_short: Videók
-      writings: Írások
-      writings_short: Írások
-    settings:
-      account: Felhasználói fiók
-      account_short: Felhasználó
-      notifications: Értesítések
-      notifications_short: Értesítések
-      privacy: Adatvédelem
-      privacy_short: Adatvédelem
-      profile: Profil
-      profile_short: Profil
-      support: Támogatás
-      support_short: Támogatás
   support:
     benefits:
       item_1: Egy szexy <span>I Support FetLife</span> jelvény a profilodon.
@@ -602,9 +514,6 @@ hu:
         title: US Bank Transfer (ACH)
       cc_curo:
         extra_info: We accept Visa, V Pay, Mastercard, and Maestro. It's easy and secure.
-        title: Credit Card
-      cc_trustpay:
-        extra_info: We accept Visa and Mastercard. It's easy and secure.
         title: Credit Card
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.

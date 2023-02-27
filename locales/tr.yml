@@ -12,22 +12,10 @@ tr:
     subtitle: 2-Factor me baby!
     title: Gizli Kod
   about:
-    contact_info: İletişim Bilgisi
-    email_us: Bize <a href="mailto:support@fetlife.com"> support@fetlife.com </a> adresinden e-posta gönderin; size hızlı bir şekilde geri döneceğiz!
-    europe: Avrupa
-    got_question: Bir sorun mu var? Yardıma mı ihtiyacınız var?
-    north_america: Kuzey Amerika
-    one_love: Bir aşk, bir hayat ve çok fazla Kink.
-    snail_mail: Normal Posta
     sub_header: Spartalılar'la karıştırılmaması gerekir.
     title: Biz. Hepimiz. Fetlife!
   components:
     step: Adım
-  edit_profile:
-    sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
-      pics_and_vids_discoverability_link: Go to settings
-      pics_and_vids_discoverability_q: Pics and vid discoverability
   feed:
     comment: Yorum
     comments_count:
@@ -37,7 +25,6 @@ tr:
       button: Söyle
       placeholder: Ne söylüyorsun?
     love: Beğeni
-    loved_hover: Kalp Kırıcı! :-(
     loves_count:
       one: 1 Beğeni
       other: "%{count_with_delimiter} Beğeniler"
@@ -117,31 +104,6 @@ tr:
       terms_and_conditions_terms_of_use_link: Kullanım Şartları
       title_description: Tecrübeleri, ortak çıkarları, planlarını yapmak ve daha fazlasını paylaşmak için ortakların bir araya gelebileceği bir grup!
       title_title: Yeni Grup Oluştur
-  guidelines:
-    header: FetLife Kuralları ve Yasal
-    headers:
-      community: Topluluk Rehberleri
-      content: İçerik Guidelines
-      group_leader: Grup Lideri Rehberleri
-      values: Guiding Values
-    last_updated: 'Son güncelleme:'
-    sections:
-      guidelines:
-        description: FetLife'ı herkes için eğlenceli bir yer haline getirmek için, herkesten İçeriğimizi, Topluluğumuzu ve Grup kurallarımıza uymalarını rica ediyoruz.
-        title: Rehberler
-      legalese:
-        description: Bu bölümde yer alan Kullanım Koşullarını tüm üyeler FetLife'a kaydoldukları zaman kabul etmiş sayılır. Herşeyi olabildiğince basit ve açık tutmaya çalıştık!
-        title: Yasal
-      privacy:
-        description: Verileriniz ne kadar güvende ve FetLife onu korumak için ne yapıyor? FetLife'da verilerimize, bizim nasıl davranılmasını istediğimizi ele alıyoruz.
-        title: Gizlilik
-    subheader: Site yönergelerimizi, yasal belgeleri ve gizlilik politikasını burada bulabilirsiniz.
-    subnav:
-      community: Topluluk
-      content: İçerik
-      group_leader: Grup Lideri
-      values: Values
-    title: Rehberler
   header:
     friendship_requests_count: Friendship Requests (%{count})
     inbox_count: Inbox (%{count})
@@ -169,26 +131,8 @@ tr:
     title_step2: Davet Gönderildi
     view_invitations: davetlerini görüntüle
   landing_page:
-    login_button: FetLife'a Giriş Yapın
     signup_button: FetLife'a Katılın
-    signup_button_new: FetLife'a Katılın
-    stats_details: <strong class="fw7 silver">%{picture_count} fotoğraf</strong> ve <strong class="fw7 silver">%{video_count} video</strong> paylaşıyor, <strong class="fw7 silver">%{group_count} grupta</strong> <strong class="fw7 silver">%{discussion_count} tartışamaya</strong> katılıyor, <strong class="fw7 silver">%{event_count} tane yaklaşan etkinliğe</strong> katılıyor ve <strong class="fw7 silver">%{post_count} blog gönderisi</strong> okuyor. <span><span class="i">Kinky Cennet!</span>
-    stats_members: Üye
-    subtitle: Facebook gibi, ama sen ve ben gibi kinksterlar tarafından yönetiliyor. Bu şekilde daha eğlenceli olduğunu düşünüyoruz. Değil mi
     title: FetLife, BDSM, Fetiş ve Kinky Topluluğu'nun Sosyal Ağıdır.
-    title_new: FetLife, BDSM, Fetiş ve Kinky Topluluğu'nun Sosyal Ağıdır.
-  legalese:
-    headers:
-      2257_exempt: 2257 Muaf
-      legal_requests: Yasal İstekler
-      privacy_policy: Gizlilik Politikası
-      terms_of_use: Kullanım Şartları
-    subnav:
-      2257_exempt: 2257 Muaf
-      legal_requests: Yasal İstekler
-      privacy: Gizlilik Politikası
-      terms: Kullanım Şartları
-    title: Yasal
   lockout:
     subtitle: Güvenlik sistemimizi açtın.
     title: Güvenlik, Güvenlik, Güvenlik!
@@ -239,8 +183,6 @@ tr:
     search_placeholder: FetLife'da Ara
     videos: Videolar
     writings: Gönderiler
-  page_break:
-    of: ''
   privacy:
     title: Gizlilik
   profile:
@@ -481,36 +423,6 @@ tr:
     placeholder: 6 Basamaklı Doğrulama Kodu
     subtitle: Bu biraz acı vericiydi, değil mi??!?!
     title: Son Adım
-  subnav:
-    feed:
-      activity_feed: Etkinlik Akışı
-      activity_feed_short: Anasayfa
-      fp: Fresh<span class="a-ampersand">&</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&</span>Popular
-      kp_short: Popular
-    profile:
-      about: Benim Hakkımda
-      about_short: Hakkımda
-      latest: Son Aktiviteler
-      latest_short: Son
-      pictures: Fotoğraflar
-      pictures_short: Resimler
-      videos: Videolar
-      videos_short: Vidolar
-      writings: Gönderiler
-      writings_short: Gönderiler
-    settings:
-      account: Hesap
-      account_short: Hesap
-      notifications: Bildirimler
-      notifications_short: Bildirimler
-      privacy: Gizlilik
-      privacy_short: Gizlilik
-      profile: Profil
-      profile_short: Profil
-      support: Destek
-      support_short: Destek
   support:
     benefits:
       item_1: Profilinizde seksi bir <span>FetLife'ı destekliyorum</span> rozeti.
@@ -602,9 +514,6 @@ tr:
         title: ABD Banka Havalesi (ACH)
       cc_curo:
         extra_info: Visa, V Pay, Mastercard ve Maestro kabul ediyoruz. Kolay ve güvenli.
-        title: Kredi Kartı
-      cc_trustpay:
-        extra_info: Visa ve Mastercard kabul ediyoruz. Kolay ve güvenli.
         title: Kredi Kartı
       coingate:
         extra_info: We accept Bitcoin, Ethereum, Dogecoin, Litecoin, and XRP.
