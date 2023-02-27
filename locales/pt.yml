@@ -570,7 +570,7 @@ pt:
       title: Quanto você ama o FetLife?
     step2_paygarden:
       confirm: Eu tenho um cartão presente e quero trocá-lo por Apoio
-      list_footer: e <a href='%{link}'>centenas de outras grandes marcas.</a>
+      list_footer: e <a href='%{link}' target="_blank">centenas de outras grandes marcas.</a>
       list_header: Nós aceitamos cartões presente de
       secure: Seguro como o Fort Knox
       tips: Se você vive fora dos Estados Unidos da América, nós recomendamos a utilização de uma VPN ou de um Proxy e compre um cartão presente em dólares Americanos nas lojas online Target US.

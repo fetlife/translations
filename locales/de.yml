@@ -570,7 +570,7 @@ de:
       title: Wie sehr liebst du FetLife?
     step2_paygarden:
       confirm: Ich habe eine Geschenkkarte, die ich gegen FetLife-Unterstütung tauschen möchte
-      list_footer: und <a href='%{link}'>hunderte andere bekannte Marken.</a>
+      list_footer: und <a href='%{link}' target="_blank">hunderte andere bekannte Marken.</a>
       list_header: Wir akzeptieren Geschenkkarten von
       secure: So sicher wie Fort Knox
       tips: Wenn du außerhalb der USA wohnst, empfehlen wir ein VPN/Proxy zu nutzen oder Geschenkkarten in US-Dollar in Targets-US-Online-Shops zu kaufen.
