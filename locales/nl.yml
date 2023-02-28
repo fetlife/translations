@@ -436,6 +436,7 @@ nl:
       item_8: "<span>Personaliseer je vriendenlijst</span> naar hartenlust."
       item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Voor slechts $ 5 per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
+      list_description_exp: 'Voor slechts $5 %{currency} per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
       list_footer: Alles voor minder dan de prijs van een fles glijmiddel ... hoewel we je niet aanraden canola-olie te vervangen voor glijmiddel ... het werkt niet zo goed.
       thank_you: Zonder jouw steun zou er geen FetLife zijn. Bedankt namens de hele FetLife-familie!
       title: Wat krijg ik voor het ondersteunen van FetLife?
@@ -496,6 +497,9 @@ nl:
       return_q: Q. What’s your return policy?
       secure_a: Yes, very. FetLife doesn’t store any of your personal info on our servers.  We just use the info you provide us to process your transaction and that's it.
       secure_q: Q. Is this secure?
+      interac_q: Q. What currency is FetLife support billed in?
+      interac_a: |
+        All Support payments are billed in US$, with one exception: Canadian Interac e-Transfer, which is billed in CAN$.
       title: Frequently Asked Questions
     gift:
       affirm: You're the best!
@@ -566,6 +570,14 @@ nl:
       30_title: "$30 for 6 Months"
       60_info: "$5/month"
       60_title: "$60 for 12 Months"
+      120_info_exp: "$5 %{currency}/month"
+      120_title_exp: "$120 %{currency} for 24 Months"
+      240_info_exp: "<i>Priceless</i>"
+      240_title_exp: "$240 %{currency} for Lifetime!"
+      30_info_exp: "$5 %{currency}/month"
+      30_title_exp: "$30 %{currency} for 6 Months"
+      60_info_exp: "$5 %{currency}/month"
+      60_title_exp: "$60 %{currency} for 12 Months"
       return_info: 7-day no questions asked money back guarantee.
       title: Hoeveel houd je van FetLife?
     step2_paygarden:

@@ -436,6 +436,7 @@ fr:
       item_8: "<span>Personnaliser votre fil d’ami⋅e⋅s</span> autant que vous le voulez."
       item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Pour seulement 5$ par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
+      list_description_exp: 'Pour seulement $5 %{currency} par mois, vous n’aidez pas seulement à supporter le développement continu de FetLife, mais vous pouvez :'
       list_footer: Tout ça pour moins cher qu’une bouteille de lubrifiant… Bien que nous ne vous recommandions pas de remplacer le lubrifiant par de l’huile de colza… Ça ne marche pas très bien.
       thank_you: Sans votre support il n’y aurait pas de FetLife. Merci, de la part de toute la famille FetLife !
       title: Qu’est-ce que je gagne en supportant FetLife ?
@@ -496,6 +497,9 @@ fr:
       return_q: Q. Quelle est votre politique de remboursement ?
       secure_a: Oui, très. FetLife n’enregistre aucunes de vos informations personnelles sur ses serveurs. Nous n’utilisons les informations que vous nous fournissez que pour procéder à la transaction, et c’est tout.
       secure_q: Q. Est-ce sécurisé ?
+      interac_q: Q. What currency is FetLife support billed in?
+      interac_a: |
+        All Support payments are billed in US$, with one exception: Canadian Interac e-Transfer, which is billed in CAN$.
       title: Questions fréquemment posées (FAQ)
     gift:
       affirm: Vous êtes le⋅la meilleur⋅e !
@@ -566,6 +570,14 @@ fr:
       30_title: "$30 pour 6 mois"
       60_info: "$5/mois"
       60_title: "$60 pour 12 mois"
+      120_info_exp: "$5 %{currency}/mois"
+      120_title_exp: "$120 %{currency} pour 24 mois"
+      240_info_exp: "<i>Sans prix</i>"
+      240_title_exp: "$240 %{currency} pour la vie !"
+      30_info_exp: "$5 %{currency}/mois"
+      30_title_exp: "$30 %{currency} pour 6 mois"
+      60_info_exp: "$5 %{currency}/mois"
+      60_title_exp: "$60 %{currency} pour 12 mois"
       return_info: Garantie de remboursement sans condition durant 7 jours
       title: À quel point aimez-vous FetLife ?
     step2_paygarden:

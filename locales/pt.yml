@@ -436,6 +436,7 @@ pt:
       item_8: "<span>Personalize o Feed do seu amigo(a)</span> para o conteúdo do seu coração."
       item_9: Opção para <span>ocultar anúncios lineares</span> no celular.
       list_description: 'Por apenas $5 por mês, você não só ajuda o desenvolvimento contínuo do FetLife mas também recebe:'
+      list_description_exp: 'Por apenas $5 %{currency} por mês, você não só ajuda o desenvolvimento contínuo do FetLife mas também recebe:'
       list_footer: Tudo por menos do que o preço de uma embalagem de lubrificante… apesar de que não recomendamos que você substitua óleo de canola por lubrificante… esse não funciona tão bem.
       thank_you: Sem o seu apoio, o Fetlife não existia. Um muito obrigado de toda a família Fetlife!
       title: O que é que eu obtenho por apoiar o FetLife?
@@ -496,6 +497,9 @@ pt:
       return_q: Q. Qual é a vossa política de devolução?
       secure_a: Sim, muito. O portal FetLife não armazena nenhuma informação pessoal sua nos nossos servidores. Nós apenas utilizamos a informação providenciada por você para processar a transação e é apenas isto.
       secure_q: Q. Isto é seguro?
+      interac_q: Q. What currency is FetLife support billed in?
+      interac_a: |
+        All Support payments are billed in US$, with one exception: Canadian Interac e-Transfer, which is billed in CAN$.
       title: Questões Frequentes
     gift:
       affirm: Você é o melhor!
@@ -566,6 +570,14 @@ pt:
       30_title: "$30 por 6 meses"
       60_info: "$5/mês"
       60_title: "$60 por 12 meses"
+      120_info_exp: "$5 %{currency}/mês"
+      120_title_exp: "$120 %{currency} por 24 meses"
+      240_info_exp: "<i>Inestimável</i>"
+      240_title_exp: "$240 %{currency} para a vida!"
+      30_info_exp: "$5 %{currency}/mês"
+      30_title_exp: "$30 %{currency} por 6 meses"
+      60_info_exp: "$5 %{currency}/mês"
+      60_title_exp: "$60 %{currency} por 12 meses"
       return_info: Garantia de devolução do dinheiro no prazo de 7 dias sem questões.
       title: Quanto você ama o FetLife?
     step2_paygarden:

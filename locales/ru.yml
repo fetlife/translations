@@ -452,6 +452,7 @@ ru:
       item_8: "<span>Сможете настроить Ленту Друзей</span> на свой вкус."
       item_9: Option to <span>hide inline ads</span> on mobile.
       list_description: 'Всего за 5 долларов в месяц вы не только поддержите развитие FetLife, но и получите:'
+      list_description_exp: 'Всего за $5 %{currency} в месяц вы не только поддержите развитие FetLife, но и получите:'
       list_footer: Всего за сумму меньше стоимости смазки… хотя в то же время мы не советуем заменять смазку растительным маслом… оно не так хорошо в применении.
       thank_you: Без вашей поддержки не было бы FetLife. Спасибо всем членам семьи FetLife!
       title: Что я получу за финансовую поддержку FetLife?
@@ -512,6 +513,9 @@ ru:
       return_q: В. Какие у вас условия возврата?
       secure_a: Да, очень. FetLife не хранит никакую вашу личную информацию на своих серверах. Мы используем информацию, предоставленную вами для проведения платежа, только и всего.
       secure_q: В. Это надёжно?
+      interac_q: Q. What currency is FetLife support billed in?
+      interac_a: |
+        All Support payments are billed in US$, with one exception: Canadian Interac e-Transfer, which is billed in CAN$.
       title: Часто Задаваемые Вопросы
     gift:
       affirm: Вы лучше всех!
@@ -582,6 +586,14 @@ ru:
       30_title: "$30 за 6 Месяцев"
       60_info: "$5/месяц"
       60_title: "$60 за 12 Месяцев"
+      120_info_exp: "$5 %{currency}/месяц"
+      120_title_exp: "$120 %{currency} за 24 Месяца"
+      240_info_exp: "<i>Бесценно</i>"
+      240_title_exp: "$240 %{currency} на всю жизнь!"
+      30_info_exp: "$5 %{currency}/месяц"
+      30_title_exp: "$30 %{currency} за 6 Месяцев"
+      60_info_exp: "$5 %{currency}/месяц"
+      60_title_exp: "$60 %{currency} за 12 Месяцев"
       return_info: 7-дневная безоговорочная гарантия возврата денег.
       title: Как сильно вы любите FetLife?
     step2_paygarden:
