@@ -354,7 +354,7 @@ nl:
     error_bar_invalid_credentials: Het lijkt erop alsof je gebruikersnaam, e-mailadres of wachtwoord onjuist is. Probeer het opnieuw!
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
-    error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
+    error_birthdate_too_young: Je bent niet oud genoeg. Je moet minstens 18 jaar oud zijn.
     error_birthdate_too_young_on_update: Sorry, je moet 18 jaar of ouder zijn om FetLife te gebruiken
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
