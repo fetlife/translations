@@ -326,39 +326,39 @@ nl:
     recommendations: Aanbevelingen
     show_account_menu: Show Account Menu
     signup: Registreren
-    support: Ondersteun FetLife
-    terms: Terms
+    support: Steun FetLife
+    terms: Voorwaarden
     title:
-      about_fetlife: About FetLife
+      about_fetlife: Over FetLife
       community: Community
       legalese: Legalese
-      need_help: Need Help?
+      need_help: Hulp nodig?
     transparency: Transparency
     trust_and_safety: Trust & Safety
-    upcoming_events: Upcoming Events
+    upcoming_events: Aankomende Evenementen
     upload_picture: Foto plaatsen
     upload_video: Video plaatsen
-    verification_pending: Profile Verification Pending
-    verify_profile: Verify Profile
+    verification_pending: Profielverificatie in behandeling
+    verify_profile: Profiel Verifiëren
     videos: Video's
     view_friends: Vrienden
-    view_profile: view profile
-    view_terms: View Terms of Use
+    view_profile: Bekijk profiel
+    view_terms: Bekijk gebruiksvoorwaarden
     wallpapers: FetLife Wallpapers
     whats_new: Wat is nieuw
     write_post: Schrijf bericht
     writings: Writings
   signup:
     almost_there: Bijna klaar!
-    error_bar: Dallas, we hebben een probleem. Ga naar beneden voor meer informatie.
-    error_bar_invalid_credentials: Looks like your Nickname, Email or Password is incorrect, please try again!
+    error_bar: Oeps! We hebben een probleem. Scroll naar beneden voor meer informatie.
+    error_bar_invalid_credentials: Het lijkt erop alsof je gebruikersnaam, e-mailadres of wachtwoord onjuist is. Probeer het opnieuw!
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
-    error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
-    error_birthdate_too_young_on_update: Sorry, you must be 18 or older to use FetLife
+    error_birthdate_too_young: Je bent niet oud genoeg. Je moet minstens 18 jaar oud zijn.
+    error_birthdate_too_young_on_update: Sorry, je moet 18 jaar of ouder zijn om FetLife te gebruiken
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
-    error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
+    error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een ander e-mailadres.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
@@ -410,34 +410,34 @@ nl:
     error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Probeer het later nog eens."
     explanation: Het is misschien veel gevraagd, maar we willen een gezonde en levendige gemeenschap hebben, daarom controleren we iedereen voordat ze lid worden. Iets wat je waarschijnlijk wel waardeert wanneer je door het proces heen bent.
     label: Mobiel nummer
-    page_title: Stuur controle code
+    page_title: Verstuur verificatiecode
     pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor België, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc."
     subtitle: Eenmalig anoniem SMS bericht.
-    title: Controle Tijd!
+    title: Controletijd!
   signup_verify:
     cta: Voltooi inschrijving & controle
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
-    label: Controle Code
-    notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="silver" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
-    page_title: Voer de controle code in
-    placeholder: 6-cijferige controle code
+    label: Verificatiecode
+    notice: We hebben de verificatiecode verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="silver" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
+    page_title: Voer de verificatiecode in
+    placeholder: 6-cijferige verificatiecode
     subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
     title: Laatste Stap
   support:
     benefits:
-      item_1: Een sexy <span>I Support FetLife</span> badge op uw profiel.
+      item_1: Een sexy <span>I Support FetLife</span> badge op je profiel.
       item_10: Krijg vroege <span>toegang tot nieuwe functies</span>!
       item_2: Perv <span>over 5,000 of today’s most popular</span> pics, vids, and writings.
       item_3: Bekijk <span>alle %{number}+ filmpjes</span> gedeeld door de community.
       item_4: Perv <span>alle %{number}+ foto's</span> als ze worden gedeeld.
       item_5: Bekijk <span>alles wat je ooit geloved en gebookmarkt hebt</span>.
-      item_6: Ga <span>25x verder terug</span> in je vriendenlijst..
-      item_7: Ga <span>25x verder</span> in je eigen lijst.
+      item_6: Ga <span>25x verder terug</span> in je vriendenlijst.
+      item_7: Ga <span>25x verder terug</span> in je eigen lijst.
       item_8: "<span>Personaliseer je vriendenlijst</span> naar hartenlust."
-      item_9: Option to <span>hide inline ads</span> on mobile.
+      item_9: Mogelijkheid tot verbergen van <span>inline reclame</span> op je mobiel.
       list_description: 'Voor slechts $ 5 per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
       list_description_exp: 'Voor slechts $5 %{currency} per maand help je niet alleen de voortzetting van de ontwikkeling van FetLife, maar krijg je ook:'
-      list_footer: Alles voor minder dan de prijs van een fles glijmiddel ... hoewel we je niet aanraden canola-olie te vervangen voor glijmiddel ... het werkt niet zo goed.
+      list_footer: Alles voor minder dan de prijs van een fles glijmiddel... hoewel we je niet aanraden canola-olie te vervangen voor glijmiddel... het werkt niet zo goed.
       thank_you: Zonder jouw steun zou er geen FetLife zijn. Bedankt namens de hele FetLife-familie!
       title: Wat krijg ik voor het ondersteunen van FetLife?
     cta_labels:
@@ -471,9 +471,9 @@ nl:
       first_name_blank: Voornaam mag niet leeg zijn
       iban_blank: IBAN mag niet leeg zijn
       info_missing: Some information is missing. Please try again.
-      last_name_blank: Last name mag niet leeg zijn
-      postal_code_blank: Postal Code mag niet leeg zijn
-      question_blank: Security question mag niet leeg zijn
+      last_name_blank: Achternaam mag niet leeg zijn
+      postal_code_blank: Postcode mag niet leeg zijn
+      question_blank: Veiligheidsvraag mag niet leeg zijn
       routing_number_blank: Routing Number mag niet leeg zijn
       state_blank: State mag niet leeg zijn
     faq:
