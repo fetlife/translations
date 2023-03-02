@@ -358,7 +358,7 @@ nl:
     error_birthdate_too_young_on_update: Sorry, je moet 18 jaar of ouder zijn om FetLife te gebruiken
     error_city_missing: Plaats moet geselecteerd zijn.
     error_country_missing: Land moet geselecteerd zijn.
-    error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een andere.
+    error_email: We hebben een probleem bij het verwerken van bovenstaand e-mailadres. Controleer de spelling of probeer een ander e-mailadres.
     error_gender_required: Geslacht moet geselecteerd zijn.
     error_nickname: Alias is al in gebruik.
     error_nickname_characters: Bijnaam kan enkel leters, nummers, streepjes en lage streepjes bevatten; geen spaties.
