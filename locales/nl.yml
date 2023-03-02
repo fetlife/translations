@@ -351,7 +351,7 @@ nl:
   signup:
     almost_there: Bijna klaar!
     error_bar: Oeps! We hebben een probleem. Scroll naar beneden voor meer informatie.
-    error_bar_invalid_credentials: Het lijkt erop alsof je alias, emailadres of wachtwoord onjuist is. Probeer opnieuw!
+    error_bar_invalid_credentials: Het lijkt erop alsof je gebruikersnaam, e-mailadres of wachtwoord onjuist is. Probeer het opnieuw!
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
     error_birthdate_too_young: Jij bent niet oud genoeg (je moet minstens 18 jaar oud zijn).
