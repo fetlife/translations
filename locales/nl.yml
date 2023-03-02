@@ -410,7 +410,7 @@ nl:
     error_quota: "<strong>Kinky Operator:</strong> Auw, we kunnen maar maximaal 3 SMS berichten versturen per 24 uur aan een mobiel nummer. Probeer het later nog eens."
     explanation: Het is misschien veel gevraagd, maar we willen een gezonde en levendige gemeenschap hebben, daarom controleren we iedereen voordat ze lid worden. Iets wat je waarschijnlijk wel waardeert wanneer je door het proces heen bent.
     label: Mobiel nummer
-    page_title: Stuur controle code
+    page_title: Verstuur verificatiecode
     pro_tip: "<strong>Pro Tip:</strong> Begin je nummer met je landcode: +31 voor Nederland, +32 voor België, +49 voor Duitsland, +33 voor Frankrijk, +1 voor VS en Canada, +44 voor het VK, +61 voor Australië, etc."
     subtitle: Eenmalig anoniem SMS bericht.
     title: Controletijd!
