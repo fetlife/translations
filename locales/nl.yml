@@ -350,7 +350,7 @@ nl:
     writings: Writings
   signup:
     almost_there: Bijna klaar!
-    error_bar: Den Haag, we hebben een probleem. Scroll naar beneden voor meer informatie.
+    error_bar: Oeps! We hebben een probleem. Scroll naar beneden voor meer informatie.
     error_bar_invalid_credentials: Het lijkt erop alsof je alias, emailadres of wachtwoord onjuist is. Probeer opnieuw!
     error_birthdate: Geboortedatum is vereist.
     error_birthdate_too_old: Jij bent te oud.
