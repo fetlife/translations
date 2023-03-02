@@ -473,7 +473,7 @@ nl:
       info_missing: Some information is missing. Please try again.
       last_name_blank: Achternaam mag niet leeg zijn
       postal_code_blank: Postcode mag niet leeg zijn
-      question_blank: Veiliheidsvraag mag niet leeg zijn
+      question_blank: Veiligheidsvraag mag niet leeg zijn
       routing_number_blank: Routing Number mag niet leeg zijn
       state_blank: State mag niet leeg zijn
     faq:
