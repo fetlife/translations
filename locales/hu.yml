@@ -370,7 +370,7 @@ hu:
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.
     error_state_missing: A megye kiválasztása kötelező.
-    footnote: By clicking "Regisztráció befejezése" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Születési idő
       city: Város
@@ -415,14 +415,14 @@ hu:
     subtitle: Egyszeri anonim üzenet.
     title: Hitelesítés
   signup_verify:
-    cta: Regisztráció befejezése
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kedvenc operátorod jelenti:</strong> Ördög és pokol! A hitelesítő kód nem stimmel. Kérlek ellenőrizd, hogy megegyezik-e azzal amit korábban küldtünk neked."
-    label: Hitelesítő kód
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: 'Elküldtük a hitelesítő kódot a következő számra: <strong>%{phone_number}</strong>. Ha néhány percen belül sem kapsz SMS-t tőlünk, <a class="silver" href="%{back_path}">frissítsd a számot és mi küldünk egy újat</a>.'
     page_title: A hitelesítő kód megadása
     placeholder: 6 jegyű hitelesítő kód
     subtitle: Nem is volt annyira fájdalmas, igaz? ;)
-    title: Utolsó lépés
+    title: Hitelesítés
   support:
     benefits:
       item_1: Egy szexy <span>I Support FetLife</span> jelvény a profilodon.

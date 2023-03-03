@@ -370,7 +370,7 @@ zh:
     error_role_required: 角色必选。
     error_sexual_orientation_required: 性取向必选。
     error_state_missing: 省份/州份必选。
-    footnote: 点击「完成注册认证」代表你同意我们的<a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">使用守则</a>、<a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">隐私政策</a>和<a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">社区守则</a>。
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: 出生日期
       city: 城市
@@ -415,14 +415,14 @@ zh:
     subtitle: 一次性匿名短信。
     title: 到短信验证的时候了！
   signup_verify:
-    cta: 完成注册认证
+    cta: Submit Verification Code
     incorrect_code: "<strong>亲爱的小变态：</strong>呃&hellip; 上面这个验证码似乎是错的。请再检查一下它是否和你收到的验证码一致再重试。"
-    label: 验证码
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: 我们已将验证码发送至 <strong>%{phone_number}</strong>。如果过了好一会儿你还没收到短信，<a class="silver" href="%{back_path}">换个号码试试重新发送</a>。
     page_title: 输入验证码
     placeholder: 6 位验证码
     subtitle: 有点蛋疼，对吧？！
-    title: 最后一步
+    title: 到短信验证的时候了！
   support:
     benefits:
       item_1: 你的资料页上会有一个性感的 <span>I Support FetLife</span> 图标。

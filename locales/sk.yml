@@ -377,7 +377,7 @@ sk:
     error_role_required: Rola je povinná.
     error_sexual_orientation_required: Sexuálna orientácia je povinná.
     error_state_missing: Kraj je povinný.
-    footnote: By clicking "Dokonči registráciu a verifikáciu" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Dátum narodenia
       city: Mesto
@@ -422,14 +422,14 @@ sk:
     subtitle: Jednorázová anonymná správa.
     title: Čas na verifikáciu!
   signup_verify:
-    cta: Dokonči registráciu a verifikáciu
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kinky Operátor:</strong> Oh&hellip; zadaný verifikačný kód nie je spravný. Prosím skontroluj kód a skús znova."
-    label: Verfikačný kód
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Poslali sme ti verifikačný kód na <strong>%{phone_number}</strong>. Ak do pár minút od nás neobdržíš SMS, <a class="silver" href="%{back_path}">aktualizuj svoje číslo a my ti pošleme nový verfikačný kód</a>.
     page_title: Zadaj verfikačný kód
     placeholder: 6-miestny verfikačný kód
     subtitle: Nebolo to také bolestivé, že nie?!?!
-    title: Posledný krok
+    title: Čas na verifikáciu!
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.

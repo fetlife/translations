@@ -386,7 +386,7 @@ ru:
     error_role_required: Необходимо указать Роль.
     error_sexual_orientation_required: Необходимо указать Сексуальную Ориентацию.
     error_state_missing: Необходимо указать Штат/Область.
-    footnote: Нажимая "Завершить Регистрацию & Подтверждение", вы соглашаетесь уважать и следовать нашим <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Правилам Использования</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Политике Конфиденциальности</a>, и <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Правилам Сообщества</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Дата Рождения
       city: Город
@@ -431,14 +431,14 @@ ru:
     subtitle: Одноразовое анонимное СМС.
     title: Время Подтверждения!
   signup_verify:
-    cta: Завершить Регистрацию & Подтверждение
+    cta: Submit Verification Code
     incorrect_code: "<strong>Развратный Оператор:</strong> Хм&hellip; код подтверждения не подходит. Пожалуйста, убедитесь, что введённый номер совпадает с номером, который вы получили от нас, и попытайтесь снова."
-    label: Код Подтверждения
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Мы отправили код подтверждения на <strong>%{phone_number}</strong>. Если через несколько минут вы не получили от нас СМС, <a class="silver" href="%{back_path}">обновите свой номер, и мы отправим вам новый код подтверждения</a>.
     page_title: Введите Код Подтверждения
     placeholder: 6-значный Код Подтверждения
     subtitle: Было не так уж и сложно, не так ли?
-    title: Последний Шаг
+    title: Время Подтверждения!
   support:
     benefits:
       item_1: Сексуальный значок <span>I Support FetLife</span> на своём профиле.

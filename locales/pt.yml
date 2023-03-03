@@ -370,7 +370,7 @@ pt:
     error_role_required: O papel deve seleccionado.
     error_sexual_orientation_required: A Orientação Sexual deve ser seleccionada.
     error_state_missing: O Distrito, Estado ou a Província deve ser seleccionado(a).
-    footnote: Ao clicar em "Completar Inscrição e Verificação", você aceita respeitar e seguir os nossos <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Termos de Utilização</a>, a nossa <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de Privacidade</a>, e as <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Diretrizes da Comunidade</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Data de Nascimento
       city: Cidade
@@ -415,14 +415,14 @@ pt:
     subtitle: Mensagem de texto anónima única.
     title: Hora da Verificação!
   signup_verify:
-    cta: Completar Inscrição e Verificação
+    cta: Submit Verification Code
     incorrect_code: "<strong>Operador Pervertido:</strong> Ohh&hellip; o código que você inseriu parece ser inválido. Por favor verifique se o número acima é igual ao número que nós enviámos."
-    label: Código de Verificação
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Nós enviámos o código de verificação para <strong>%{phone_number}</strong>. Se após alguns minutos você não receber uma mensagem de texto nossa, <a class="silver" href="%{back_path}">atualize o seu número e nós vamos enviar-lhe uma nova mensagem de texto</a>.
     page_title: Insira o Código de Verificação
     placeholder: Código de Verificação de 6 dígitos
     subtitle: Isso foi um pouco doloroso, não foi?!?!
-    title: Último Passo
+    title: Hora da Verificação!
   support:
     benefits:
       item_1: Um sexy crachá <span>Eu Apoio o FetLife</span> no seu perfil.
