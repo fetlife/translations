@@ -370,7 +370,7 @@ bg:
     error_role_required: Трябва да избереш роля.
     error_sexual_orientation_required: Трябва да избереш сексуална ориентация.
     error_state_missing: Трябва да избереш област.
-    footnote: By clicking "Довърши регистрацията & потвърждението" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Дата на раждане
       city: Град
@@ -415,14 +415,14 @@ bg:
     subtitle: Еднократен анонимен SMS.
     title: Време за потвърждение!
   signup_verify:
-    cta: Довърши регистрацията & потвърждението
+    cta: Submit Verification Code
     incorrect_code: "<strong>Извратеният оператор:</strong> Ъ&hellip; горният код за потвърждение не изглежда наред. Моля, увери се че горното число съответства на това което получи от нас и опитай пак."
-    label: Код за потвърждение
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Изпратихме кода за потвърждение на <strong>%{phone_number}</strong>. Ако до няколко минути не получиш SMS от нас, <a class="silver" href="%{back_path}">обнови номера си и ще ти изпратим нов код за потвърждение</a>.
     page_title: Въведи код за потвърждение
     placeholder: 6-цифрен код за потвърждение
     subtitle: Не болеше чак толкова, нали?!?!
-    title: Последна стъпка
+    title: Време за потвърждение!
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.

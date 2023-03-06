@@ -370,7 +370,7 @@ tr:
     error_role_required: Rol seçilmelidir.
     error_sexual_orientation_required: Cinsel Yönelim seçilmelidir.
     error_state_missing: Eyalet/İl seçilmeli.
-    footnote: Üye olurken "Kaydı Tamamla ve Doğrula" yı tıklayarak, <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Kullanım Koşulları</a>mıza, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Gizlilik Politika</a>mıza ve <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Topluluk Rehberleri</a>mize saygı duymayı ve bunlara uymayı kabul edersiniz.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Doğumgünü
       city: Şehir
@@ -415,14 +415,14 @@ tr:
     subtitle: Bir kerelik anonim kısa mesaj.
     title: Doğrulama Zamanı!
   signup_verify:
-    cta: Kaydı Tamamla ve Doğrula
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kinky Operatör:</strong> Hmm … girdiğiniz doğrulama kodu eşleşmiyor. Lütfen yukarıdaki numaranın bizden aldıklarınızla eşleştiğini doğrulayın ve tekrar deneyin."
-    label: Doğrulama Kodu
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Doğrulama kodunu <strong>%{phone_number}</strong> numarasına gönderdik. Birkaç dakika sonra bizden kısa mesaj almazsanız, <a class="silver" href="%{back_path}">numaranızı güncelleyin, size yeni bir doğrulama kodu gönderelim</a>.
     page_title: Dogrulama Kodunu Giriniz
     placeholder: 6 Basamaklı Doğrulama Kodu
     subtitle: Bu biraz acı vericiydi, değil mi??!?!
-    title: Son Adım
+    title: Doğrulama Zamanı!
   support:
     benefits:
       item_1: Profilinizde seksi bir <span>FetLife'ı destekliyorum</span> rozeti.

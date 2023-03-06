@@ -370,7 +370,7 @@ es:
     error_role_required: Se requiere su rol.
     error_sexual_orientation_required: Se requiere su orientación sexual.
     error_state_missing: Debe seleccionar un estado/provincia.
-    footnote: Al hacer click en "Completar el registro y la verificación" aceptas respetar y seguir nuestras <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Condiciones de uso</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Política de privacidad</a>, y <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Directrices de la comunidad</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Fecha de nacimiento
       city: Ciudad
@@ -415,14 +415,14 @@ es:
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Es hora de la verificación!"
   signup_verify:
-    cta: Completar el registro y la verificación
+    cta: Submit Verification Code
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
-    label: Código de verificación
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}">actualice su número y le enviaremos un nuevo código de verificación</a>.
     page_title: Ingrese el código de verificación
     placeholder: Código de verificaión de 6 dígitos
     subtitle: "¡¿A que no fue para tanto?!"
-    title: Último paso
+    title: "¡Es hora de la verificación!"
   support:
     benefits:
       item_1: Una placa sexy de <span>I Support FetLife</span> para su perfil.

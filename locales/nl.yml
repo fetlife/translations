@@ -370,7 +370,7 @@ nl:
     error_role_required: Rol moet worden gekozen.
     error_sexual_orientation_required: Sexuele oriëntatie moet worden gekozen.
     error_state_missing: Provincie moet worden geselecteerd.
-    footnote: Door het klikken op "Voltooi inschrijving & controle" ga ja akkoord met het respecteren en volgen van onze <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Gebruikersvoorwaarden</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacybeleid</a>, en <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Gemeenschap Richtlijnen</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Geboortedatum
       city: Plaats
@@ -415,14 +415,14 @@ nl:
     subtitle: Eenmalig anoniem SMS bericht.
     title: Controle Tijd!
   signup_verify:
-    cta: Voltooi inschrijving & controle
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kinky Operator:</strong> Auw&hellip; de controle code die je ingevoerd hebt is niet juist. Controleer alsjeblieft of het nummer hierboven overeenkomt met wat je van ons hebt ontvangen en probeer het opnieuw."
-    label: Controle Code
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: We hebben de controle code verzonden aan <strong>%{phone_number}</strong>. Wanneer je na enkele minuten nog geen SMS bericht van ons hebt ontvangen, <a class="silver" href="%{back_path}">pas je nummer aan en we sturen je een nieuwe controle code</a>.
     page_title: Voer de controle code in
     placeholder: 6-cijferige controle code
     subtitle: Dat was nog niet zo pijnlijk, of wel?!?!
-    title: Laatste Stap
+    title: Controle Tijd!
   support:
     benefits:
       item_1: Een sexy <span>I Support FetLife</span> badge op uw profiel.

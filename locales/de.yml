@@ -370,7 +370,7 @@ de:
     error_role_required: Die Rolle muss gewählt werden.
     error_sexual_orientation_required: Die sexuelle Orientierung muss gewählt werden.
     error_state_missing: Das Bundesland muss gewählt werden.
-    footnote: Durch Anklicken von „Registrierung & Verifikation abschließen“ akzeptierst du unsere <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Nutzungsbedingungen</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">die Datenschutzurichtlinie</a> und die <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Gemeinschaftsrichtlinien</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Geburtsdatum
       city: Stadt
@@ -415,14 +415,14 @@ de:
     subtitle: Einmalige anonyme SMS.
     title: Verifikationszeit!
   signup_verify:
-    cta: Registrierung & Verifikation abschließen
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kinky Operator:</strong> Nein … die Verifikationsnummer, die du eingegeben hast, scheint nicht korrekt zu sein. Bitte überprüfe, ob die Nummer oben mit dem übereinstimmt, was du von uns erhalten hast und versuche es nochmal."
-    label: Verifikationsnummer
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: Wir haben die Verifikationsnummer an <strong>%{phone_number}</strong> gesandt. Wenn du nach ein paar Minuten noch keine SMS von uns erhalten hast, <a class="silver" href="%{back_path}">aktualisiere deine Nummer und wir schicken dir eine neue Verifikationsnummer</a>.
     page_title: Verifikationsnummer eingeben
     placeholder: sechsstellige Verifikationsnummer
     subtitle: Das hat doch gar nicht wehgetan, oder?!?!
-    title: Letzter Schritt
+    title: Verifikationszeit!
   support:
     benefits:
       item_1: Eine sexy <span>I Support FetLife</span>-Plakette auf deinem Profil.

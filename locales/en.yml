@@ -370,7 +370,7 @@ en:
     error_role_required: Role has to be selected.
     error_sexual_orientation_required: Sexual Orientation has to be selected.
     error_state_missing: State/Province has to be selected.
-    footnote: By clicking "Complete Signup & Verification" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
+    footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
       birthdate: Birthdate
       city: City
@@ -415,14 +415,14 @@ en:
     subtitle: One-time anonymous text message.
     title: Verification Time!
   signup_verify:
-    cta: Complete Signup & Verification
+    cta: Submit Verification Code
     incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
-    label: Verification Code
+    label: Enter the 6-digit code we just sent to your mobile phone.
     notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="silver" href="%{back_path}">update your number and we'll send you a new verification code</a>.
     page_title: Enter Verification Code
     placeholder: 6-Digit Verification Code
     subtitle: That was a bit painful wasn't it?!?!
-    title: Last Step
+    title: Verification Time!
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
