@@ -369,6 +369,7 @@ it:
     error_password_required: La password è richiesta.
     error_role_required: Il ruolo deve essere selezionato.
     error_sexual_orientation_required: L'orientamento sessuale deve essere selezionato.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Lo stato/provincia deve essere selezionato.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ it:
       password: Password
       role: Ruolo
       sexual_orientation: Orientamento Sessuale
+      orientation: Orientation
       state: Stato/provincia
     page_title: Iscriviti
     return_to_login: Sei già un membro? Fai login in Fetlife!

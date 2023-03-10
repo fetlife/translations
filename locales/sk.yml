@@ -376,6 +376,7 @@ sk:
     error_password_required: Heslo je povinné.
     error_role_required: Rola je povinná.
     error_sexual_orientation_required: Sexuálna orientácia je povinná.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Kraj je povinný.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -389,6 +390,7 @@ sk:
       password: Heslo
       role: Rola
       sexual_orientation: Sexuálna orientácia
+      orientation: Orientation
       state: Kraj
     page_title: Pridaj sa k nám
     return_to_login: Already a member? Login to FetLife
