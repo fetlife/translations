@@ -385,6 +385,7 @@ ru:
     error_password_required: Укажите пароль.
     error_role_required: Необходимо указать Роль.
     error_sexual_orientation_required: Необходимо указать Сексуальную Ориентацию.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Необходимо указать Штат/Область.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -398,6 +399,7 @@ ru:
       password: Пароль
       role: Роль
       sexual_orientation: Сексуальная Ориентация
+      orientation: Orientation
       state: Штат/Область
     page_title: Присоединиться
     return_to_login: Уже зарегистрированы? Войти

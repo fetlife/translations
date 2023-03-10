@@ -369,6 +369,7 @@ nl:
     error_password_required: Wachtwoord is verplicht.
     error_role_required: Rol moet worden gekozen.
     error_sexual_orientation_required: Sexuele oriëntatie moet worden gekozen.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Provincie moet worden geselecteerd.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ nl:
       password: Wachtwoord
       role: Rol
       sexual_orientation: Sexuele Oriëntatie
+      orientation: Orientation
       state: Provincie
     page_title: Deelnemen
     return_to_login: Al een lid? Meld je hier aan bij FetLife

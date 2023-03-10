@@ -369,6 +369,7 @@ pt:
     error_password_required: A Senha é obrigatória.
     error_role_required: O papel deve seleccionado.
     error_sexual_orientation_required: A Orientação Sexual deve ser seleccionada.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: O Distrito, Estado ou a Província deve ser seleccionado(a).
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ pt:
       password: Senha
       role: Papel
       sexual_orientation: Orientação Sexual
+      orientation: Orientation
       state: Distrito/Estado/Província
     page_title: Registar
     return_to_login: Já é membro? Entre no FetLife

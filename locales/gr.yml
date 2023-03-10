@@ -369,6 +369,7 @@ gr:
     error_password_required: Απαιτείται κωδικός πρόσβασης.
     error_role_required: Πρέπει να επιλέξετε το Ρόλο.
     error_sexual_orientation_required: Πρέπει να επιλέξετε Σεξουαλικό Προσανατολισμό.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Πρέπει να επιλέξετε Κράτος/Επαρχία.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ gr:
       password: Κωδικός
       role: Ρόλος
       sexual_orientation: Σεξουαλικός Προσανατολισμός
+      orientation: Orientation
       state: Κράτος/Επαρχία
     page_title: συμμετοχή
     return_to_login: Already a member? Login to FetLife

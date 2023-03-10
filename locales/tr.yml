@@ -369,6 +369,7 @@ tr:
     error_password_required: Şifre gereklidir.
     error_role_required: Rol seçilmelidir.
     error_sexual_orientation_required: Cinsel Yönelim seçilmelidir.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: Eyalet/İl seçilmeli.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ tr:
       password: Şifre
       role: Rol
       sexual_orientation: Cinsel Yönelim
+      orientation: Orientation
       state: Eyalet/İl
     page_title: Kaydol
     return_to_login: Zaten bir üye misiniz? FetLife'a Giriş Yapın

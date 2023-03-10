@@ -369,6 +369,7 @@ hu:
     error_password_required: Biztonsági szó nélkül nem lenne olyan biztonságos, ugye megérted?
     error_role_required: Fontos hogy milyen preferenciáid vannak egy szerepjátékban. Már csak a félreértés elkerülése végett is.
     error_sexual_orientation_required: A Szexuális beállítottság nem egy elhanyagolható tényező.
+    error_orientation_required: Orientation has to be selected.
     error_state_missing: A megye kiválasztása kötelező.
     footnote: By clicking "Complete Signup & Verify Email" you agree to respect and follow our <a class="gray link underline hover-moon-gray" href="%{tou_path}" target="_blank">Terms of Use</a>, <a class="gray link underline hover-moon-gray" href="%{privacy_path}" target="_blank">Privacy Policy</a>, and <a class="gray link underline hover-moon-gray" href="%{guidelines_path}" target="_blank">Community Guidelines</a>.
     label:
@@ -382,6 +383,7 @@ hu:
       password: Jelszó
       role: Szerepjáték preferencia
       sexual_orientation: Szexuális beállítottság
+      orientation: Orientation
       state: Megye
     page_title: Csatlakozás
     return_to_login: Already a member? Login to FetLife
