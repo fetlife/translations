@@ -21,7 +21,7 @@ With the help of the beautifully diverse community that makes up [Fetlife](https
 
 ### How You can Help Out
 
-To learn how you can get involved, check out our [Contributing Guidelines](CONTRIBUTING.md).
+We're currently migrating to a new solution to help us out with translations. Stay tuned! We should be launching soon!
 
 
 ## Frequently Asked Questions
