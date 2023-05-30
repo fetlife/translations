@@ -1,0 +1,904 @@
+---
+cs:
+  2fa:
+    5strike:
+      return: zpět na hlavní stránku
+      subtitle: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+      title: Pravidlo pěti pokusů
+    cta: Jsem to já, pusť mě!
+    error: " Kinky Operátor: Ou… zadaný verifikační kód není správný. Prosím zkontroluj kód a zkus znovu."
+    label: Autentikační kód
+    page_title: Dvoufaktorová autentifikace
+    subtitle: 2-Factor me baby!
+    title: Tajný kód
+  about:
+    contact_info: Kontaktní informace
+    email_us: Kontaktuj nás na support@fetlife.com a my se ti ozveme v okamžiku! Snad!
+    europe: Evropa
+    got_question: Máš otázku? Potřebuješ pomoc?
+    north_america: Severní Amerika
+    one_love: Jedna láska, jeden život a plno úchylností.
+    snail_mail: Pošta
+    sub_header: Nemýlit se Sparťany.
+    title: My. Jsme. FetLife!
+  ad_stats:
+    akce:
+      delete: Vymazat
+      duplicate: Zduplikovat
+      edit: Upravit
+      pause: Pozastavit
+      start: Spustit
+      unpause: Znovu spustit
+    actions_literal: Akce
+    active_ads: Aktivní reklamy
+    ad_new:
+      cta: Nahrát novou reklamu
+      labels:
+        line1: Řádek 1
+        line2: Řádek 2
+        line3: Řádek 3
+      placeholders:
+        line1: Insertable Jewelry
+        line2: Remind her all day long
+        line3: what's waiting for later
+      subtitle: Jednoduché jako 1, 2… 69.
+      title: Nová reklama
+    ads: Reklamy
+    avg_ctr: Průměrný CTR
+    best: Nejlepší
+    campaign_edit:
+      cta: Upravit kampaň
+      labels:
+        company_name: Jméno firmy
+        member_id: member_id
+        slots_purchased: Zakoupené sloty
+      page_title: Upravit kampaň
+      subtitle: Září 2016
+      title: Upravit kampaň
+    campaign_new:
+      cta: Nová kampaň
+      subtitle: Září 2016
+      title: Nová kampaň
+    campaigns: Kampaně
+    clicks: Klepnutí
+    ctr: CTR
+    edit: upravit
+    impressions: Imprese
+    last_updated: Statistiky naposledy aktualizovány
+    name: Jméno
+    new_ad: "+ nová reklama"
+    new_campaign: "+ nová kampaň"
+    overview: Přehled
+    press_start: Stiskni "Spustit", když jsi připraven.
+    slots: Sloty
+    subtitle: Řídicí centrum Ivana Belly.
+    title: Reklamní sloty
+    updated_every: Aktualizováno každých 15 minut
+    view: zobraz
+    worst: Nejhorší
+  feed:
+    comment: Komentovat
+    comments_count:
+      one: 1 komentář
+      other: "%{number} komentářů"
+    love: Miluje se mi to
+    loved_hover: Lámač srdcí! :-(
+    loves_count:
+      one: 1 členovi se to miluje
+      other: "%{number} členům se to miluje"
+    modal:
+      close: zavřít
+      moře: více
+      reply: Odpovědět
+    title: Novinky
+  following:
+    follow: Sledovat
+    following: Sledování
+  footer:
+    about: O stránce
+    help: Nápověda
+  forgot_password:
+    email:
+      cta: Pošlet email s instrukcemi
+      error_forgot_email: Něco chybí… Tvoje emailová adresa! :-p
+      error_invalid_email: To nevypadá jako platná emailová adresa. Prosíme tě zkontroluj ji a zkus znovu.
+      error_quota: Smějí být dva písemné dva e-maily na 100% e-mailovou adresu. Please double check that našim e-mailem podívejte se do svého spamu filtru. Pokud jste nemuseli přijít do vašeho spamového filtru I recommend pomocí jednoho z dalších výše uvedených metod k získání zpět do svého účtu.
+      placeholder: Emailová adresa
+      step1:
+        page_title: Resetuj heslo přes email
+        subtitle: Ať tě pomoc doprovází.
+        title: Zapomenuté heslo?
+      step2:
+        page_title: '"MOŽNO" máš email'
+        subtitle: Pokud existuje profil asociovaný s emailem %{given_email} tak jsme ti poslali instrukce na zresetování tvého hesla.
+        title: '"MOŽNO" máš email'
+      update_email: aktualizovat emailovou adresu
+      warning: " Varování ministra vnitra: Z bezpečnostních důvodů ti nemůžeme říci, že jestli emailová adresa existuje v naší databázi nebo ne. Pokud od nás nedostaneš email, tak je to pravděpodobně kvůli tomu, že u nás ještě nemáš účet."
+    mobile:
+      5strike:
+        return: zpět na hlavní stránku
+        subtitle: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+        title: Pravidlo pěti pokusů
+      cta: Pošli mi SMS
+      error_country_code: " Kinky Operátor: Prosíme tě zkontroluj, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+      error_quota: " Kinky Operátor: Nemůžeme ti poslat více než 3 SMS na jedno číslo v rámci 24 hodin. Ať už číslo existuje v naší databázi nebo ne."
+      pro_tip: " Pro Tip: Ujisti se, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd.. Spojené království, +61 pro Austrálii, +31 pro Nizozemsko, +49 pro německo, +33 pro Francie, etc."
+      step1:
+        page_title: Resetovat heslo přes SMS
+        subtitle: Nech nás pomoci ti s tím.
+        title: Zapomenuté heslo?
+      step2:
+        cta: Legitimuj se
+        error_code_match: " Kinky Operátor: Zadaný verfikační kód není správný. Zkontroluj, že zadaný kód se shoduje s tím, který jsme ti poslali v SMS a prosíme tě zkus znovu."
+        inexisting_number: Pokud během pár minut nedostaneš od nás SMS, tak pravděpodobně neexistuje profil asociovaný s tvým číslem. Doporučujeme ti si buď zresetovat heslo jinou metodou nebo si zaregistrovat nový profil na FetLife .
+        label: Verfikační kód
+        page_title: Zadej verfikační kód
+        placeholder: 6-místný verfikační kód
+        subtitle: Právě mě ti „asi“ poslali SMS.
+        title: Zadej verfikační kód
+      warning: " Varování ministra vnitra: Z bezpečnostních důvodů ti nemůžeme říci, že jestli dané mobilní číslo se nachází v naší databázi nebo ne. Pokud nedostaneš SMS, tak je to pravděpodobně kvůli tomu, že ještě nemáš u nás účet."
+    next_step: další krok
+    return_to_login: zpět k přihlášení
+    tab_email: Email
+    tab_mobile: Mobil
+  guidelines:
+    last_updated: 'Naposledy aktualizované:'
+    sub_header: Následuj své srdce, on vždy ví.
+    subnav:
+      community: Komunita
+      community_short: Komunita
+      content: Obsah
+      content_short: Obsah
+      group_leader: Lídr skupiny
+      group_leader_short: Lídr skupiny
+    title: Pravidla
+  invite_a_friend:
+    cancel_button: zrušit
+    cancel_notice: Pozvánka pro %{email} byla zrušena.
+    cta: Pozvi přítele na FetLife
+    error: Vyskytl se problém při posílání pozvánky. Doporučujeme ti zkontrolovat překlepy a zkusit znovu.
+    invitations_accepted: Přijaté pozvánky
+    invitations_sent: Odeslané pozvánky
+    labels:
+      friends_email: Přátel email
+    next_step: další krok
+    return_to_feed: zpět na feed
+    subtitle_step1:
+      one: Zbývá ti 1 pozvánka.
+      other: Zbývá ti %{number} pozvánek.
+    subtitle_step2: Poslali jsme za Tebe email na %{email}.
+    title_step1: Pozvat přítele
+    title_step2: Pozvánka odeslána
+    view_invitations: Zobrazit pozvánky
+  landing_page:
+    footer: " %{member_count} členů sdílí %{picture_count} fotek a %{video_count} videí , účastní se %{discussion_count} diskusí v %{group_count} skupinách , jdou na %{event_count} nadcházejících událostí a čtou %{post_count} příspěvků . Nebe pro kinkstery! "
+    login_button: Přihlásit se na FetLife
+    signup_button: Registrovat se na FetLife
+    subtitle: Jako Facebook, ale plný kinksterů, jak jsi ty a my. Myslíme si, že je to víc zábavy touto cestou. Co myslíš?
+    title: FetLife je sociální síť pro BDSM, Fetish & Kinky komunitu.
+  legalese:
+    subnav:
+      2257_exempt: 2257 Exempt
+      2257_exempt_short: '2257'
+      privacy: Ochrana soukromí
+      privacy_short: Soukromí
+      terms: Podmínky používání
+      terms_short: Podmínky
+    subtitle: Hrajeme si na právníky na interwebu od '69.
+    title: Legislativa
+  login:
+    button: Přihlásit se na FetLife
+    error_flash: Prosím kontaktuj support@fetlife.com , abychom ti co nejdříve pomohli se dostat zpět.
+    error_login_blank: Přezdívka nebo email nemohou být prázdné
+    error_not_authenticated: Omlouváme se, pouze přihlášení uživatelé mají přístup na tuto stránku. Pokud ještě nejsi členem, tak registrace trvá méně než minutu.
+    error_not_found: Hmmm, neumíme tě najít. Zkontroluj zadanou přezdívku a heslo. (Heslo je CiTLiVé-Na-VeLkOST-PísMen)
+    error_password_blank: Heslo nemůže být prázdné
+    forgot_info: Zapomněl jsi své přihlašovací údaje?
+    labels:
+      nickname: Přezdívka nebo email
+      password: Heslo
+      remember_me: Pamatuj si mě, budu zpátky.
+    not_a_member: Ještě nejsi členem? Registruj se na FetLife
+    subtitle: Co bychom bez Tebe dělali?
+    title: Vítej doma
+  logout:
+    log_in: znovu se přihlásit
+    subtitle: Nezapomeň se brzy vrátit.
+    title: Budeš nám chybět!
+  member_stats:
+    pics:
+      one: obrázek
+      other: obrázků
+    posts:
+      one: příspěvek
+      other: příspěvků
+    vids:
+      one: video
+      other: videa
+  nav:
+    events: Události
+    explore: Objevuj
+    fetishes: Fetiše
+    groups: Skupiny
+    home: Domů
+    places: Místa
+    search_placeholder: Hledat...
+  page_break:
+    of: z
+  profilu:
+    about_title: Seznam přátel
+    pictures_title: Obrázky
+    videos_title: Videa
+  promote_following:
+    button: Aktivovat sledování na mém profilu
+    ps: PS Sledování můžeš kdykoliv vypnout
+    skip: Teď ne
+    subtitle: Odliš své přátele od svých sledovatelů.
+    title: Představujeme sledování
+  recommendations:
+    title: Doporučení
+  reset_password:
+    cta: Resetovat heslo
+    error_confirmation_match: Zadaná hesla se neshodují
+    error_password_range: Heslo je příliš krátké (minimum jsou 4 znaky)
+    error_token_expired: Platnost tokenu pro zresetování hesla vypršela, prosíme tě zkus znovu.
+    error_token_invalid: Token pro resetování hesla není platný
+    footnote: " Pro Tip: Zapamatuj si své heslo."
+    label_enter: Nové heslo
+    label_re_enter: Znovu zadej nové heslo
+    status_flash_success: Tvé heslo bylo úspěšně změněno.
+    subtitle: Ne příliš krátké, ne příliš dlouhé, takové…
+    title: Změnit heslo
+  select_language:
+    button: Změnit jazyk
+    help_translate: Navštiv náš projekt s překlady na GitHube a pomoz udělat FetLife dostupný pro více tvých přátel a celou kinky komunitu.
+    language_name: Česky
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    title: Vybrat jazyk
+  settings_account:
+    2fa_cta: Zapnout dvoufaktorovou autentifikaci
+    2fa_label: Dvoufaktorová autentifikace
+    anti_pro_tip: Anti-Pro Tip: Můžeš deaktivovat nebo delete váš účet, pokud budete chtít, aby se třikrát v čtyřech Popes highly discourage it.
+    current_password_label: Aktuální heslo
+    email_cta: Změnit emailovou adresu
+    email_label: Email
+    email_placeholder: Emailová adresa
+    language_cta: Změnit výchozí jazyk
+    language_notice: FetLife není plně dostupný v jiných jazycích než angličtina. Pokud změníš toto nastavení, ne všechny sekce budou přeloženy.
+    new_password_label: Nové heslo
+    nickname_cta: Změnit přezdívku
+    nickname_label: 'Změň svou přezdívku z "JohnBaku" na:'
+    nickname_notice: " Pro Tip: Dvakrát měř a jednou sekej. Přezdívku si můžeš změnit jen jednou každých 28 dní. Není cesty zpět."
+    nickname_placeholder: Nová přezdívka
+    page_title: Změn heslo - Nastavení
+    password_cta: Aktualizuj heslo
+    repeat_password_label: Znovu zadej heslo
+    subtitle: Nemačkej velké červené tlačítko.
+    title: Nastavení účtu
+  settings_notifications:
+    cta: Aktualizovat výchozí jazyk
+    language_label: Jazyk
+    notice: FetLife není plně dostupný v jiných jazycích než angličtina. Pokud změníš toto nastavení, ne všechny sekce budou přeloženy.
+    page_title: Jazyk - Nastavení
+    subtitle: Jaký jazyk preferuješ?
+    title: Jazyk
+  settings_privacy:
+    blocked_list_subtitle: Pro ty zlobivé.
+    blocked_list_title: Seznam zablokovaných
+    cb_feed: Povol členům, se kterými nejsem přítel, aby mě sledovali.
+    cb_fp: Povol mé ne-soukromé příspěvky na Fresh&Pervy.
+    cb_kp: Povol mé ne-soukromé příspěvky na Kinky&Popular.
+    content_privacy: Content Privacy
+    cta: Save Privacy Settings
+    following: Following
+    page_title: Privacy Settings
+    subtitle: Served the way you like it.
+    title: Soukromí
+    warning: " Extremely Important : Turning off following will unfollow everyone who is currently following you. No take backs. Seriously."
+  settings_profile:
+    about_you_label: O tobě
+    add_website: "+ přidat webstránku"
+    cta: Aktualizovat profil
+    dob_label: Datum narození
+    location_label: Lokalita
+    looking_for_label: Hledám
+    page_title: Aktualizovat profil
+    subtitle: Osobní růst je skvělý.
+    title: Tvůj profil
+    websites_label: Webstránky
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Aktualizovat emailovou adresu
+    email_label: Aktualizovat emailovou adresu
+    email_placeholder: Tvůj email
+    page_title: Aktualizovat emailovou adresu - Nastavení
+    subtitle: Pro případ, že zapomeneš své heslo.
+    title: Aktualizovat emailovou adresu
+  sidebar:
+    about_fetlife: O Fetlife
+    ad_stats: Reklamní Statistiky
+    advertising: Reklamní služby
+    bug_bounty: Odměna za nahlášené chyby
+    caretaking: Správci
+    close: zavřít
+    edit_profile: Upravit profil
+    edit_settings: Upravit nastavení
+    events: Události
+    fetishes: Fetiše
+    following: Sledováno
+    fp: Fresh & Pervy
+    funny_quote: Pokud neumíš přečíst toto... tak potřebuješ brýle! - Jan 4:69
+    gift_support: Daruj FetLife předplatné
+    groups: Skupiny
+    guidelines: Pravidla
+    home: Domů
+    invite_a_friend: Pozvat přítele (%{count})
+    kp: Kinky & Popular
+    legalese: Legislativa
+    log_out: Odhlásit
+    loved_stuff: Stuff You Love
+    need_help: Potřebuješ pomoc?
+    open_source: Open Source
+    places: Místa
+    recommendations: Doporučení
+    support: Podpor FetLife
+    upload_picture: Nahraj obrázek
+    upload_video: Nahraj video
+    view_friends: Zobraz přátele
+    whats_new: Co nového?
+    write_post: Napsat příspěvek
+  signup:
+    almost_there: Už jsi skoro tam!
+    error_bar: Dallasi, máme problém. Viz níže pro více informací
+    error_birthdate: Datum narození je povinen
+    error_birthdate_too_old: Tvůj věk je příliš vysoký
+    error_birthdate_too_young: Tvůj věk není dostatečný (musíš mít alespoň 18 let)
+    error_city_missing: Město je povinné
+    error_country_missing: Země je povinná
+    error_email: Máme problémy se zpracováním zadané emailové adresy. Doporučujeme ti zkontrolovat překlepy nebo zkusit jinou.
+    error_gender_required: Pohlaví je povinné
+    error_nickname: Přezdívka je již obsazena
+    error_nickname_required: Přezdívka je povinná
+    error_password_range: Heslo musí mít 4 až 50 znaků
+    error_password_required: Heslo je povinné
+    error_role_required: Role musí být vybrána
+    error_sexual_orientation_required: Sexuální orientace musí být vybrána
+    error_state_missing: Kraj musí být vybrán
+    footnote: Klepnutím na tlačítko výše souhlasíš, že budeš respektovat a sledovat naše komunitní pravidla a podmínky používání .
+    label:
+      birthdate: Datum narození
+      city: Město
+      country: Země
+      email: Emailová adresa
+      gender: Pohlaví
+      location: Lokalita
+      nickname: Přezdívka
+      password: Heslo
+      role: Role
+      sexual_orientation: Sexuální orientace
+      state: Kraj
+    page_title: Přidej se k nám
+    subtitle: Řekni nám něco málo o sobě.
+    subtitle_invite: "Uživatel %{name} tě pozval na FetLife."
+    title: Vítej doma
+  signup_avatar:
+    pro_tip: ' Pro Tip : Pokud se stydíš a preferuješ neukázat svou tvář, tak nám neváhej ukázat něco jiného! ;) Nebo můžeš přeskočit tento krok pro teď.'
+    say_cheese: Řekni "syyyyyr"!
+    subtitle: Lidé s profilovou fotkou mají 69x více zábavy!
+    title: Nahrát profilovou fotku
+  signup_five_strikes:
+    page_title: Pravidlo pěti pokusů
+    return_to_front: zpět na hlavní stránku
+    subtitle_error: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+    title: Pravidlo pěti pokusů
+  signup_follow:
+    follow: Sledovat
+    next_step: Další krok
+    subtitle: Sleduj kinkstery, kteří zaujmou tvé oko.
+    title: Zaujal tě někdo?
+  signup_phone:
+    cta: Pošli mi verifikační kód
+    error_cant_send: " Kinky Operátor: Máme problémy s odesíláním SMS na zadané číslo. Prosíme tě zkontroluj, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+    error_quota: " Kinky Operátor: Nemůžeme ti poslat více než 3 SMS na jedno číslo v rámci 24 hodin. Prosíme zkus znovu později."
+    explanation: Víme, že žádat o tvé číslo je příliš mnoho, ale pro to, abychom udrželi zdravou a energickou komunitu, potřebujeme verifikovat každého předtím, než se k nám přidají. Jsme si jisti, že to později oceníš.
+    label: Mobilní telefonní číslo
+    page_title: Pošli mi verifikační kód
+    pro_tip: " Pro Tip: Nezapomeň na kód země v mobilním čísle: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+    subtitle: Jednorázová anonymní zpráva.
+    title: Čas na verifikaci!
+  signup_verify:
+    cta: Dokonči registraci a verifikaci
+    incorrect_code: " Kinky Operátor: Oh… zadaný verifikační kód není správný. Prosím zkontroluj kód a zkus znovu."
+    label: Verfikační kód
+    notice: Poslali jsme ti verifikační kód na %{phone_number} . Pokud do pár minut od nás neobdržíš SMS, aktualizuj své číslo a my ti pošleme nový verfikační kód .
+    notice_error: " PS Těší nás!"
+    page_title: Zadej verfikační kód
+    placeholder: 6-místný verfikační kód
+    subtitle: Nebylo to tak bolestivé, že ne?!?!
+    subtitle_error: That wasn't se painful was it?!?! 
+Maybe we spoke too soon! :-/
+    subtitle_error: Nebylo to tak bolestivé, že ne?!?! 
+Možná jsme to zařekli! :-/
+    title: Poslední krok
+  subnav:
+    feed:
+      activity_feed: Novinky
+      activity_feed_short: Novinky
+      fp: Fresh & Pervy
+      fp_short: Fresh
+      kp: Kinky & Popular
+      kp_short: Popular
+    profilu:
+      about: O mně
+      about_short: O mně
+      latest: Poslední aktivita
+      latest_short: Aktivita
+      pictures: Fotky
+      pictures_short: Fotky
+      videos: Videa
+      videos_short: Videa
+      writings: Články
+      writings_short: Články
+    settings:
+      account: Účet
+      account_short: Účet
+      notifications: Upozornění
+      notifications_short: Upozornění
+      privacy: Soukromí
+      privacy_short: Soukromí
+      profile: Profil
+      profile_short: Profil
+      support: Předplatné
+      support_short: Předplatné
+---
+cs:
+  2fa:
+    5strike:
+      return: zpět na hlavní stránku
+      subtitle: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+      title: Pravidlo pěti pokusů
+    cta: Jsem to já, pusť mě!
+    error: " Kinky Operátor: Ou… zadaný verifikační kód není správný. Prosím zkontroluj kód a zkus znovu."
+    label: Autentikační kód
+    page_title: Dvoufaktorová autentifikace
+    subtitle: 2-Factor me baby!
+    title: Tajný kód
+  about:
+    contact_info: Kontaktní informace
+    email_us: Kontaktuj nás na support@fetlife.com a my se ti ozveme v okamžiku! Snad!
+    europe: Evropa
+    got_question: Máš otázku? Potřebuješ pomoc?
+    north_america: Severní Amerika
+    one_love: Jedna láska, jeden život a plno úchylností.
+    snail_mail: Pošta
+    sub_header: Nemýlit se Sparťany.
+    title: My. Jsme. FetLife!
+  ad_stats:
+    akce:
+      delete: Vymazat
+      duplicate: Zduplikovat
+      edit: Upravit
+      pause: Pozastavit
+      start: Spustit
+      unpause: Znovu spustit
+    actions_literal: Akce
+    active_ads: Aktivní reklamy
+    ad_new:
+      cta: Nahrát novou reklamu
+      labels:
+        line1: Řádek 1
+        line2: Řádek 2
+        line3: Řádek 3
+      placeholders:
+        line1: Insertable Jewelry
+        line2: Remind her all day long
+        line3: what's waiting for later
+      subtitle: Jednoduché jako 1, 2… 69.
+      title: Nová reklama
+    ads: Reklamy
+    avg_ctr: Průměrný CTR
+    best: Nejlepší
+    campaign_edit:
+      cta: Upravit kampaň
+      labels:
+        company_name: Jméno firmy
+        member_id: member_id
+        slots_purchased: Zakoupené sloty
+      page_title: Upravit kampaň
+      subtitle: Září 2016
+      title: Upravit kampaň
+    campaign_new:
+      cta: Nová kampaň
+      subtitle: Září 2016
+      title: Nová kampaň
+    campaigns: Kampaně
+    clicks: Klepnutí
+    ctr: CTR
+    edit: upravit
+    impressions: Imprese
+    last_updated: Statistiky naposledy aktualizovány
+    name: Jméno
+    new_ad: "+ nová reklama"
+    new_campaign: "+ nová kampaň"
+    overview: Přehled
+    press_start: Stiskni "Spustit", když jsi připraven.
+    slots: Sloty
+    subtitle: Řídicí centrum Ivana Belly.
+    title: Reklamní sloty
+    updated_every: Aktualizováno každých 15 minut
+    view: zobraz
+    worst: Nejhorší
+  feed:
+    comment: Komentovat
+    comments_count:
+      one: 1 komentář
+      other: "%{number} komentářů"
+    love: Miluje se mi to
+    loved_hover: Lámač srdcí! :-(
+    loves_count:
+      one: 1 členovi se to miluje
+      other: "%{number} členům se to miluje"
+    modal:
+      close: zavřít
+      moře: více
+      reply: Odpovědět
+    title: Novinky
+  following:
+    follow: Sledovat
+    following: Sledování
+  footer:
+    about: O stránce
+    help: Nápověda
+  forgot_password:
+    email:
+      cta: Pošlet email s instrukcemi
+      error_forgot_email: Něco chybí… Tvoje emailová adresa! :-p
+      error_invalid_email: To nevypadá jako platná emailová adresa. Prosíme tě zkontroluj ji a zkus znovu.
+      error_quota: Smějí být dva písemné dva e-maily na 100% e-mailovou adresu. Please double check that našim e-mailem podívejte se do svého spamu filtru. Pokud jste nemuseli přijít do vašeho spamového filtru I recommend pomocí jednoho z dalších výše uvedených metod k získání zpět do svého účtu.
+      placeholder: Emailová adresa
+      step1:
+        page_title: Resetuj heslo přes email
+        subtitle: Ať tě pomoc doprovází.
+        title: Zapomenuté heslo?
+      step2:
+        page_title: '"MOŽNO" máš email'
+        subtitle: Pokud existuje profil asociovaný s emailem %{given_email} tak jsme ti poslali instrukce na zresetování tvého hesla.
+        title: '"MOŽNO" máš email'
+      update_email: aktualizovat emailovou adresu
+      warning: " Varování ministra vnitra: Z bezpečnostních důvodů ti nemůžeme říci, že jestli emailová adresa existuje v naší databázi nebo ne. Pokud od nás nedostaneš email, tak je to pravděpodobně kvůli tomu, že u nás ještě nemáš účet."
+    mobile:
+      5strike:
+        return: zpět na hlavní stránku
+        subtitle: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+        title: Pravidlo pěti pokusů
+      cta: Pošli mi SMS
+      error_country_code: " Kinky Operátor: Prosíme tě zkontroluj, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+      error_quota: " Kinky Operátor: Nemůžeme ti poslat více než 3 SMS na jedno číslo v rámci 24 hodin. Ať už číslo existuje v naší databázi nebo ne."
+      pro_tip: " Pro Tip: Ujisti se, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd.. Spojené království, +61 pro Austrálii, +31 pro Nizozemsko, +49 pro německo, +33 pro Francie, etc."
+      step1:
+        page_title: Resetovat heslo přes SMS
+        subtitle: Nech nás pomoci ti s tím.
+        title: Zapomenuté heslo?
+      step2:
+        cta: Legitimuj se
+        error_code_match: " Kinky Operátor: Zadaný verfikační kód není správný. Zkontroluj, že zadaný kód se shoduje s tím, který jsme ti poslali v SMS a prosíme tě zkus znovu."
+        inexisting_number: Pokud během pár minut nedostaneš od nás SMS, tak pravděpodobně neexistuje profil asociovaný s tvým číslem. Doporučujeme ti si buď zresetovat heslo jinou metodou nebo si zaregistrovat nový profil na FetLife .
+        label: Verfikační kód
+        page_title: Zadej verfikační kód
+        placeholder: 6-místný verfikační kód
+        subtitle: Právě mě ti „asi“ poslali SMS.
+        title: Zadej verfikační kód
+      warning: " Varování ministra vnitra: Z bezpečnostních důvodů ti nemůžeme říci, že jestli dané mobilní číslo se nachází v naší databázi nebo ne. Pokud nedostaneš SMS, tak je to pravděpodobně kvůli tomu, že ještě nemáš u nás účet."
+    next_step: další krok
+    return_to_login: zpět k přihlášení
+    tab_email: Email
+    tab_mobile: Mobil
+  guidelines:
+    last_updated: 'Naposledy aktualizované:'
+    sub_header: Následuj své srdce, on vždy ví.
+    subnav:
+      community: Komunita
+      community_short: Komunita
+      content: Obsah
+      content_short: Obsah
+      group_leader: Lídr skupiny
+      group_leader_short: Lídr skupiny
+    title: Pravidla
+  invite_a_friend:
+    cancel_button: zrušit
+    cancel_notice: Pozvánka pro %{email} byla zrušena.
+    cta: Pozvi přítele na FetLife
+    error: Vyskytl se problém při posílání pozvánky. Doporučujeme ti zkontrolovat překlepy a zkusit znovu.
+    invitations_accepted: Přijaté pozvánky
+    invitations_sent: Odeslané pozvánky
+    labels:
+      friends_email: Přátel email
+    next_step: další krok
+    return_to_feed: zpět na feed
+    subtitle_step1:
+      one: Zbývá ti 1 pozvánka.
+      other: Zbývá ti %{number} pozvánek.
+    subtitle_step2: Poslali jsme za Tebe email na %{email}.
+    title_step1: Pozvat přítele
+    title_step2: Pozvánka odeslána
+    view_invitations: Zobrazit pozvánky
+  landing_page:
+    footer: " %{member_count} členů sdílí %{picture_count} fotek a %{video_count} videí , účastní se %{discussion_count} diskusí v %{group_count} skupinách , jdou na %{event_count} nadcházejících událostí a čtou %{post_count} příspěvků . Nebe pro kinkstery! "
+    login_button: Přihlásit se na FetLife
+    signup_button: Registrovat se na FetLife
+    subtitle: Jako Facebook, ale plný kinksterů, jak jsi ty a my. Myslíme si, že je to víc zábavy touto cestou. Co myslíš?
+    title: FetLife je sociální síť pro BDSM, Fetish & Kinky komunitu.
+  legalese:
+    subnav:
+      2257_exempt: 2257 Exempt
+      2257_exempt_short: '2257'
+      privacy: Ochrana soukromí
+      privacy_short: Soukromí
+      terms: Podmínky používání
+      terms_short: Podmínky
+    subtitle: Hrajeme si na právníky na interwebu od '69.
+    title: Legislativa
+  login:
+    button: Přihlásit se na FetLife
+    error_flash: Prosím kontaktuj support@fetlife.com , abychom ti co nejdříve pomohli se dostat zpět.
+    error_login_blank: Přezdívka nebo email nemohou být prázdné
+    error_not_authenticated: Omlouváme se, pouze přihlášení uživatelé mají přístup na tuto stránku. Pokud ještě nejsi členem, tak registrace trvá méně než minutu.
+    error_not_found: Hmmm, neumíme tě najít. Zkontroluj zadanou přezdívku a heslo. (Heslo je CiTLiVé-Na-VeLkOST-PísMen)
+    error_password_blank: Heslo nemůže být prázdné
+    forgot_info: Zapomněl jsi své přihlašovací údaje?
+    labels:
+      nickname: Přezdívka nebo email
+      password: Heslo
+      remember_me: Pamatuj si mě, budu zpátky.
+    not_a_member: Ještě nejsi členem? Registruj se na FetLife
+    subtitle: Co bychom bez Tebe dělali?
+    title: Vítej doma
+  logout:
+    log_in: znovu se přihlásit
+    subtitle: Nezapomeň se brzy vrátit.
+    title: Budeš nám chybět!
+  member_stats:
+    pics:
+      one: obrázek
+      other: obrázků
+    posts:
+      one: příspěvek
+      other: příspěvků
+    vids:
+      one: video
+      other: videa
+  nav:
+    events: Události
+    explore: Objevuj
+    fetishes: Fetiše
+    groups: Skupiny
+    home: Domů
+    places: Místa
+    search_placeholder: Hledat...
+  page_break:
+    of: z
+  profilu:
+    about_title: Seznam přátel
+    pictures_title: Obrázky
+    videos_title: Videa
+  promote_following:
+    button: Aktivovat sledování na mém profilu
+    ps: PS Sledování můžeš kdykoliv vypnout
+    skip: Teď ne
+    subtitle: Odliš své přátele od svých sledovatelů.
+    title: Představujeme sledování
+  recommendations:
+    title: Doporučení
+  reset_password:
+    cta: Resetovat heslo
+    error_confirmation_match: Zadaná hesla se neshodují
+    error_password_range: Heslo je příliš krátké (minimum jsou 4 znaky)
+    error_token_expired: Platnost tokenu pro zresetování hesla vypršela, prosíme tě zkus znovu.
+    error_token_invalid: Token pro resetování hesla není platný
+    footnote: " Pro Tip: Zapamatuj si své heslo."
+    label_enter: Nové heslo
+    label_re_enter: Znovu zadej nové heslo
+    status_flash_success: Tvé heslo bylo úspěšně změněno.
+    subtitle: Ne příliš krátké, ne příliš dlouhé, takové…
+    title: Změnit heslo
+  select_language:
+    button: Změnit jazyk
+    help_translate: Navštiv náš projekt s překlady na GitHube a pomoz udělat FetLife dostupný pro více tvých přátel a celou kinky komunitu.
+    language_name: Česky
+    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa!
+    title: Vybrat jazyk
+  settings_account:
+    2fa_cta: Zapnout dvoufaktorovou autentifikaci
+    2fa_label: Dvoufaktorová autentifikace
+    anti_pro_tip: Anti-Pro Tip: Můžeš deaktivovat nebo delete váš účet, pokud budete chtít, aby se třikrát v čtyřech Popes highly discourage it.
+    current_password_label: Aktuální heslo
+    email_cta: Změnit emailovou adresu
+    email_label: Email
+    email_placeholder: Emailová adresa
+    language_cta: Změnit výchozí jazyk
+    language_notice: FetLife není plně dostupný v jiných jazycích než angličtina. Pokud změníš toto nastavení, ne všechny sekce budou přeloženy.
+    new_password_label: Nové heslo
+    nickname_cta: Změnit přezdívku
+    nickname_label: 'Změň svou přezdívku z "JohnBaku" na:'
+    nickname_notice: " Pro Tip: Dvakrát měř a jednou sekej. Přezdívku si můžeš změnit jen jednou každých 28 dní. Není cesty zpět."
+    nickname_placeholder: Nová přezdívka
+    page_title: Změn heslo - Nastavení
+    password_cta: Aktualizuj heslo
+    repeat_password_label: Znovu zadej heslo
+    subtitle: Nemačkej velké červené tlačítko.
+    title: Nastavení účtu
+  settings_notifications:
+    cta: Aktualizovat výchozí jazyk
+    language_label: Jazyk
+    notice: FetLife není plně dostupný v jiných jazycích než angličtina. Pokud změníš toto nastavení, ne všechny sekce budou přeloženy.
+    page_title: Jazyk - Nastavení
+    subtitle: Jaký jazyk preferuješ?
+    title: Jazyk
+  settings_privacy:
+    blocked_list_subtitle: Pro ty zlobivé.
+    blocked_list_title: Seznam zablokovaných
+    cb_feed: Povol členům, se kterými nejsem přítel, aby mě sledovali.
+    cb_fp: Povol mé ne-soukromé příspěvky na Fresh&Pervy.
+    cb_kp: Povol mé ne-soukromé příspěvky na Kinky&Popular.
+    content_privacy: Content Privacy
+    cta: Save Privacy Settings
+    following: Following
+    page_title: Privacy Settings
+    subtitle: Served the way you like it.
+    title: Soukromí
+    warning: " Extremely Important : Turning off following will unfollow everyone who is currently following you. No take backs. Seriously."
+  settings_profile:
+    about_you_label: O tobě
+    add_website: "+ přidat webstránku"
+    cta: Aktualizovat profil
+    dob_label: Datum narození
+    location_label: Lokalita
+    looking_for_label: Hledám
+    page_title: Aktualizovat profil
+    subtitle: Osobní růst je skvělý.
+    title: Tvůj profil
+    websites_label: Webstránky
+    websites_placeholder: https://fetlife.com
+  settings_support:
+    cta: Aktualizovat emailovou adresu
+    email_label: Aktualizovat emailovou adresu
+    email_placeholder: Tvůj email
+    page_title: Aktualizovat emailovou adresu - Nastavení
+    subtitle: Pro případ, že zapomeneš své heslo.
+    title: Aktualizovat emailovou adresu
+  sidebar:
+    about_fetlife: O Fetlife
+    ad_stats: Reklamní Statistiky
+    advertising: Reklamní služby
+    bug_bounty: Odměna za nahlášené chyby
+    caretaking: Správci
+    close: zavřít
+    edit_profile: Upravit profil
+    edit_settings: Upravit nastavení
+    events: Události
+    fetishes: Fetiše
+    following: Sledováno
+    fp: Fresh & Pervy
+    funny_quote: Pokud neumíš přečíst toto... tak potřebuješ brýle! - Jan 4:69
+    gift_support: Daruj FetLife předplatné
+    groups: Skupiny
+    guidelines: Pravidla
+    home: Domů
+    invite_a_friend: Pozvat přítele (%{count})
+    kp: Kinky & Popular
+    legalese: Legislativa
+    log_out: Odhlásit
+    loved_stuff: Stuff You Love
+    need_help: Potřebuješ pomoc?
+    open_source: Open Source
+    places: Místa
+    recommendations: Doporučení
+    support: Podpor FetLife
+    upload_picture: Nahraj obrázek
+    upload_video: Nahraj video
+    view_friends: Zobraz přátele
+    whats_new: Co nového?
+    write_post: Napsat příspěvek
+  signup:
+    almost_there: Už jsi skoro tam!
+    error_bar: Dallasi, máme problém. Viz níže pro více informací
+    error_birthdate: Datum narození je povinen
+    error_birthdate_too_old: Tvůj věk je příliš vysoký
+    error_birthdate_too_young: Tvůj věk není dostatečný (musíš mít alespoň 18 let)
+    error_city_missing: Město je povinné
+    error_country_missing: Země je povinná
+    error_email: Máme problémy se zpracováním zadané emailové adresy. Doporučujeme ti zkontrolovat překlepy nebo zkusit jinou.
+    error_gender_required: Pohlaví je povinné
+    error_nickname: Přezdívka je již obsazena
+    error_nickname_required: Přezdívka je povinná
+    error_password_range: Heslo musí mít 4 až 50 znaků
+    error_password_required: Heslo je povinné
+    error_role_required: Role musí být vybrána
+    error_sexual_orientation_required: Sexuální orientace musí být vybrána
+    error_state_missing: Kraj musí být vybrán
+    footnote: Klepnutím na tlačítko výše souhlasíš, že budeš respektovat a sledovat naše komunitní pravidla a podmínky používání .
+    label:
+      birthdate: Datum narození
+      city: Město
+      country: Země
+      email: Emailová adresa
+      gender: Pohlaví
+      location: Lokalita
+      nickname: Přezdívka
+      password: Heslo
+      role: Role
+      sexual_orientation: Sexuální orientace
+      state: Kraj
+    page_title: Přidej se k nám
+    subtitle: Řekni nám něco málo o sobě.
+    subtitle_invite: "Uživatel %{name} tě pozval na FetLife."
+    title: Vítej doma
+  signup_avatar:
+    pro_tip: ' Pro Tip : Pokud se stydíš a preferuješ neukázat svou tvář, tak nám neváhej ukázat něco jiného! ;) Nebo můžeš přeskočit tento krok pro teď.'
+    say_cheese: Řekni "syyyyyr"!
+    subtitle: Lidé s profilovou fotkou mají 69x více zábavy!
+    title: Nahrát profilovou fotku
+  signup_five_strikes:
+    page_title: Pravidlo pěti pokusů
+    return_to_front: zpět na hlavní stránku
+    subtitle_error: Smůla, z bezpečnostních důvodů budeš muset počkat dvě hodiny před dalším pokusem.
+    title: Pravidlo pěti pokusů
+  signup_follow:
+    follow: Sledovat
+    next_step: Další krok
+    subtitle: Sleduj kinkstery, kteří zaujmou tvé oko.
+    title: Zaujal tě někdo?
+  signup_phone:
+    cta: Pošli mi verifikační kód
+    error_cant_send: " Kinky Operátor: Máme problémy s odesíláním SMS na zadané číslo. Prosíme tě zkontroluj, že číslo začíná kódem země: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+    error_quota: " Kinky Operátor: Nemůžeme ti poslat více než 3 SMS na jedno číslo v rámci 24 hodin. Prosíme zkus znovu později."
+    explanation: Víme, že žádat o tvé číslo je příliš mnoho, ale pro to, abychom udrželi zdravou a energickou komunitu, potřebujeme verifikovat každého předtím, než se k nám přidají. Jsme si jisti, že to později oceníš.
+    label: Mobilní telefonní číslo
+    page_title: Pošli mi verifikační kód
+    pro_tip: " Pro Tip: Nezapomeň na kód země v mobilním čísle: +421 pro Slovenko, +420 pro Českou Republiku, atd."
+    subtitle: Jednorázová anonymní zpráva.
+    title: Čas na verifikaci!
+  signup_verify:
+    cta: Dokonči registraci a verifikaci
+    incorrect_code: " Kinky Operátor: Oh… zadaný verifikační kód není správný. Prosím zkontroluj kód a zkus znovu."
+    label: Verfikační kód
+    notice: Poslali jsme ti verifikační kód na %{phone_number} . Pokud do pár minut od nás neobdržíš SMS, aktualizuj své číslo a my ti pošleme nový verfikační kód .
+    notice_error: " PS Těší nás!"
+    page_title: Zadej verfikační kód
+    placeholder: 6-místný verfikační kód
+    subtitle: Nebylo to tak bolestivé, že ne?!?!
+    subtitle_error: That wasn't se painful was it?!?! 
+Maybe we spoke too soon! :-/
+    subtitle_error: Nebylo to tak bolestivé, že ne?!?! 
+Možná jsme to zařekli! :-/
+    title: Poslední krok
+  subnav:
+    feed:
+      activity_feed: Novinky
+      activity_feed_short: Novinky
+      fp: Fresh & Pervy
+      fp_short: Fresh
+      kp: Kinky & Popular
+      kp_short: Popular
+    profilu:
+      about: O mně
+      about_short: O mně
+      latest: Poslední aktivita
+      latest_short: Aktivita
+      pictures: Fotky
+      pictures_short: Fotky
+      videos: Videa
+      videos_short: Videa
+      writings: Články
+      writings_short: Články
+    settings:
+      account: Účet
+      account_short: Účet
+      notifications: Upozornění
+      notifications_short: Upozornění
+      privacy: Soukromí
+      privacy_short: Soukromí
+      profile: Profil
+      profile_short: Profil
+      support: Předplatné
+      support_short: Předplatné
